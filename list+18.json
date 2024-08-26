@@ -1,499 +1,5 @@
 [
   {
-    "name": "⭐PELICULAS 2024",
-    "mode": false,
-    "lista": [
-      {
-        "name": "LA MONJA MALA 3",
-        "ico": "https://image.tmdb.org/t/p/w780/g95fhs7w9LjLefMCLsMDFMoZ44x.jpg",
-        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNqObKf+ycW8QkulQhkD9fVCIeZN4G9dxjEKWhMWcF7C7",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "EL JUEGO DE LA MUERTE",
-        "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/jKNCPbhAQtpZ6K9NiqBJbl2193I.jpg",
-        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNlrA11GL5DvIYtX9lw4m9uljxLomLBoNrN/Sj7PlRqcp",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "NIEBLA SIN FRONTERAS",
-        "ico": "https://image.tmdb.org/t/p/w780/4MgRn1YPf3EkjfxbkWCMgeXY21I.jpg",
-        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNn4W8X/BJGtbFEzik16fEfy5j/GCPw8aXQk4gEPZmztM",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "PRESA",
-        "ico": "https://image.tmdb.org/t/p/w780/uMILqn3ArGkfDSteAlqsL2WiINT.jpg",
-        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNsR2BJPF2N9UMemtCesf98oUT8uZ6S5EHg1WT3tDnvj3",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "UN ASUNTO FAMILIAR",
-        "ico": "https://image.tmdb.org/t/p/w780/yCwx4wq3LjrBYewMdW6krgiEfhM.jpg",
-        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNqq76c4uQr0eXHvEyPhR8RX8CITjaAroZETV8nahk/00",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "SOUTH PARK: EL FIN DE LA OBESIDAD",
-        "ico": "https://image.tmdb.org/t/p/w780/iNHa3E72FFVmOz7jmjXnNU27ys1.jpg",
-        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNnlAFEfs3ucd6efy26GIt0mUnAlbZkEHLoUhnJdATCGR",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "RESCATE IMPOSIBLE",
-        "ico": "https://image.tmdb.org/t/p/w780/syKwepJwzvoYhPLBfUy4YYSrstr.jpg",
-        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNvujBI3w2p5hYDP8j47zyWCSwfuTEuP6Q2G7cQbd0+fw",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "DETONANTES",
-        "ico": "https://image.tmdb.org/t/p/w780/mOXgCNK2PKf7xlpsZzybMscFsqm.jpg",
-        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNgsQZj0KkQvIsxK85HCR6OUUdVwRSm+A2bKyuHup+mtE",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "SIÉNTETE SEXY",
-        "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/clmbKu5REHyhyBvGVrpSTMaKpBt.jpg",
-        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNt7UHvyyvGgXt8AoqdUwRv7oLf/wHW57EMcbJ3+NpzW6",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "DEADPOOL & WOLVERINE",
-        "ico": "https://image.tmdb.org/t/p/w780/9TFSqghEHrlBMRR63yTx80Orxva.jpg",
-        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNuvSjyxMTnhXPUCruDADlIXW11U9eyk84SXcU/Vijn7o",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "UN CRIMEN ARGENTINO",
-        "ico": "https://image.tmdb.org/t/p/w780/1iGVhDwTaLMPYVK2DeOLa1uAKjN.jpg",
-        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNu50wlCYntktxRemdnsmvDpVy1rrrlsMglesy/TkvV/F",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "EN EL TORNADO",
-        "ico": "https://image.tmdb.org/t/p/w780/fKQqv4z82KGKVVTaB1vKfBdxoef.jpg",
-        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNrVNYRaDV5hbRAmKjsSyWPWa8sD2xges/6sUHLRmj90N",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "EN LAS PROFUNDIDADES DEL SENA",
-        "ico": "https://image.tmdb.org/t/p/w780/9LjeEVkW6dZB11TbmjU3B88CE2w.jpg",
-        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNnTC1NTVcX4S/xu9lXk9skFB2Gq0qhAyLvTgJGJiovNy",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "UN LADRÓN ROMANTICO",
-        "ico": "https://image.tmdb.org/t/p/original/kWmQOYhyGPhuya3GnMzdyQ43Q4n.jpg",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e8y7SJ/bm9EKczv9QegySdbm2q7ZbJJaHYuqF1v0eslCvOUP+0DZonix675EqI0XTAA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "EL DURO",
-        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wmnVOIaTsGcRpZ9rLv2msbtqi3C.jpg",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e8y7SJ/bm9EKczv9QegySdbm2q7ZbJJaHYuqF1v0eslCvTRiSLk8lr9v1qEcgqnQnXg==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "AL BORDE DEL ABISMO",
-        "ico": "https://es.web.img3.acsta.net/c_310_420/img/81/72/81722be4bad9f2d0c0ae71a2e99bb5d1.jpg",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e8y7SJ/bm9EKczv9QegySdbm2q7ZbJJaHYuqF1v0eslCvMVqBvnv2uMFzkSHlFBT+NQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CORAZÓN DE CAZADOR",
-        "ico": "https://s3-eu-west-1.amazonaws.com/abandomedia/indie/foto/db_71060_60.jpg",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e8y7SJ/bm9EKczv9QegySdbm2q7ZbJJaHYuqF1v0eslCv1APYe975TfhUnLtRtkqnAA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "GARFIELD: FUERA DE CASA",
-        "ico": "https://static.wikia.nocookie.net/doblaje/images/e/e2/Garfield_2024_Poster_Final.jpg/revision/latest/scale-to-width-down/1000?cb=20240412162513&path-prefix=es",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e8y7SJ/bm9EKczv9QegySdbm2q7ZbJJaHYuqF1v0eslCvTJ1pSTxp4HACMZohC8Wj/w==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "GARFIELD: FUERA DE CASA",
-        "ico": "https://static.wikia.nocookie.net/doblaje/images/e/e2/Garfield_2024_Poster_Final.jpg/revision/latest/scale-to-width-down/1000?cb=20240412162513&path-prefix=es",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e8y7SJ/bm9EKczv9QegySdbm2q7ZbJJaHYuqF1v0eslCvTJ1pSTxp4HACMZohC8Wj/w==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "EL PLANETA DE LOS SIMIOS: NUEVO REINO",
-        "ico": "https://pics.filmaffinity.com/kingdom_of_the_planet_of_the_apes-598062850-large.jpg",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e8y7SJ/bm9EKczv9QegySdbm2q7ZbJJaHYuqF1v0eslCvDUMOYrHURBQdcz3FJOPK6w==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "POLITICAMENTE INCORRECTOS",
-        "ico": "https://pics.filmaffinity.com/politicamente_incorrectos-735040651-large.jpg",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e8y7SJ/bm9EKczv9QegySdbm2q7ZbJJaHYuqF1v0eslCv6D1St5IN1Dj4EtKK6e/ESA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "EL PLANETA DE LOS SIMIOS: NUEVO REINO",
-        "ico": "https://image.tmdb.org/t/p/w780/kkFn3KM47Qq4Wjhd8GuFfe3LX27.jpg",
-        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNmJNwtrsyXI8pshg5PGiZ7pUoL0ijj66efuqKV/1ajuD",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "NAHIR",
-        "ico": "https://pics.filmaffinity.com/nahir-599296802-large.jpg",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e8y7SJ/bm9EKczv9QegySdbm2q7ZbJJaHYuqF1v0eslCvexjvQEferfC4q+LLeAM8Pw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "AGUAS SINIESTRAS",
-        "ico": "https://pics.filmaffinity.com/night_swim-797110257-large.jpg",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e8y7SJ/bm9EKczv9QegySdbm2q7ZbJJaHYuqF1v0eslCv7S+47c8NSkmn33RD2ZAurA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "PERRO Y GATA",
-        "ico": "https://pics.filmaffinity.com/chien_et_chat-896560725-large.jpg",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e8y7SJ/bm9EKczv9QegySdbm2q7ZbJJaHYuqF1v0eslCvTGu5xYjq2UGN/qpIChdGaQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "GODZILLA Y KONG: EL NUEVO IMPERIO",
-        "ico": "https://pics.filmaffinity.com/godzilla_x_kong_the_new_empire-478803486-large.jpg",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e8y7SJ/bm9EKczv9QegySdbm2q7ZbJJaHYuqF1v0eslCv+bXZzOlEVJSDH9UoC6DP8Q==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LA PRIMERA PROFECÍA",
-        "ico": "https://pics.filmaffinity.com/the_first_omen-372679118-large.jpg",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e8y7SJ/bm9EKczv9QegySdbm2q7ZbJJaHYuqF1v0eslCvFYXXd4OMPfX4pa+WZb4QXA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LA JÓVEN Y EL MAR",
-        "ico": "https://pics.filmaffinity.com/young_woman_and_the_sea-224904581-large.jpg",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e8y7SJ/bm9EKczv9QegySdbm2q7ZbJJaHYuqF1v0eslCvq/X/J6oin/ek1mJPAz78Gw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LA POSESIÓN DE MERCY BLACK",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJCTV6wl896rF1sJ6yTho87dtVY.jpg",
-        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQ51Pil2s41ZclJhO0rpGICFaMhzj2Y7kJilJHt7RcSHg=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "ATRAPA LA BANDERA",
-        "ico": "https://panel.budtv-ultra.com/posters/vzzTy3ctiptqaV3S9tIewjKJ1nf.jpg",
-        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQfoYSqvt5+2w8agP2R19E4bLav26m4Lx6v8EZE7KNb6o=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "DIEGO, EL ÚLTIMO ADIÓS",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7OoFWIv9RzPhcKspB10wnW2gKgM.jpg",
-        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQyZQ+e9NkAEmixuY2/gb4y5nhyFbmJV7+Ad+yzniac2c=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "PELÉ",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVKAep8V6rrFh0IhABC0bkzjwK5.jpg",
-        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQGXmwq5R8PKwTIUjm3/ttgK7sLyq006F7IWjlnE8+Hm0=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "ROBERTO BAGGIO: EL DIVINO",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xFSTxpMlg3KXX7Vxz91AKz1TiG9.jpg",
-        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQGERRHEv9atJcXV+C9R5WxEWcFlS/frZWKiSohy9Jpww=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      }
-    ]
-  },
-  {
-    "name": "⭐PELICULAS II",
-    "mode": false,
-    "lista": [
-      {
-        "name": "LIFT: UN ROBO DE PRIMERA CLASE",
-        "ico": "https://pics.filmaffinity.com/lift-500114909-mmed.jpg",
-        "uri": "sgjDJRyt9fFn+DLmIpbyaEYwDWkjEioSMRFHYgB5hah/aV9MgvQX69vRbOrdpa2/qaB01V0F9nb0yK9ORUYS8g==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "EN LAS PROFUNDIDADES DEL SENA",
-        "ico": "https://pics.filmaffinity.com/sous_la_seine-902824671-large.jpg",
-        "uri": "sgjDJRyt9fFn+DLmIpbyaEYwDWkjEioSMRFHYgB5hah/aV9MgvQX69vRbOrdpa2/eB6pAaQdpmbfHBbwjaEQQg==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "EL PASAJERO",
-        "ico": "https://image.tmdb.org/t/p/original/pkQLQpdbomYrxQtQS3lop8WJAxk.jpg",
-        "uri": "sgjDJRyt9fFn+DLmIpbyaEYwDWkjEioSMRFHYgB5hah/aV9MgvQX69vRbOrdpa2/S3m5WDvkMxLzETub4hyRgQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "EL SALARIO DEL MIEDO",
-        "ico": "https://pics.filmaffinity.com/le_salaire_de_la_peur-499312511-large.jpg",
-        "uri": "sgjDJRyt9fFn+DLmIpbyaEYwDWkjEioSMRFHYgB5hah/aV9MgvQX69vRbOrdpa2/r5BPAFZrxb+gGeexH+ygTA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "EL APRENDIZ DEL TIGRE",
-        "ico": "https://pics.filmaffinity.com/the_tiger_s_apprentice-331884264-large.jpg",
-        "uri": "sgjDJRyt9fFn+DLmIpbyaEYwDWkjEioSMRFHYgB5hah/aV9MgvQX69vRbOrdpa2/9l+pyTypyjpLFf6MNb50Fw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LA LEYENDA DE TARZÁN ",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nTrMxo14o246uGPHWEedczoG4oN.jpg",
-        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQUb7Bpq2uXfKJpieB7eK2r+1l/shoJ6+yMLj1eHSrZiI=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LAS AVENTURAS DE PEABODY Y SHERMAN",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r26UfZeF067hvxYlT76v0i9P0qt.jpg",
-        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQxdbb3cUuwT6i8ZZhsKdD6nVPxoWFXSCRaZFdMsUdikg=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "365 DÍAS",
-        "ico": "https://image.tmdb.org/t/p/w780/k3J2GdYxhR6U2RfsHZOsmHVKW7m.jpg",
-        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQ+Wrp70TVgzjQ85MqNe2hdH5rlzVVVLVDfd3kTvMxW1w=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LA MUJER EN LA VENTANA",
-        "ico": "https://image.tmdb.org/t/p/w780/htNLpDWkaCYtkjjiFlfV2VBICUx.jpg",
-        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQVzJkGpHPZqNOT6vsEKfnLKAPt+k15rXJ7U4W5EatSdY=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LETRAS EXPLÍCITAS",
-        "ico": "https://image.tmdb.org/t/p/w780/bjVN5D5AXjGVTJAJX469aOzGgnc.jpg",
-        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQ4TzKzHpyiF6WGSW48Rixjmr3zkCxqeTGSENbPtRi9mA=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "NOSOTROS",
-        "ico": "https://es.web.img2.acsta.net/c_310_420/pictures/19/02/12/17/09/1724041.jpg",
-        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQ9p0gChBuFB8O59BQ9egPT+MY9auMTT6EwgtkjYcOcrw=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "REGRESO AL TITANIC",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2t20mlU5nuM664cgBX2lLKg8GGo.jpg",
-        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQSlmb041BKBgFzOUrIKhBZsumqE1rC9kflt7u7cVbYKY=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "MI NOVIO ES UN ZOMBIE",
-        "ico": "https://www.themoviedb.org/t/p/original/6QO91SSXaFFUBWb6xzgTmMBXb57.jpg",
-        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQfoYSqvt5+2w8agP2R19E4bLav26m4Lx6v8EZE7KNb6o=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LA CENICIENTA",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vqzeSm5Agvio7DahhKXaySUbUUW.jpg",
-        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQKWYVgU/fbv6/BNjPGHQaPcisw6vKDM9EXjyK1YDCN3U=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "BEEKEEPER: SENTENCIA DE MUERTE",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHZQYKJV1rV01S3kNZ3hEYz8VNM.jpg",
-        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQhVSsVzg/xSEGu/TY5M99O+6DIkdRphekiVIOimRwpgs=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LA CALLE DEL TERROR",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2JG46f4JtCJTUf2z9UbiL9qusOP.jpg",
-        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQdD5v0bTgYr/vv8ABDQQ8UIN1X2VowpnSJlUCYxQusfw=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "ESTACIÓN ZOMBIE",
-        "ico": "https://www.themoviedb.org/t/p/original/gQDPQxUNep5TPgFPRRORAWFQueQ.jpg",
-        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQPsy+IcmntBrT6qj1lukYeFxmDa2030oO9+LT4wkG2M4=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CADAVER",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vR6Zaevn3imnkXsbdgBiAdIHNgK.jpg",
-        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQ51Pil2s41ZclJhO0rpGICFaMhzj2Y7kJilJHt7RcSHg=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "TE VEO",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gs91aIwM7dB152Wbg84LVrpFM2T.jpg",
-        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQoIqBIBTba0jUSqqfSKjCLLc3qqoW5e1XCxA2fz+0Q1Y=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "FUIMOS HEROES",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lo284scuFbx1Zz4Tv5yJ3ctNSIJ.jpg",
-        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQEqOERS5LBjfIxW+LUpYwAhPCzvMzL9ODvOJoQvGIg7U=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      }
-    ]
-  },
-  {
-    "name": "⭐PELICULAS INFANTILES",
-    "mode": false,
-    "lista": [
-      {
-        "name": "INTENSAMENTE 2",
-        "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/2PuAY3xSvbchQWqpSiXw08Yt0NP.jpg",
-        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNm2VmOBmYknoY3kBi+jV+xX9COLfSoMzAxtt0Pmuf4nu",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "AMIGOS IMAGINARIOS",
-        "ico": "https://image.tmdb.org/t/p/w780/8RgGuC7w8JxhykauzTC4bwha1J8.jpg",
-        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNrbi1YN+7w4IWBxlOtaA4tbxgDlWu1d7nm9C9VBA3cn6",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "DESCENDIENTES: EL ASCENSO DE RED",
-        "ico": "https://image.tmdb.org/t/p/w780/xHqSU6Rw58hV84wQ5SR3lUmuqVL.jpg",
-        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNrSt5MD33SlYH43v8xe3KaGU9n6k2JLbSUzCbFGJWYHq",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "ESPÍAS A ESCONDIDAS",
-        "ico": "https://www.themoviedb.org/t/p/original/wg4CRxx04UbIOip2j7bMzIP5i20.jpg",
-        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQ+spRqZDVyCw9/3qrOEcfJx9tUHx5gFqum6xD+36l0KA=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "ENREDADOS",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bFUreK1CxkUwk4y6W2Qoo88l0UF.jpg",
-        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQY0k2S/runh5xQU30hO+ffFc1O2MWVmrms5ataEwaqWw=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "MONSTERS UNIVERSITY",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4rLfeHGIyDEQsqR22iajGSLFNME.jpg",
-        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQ3b6ChWri4evHeUvJSxOpOXTOYJhTnssx6tMm6sQ/lac=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CLIFFORD: EL GRAN PERRO ROJO",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kW5JBtCGnIwBS1SD4sMXu8gee4U.jpg",
-        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQH9QYadRliIgZz8JhP8S3HlKZqCXwDUnw8NosGS0MwXk=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LOS PINGÜINOS DE MADAGASCAR",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lEnUxCpQUyntm2eLBzCTv3bfplV.jpg",
-        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQqrxg760khY5q+h568zh6NNzH8oy13kIKsx4/+hkL3Vw=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "FROZEN: UNA AVENTURA CONGELADA",
-        "ico": "https://www.themoviedb.org/t/p/original/KDiA5mJ5eAY2hNoZV5wNVsVv6D.jpg",
-        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQw7Y7Qhk65o8kMXkIcK0lWkPMx+TvJ0oMXcryKKGjVlI=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "MALÉFICA",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2d4lnLtysk2jrLdJaAtUL6CuXYE.jpg",
-        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQl4zEm1yq5o5q7DmqqUl1odIU1EYHDvtVBEQq4wyUEKU=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "ESCUELA DE SUPER HÉROES",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGCNSsQp0oHLAv9XmG6YU38Vlnf.jpg",
-        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQLh5BC4v6NB2hFJqHCO8ulPH409a9bnybgJ9QlqZk70I=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LA ABEJA MAYA Y EL HUEVO DORADO",
-        "ico": "https://www.themoviedb.org/t/p/original/esEwPnmj205lA71uEJJtX5yZVuZ.jpg",
-        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQ5HoTKNbOTaNVmc0ulbgS8ovbJMLdxqSR1NyThdI9KUw=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "UN JEFE EN PAÑALES",
-        "ico": "https://www.themoviedb.org/t/p/original/tw995xwTWN28cB0wGVgORQ5NYc8.jpg",
-        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQ3+Jq8oBTUi5nHXjmW1W8zljlE4oT7dbaRwjjZXhWPuU=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "BUSCANDO A NEMO",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPhak722pNGxQIXSEfeWIUqBrO5.jpg",
-        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQRuUILdn3OGic/Q+osyeWl/VBxk9v5Y5vOTVOZd5zjJ4=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "UN GRAN DINOSAURIO",
-        "ico": "https://www.themoviedb.org/t/p/original/AdBRNzPeeQHujTug9y4vSbibWF8.jpg",
-        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQU9xnyW5NX9nOsaMbdtyYjNzWHWktsii65eKYgUPqHZ4=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      }
-    ]
-  },
-  {
     "name": "⭐STREAX MOVIES",
     "mode": false,
     "lista": [
@@ -636,13 +142,13 @@
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EZzdfteYzyOf1MbPBiNI9CjcdPsy7WXE21O9PsN0Hw+Ji6QoNpeGwa9Ky4GPRVRG9SuFMNSTTDH+Twbc0ivo9MeUVxXeDlHZdOTwknQ4dPjGIsdzwGyiZ3d7u0MmMP6lNw=="
       },
-  {
-    "name": "TODO NOTICIAS",
-    "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tn-todo-noticias-ar.png",
-    "uri": "+u8JOr6SyIr5qvEA/JHNyzZxbMc/FkKR7xs0adneKvcQAFHnU1D7Cu+6hPeBYT01AMav5HONLM5tT83peMx4FFV4bvABJdKSPVTzO88R4gY=",
-    "drm_scheme": "ClearKey",
-    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EcjYgsPSVYvXfUQy6Mc4l/R24OChTVzbEndCWfeTz3CopxEA9clOZB/oHN+/I0cpgIWSrClO8ZFb8ZO2Lt3IgQFFgGhrik5MZVrEpVBI8QpNI7qAY41pRZTj6O6ndm+AHw=="
-  },
+      {
+        "name": "TODO NOTICIAS",
+        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tn-todo-noticias-ar.png",
+        "uri": "+u8JOr6SyIr5qvEA/JHNyzZxbMc/FkKR7xs0adneKvcQAFHnU1D7Cu+6hPeBYT01AMav5HONLM5tT83peMx4FFV4bvABJdKSPVTzO88R4gY=",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EcjYgsPSVYvXfUQy6Mc4l/R24OChTVzbEndCWfeTz3CopxEA9clOZB/oHN+/I0cpgIWSrClO8ZFb8ZO2Lt3IgQFFgGhrik5MZVrEpVBI8QpNI7qAY41pRZTj6O6ndm+AHw=="
+      },
       {
         "name": "INFORMACION PERIODISTICA",
         "ico": "https://i.ibb.co/Cmzv3TT/ip.webp",
@@ -1847,7 +1353,7 @@
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EXW8tJkgHz45yR6yd0ynPAuSTqo5PdijHStZE9uim8latCp+V0GiJ/EBkRxnrPhDTlVRkI77XPKqdeeqVDSNm2baQla0LuLS9BwQl/Jh4s88SCZUc9yLhFJu5z6rk4BJZA=="
       },
-        {
+      {
         "name": "TN NOTICIAS",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/223px-TN_todo_noticias_logo.svg.png",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0Foz3DX0hKNovBl5IDMFn0y1MltTMDyXaA6KNyTgBfP4ijupPxWf+rb+zQxRLbvIkvQ6T8RyYcn60jZ/WpWL08k",
@@ -3349,13 +2855,13 @@
     "name": "🇧🇷 BRASIL",
     "mode": false,
     "lista": [
-         {
-    "name": "BAND NEWS",
-    "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/band-news-br.png",
-    "uri": "2MSDcX7BiuFO4tBG4AD2jsyYrq/2EvLa80aA/h4RZQgzsTYN3wS4YhTH+nZhYdet+b/t9VPNl9IXU6zygYOGkw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
+      {
+        "name": "BAND NEWS",
+        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/band-news-br.png",
+        "uri": "2MSDcX7BiuFO4tBG4AD2jsyYrq/2EvLa80aA/h4RZQgzsTYN3wS4YhTH+nZhYdet+b/t9VPNl9IXU6zygYOGkw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
       {
         "name": "A GRANDE CONQUISTA",
         "ico": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/90/A_Grande_Conquista.png/260px-A_Grande_Conquista.png",
@@ -3488,28 +2994,27 @@
     "name": "⚽DEPORTES BRASIL🇧🇷",
     "mode": false,
     "lista": [
-
-{
-    "name": "BAND SPORTS",
-    "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/band-sports-br.png",
-    "uri": "sYN+FS+jM4DukijY0Y56uFPQIU90S64p6NQVXiEekk69NdZbxVwTjTRwdgeAkg01B23zPRW3gDHhDcl8zeH3YGUkzUHc6YWUgoJ0+jiisbI=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "ESPN BRASIL",
-    "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-ar.png",
-    "uri": "sYN+FS+jM4DukijY0Y56uFPQIU90S64p6NQVXiEekk69NdZbxVwTjTRwdgeAkg01B23zPRW3gDHhDcl8zeH3YKOBZvxvMBy3JZ6lk3EB9Ig=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "AMAZON PRIME",
-    "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/media/amazon-prime.png",
-    "uri": "sYN+FS+jM4DukijY0Y56uFPQIU90S64p6NQVXiEekk69NdZbxVwTjTRwdgeAkg01B23zPRW3gDHhDcl8zeH3YDt0tVaKLaUjRGDzss6T+c0=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
+      {
+        "name": "BAND SPORTS",
+        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/band-sports-br.png",
+        "uri": "sYN+FS+jM4DukijY0Y56uFPQIU90S64p6NQVXiEekk69NdZbxVwTjTRwdgeAkg01B23zPRW3gDHhDcl8zeH3YGUkzUHc6YWUgoJ0+jiisbI=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "ESPN BRASIL",
+        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-ar.png",
+        "uri": "sYN+FS+jM4DukijY0Y56uFPQIU90S64p6NQVXiEekk69NdZbxVwTjTRwdgeAkg01B23zPRW3gDHhDcl8zeH3YKOBZvxvMBy3JZ6lk3EB9Ig=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "AMAZON PRIME",
+        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/media/amazon-prime.png",
+        "uri": "sYN+FS+jM4DukijY0Y56uFPQIU90S64p6NQVXiEekk69NdZbxVwTjTRwdgeAkg01B23zPRW3gDHhDcl8zeH3YDt0tVaKLaUjRGDzss6T+c0=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
       {
         "name": "SPORT TV",
         "ico": "https://i.ibb.co/68mym0W/sport-tv.png",
@@ -3531,7 +3036,7 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
- {
+      {
         "name": "PREMIERE",
         "ico": "https://raw.githubusercontent.com/DryKillLogic/tv-logos/main/countries/brazil/premiere-br.png",
         "uri": "Qkc/rvUBYvW6xqp5pwFaITkxDf0bzhvA33DMqkVqGXi7CsIMu2NBH2qs/QvZ2WF3+T9C7CAXq7kwAzz9nLnHkk01lmwIec+cDcT81rx8EnSBOxOHbtuOEtwmNMwdMAWgN8R99t4qidq7Ta5dW5wZgYoY7lmJtZxs7DNxlGDjsLU=",
@@ -3608,7 +3113,7 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-            {
+      {
         "name": "CAZÉ TV",
         "ico": "https://i.ibb.co/MydjMS4/caze-tv-10-removebg-preview.png",
         "uri": "sYN+FS+jM4DukijY0Y56uFPQIU90S64p6NQVXiEekk69NdZbxVwTjTRwdgeAkg01B23zPRW3gDHhDcl8zeH3YPm6OowtvjCVk3aRANUWHbc=",
