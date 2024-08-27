@@ -48,9 +48,9 @@
     "drm_scheme": "",
     "drm_license_url": ""
   }
-]},
-
-  {
+]
+},
+{
     "name": "CAZADORES DE LEYENDA",
     "ico": "https://image.tmdb.org/t/p/w780/pfD26Lsst9auQkoHb7GxTzuvuo3.jpg",
     "temporada": [
@@ -110,4 +110,7 @@
     "drm_scheme": "",
     "drm_license_url": ""
   }
-]}]}
+   ]
+  }
+ ]
+}
