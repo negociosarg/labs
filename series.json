@@ -118,39 +118,72 @@
     "name": "MARVEL LUCHA LIBRE EDITION: EL ORIGEN DE LA MÁSCARA",
     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6xQZEHGSjatJd0zkTFRaoh4Swz.jpg",
     "temporada": [
- {
-    "name": "Cap. 1",
-    "ico": "https://image.tmdb.org/t/p/w780/h1cp6cwvRRpmSamtdCl0tn67eGJ.jpg",
-    "uri": "13IbYHHHI80ROXAk0x7y4SMnLzohpqyaKoNdettnXgyD3FanSFRfucX1pfvt8ZaVfNfgYKWN+WfhGIYjX9Qc+rEMkxSorNPyQtbNI+wYGDU=",
+{
+    "name": "Wanda Maximoff",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/apFUonh1wVE3LWxbAjJC2zJqZOC.jpg",
+    "uri": "Q+uqqCrEBSJscSFvwtXuxRmUzjHPuMKw2Q3kwt5zqX9J+gd5Qkgq6hLAE/lDD4lSVWO3CJr3Z7yDgQKaRX5zRA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "Cap. 2",
-    "ico": "https://image.tmdb.org/t/p/w780/h1cp6cwvRRpmSamtdCl0tn67eGJ.jpg",
-    "uri": "Q+uqqCrEBSJscSFvwtXuxRmUzjHPuMKw2Q3kwt5zqX9J+gd5Qkgq6hLAE/lDD4lSXsrqZeSFS4QYJlx8TK1gDIVIxjnxL7fy+P4Dec4Ety4=",
+    "name": "Visión",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/apFUonh1wVE3LWxbAjJC2zJqZOC.jpg",
+    "uri": "Q+uqqCrEBSJscSFvwtXuxRmUzjHPuMKw2Q3kwt5zqX9J+gd5Qkgq6hLAE/lDD4lS2JAV96aqUzdZ1BkGWcj3PA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "Cap. 3",
-    "ico": "https://image.tmdb.org/t/p/w780/h1cp6cwvRRpmSamtdCl0tn67eGJ.jpg",
-    "uri": "Q+uqqCrEBSJscSFvwtXuxRmUzjHPuMKw2Q3kwt5zqX9J+gd5Qkgq6hLAE/lDD4lSgSvyvAhwNA1KEN8U6ZBJ7fZ4dxfnHj1KpY2Wdh6Q/KY=",
+    "name": "Falcon",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/apFUonh1wVE3LWxbAjJC2zJqZOC.jpg",
+    "uri": "Q+uqqCrEBSJscSFvwtXuxRmUzjHPuMKw2Q3kwt5zqX9J+gd5Qkgq6hLAE/lDD4lS6SBqn795SEuHro1L1mNBeQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "Cap. 4",
-    "ico": "https://image.tmdb.org/t/p/w780/h1cp6cwvRRpmSamtdCl0tn67eGJ.jpg",
-    "uri": "Q+uqqCrEBSJscSFvwtXuxRmUzjHPuMKw2Q3kwt5zqX9J+gd5Qkgq6hLAE/lDD4lS+tGSEy2DMFYS5HpKTkibsl6FIMasWQmVUap2QIS7OF8=",
+    "name": "El Soldado de Invierno",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/apFUonh1wVE3LWxbAjJC2zJqZOC.jpg",
+    "uri": "Q+uqqCrEBSJscSFvwtXuxRmUzjHPuMKw2Q3kwt5zqX9J+gd5Qkgq6hLAE/lDD4lSA7Sfh6VTAKM+uMwHZbfkiw==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "Cap. 5",
-    "ico": "https://image.tmdb.org/t/p/w780/h1cp6cwvRRpmSamtdCl0tn67eGJ.jpg",
-    "uri": "Q+uqqCrEBSJscSFvwtXuxRmUzjHPuMKw2Q3kwt5zqX9J+gd5Qkgq6hLAE/lDD4lSgFr6tS5h1jhAphKRPr1VFZKkLuN1zD27pbV3mi+wUkg=",
+    "name": "Barón Zemo",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/apFUonh1wVE3LWxbAjJC2zJqZOC.jpg",
+    "uri": "Q+uqqCrEBSJscSFvwtXuxRmUzjHPuMKw2Q3kwt5zqX9J+gd5Qkgq6hLAE/lDD4lS2DWIFk9A2kSA8mloXItoCQ==",
     "drm_scheme": "",
     "drm_license_url": ""
-  }]}]}]
+  },
+  {
+    "name": "Sharon Carter",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/apFUonh1wVE3LWxbAjJC2zJqZOC.jpg",
+    "uri": "Q+uqqCrEBSJscSFvwtXuxRmUzjHPuMKw2Q3kwt5zqX9J+gd5Qkgq6hLAE/lDD4lSV5q0uEn8JNexASPL1164bQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Loki",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/apFUonh1wVE3LWxbAjJC2zJqZOC.jpg",
+    "uri": "Q+uqqCrEBSJscSFvwtXuxRmUzjHPuMKw2Q3kwt5zqX9J+gd5Qkgq6hLAE/lDD4lSHirzHZj+m4lRcJqzxm7WAw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "El Teseracto",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/apFUonh1wVE3LWxbAjJC2zJqZOC.jpg",
+    "uri": "Q+uqqCrEBSJscSFvwtXuxRmUzjHPuMKw2Q3kwt5zqX9J+gd5Qkgq6hLAE/lDD4lSK9rXcNgkrXB/zE/uo9J2gg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Viuda Negra",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/apFUonh1wVE3LWxbAjJC2zJqZOC.jpg",
+    "uri": "Q+uqqCrEBSJscSFvwtXuxRmUzjHPuMKw2Q3kwt5zqX9J+gd5Qkgq6hLAE/lDD4lSH10vjJDhLGpO2/gaXnbzag==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+    
+    
+    
+    
+    ]}]}]
 
