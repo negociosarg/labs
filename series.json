@@ -110,7 +110,47 @@
     "uri": "/AA9vAAccmOkCy8AoQR25RUdJZZIwHRYMIjpGxblVFU/3z6dzBEClBaW2GuBUiZHipDFtZWAqS6/O4nJzMk6WFfQdR3561cA8uYWuSYHa1E=",
     "drm_scheme": "",
     "drm_license_url": ""
+  },
+        {
+    "name": "MARVEL LUCHA LIBRE EDITION: EL ORIGEN DE LA MÁSCARA",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6xQZEHGSjatJd0zkTFRaoh4Swz.jpg",
+    "temporada": [
+ {
+    "name": "Cap. 1",
+    "ico": "https://image.tmdb.org/t/p/w780/h1cp6cwvRRpmSamtdCl0tn67eGJ.jpg",
+    "uri": "13IbYHHHI80ROXAk0x7y4SMnLzohpqyaKoNdettnXgyD3FanSFRfucX1pfvt8ZaVfNfgYKWN+WfhGIYjX9Qc+rEMkxSorNPyQtbNI+wYGDU=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Cap. 2",
+    "ico": "https://image.tmdb.org/t/p/w780/h1cp6cwvRRpmSamtdCl0tn67eGJ.jpg",
+    "uri": "Q+uqqCrEBSJscSFvwtXuxRmUzjHPuMKw2Q3kwt5zqX9J+gd5Qkgq6hLAE/lDD4lSXsrqZeSFS4QYJlx8TK1gDIVIxjnxL7fy+P4Dec4Ety4=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Cap. 3",
+    "ico": "https://image.tmdb.org/t/p/w780/h1cp6cwvRRpmSamtdCl0tn67eGJ.jpg",
+    "uri": "Q+uqqCrEBSJscSFvwtXuxRmUzjHPuMKw2Q3kwt5zqX9J+gd5Qkgq6hLAE/lDD4lSgSvyvAhwNA1KEN8U6ZBJ7fZ4dxfnHj1KpY2Wdh6Q/KY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Cap. 4",
+    "ico": "https://image.tmdb.org/t/p/w780/h1cp6cwvRRpmSamtdCl0tn67eGJ.jpg",
+    "uri": "Q+uqqCrEBSJscSFvwtXuxRmUzjHPuMKw2Q3kwt5zqX9J+gd5Qkgq6hLAE/lDD4lS+tGSEy2DMFYS5HpKTkibsl6FIMasWQmVUap2QIS7OF8=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Cap. 5",
+    "ico": "https://image.tmdb.org/t/p/w780/h1cp6cwvRRpmSamtdCl0tn67eGJ.jpg",
+    "uri": "Q+uqqCrEBSJscSFvwtXuxRmUzjHPuMKw2Q3kwt5zqX9J+gd5Qkgq6hLAE/lDD4lSgFr6tS5h1jhAphKRPr1VFZKkLuN1zD27pbV3mi+wUkg=",
+    "drm_scheme": "",
+    "drm_license_url": ""
   }
+
    ]
   
 }]}]
