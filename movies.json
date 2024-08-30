@@ -829,20 +829,6 @@
         "drm_license_url": ""
       },
       {
-        "name": "LA LEYENDA DE TARZÁN ",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nTrMxo14o246uGPHWEedczoG4oN.jpg",
-        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQUb7Bpq2uXfKJpieB7eK2r+1l/shoJ6+yMLj1eHSrZiI=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LAS AVENTURAS DE PEABODY Y SHERMAN",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r26UfZeF067hvxYlT76v0i9P0qt.jpg",
-        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQxdbb3cUuwT6i8ZZhsKdD6nVPxoWFXSCRaZFdMsUdikg=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
         "name": "365 DÍAS",
         "ico": "https://image.tmdb.org/t/p/w780/k3J2GdYxhR6U2RfsHZOsmHVKW7m.jpg",
         "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQ+Wrp70TVgzjQ85MqNe2hdH5rlzVVVLVDfd3kTvMxW1w=",
@@ -917,6 +903,20 @@
         "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQhVSsVzg/xSEGu/TY5M99O+6DIkdRphekiVIOimRwpgs=",
         "drm_scheme": "",
         "drm_license_url": ""
+      },
+      {
+        "name": "LA LEYENDA DE TARZÁN ",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nTrMxo14o246uGPHWEedczoG4oN.jpg",
+        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQUb7Bpq2uXfKJpieB7eK2r+1l/shoJ6+yMLj1eHSrZiI=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "LAS AVENTURAS DE PEABODY Y SHERMAN",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r26UfZeF067hvxYlT76v0i9P0qt.jpg",
+        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQxdbb3cUuwT6i8ZZhsKdD6nVPxoWFXSCRaZFdMsUdikg=",
+        "drm_scheme": "",
+        "drm_license_url": ""
       }
     ]
   },
@@ -924,13 +924,6 @@
     "name": "⭐AVENTURA",
     "mode": false,
     "lista": [
-      {
-        "name": "INTENSAMENTE 2",
-        "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/2PuAY3xSvbchQWqpSiXw08Yt0NP.jpg",
-        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNm2VmOBmYknoY3kBi+jV+xX9COLfSoMzAxtt0Pmuf4nu",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
       {
         "name": "AMIGOS IMAGINARIOS",
         "ico": "https://image.tmdb.org/t/p/w780/8RgGuC7w8JxhykauzTC4bwha1J8.jpg",
@@ -1034,13 +1027,22 @@
   {
     "name": "⭐COMEDIA",
     "mode": false,
-    "lista": {
-      "name": "AMIGOS IMAGINARIOS",
-      "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/8RgGuC7w8JxhykauzTC4bwha1J8.jpg",
-      "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNrbi1YN+7w4IWBxlOtaA4tbxgDlWu1d7nm9C9VBA3cn6",
-      "drm_scheme": "",
-      "drm_license_url": ""
-    }
+    "lista": [
+      {
+        "name": "LA LEYENDA DE TARZÁN ",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nTrMxo14o246uGPHWEedczoG4oN.jpg",
+        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQUb7Bpq2uXfKJpieB7eK2r+1l/shoJ6+yMLj1eHSrZiI=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "LAS AVENTURAS DE PEABODY Y SHERMAN",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r26UfZeF067hvxYlT76v0i9P0qt.jpg",
+        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQxdbb3cUuwT6i8ZZhsKdD6nVPxoWFXSCRaZFdMsUdikg=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      }
+    ]
   },
   {
     "name": "⭐DOCUMENTAL",
