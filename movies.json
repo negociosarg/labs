@@ -3,7 +3,7 @@
     "name": "⭐ESTRENOS 2024",
     "mode": false,
     "lista": [
-       {
+      {
         "name": "EL PLANETA DE LOS SIMIOS: NUEVO REINO",
         "ico": "https://pics.filmaffinity.com/kingdom_of_the_planet_of_the_apes-598062850-large.jpg",
         "uri": "4Qz3SZ4+EnvUGZMp4L7e8y7SJ/bm9EKczv9QegySdbm2q7ZbJJaHYuqF1v0eslCvDUMOYrHURBQdcz3FJOPK6w==",
@@ -733,96 +733,6 @@
     ]
   },
   {
-    "name": "⭐PELICULAS 2023",
-    "mode": false,
-    "lista": [
-      {
-        "name": "LIFT: UN ROBO DE PRIMERA CLASE",
-        "ico": "https://pics.filmaffinity.com/lift-500114909-mmed.jpg",
-        "uri": "sgjDJRyt9fFn+DLmIpbyaEYwDWkjEioSMRFHYgB5hah/aV9MgvQX69vRbOrdpa2/qaB01V0F9nb0yK9ORUYS8g==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "EN LAS PROFUNDIDADES DEL SENA",
-        "ico": "https://pics.filmaffinity.com/sous_la_seine-902824671-large.jpg",
-        "uri": "sgjDJRyt9fFn+DLmIpbyaEYwDWkjEioSMRFHYgB5hah/aV9MgvQX69vRbOrdpa2/eB6pAaQdpmbfHBbwjaEQQg==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "EL PASAJERO",
-        "ico": "https://image.tmdb.org/t/p/original/pkQLQpdbomYrxQtQS3lop8WJAxk.jpg",
-        "uri": "sgjDJRyt9fFn+DLmIpbyaEYwDWkjEioSMRFHYgB5hah/aV9MgvQX69vRbOrdpa2/S3m5WDvkMxLzETub4hyRgQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "EL APRENDIZ DEL TIGRE",
-        "ico": "https://pics.filmaffinity.com/the_tiger_s_apprentice-331884264-large.jpg",
-        "uri": "sgjDJRyt9fFn+DLmIpbyaEYwDWkjEioSMRFHYgB5hah/aV9MgvQX69vRbOrdpa2/9l+pyTypyjpLFf6MNb50Fw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LA MUJER EN LA VENTANA",
-        "ico": "https://image.tmdb.org/t/p/w780/htNLpDWkaCYtkjjiFlfV2VBICUx.jpg",
-        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQVzJkGpHPZqNOT6vsEKfnLKAPt+k15rXJ7U4W5EatSdY=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LETRAS EXPLÍCITAS",
-        "ico": "https://image.tmdb.org/t/p/w780/bjVN5D5AXjGVTJAJX469aOzGgnc.jpg",
-        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQ4TzKzHpyiF6WGSW48Rixjmr3zkCxqeTGSENbPtRi9mA=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "NOSOTROS",
-        "ico": "https://es.web.img2.acsta.net/c_310_420/pictures/19/02/12/17/09/1724041.jpg",
-        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQ9p0gChBuFB8O59BQ9egPT+MY9auMTT6EwgtkjYcOcrw=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "REGRESO AL TITANIC",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2t20mlU5nuM664cgBX2lLKg8GGo.jpg",
-        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQSlmb041BKBgFzOUrIKhBZsumqE1rC9kflt7u7cVbYKY=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "MI NOVIO ES UN ZOMBIE",
-        "ico": "https://www.themoviedb.org/t/p/original/6QO91SSXaFFUBWb6xzgTmMBXb57.jpg",
-        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQfoYSqvt5+2w8agP2R19E4bLav26m4Lx6v8EZE7KNb6o=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LA CENICIENTA",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vqzeSm5Agvio7DahhKXaySUbUUW.jpg",
-        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQKWYVgU/fbv6/BNjPGHQaPcisw6vKDM9EXjyK1YDCN3U=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CADAVER",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vR6Zaevn3imnkXsbdgBiAdIHNgK.jpg",
-        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQ51Pil2s41ZclJhO0rpGICFaMhzj2Y7kJilJHt7RcSHg=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "FUIMOS HEROES",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lo284scuFbx1Zz4Tv5yJ3ctNSIJ.jpg",
-        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQEqOERS5LBjfIxW+LUpYwAhPCzvMzL9ODvOJoQvGIg7U=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      }
-    ]
-  },
-  {
     "name": "⭐ACCIÓN",
     "mode": false,
     "lista": [
@@ -851,6 +761,193 @@
         "name": "LAS AVENTURAS DE PEABODY Y SHERMAN",
         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r26UfZeF067hvxYlT76v0i9P0qt.jpg",
         "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQxdbb3cUuwT6i8ZZhsKdD6nVPxoWFXSCRaZFdMsUdikg=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      }
+    ]
+  },
+  {
+    "name": "⭐ARGENTINAS",
+    "mode": false,
+    "lista": [
+      {
+        "name": "LA NOCHE (2024)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xngdRuec2IAifKMlp63X9rFOxdM.jpg",
+        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNkKWQcL0KVCWKAR7REpZeBdmvN0aZeOOPYGWPc8QIevN",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "ARGENTINA, 1985 (2022)",
+        "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/isLWtcB9TK3wLlTzEny2dPH6beh.jpg",
+        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNugrFyUUpTr8qUVBQDiPr/CjR/dy44ADyYnWLlVbJUTK",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "El amor menos pensado (2018)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uU55miG5GYeLi5K1pC6DNiT3DEB.jpg",
+        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNmM2U469On9ilhhRBy4uFoGXZqt6ulv5dUi9WesAL9dI",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "El Clan (2015)",
+        "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/mhFKzAvuBb87fwygkcLvhiJ0bbS.jpg",
+        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNmlSV3KqFaMczw8h/Oh1+ajswN9Ce3gDHK31VhXL03oF",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "El fútbol o yo (2017)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xwKUS69UvdWUdr4ADeqCPv9lFih.jpg",
+        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNobvA+ZVw3tNNYAKckXuqLokex6NGrMB1kuSrMX8WrK5",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "El Otro Maradona (2014)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ydr1vHHYtx7qvdOyAlKGQl78TgL.jpg",
+        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNv+igekV9lpij/gjF4sUB0i0m0r2ls1YcZJcFvLNT0MC",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "El secreto de sus ojos (2009)",
+        "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/sd6LML87wa9UPZgfuPnGwic82YH.jpg",
+        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNgvrDswV/JNmMsyHBY6ozFhpP5ekfaEH5NBQZMr/nJP9",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Fase 7 (2010))",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AlPvclTasX1uBmceCczyE6zZB9Z.jpg",
+        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNj39aHx5Zo4QVJfyvkkKhv39lqbTiYfLJgvkC0c34ycj",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Iniciales S.G. (2019)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWROlpAf9BaJpZ2aqkNrzDAeNkm.jpg",
+        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNlJH0MrMOUG1LZ+S0/L3Fhw4iOdOIlR9wE9H2lFeMmaS",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Johnny 100 Pesos: Capítulo dos (2017)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ulZPG3DHz1U3IWUa3ShDBwm3Ul.jpg",
+        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNsOLgRoBipit3wxruKx7zDkJe6y2qHHR20Hy45fzFIDa",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "La odisea de los giles (2019)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eAtpMUO7oKUi1lJIa7vWQCAVJIz.jpg",
+        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNhYJcLKRAREKv8eVmXxOPDMLdLIFKjkmMshRQUbZk+ye",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "La teoría de los vidrios rotos (2021)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rpdhGnYXkSz7Q3vSSXkEW9F3O90.jpg",
+        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNieJO0OzQQ1/OIt0uFTXkIxW63Zd3QESP5WQQMWCyiBg",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Las Hijas del Fuego (2018)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tAX0OITUbq9waXPOJQwar9r2GZE.jpg",
+        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNjQqmVZkd9N3XOUZpwDVs8yVz+udOKRGN1WSBQJGabxv",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      }
+    ]
+  },
+  {
+    "name": "⭐ARGENTINAS II",
+    "mode": false,
+    "lista": [
+      {
+        "name": "Lo habrás imaginado (2019)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePMFRe7wiGi7pC7BVGwt20MWLFF.jpg",
+        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNsNjkqg/U+cFLVCfrDCqDRAapM6aG28403RId1e1DxKI",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Los caballeros de la cama redonda (1973)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/723T6aaPQtqicztJp4iLHUJhLPm.jpg",
+        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNqWA4mKQVGCfz1M5mAjmgWCPwBMAWtg1SXDniaJJESzz",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Los fierecillos se divierten (1983)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhFJeYVL9Er6iCrnW68csaBTxnj.jpg",
+        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNv7EBC92bxRFioZJOgUscNGGpMTPNOHUKZpuguKH5IYa",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Los que aman, odian (2017)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWw45yazR3UBxwrGE0NmtpXa2kY.jpg",
+        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNiEKqGz6FeflJe+4YQ77u426RNdIVkSry4BaR6C66s0z",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Los reyes del sablazo (1984)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gmgIXE8NIjqg6mw4VRwAw1fSAIX.jpg",
+        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNnUM/5bgyWt034CCl3dmpXTYDWuyeRmJt308uyLJTGmH",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Marea alta (2020)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8vZWDEudoKakmVlCxfga5Pj7mgz.jpg",
+        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNouM1GM0p1UHvoXk0qtE7LKGMkwkFcbLqBU5UVKlr5QK",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Matar a Pinochet (2020)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c8s6GcTwcdO7XvXaBUp0f3M7auJ.jpg",
+        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNgk6X6G3FBpbQRQDxgfjfII+0TRRk85wukBBGQbpr1zQ",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Me casé con un boludo (2016)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWo38m3XwcbOeArt2UOixPtkoB9.jpg",
+        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNs8TKbO7yrBWCqeYeDuV/D/D1/3+O46vtfVFF8PIHQ+M",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Mi obra maestra (2018)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0Ehp1IAwXugVCdmlP7qd2sdFwb.jpg",
+        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNpT1TOQ6sGBEqM4YoJj7vAK3z6bBUaMcF9f0OChag+E+",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Nueve reinas (2000)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aD5OHePMlGeryApmMS3Xv8ltLq6.jpg",
+        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNgh1KGAt5DvGvu25Wj/b8jQR0TbtbrHUjaasyfBLPvZY",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Placer y martirio (2015)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6EYkNhpKPWEWWq6qRtSL5Am0QHv.jpg",
+        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNjBHkXmjblDwxea8ujlDIRKheONpA6PgYwfktRWqNy/B",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Relatos salvajes (2014)",
+        "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/ttaZHjuyiyBqH85sOBqgWxczqdJ.jpg",
+        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNowMto5Mka2BEjma3Bn+jYJM21Qv6A/IOaeRDgC9GCLs",
         "drm_scheme": "",
         "drm_license_url": ""
       }
@@ -996,6 +1093,152 @@
         "name": "LAS AVENTURAS DE PEABODY Y SHERMAN",
         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r26UfZeF067hvxYlT76v0i9P0qt.jpg",
         "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQxdbb3cUuwT6i8ZZhsKdD6nVPxoWFXSCRaZFdMsUdikg=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      }
+    ]
+  },
+  {
+    "name": "⭐CONCIERTOS",
+    "mode": false,
+    "lista": [
+      {
+        "name": "Phil Collins: Finally... The First Farewell Tour (2004)",
+        "ico": "https://image.tmdb.org/t/p/w780/crN7Zf6S9vu2o1GFLp3E2xzpLY9.jpg",
+        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNm1IMH55XCXHRAAtEfnWc04J25cFEraCUXRoLcrN36r1",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Andrea Bocelli - Vivere Vivo en la Toscana (2009)",
+        "ico": "https://image.tmdb.org/t/p/w780/s3UOUTHo7mhDJuwvlmppbhY9JuX.jpg",
+        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNoO85eolGGyyOCar5tbrkP3T2Fi2rORS4lfg9gLwkTwE",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "SODA STEREO EN EL FESTIVAL DE VIÑA 1987 HD",
+        "ico": "https://i.ytimg.com/vi/No0YeP4vokc/maxresdefault.jpg",
+        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNhKA41KwrouJutp3PXEvXtdAFx7ev1630o4C7LJmh2wp",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Queen - A Night At The Odeon (1975)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iCdWlo29jmdncmywqchMkrzYYIv.jpg",
+        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNtAhHB1h/m2SJqJVsAkyfZXC12jiUsVDpdsZ9Xd0nkdC",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Pink Floyd: El muro (1982)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3QcwzfyIYI8a94yP26jQ2TWsXGI.jpg",
+        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNsy6rVtLswlcF2K/Jt5/KHRZbThvAEolk9gHkA+clym8",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "The Beatles on the Rooftop (1969)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92C3PiZrjRge5G6qRtJajAmDxhH.jpg",
+        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNkBC2LlVJ2eYBpvXYkf+25J9PVvMi4+DRQItd1SCA65I",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Madonna FT: LMFAO Nicki Minaj - 2012",
+        "ico": "http://i.imgur.com/6klgq.png",
+        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNtWRwRmczVUB4YmQdv4py03aAWNftwfmgavRsgAi9Uov",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Romeo Santos: Utopia Live from MetLife Stadium (2021)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sLkwsvEslKUqjWoftcakhBimZ2x.jpg",
+        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNiamBRNl8j7+UgmX1w6XqLcpIUDrBKjCdTHIo11VGzkw",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Ricardo Arjona - Hecho a la Antigua (2021)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aV5uHlup1oPsiTdkULdPF4clNC.jpg",
+        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNtIDhz/VpkzP6MR8YOjVr9boDDO7plQj+p9eHpoQIMGN",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Daddy Yankee - 2K20 Live",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9pufBHPfrF6yx3sQBwAHo80dg9C.jpg",
+        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNjT8IvIALOXXhqlbWeAlFxE8cSIlllX+Qw2y+TwNvgzh",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "J. Balvin Bruuttal (2017)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlxuIjEckdp6adjvjNyhxhhtoIY.jpg",
+        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNlnyR1jONVofWsTPNAYAWloY547Uj6L4sLnT6xzue0KA",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "SHAKIRA en concierto: EL DORADO World Tour (2019)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9a9G3Vg6rZQloMIUeLd3JSJrK8.jpg",
+        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNtzoaQwkNEfzpl5hDwg6UjyJLo4sSMWdhEzi2q+G+8Up",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Roxette : Live Travelling the World (2013)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gAt5sC38gtHX8pp2gtvTXBSfCLw.jpg",
+        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNnOa7bKBKZNBVNGIlZVkqdSv7US1WSZNb8Y78HOz22+E",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Paul McCartney: The McCartney Years (2007)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4K2kEmi2b6WTksgrzxyJtr80MAC.jpg",
+        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNukd+X3yb7VMRr9XzV+p3BLj6DrzvE7RMkkpXpXJMjHe",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Nirvana: With the Lights Out (2004)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AlPvclTasX1uBmceCczyE6zZB9Z.jpg",
+        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNj39aHx5Zo4QVJfyvkkKhv39lqbTiYfLJgvkC0c34ycj",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Fito Paez Confía (2011)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIF62dBhK1lAL5R7NnMR1IzH45g.jpg",
+        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNmqquSM7ljOaN3rLCPiKdaKRBYjbF2Spy9jmkUffVpHp",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "The Rolling Stones: Havana Moon (2016)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wh7m5IISn3qmvfH8PgxTJqD3hnl.jpg",
+        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNqq8KiZc2dbEUnnXbeChsbX3bep3FH2HXj52ccrZhwZW",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Laura Pausini: Laura Live World Tour (2009)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nK67e95dx5kefxiH2Yz0jnPAA7B.jpg",
+        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNgbx7InvfnuEpwkwnyQ8GTPLDDKOBUBtKfj1v5Wm04DE",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Jennifer Lopez: Dance Again (2014)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1i1Srwy1V9yNpglCbFI8paykIua.jpg",
+        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNnNPOe9/I3TPt0JnABzy0ByBBZi7sDPvpFE/MzCtoVJD",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Frank Sinatra: Concert for the Americas (1982)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dtJ9jN4q79fB5Ck8S6RkWSFROmZ.jpg",
+        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNkFL6J2eQ0zDJSwqgZ34y/boxI8BNEwsp6JBpG3q2GJE",
         "drm_scheme": "",
         "drm_license_url": ""
       }
@@ -1301,6 +1544,96 @@
         "name": "UN GRAN DINOSAURIO",
         "ico": "https://www.themoviedb.org/t/p/original/AdBRNzPeeQHujTug9y4vSbibWF8.jpg",
         "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQU9xnyW5NX9nOsaMbdtyYjNzWHWktsii65eKYgUPqHZ4=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      }
+    ]
+  },
+  {
+    "name": "⭐PELICULAS 2023",
+    "mode": false,
+    "lista": [
+      {
+        "name": "LIFT: UN ROBO DE PRIMERA CLASE",
+        "ico": "https://pics.filmaffinity.com/lift-500114909-mmed.jpg",
+        "uri": "sgjDJRyt9fFn+DLmIpbyaEYwDWkjEioSMRFHYgB5hah/aV9MgvQX69vRbOrdpa2/qaB01V0F9nb0yK9ORUYS8g==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "EN LAS PROFUNDIDADES DEL SENA",
+        "ico": "https://pics.filmaffinity.com/sous_la_seine-902824671-large.jpg",
+        "uri": "sgjDJRyt9fFn+DLmIpbyaEYwDWkjEioSMRFHYgB5hah/aV9MgvQX69vRbOrdpa2/eB6pAaQdpmbfHBbwjaEQQg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "EL PASAJERO",
+        "ico": "https://image.tmdb.org/t/p/original/pkQLQpdbomYrxQtQS3lop8WJAxk.jpg",
+        "uri": "sgjDJRyt9fFn+DLmIpbyaEYwDWkjEioSMRFHYgB5hah/aV9MgvQX69vRbOrdpa2/S3m5WDvkMxLzETub4hyRgQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "EL APRENDIZ DEL TIGRE",
+        "ico": "https://pics.filmaffinity.com/the_tiger_s_apprentice-331884264-large.jpg",
+        "uri": "sgjDJRyt9fFn+DLmIpbyaEYwDWkjEioSMRFHYgB5hah/aV9MgvQX69vRbOrdpa2/9l+pyTypyjpLFf6MNb50Fw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "LA MUJER EN LA VENTANA",
+        "ico": "https://image.tmdb.org/t/p/w780/htNLpDWkaCYtkjjiFlfV2VBICUx.jpg",
+        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQVzJkGpHPZqNOT6vsEKfnLKAPt+k15rXJ7U4W5EatSdY=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "LETRAS EXPLÍCITAS",
+        "ico": "https://image.tmdb.org/t/p/w780/bjVN5D5AXjGVTJAJX469aOzGgnc.jpg",
+        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQ4TzKzHpyiF6WGSW48Rixjmr3zkCxqeTGSENbPtRi9mA=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "NOSOTROS",
+        "ico": "https://es.web.img2.acsta.net/c_310_420/pictures/19/02/12/17/09/1724041.jpg",
+        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQ9p0gChBuFB8O59BQ9egPT+MY9auMTT6EwgtkjYcOcrw=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "REGRESO AL TITANIC",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2t20mlU5nuM664cgBX2lLKg8GGo.jpg",
+        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQSlmb041BKBgFzOUrIKhBZsumqE1rC9kflt7u7cVbYKY=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "MI NOVIO ES UN ZOMBIE",
+        "ico": "https://www.themoviedb.org/t/p/original/6QO91SSXaFFUBWb6xzgTmMBXb57.jpg",
+        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQfoYSqvt5+2w8agP2R19E4bLav26m4Lx6v8EZE7KNb6o=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "LA CENICIENTA",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vqzeSm5Agvio7DahhKXaySUbUUW.jpg",
+        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQKWYVgU/fbv6/BNjPGHQaPcisw6vKDM9EXjyK1YDCN3U=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CADAVER",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vR6Zaevn3imnkXsbdgBiAdIHNgK.jpg",
+        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQ51Pil2s41ZclJhO0rpGICFaMhzj2Y7kJilJHt7RcSHg=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "FUIMOS HEROES",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lo284scuFbx1Zz4Tv5yJ3ctNSIJ.jpg",
+        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQEqOERS5LBjfIxW+LUpYwAhPCzvMzL9ODvOJoQvGIg7U=",
         "drm_scheme": "",
         "drm_license_url": ""
       }
