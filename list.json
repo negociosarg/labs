@@ -1863,7 +1863,7 @@
     ]
   },
   {
-    "name": "⭕RAKUTEN TV",
+    "name": "⭕RAKUTEN / FREETV",
     "mode": false,
     "lista": [
       {
@@ -1905,6 +1905,69 @@
         "name": "RAKUTEN ROMANCE",
         "ico": "https://i.ibb.co/SnZ37Kr/Rakuten-TV.png",
         "uri": "3XPUcjQn6uoohwm2mzasn6h1HJBBO5tecHj74XzLXcf9k6ICkhfe7u3s0p4k2ay6oYIYSPnOYehaOQFr4ZuN6f+fT9RrazzWTOyl3pzaf8b3RcOqgYzMaiHzUM5LEFcdC2L7bKmHVv61WUypCLQPy5Wzq1RUpUfXvTLm3aSq1i7cbNBDQICI7/e02yUumFXfodMnFVFREX1vPpp/0O1oxis3mD7umuBX2uyZjFC50rA=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "FREETV DRAMA",
+        "ico": "https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_drama_1080x1080_02092024_0.jpg",
+        "uri": "kT3au0yYJUAm0HScADL7cPK5rUx/HCGepf0F7P3iFQl0r5GVzsEq6kfOd0OIalxc4e6YYchJCUvlM7LDpt+I4FbR4eZ0WgXXgASpMJ1X4cxrR1P9qyPNF1EaRfZvwWwQ",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "FREETV ACCIÓN",
+        "ico": "https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_accion_1080x1080_02092024.jpg",
+        "uri": "kT3au0yYJUAm0HScADL7cPK5rUx/HCGepf0F7P3iFQl0r5GVzsEq6kfOd0OIalxciXVkSzzIuKmupYcwrY+S3/2aP9y/Wwx1dupBwUo7UjZUgE5Vz5q5k44Bba4d9VHn",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "FREETV ESTELAR",
+        "ico": "https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_estelar_1080x1080_02092024.jpg",
+        "uri": "kT3au0yYJUAm0HScADL7cPK5rUx/HCGepf0F7P3iFQl0r5GVzsEq6kfOd0OIalxcWrmoEuuiY8joLCY6C6yQ2kf0m7pot9aeJDt+4MQRr4varNCfXOimA+6LWAD62UCD",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "FREETV LIVE",
+        "ico": "https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_live_1080x1080_02092024.jpg",
+        "uri": "kT3au0yYJUAm0HScADL7cPK5rUx/HCGepf0F7P3iFQl0r5GVzsEq6kfOd0OIalxcNkqpLhGfmK/MPl5fARc4rQRooSqousHZML/MSHMjc9vGn+Jc2fWkoBK+sBeiNBu6",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "FREETV TERROR",
+        "ico": "https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_terror_1080x1080_02092024.jpg",
+        "uri": "kT3au0yYJUAm0HScADL7cPK5rUx/HCGepf0F7P3iFQl0r5GVzsEq6kfOd0OIalxc+cpiuVQfOSrHKAfdQgj3aSmq8yUzZExv9TG7RCktNvttj/RBCOsAzyT5M3ylwnFM",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "FREETV SUREÑO",
+        "ico": "https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_sureno_1080x1080_02092024.jpg",
+        "uri": "kT3au0yYJUAm0HScADL7cPK5rUx/HCGepf0F7P3iFQl0r5GVzsEq6kfOd0OIalxc4e6YYchJCUvlM7LDpt+I4MuW8Piecom83CLf8jnDa5Rp5IBrdNWtPKQalE3DDRCi",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "FREETV FAMILIA",
+        "ico": "https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_familia_1080x1080_02092024.jpg",
+        "uri": "kT3au0yYJUAm0HScADL7cPK5rUx/HCGepf0F7P3iFQl0r5GVzsEq6kfOd0OIalxcyFC+D+/30jjboqzgHgsrp3fMcs4TjgOOG1kjAWU4hBjh/zTYptqa7vyP/Jh/ljGw",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "FREETV SABER MÁS",
+        "ico": "https://img3.static-ottera.com/prod/oly/video/thumbnails/square/213x213/banner-fast-channel_1-1-v2_1_0.jpg",
+        "uri": "kT3au0yYJUAm0HScADL7cPK5rUx/HCGepf0F7P3iFQl0r5GVzsEq6kfOd0OIalxcLZPrWB9F8iblBhHsKzbw2lPXacJxb86Rv8sF+XCnD3eUboKJN+SPl2ZECH2xedxK",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "FREETV BANDA",
+        "ico": "https://img2.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_banda_1080x1080_02092024.jpg",
+        "uri": "XraivxHTgpxiNVlanMV9uJWYjqYOydzfIBGhA8HpRtRCr6iB4wtjIBDtOlNFH0wbLlJv8K9v+CpJxXmlJ7lKj//cF4jb9FjsycetSFOZZbfRBvdPPLVR9zBOAK0o42hE",
         "drm_scheme": "",
         "drm_license_url": ""
       }
