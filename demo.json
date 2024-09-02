@@ -629,7 +629,14 @@
     "name": "⚽EVENTOS",
     "mode": false,
     "lista": [
-      {
+ {
+    "name": "AMISTOSO URUGUAY",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/0/03/Bandera_Uruguay_2018.png",
+    "uri": "RM61iDxnJDTr1M3KEJsYUT/vbOssSCBD+lKfJT1VzpI1mwZhq9mDHBmQlS/e+uu3QUGIfnKdSWNuk7OqXkkSbGJM/ho7YFXX9tSBq7+UOFE=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+{
         "name": "SUPERLIGA ESPN PREMIUM",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Superliga_Argentina_Logo.png",
         "uri": "O4zQaBxapxoofA7Utbs4F5hceVjoJEJMmEq439UAjxhqyGW3YIIXw2mbnsZCMey/IQtt2cRISRyWh90sm0zbJEGhacoYb4d1SE5GoxjJCDadx+EVHVJIjOMAdwEG1u8z5YENh9j/CGEVJMLoBzqB35rrNcZc22HNMJ+oWwN3zCQ=",
@@ -1297,7 +1304,21 @@
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0FtS/yStEiCIfxGepIPW8QXzYCiGAC6oDTFyvc8xuYNVEgYUEi/PN3v1RL3yZSx8WpDYlNljioaxQ9eybp1+08Y",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EQMUi7syZa2or0OinjI/X8jwChgWUnZ7LGew8M/ytKxwNcC/LeSnQdAOknEnjHT0bwITB79sgac6dpAKM02GMZkfjdYUGNnRebSo97naI7y/nBWkek9sarq0QYS7yY3tNA=="
-      }
+      },
+        {
+    "name": "BABY SHARK TV",
+    "ico": "https://play-lh.googleusercontent.com/N7Kf5CZB5yFGddAZxmtjylZuG9ECPJFm1y_sdV7Gx_WrawDP-k-9mpFY_hRL4E3IXPo",
+    "uri": "93P9GyzXh1On6qG5o6j6qEVH/1BVzDfTvsNNxDG8FkR4fMBM/VqSOdU79MsYgTBUj1xbmMqpYm3oOsnTBTasFLazLZyzO6FsavBHxZq94Lq3qeeBj41KZbg1eKXxUPVsrQDbxfu5exTsnj1AcS1OrML3E5J8Zc7wTzgtAISKMW693V5dOuhQDIiAxr2pm2nKRGVtfiCP0lI1+j/5cLpsg2gJ0sa1SZ1tUCCA3B0HXNe3lBNWWGhczxFVCRr33VDoZuxElp3AOhzORtyyWHD2h/n+pfVhW8K7+8QKY2dHscHbxkNEtsGkiw1/GDEf52DF0DcPKVUGBR3cNHOdpcMApEO1YDAiKKyw++fZPY0fYVzScnSivQGz+her4q98fTXVtQrAVAmy2rHjLD6aVTxeTuvDUGotAR1dGnUgxGayLi1iMo1mQhrQoDFbGYuZsQKQkYr0WrZQwtMiXEVBBp3k0fwhrzySoSkJf41ApuVNFR6PuPPCArDOMd3YMDat8Kp4J2fe58cacNadWcBVRtjQxx94WTp+2jZJ3Sb9kuBJrDpF2dnmQ4u9LuyQhqEEl9R/KAe59Mzwj+5f2wJEDaIBmQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EL REINO INFANTIL",
+    "ico": "https://i.ibb.co/FqD9946/AAAABVGxy-BPWp-TAHt-HOGe5nhbun-Jl-ZLL-n-Ni5-NSSq-VIJnx87c-Da-Ep-Ty-IO6-K-K9d-Zfn-Pjw-Qe-Qr0-NKol-ME4.png",
+    "uri": "93P9GyzXh1On6qG5o6j6qEVH/1BVzDfTvsNNxDG8FkR4fMBM/VqSOdU79MsYgTBU4Jkq7VRlv/C5Zwl4zhC4IUO3WVvbklXXnoz+aTJhFr7W1fCHHv6MXUgtNJ9qve/xKPk2BAI3sK5NegKepjXBnvGLS55uZ/UEsPsL8vbkkOSik0+txpZdfZwdxyFir8O/NJhXd/13S5d+oqIBfkuah62ePQyrPCP23HiXcfOfFAhxC/WZNOq/0nvQg8XlwradrXHVicW4V7l1YwlsNO9Im3l2gF/2zUcNO8aUGbaw9esQPSsrG0vRVWlFiXXsrr3QWRIW737yTVQUf8rK4YTHLcgcN17F/wbRYc99ClyP3nnZiU7ZaMLlaoEayqSk4cOtfoqCIQkTyibGJGyOteWJh6IFl+H84+nA9j66aAwKzpzfSKn8EQevoECnx6JJsESMUjT3Aiog2CD5TI6aYLuUdl08KAkp/DuaAwBLP2s+Cd6YMnclKpJKC5rL5kM4JzWyE/VGJ9dUU26W2cwpmiOHWm9iP4W2d0nuWk7xq+6K9QOQvH6zlP8slA94Z12xHqwz0ysi6jDi2jsI5mwJABP+AQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
     ]
   },
   {
@@ -2758,6 +2779,13 @@
         "drm_scheme": "ClearKey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EepGcOAoEoftK5viGRjdGJ+39gMNPzlzcz1jleyPUni4MTvysDAF4RVSLtGQslYkWr0IJiAJm0q5tmiBzOpIbHaEloGG7Qx2v7KGyGxsjwbYhGTZMBzt/QOuhOvOlEodnQ=="
       },
+        {
+    "name": "TIGO SPORTS",
+    "ico": "https://andabolivia.com/wp-content/uploads/2018/05/tigo-sports.png",
+    "uri": "zZUDUAY0chzGb+d5/LbnrjxsFc2xAgfZlN2BvDxxlPGIX+0d1feJLFZOo/zWWUi22ffZH0Da8HM0vQtUfe1SeA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+        },
       {
         "name": "UNIVERSO TV",
         "ico": "http://imgfz.com/i/gWBHzNp.jpeg",
