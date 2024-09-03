@@ -3,69 +3,118 @@
     "name": "⭐ESTRENOS 2024",
     "mode": false,
     "lista": [
-        {
-        "name": "POLITICAMENTE INCORRECTOS",
-        "ico": "https://www.dondever.com/es/posters/donde-ver-politicamente-incorrectos-92750.jpg",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e8y7SJ/bm9EKczv9QegySdbm2q7ZbJJaHYuqF1v0eslCv6D1St5IN1Dj4EtKK6e/ESA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "EL PLANETA DE LOS SIMIOS: NUEVO REINO",
-        "ico": "https://image.tmdb.org/t/p/w780/kkFn3KM47Qq4Wjhd8GuFfe3LX27.jpg",
-        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNmJNwtrsyXI8pshg5PGiZ7pUoL0ijj66efuqKV/1ajuD",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "NAHIR",
-        "ico": "https://pics.filmaffinity.com/nahir-599296802-large.jpg",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e8y7SJ/bm9EKczv9QegySdbm2q7ZbJJaHYuqF1v0eslCvexjvQEferfC4q+LLeAM8Pw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "AGUAS SINIESTRAS",
-        "ico": "https://pics.filmaffinity.com/night_swim-797110257-large.jpg",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e8y7SJ/bm9EKczv9QegySdbm2q7ZbJJaHYuqF1v0eslCv7S+47c8NSkmn33RD2ZAurA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "PERRO Y GATA",
-        "ico": "https://pics.filmaffinity.com/chien_et_chat-896560725-large.jpg",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e8y7SJ/bm9EKczv9QegySdbm2q7ZbJJaHYuqF1v0eslCvTGu5xYjq2UGN/qpIChdGaQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "GODZILLA Y KONG: EL NUEVO IMPERIO",
-        "ico": "https://pics.filmaffinity.com/godzilla_x_kong_the_new_empire-478803486-large.jpg",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e8y7SJ/bm9EKczv9QegySdbm2q7ZbJJaHYuqF1v0eslCv+bXZzOlEVJSDH9UoC6DP8Q==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LA PRIMERA PROFECÍA",
-        "ico": "https://pics.filmaffinity.com/the_first_omen-372679118-large.jpg",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e8y7SJ/bm9EKczv9QegySdbm2q7ZbJJaHYuqF1v0eslCvFYXXd4OMPfX4pa+WZb4QXA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LA JÓVEN Y EL MAR",
-        "ico": "https://pics.filmaffinity.com/young_woman_and_the_sea-224904581-large.jpg",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e8y7SJ/bm9EKczv9QegySdbm2q7ZbJJaHYuqF1v0eslCvq/X/J6oin/ek1mJPAz78Gw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "ATRAPA LA BANDERA",
-        "ico": "https://panel.budtv-ultra.com/posters/vzzTy3ctiptqaV3S9tIewjKJ1nf.jpg",
-        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQfoYSqvt5+2w8agP2R19E4bLav26m4Lx6v8EZE7KNb6o=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      }
+  {
+    "name": "POLITICAMENTE INCORRECTOS",
+    "ico": "https://www.dondever.com/es/posters/donde-ver-politicamente-incorrectos-92750.jpg",
+    "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNhw3SUYUA5DMKo68a5E/Htaw8fwkdRhlNOLaRN3AQp1l",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SAYEN: LA CAZADORA",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/btmngK5iXaxyAEl0ScIWCQG2ITr.jpg",
+    "uri": "RM61iDxnJDTr1M3KEJsYUXmiLdLPJt07uikDHx5qTMtPkUfMQitaP6tOA+qdaSoIW7/pB3VjHhTO1eMBjxBnNOwQBOnh5nH5yI3mzSFUxCE=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CENIZA",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgqpB2f3lAwV5O5Aeudvvv1Nvvy.jpg",
+    "uri": "RM61iDxnJDTr1M3KEJsYUXmiLdLPJt07uikDHx5qTMtPkUfMQitaP6tOA+qdaSoIRAXONMZKSc1NbeNfFTfKA6us1nNwbhtJnG1VFwpqWZY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CRIPTOESTAFAS",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6YZmezBcTwL9KUn5kkygAvrJ1fx.jpg",
+    "uri": "RM61iDxnJDTr1M3KEJsYUXmiLdLPJt07uikDHx5qTMtPkUfMQitaP6tOA+qdaSoIkok+SOyKDEuIjR10xbQ1HlbUeJBshz78VJcyVnExuTs=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MISIÓN HOSTIL",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/syKwepJwzvoYhPLBfUy4YYSrstr.jpg",
+    "uri": "RM61iDxnJDTr1M3KEJsYUXmiLdLPJt07uikDHx5qTMtPkUfMQitaP6tOA+qdaSoIhjVv67JFLJyZkEv+O+Ov4ZMG8ks+KvGg0jFCQ1aG8uU=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EL ESPECIALISTA",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ceiGl0SNZpR01o5lfYImt2QgKuq.jpg",
+    "uri": "RM61iDxnJDTr1M3KEJsYUXmiLdLPJt07uikDHx5qTMtPkUfMQitaP6tOA+qdaSoIFB7bv4WposaWtk9gyy9JhD8/7aM5cxZKfCSQBO29uFQ=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DEADPOOL Y LOBEZNO",
+    "ico": "https://image.tmdb.org/t/p/w780/9TFSqghEHrlBMRR63yTx80Orxva.jpg",
+    "uri": "RM61iDxnJDTr1M3KEJsYUXmiLdLPJt07uikDHx5qTMtPkUfMQitaP6tOA+qdaSoIEtAL2naHb36OOyqkft16bw+quHFoFVe70zXEND6IRKE=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "WINNIE DE POOH: MIEL Y SANGRE 2",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4IwPhjSR3Jel5aAuvITAy8NmNH2.jpg",
+    "uri": "RM61iDxnJDTr1M3KEJsYUXmiLdLPJt07uikDHx5qTMtPkUfMQitaP6tOA+qdaSoIY2JXxaMN57otElMEmwY4U6/oc2NMOOnDGIiRwua8J/Y=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EL PLANETA DE LOS SIMIOS: NUEVO REINO",
+    "ico": "https://image.tmdb.org/t/p/w780/kkFn3KM47Qq4Wjhd8GuFfe3LX27.jpg",
+    "uri": "RM61iDxnJDTr1M3KEJsYUXmiLdLPJt07uikDHx5qTMtPkUfMQitaP6tOA+qdaSoI57lqNN18AfWQt3K7VLMriouAZg0uyC8lU/wbEBtzfig=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "NAHIR",
+    "ico": "https://pics.filmaffinity.com/nahir-599296802-large.jpg",
+    "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNglSc2fovGge2Z4fep1+u7mNr59/OasRi118qUG7B6GM",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "AGUAS SINIESTRAS",
+    "ico": "https://image.tmdb.org/t/p/w780/bHy9CZdMeH1cnQnsTcyaGu7Yiz.jpg",
+    "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNuJOXss+ILzv2XcLL4RQGvwabhxkVPHgce7EDMOmxf9a",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "GODZILLA Y KONG: EL NUEVO IMPERIO",
+    "ico": "https://pics.filmaffinity.com/godzilla_x_kong_the_new_empire-478803486-large.jpg",
+    "uri": "RM61iDxnJDTr1M3KEJsYUXmiLdLPJt07uikDHx5qTMtPkUfMQitaP6tOA+qdaSoILSJf7vf02PtIdT1EyxWcn9XBM3EVocBEZSGc/kodFcs=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TOC TOC TOC",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tgZuzZUT6dFq5iwLZk361LYMNF0.jpg",
+    "uri": "RM61iDxnJDTr1M3KEJsYUXmiLdLPJt07uikDHx5qTMtPkUfMQitaP6tOA+qdaSoIdl1PoHpLe48NYc4OSscqCn4etw/I9Qv5lK5ypd8AunU=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "PROFECIA SANGRIENTA LA POSESION DE DEBORAH LOGAN",
+    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/77i7EBUyQKOUiZeYQ5tWDGQb0AI.jpg",
+    "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNmqmbyOZH/rnNNwE+2maBgDBEUg68+NqO5pctevaO7dj",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LA JÓVEN Y EL MAR",
+    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/oyQXRZD0CHC4sf3lMph3X3cJzSw.jpg",
+    "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNlOqfNvpeWrIjn4M0QsCVk6I+TK6jKkrmHjWVzduR1z2",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "ATRAPA LA BANDERA",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nAF3vJb2iaVo3MnLzJpJCHui3uC.jpg",
+    "uri": "RM61iDxnJDTr1M3KEJsYUXmiLdLPJt07uikDHx5qTMtPkUfMQitaP6tOA+qdaSoI7nBecpzsLG94DkKyh6BdMMXSjXsiYPDzlyJEo+FwL8g=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
     ]
   },
   {
