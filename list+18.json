@@ -623,6 +623,20 @@
     "drm_scheme": "Clearkey",
     "drm_license_url": ""
   },
+  {
+    "name": "DEPORTV1",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/DeporTV_%282020_Logo_oficial%29.png/800px-DeporTV_%282020_Logo_oficial%29.png",
+    "uri": "+u8JOr6SyIr5qvEA/JHNyzZxbMc/FkKR7xs0adneKvcMtSzxdVr99rkxHOH+Ir43Sx95szAG55f6v/RCv49VKbmJgXSveWfADDB1kK5KL/BHKWZWea2GvEaEsiTcm9Yg",
+    "drm_scheme": "clearkey",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DEPORTV2",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/DeporTV_%282020_Logo_oficial%29.png/800px-DeporTV_%282020_Logo_oficial%29.png",
+    "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sNXOfTikq3oXXalyKtKHkhYdD+FC31HLXVvRMFlQVOdBYnCeOfQnNHKLO1miUFfIv78YCEmwSUQYRhn7/LMIPh",
+    "drm_scheme": "clearkey",
+    "drm_license_url": ""
+  },
       {
         "name": "AMERICA SPORTS",
         "ico": "https://i.ibb.co/hLxLHfV/large-55-png-b16840144f7c170cb9dc31bff9cb1369.png",
