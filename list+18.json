@@ -630,6 +630,13 @@
     "drm_scheme": "",
     "drm_license_url": ""
   },
+       {
+    "name": "DEPORTV333",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/DeporTV_%282020_Logo_oficial%29.png/800px-DeporTV_%282020_Logo_oficial%29.png",
+    "uri": "x2d4grvxPaJCbPw0NpSsS3CFkgpaCWro/52404aMpERp9Cz2iAEwlWxpqiv55QhfE8stWEjMQdNF4Zw/JTCCHg==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": ""
+  },
       {
         "name": "AMERICA SPORTS",
         "ico": "https://i.ibb.co/hLxLHfV/large-55-png-b16840144f7c170cb9dc31bff9cb1369.png",
