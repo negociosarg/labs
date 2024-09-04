@@ -609,32 +609,25 @@
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ETStl0pIkBEniJ9FFk37063ek882wGkgfKTWekfWrEFGKeni49g19G8nYBF1ec4uJsUW8vjbAI4ofNLAC3dYUyi0wRWTFoTOqEM9vxPbdqyWqUuRM8RzjzJ8+z/iveiF9g=="
       },
-     {
+   {
     "name": "DEPORTV",
     "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/DeporTV_%282020_Logo_oficial%29.png/800px-DeporTV_%282020_Logo_oficial%29.png",
     "uri": "+u8JOr6SyIr5qvEA/JHNyzZxbMc/FkKR7xs0adneKvcMtSzxdVr99rkxHOH+Ir43Sx95szAG55f6v/RCv49VKbmJgXSveWfADDB1kK5KL/BHKWZWea2GvEaEsiTcm9Yg",
-    "drm_scheme": "clearkey",
+    "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "DEPORTV+",
+    "name": "DEPORTV",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/DeporTV_%282020_Logo_oficial%29.png/800px-DeporTV_%282020_Logo_oficial%29.png",
+    "uri": "DXAP0n+SgwmQRyKg0Jj716+C5jVXg3G9k3V7tG37pxfP8ZldC8kZyLWuSvVLtAy+F1ak40udxcoxP5pjM5XO7oP/usGnzpAP0WILu4wZcModna28AV7cM/JOIuAOEOeHW+PNljhGIDA8XJPrJGpk/w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DEPORTV",
     "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/DeporTV_%282020_Logo_oficial%29.png/800px-DeporTV_%282020_Logo_oficial%29.png",
     "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sNXOfTikq3oXXalyKtKHkhYdD+FC31HLXVvRMFlQVOdBYnCeOfQnNHKLO1miUFfIv78YCEmwSUQYRhn7/LMIPh",
-    "drm_scheme": "Clearkey",
-    "drm_license_url": ""
-  },
-  {
-    "name": "DEPORTV1",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/DeporTV_%282020_Logo_oficial%29.png/800px-DeporTV_%282020_Logo_oficial%29.png",
-    "uri": "+u8JOr6SyIr5qvEA/JHNyzZxbMc/FkKR7xs0adneKvcMtSzxdVr99rkxHOH+Ir43Sx95szAG55f6v/RCv49VKbmJgXSveWfADDB1kK5KL/BHKWZWea2GvEaEsiTcm9Yg",
-    "drm_scheme": "clearkey",
-    "drm_license_url": ""
-  },
-  {
-    "name": "DEPORTV2",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/DeporTV_%282020_Logo_oficial%29.png/800px-DeporTV_%282020_Logo_oficial%29.png",
-    "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sNXOfTikq3oXXalyKtKHkhYdD+FC31HLXVvRMFlQVOdBYnCeOfQnNHKLO1miUFfIv78YCEmwSUQYRhn7/LMIPh",
-    "drm_scheme": "clearkey",
+    "drm_scheme": "",
     "drm_license_url": ""
   },
       {
