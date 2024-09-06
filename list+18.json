@@ -4309,6 +4309,55 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+ {
+    "name": "SPORT TV 1",
+    "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
+    "uri": "RM61iDxnJDTr1M3KEJsYUQ+ofihTsFKEUHKALiR6xGqGySqMsnDK+J6JRX4NJZDVpbjCXBBOM0EEVPcRqZRunA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SPORT TV 2",
+    "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
+    "uri": "RM61iDxnJDTr1M3KEJsYUQ+ofihTsFKEUHKALiR6xGqGySqMsnDK+J6JRX4NJZDVQ7qVzdmb5BSjXDiSlTicNw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SPORT TV 3",
+    "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
+    "uri": "RM61iDxnJDTr1M3KEJsYUQ+ofihTsFKEUHKALiR6xGqGySqMsnDK+J6JRX4NJZDVgIP391VtbbjC4aZXdOlOsQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SPORT TV 4",
+    "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
+    "uri": "RM61iDxnJDTr1M3KEJsYUQ+ofihTsFKEUHKALiR6xGqGySqMsnDK+J6JRX4NJZDVlx3T/niA93xiDZE1IS4vwQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SPORT TV 5",
+    "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
+    "uri": "RM61iDxnJDTr1M3KEJsYUQ+ofihTsFKEUHKALiR6xGqGySqMsnDK+J6JRX4NJZDV6sPD6DnEofKkVVHEqsqiNA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SPORT TV PLUS",
+    "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
+    "uri": "RM61iDxnJDTr1M3KEJsYUQ+ofihTsFKEUHKALiR6xGqGySqMsnDK+J6JRX4NJZDVO+2HI55Y8a/AccIYy+FVaA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "BEIN SPORTS CANADA",
+    "ico": "https://i.ibb.co/mDzNP34/bein-sports-logo-DF38-CDADF6-seeklogo-com.png",
+    "uri": "RM61iDxnJDTr1M3KEJsYUQ+ofihTsFKEUHKALiR6xGpCiukz2f7yAroNWzhyu24kSjS/6hF8QrMx+FoSJsl73Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "BEIN *SPORTS",
         "ico": "https://i.ibb.co/mDzNP34/bein-sports-logo-DF38-CDADF6-seeklogo-com.png",
