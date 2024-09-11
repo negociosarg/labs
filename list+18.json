@@ -420,34 +420,34 @@
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ee2FQgkCgAuPf8bf8LxklRk+4pRiSpsvRwp61c41vhNAgo7dWtPujxMkQMmooAtTX4o1/VzZk5jOWo+OkiUDo+Y4gylDwFGol+LyuRR76rfWr4DKtw9wE0HGwKMHHf43mw=="
       },
-      {
-        "name": "DSPORTS",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/800px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png",
-        "uri": "HwSVyYA39a4OjiOGT8qOYPBECqa9jVFTOzKB8YQyeZz9JDYuNCzxlGS+Gnb8rfL7DeRpXSJEdyfncCBTxjSNhJ+CjUDYHmXbkkqzLn14nvQ=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "DSPORTS",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/800px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png",
-        "uri": "HwSVyYA39a4OjiOGT8qOYPBECqa9jVFTOzKB8YQyeZz9JDYuNCzxlGS+Gnb8rfL7ZADQquCm7aLAaVUFTbeTy+ECIbHKMvIWbOdjuFBaWP8=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "DSPORTS",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/800px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png",
-        "uri": "1rhMcQEF2kDS/+/vGyAvOmssK1hCeOItvMqbc8NpV5cyZ6pbtlKzw6+IZe2cWVN5GDnrrM5zZ1sngbzxByihcA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "DSPORTS",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/800px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png",
-        "uri": "1rhMcQEF2kDS/+/vGyAvOmssK1hCeOItvMqbc8NpV5cyZ6pbtlKzw6+IZe2cWVN5JPF42U3aVFPjN14HpPsRFg==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
+    {
+    "name": "DSPORTS",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/800px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png",
+    "uri": "ROdI0OQav7Ai1dd6DZScfnlyqyr42SWfaT1ekfKt6kHDu9E62p8Ze+DGPrGZ/Llvdr1qkmIXN4iSVdrcJSyoNQ8AyedjZHl/3Zftkb9LmSb2YTs/9d7HFY+trMN2Bl4c",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DSPORTS",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/800px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png",
+    "uri": "ROdI0OQav7Ai1dd6DZScfnlyqyr42SWfaT1ekfKt6kHDu9E62p8Ze+DGPrGZ/Llvdr1qkmIXN4iSVdrcJSyoNRr3N27CFE1BvCawZ48fVVK1c3G8v4y1NpYpRezhSUv9",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DSPORTS",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/800px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png",
+    "uri": "ROdI0OQav7Ai1dd6DZScfnlyqyr42SWfaT1ekfKt6kHDu9E62p8Ze+DGPrGZ/Llvdr1qkmIXN4iSVdrcJSyoNaw0gigPCy7XTOckGk9KKh1y42ji9tQJVm3A/Isjt3e4",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DSPORTS",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/800px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png",
+    "uri": "ROdI0OQav7Ai1dd6DZScfnlyqyr42SWfaT1ekfKt6kHDu9E62p8Ze+DGPrGZ/Llvdr1qkmIXN4iSVdrcJSyoNfgXgYM8kcgJvxdCk6ExDLfyQ2lkrpzTXjYY6CoL2DhT",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "CLARO SPORTS",
         "ico": "https://cdn.prod.website-files.com/640b40225e0d9452eb6904e2/640b40225e0d9456b2690e76_clarosports.png",
@@ -657,6 +657,13 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+  {
+    "name": "CONMEBOL BEIN SPORTS EXTRA",
+    "ico": "https://i.ibb.co/wh9k5LT/CONMEMBOLPNG.png",
+    "uri": "ROdI0OQav7Ai1dd6DZScfnlyqyr42SWfaT1ekfKt6kHDu9E62p8Ze+DGPrGZ/Llvdr1qkmIXN4iSVdrcJSyoNQ3Et9Rj/PKUv/apoZG9yc8K8zu0Trs0R4Naz691eEtT",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "CONMEBOL BEIN SPORTS EXTRA",
         "ico": "https://i.ibb.co/wh9k5LT/CONMEMBOLPNG.png",
