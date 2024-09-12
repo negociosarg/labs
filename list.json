@@ -214,7 +214,7 @@
       },
       {
         "name": "TELEFE ROSARIO",
-        "ico": "https://static.tvar.io/imagenes/teleferosario.png",
+        "ico": "https://raw.githubusercontent.com/DryKillLogic/tv-logos/main/countries/argentina/telefe-ar.png",
         "uri": "EGbTdQSc58tHgH0HJaX1fywder//z/T9Ro7QaKhLvSTGIWTbIArbBB1AG5ZfT0oV3Zc9QsOPkUoQf2lOUjlSyye/yfhFvey+uk5UtxWnCHLm+lb1fIBeVkEMR1/Gn0HqpEkEWU8VU3eMgZCJcoFZTw==",
         "drm_scheme": "clearkey",
         "drm_license_url": "pfccQdO0x9675khuei5j0aEQydm/Uu+slrA1DU8/kOqRJh02TcP5W/34DEcVWbQhszM1ob9FKzJmNXylkSwQElJB1uXYtwPV8YyvJsT7TF8CYgVXzmUIkNnz1WvfpqltK6x94DiUVQ31XH1w7p+6ID4T/oZBz1qHlqc3RI7yrFo="
@@ -423,28 +423,28 @@
       {
         "name": "DSPORTS",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/800px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png",
-        "uri": "HwSVyYA39a4OjiOGT8qOYPBECqa9jVFTOzKB8YQyeZz9JDYuNCzxlGS+Gnb8rfL7DeRpXSJEdyfncCBTxjSNhJ+CjUDYHmXbkkqzLn14nvQ=",
+        "uri": "ROdI0OQav7Ai1dd6DZScfnlyqyr42SWfaT1ekfKt6kHDu9E62p8Ze+DGPrGZ/Llvdr1qkmIXN4iSVdrcJSyoNQ8AyedjZHl/3Zftkb9LmSb2YTs/9d7HFY+trMN2Bl4c",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "DSPORTS",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/800px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png",
-        "uri": "HwSVyYA39a4OjiOGT8qOYPBECqa9jVFTOzKB8YQyeZz9JDYuNCzxlGS+Gnb8rfL7ZADQquCm7aLAaVUFTbeTy+ECIbHKMvIWbOdjuFBaWP8=",
+        "uri": "ROdI0OQav7Ai1dd6DZScfnlyqyr42SWfaT1ekfKt6kHDu9E62p8Ze+DGPrGZ/Llvdr1qkmIXN4iSVdrcJSyoNRr3N27CFE1BvCawZ48fVVK1c3G8v4y1NpYpRezhSUv9",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "DSPORTS",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/800px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png",
-        "uri": "1rhMcQEF2kDS/+/vGyAvOmssK1hCeOItvMqbc8NpV5cyZ6pbtlKzw6+IZe2cWVN5GDnrrM5zZ1sngbzxByihcA==",
+        "uri": "ROdI0OQav7Ai1dd6DZScfnlyqyr42SWfaT1ekfKt6kHDu9E62p8Ze+DGPrGZ/Llvdr1qkmIXN4iSVdrcJSyoNaw0gigPCy7XTOckGk9KKh1y42ji9tQJVm3A/Isjt3e4",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "DSPORTS",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/800px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png",
-        "uri": "1rhMcQEF2kDS/+/vGyAvOmssK1hCeOItvMqbc8NpV5cyZ6pbtlKzw6+IZe2cWVN5JPF42U3aVFPjN14HpPsRFg==",
+        "uri": "ROdI0OQav7Ai1dd6DZScfnlyqyr42SWfaT1ekfKt6kHDu9E62p8Ze+DGPrGZ/Llvdr1qkmIXN4iSVdrcJSyoNfgXgYM8kcgJvxdCk6ExDLfyQ2lkrpzTXjYY6CoL2DhT",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -654,6 +654,13 @@
         "name": "CONMEBOL BEIN SPORTS ESPAÑOL",
         "ico": "https://i.ibb.co/wh9k5LT/CONMEMBOLPNG.png",
         "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0v27e9HTX36JFEdUy6idU0A==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CONMEBOL BEIN SPORTS EXTRA",
+        "ico": "https://i.ibb.co/wh9k5LT/CONMEMBOLPNG.png",
+        "uri": "ROdI0OQav7Ai1dd6DZScfnlyqyr42SWfaT1ekfKt6kHDu9E62p8Ze+DGPrGZ/Llvdr1qkmIXN4iSVdrcJSyoNQ3Et9Rj/PKUv/apoZG9yc8K8zu0Trs0R4Naz691eEtT",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -951,21 +958,14 @@
       },
       {
         "name": "TELEFE ROSARIO",
-        "ico": "https://static.tvar.io/imagenes/teleferosario.png",
+        "ico": "https://raw.githubusercontent.com/DryKillLogic/tv-logos/main/countries/argentina/telefe-ar.png",
         "uri": "EGbTdQSc58tHgH0HJaX1fywder//z/T9Ro7QaKhLvSTGIWTbIArbBB1AG5ZfT0oV3Zc9QsOPkUoQf2lOUjlSyye/yfhFvey+uk5UtxWnCHLm+lb1fIBeVkEMR1/Gn0HqpEkEWU8VU3eMgZCJcoFZTw==",
         "drm_scheme": "clearkey",
         "drm_license_url": "pfccQdO0x9675khuei5j0aEQydm/Uu+slrA1DU8/kOqRJh02TcP5W/34DEcVWbQhszM1ob9FKzJmNXylkSwQElJB1uXYtwPV8YyvJsT7TF8CYgVXzmUIkNnz1WvfpqltK6x94DiUVQ31XH1w7p+6ID4T/oZBz1qHlqc3RI7yrFo="
       },
       {
         "name": "CANAL 3 ROSARIO",
-        "ico": "https://static.tvar.io/imagenes/canal3rosario.png",
-        "uri": "Tm+yTd6LO3geSoxzBJOeB5+M8HiN/4QE6iQXHMyR6jPHH7/AXR29IuC228vm0GtO61hbWbTCWLAmnvp3D/lnEweFU8LkT9OOM0SFWTK4bMj+0KwZ5k4BlbIqcUgb0mUzNn/hh3MavjUDCRYg1CT6djv9EkEDf3Uix1YEJ2MuKIq94RhZX21yB8Mi6TtbTq0QmuSOqoloade/337RhwmBu0EHJjwmEwBBWDBYAJT75nw=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CANAL 3 ROSARIO",
-        "ico": "https://static.tvar.io/imagenes/canal3rosario.png",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Eltres_RGB-grad_%28positivo%29.png/800px-Eltres_RGB-grad_%28positivo%29.png",
         "uri": "EGbTdQSc58tHgH0HJaX1f2ULMfYo0o1gmPP720AkXjOtldBCJO7Bz7MgJoTQUk21sJLX+hWAUXGxytmyYZMe+6RrKnfY7QH0q7sgUM3fmMVbOxRIzdgie1DPWLtLbc64+AGiJQIB8IsodZbmv1hJ5A==",
         "drm_scheme": "clearkey",
         "drm_license_url": "pfccQdO0x9675khuei5j0RBhJPHTZq1zPewDSgzyL70A6yHt68sE5Zb2Adpd+RmJbIQtMQr7SOkX0HcbTxngucBwA92DBF7d6E5l+IrGVcrWVtFiNSM8xBmytUvgshPg5D1KcoTOH0jh4ipyyWBCqdSi+BUjWg+D0X8LS90txUs="
@@ -3086,6 +3086,13 @@
         "drm_license_url": ""
       },
       {
+        "name": "COMBATE",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Canal-combate-logo.png/798px-Canal-combate-logo.png",
+        "uri": "RM61iDxnJDTr1M3KEJsYUT/vbOssSCBD+lKfJT1VzpI1mwZhq9mDHBmQlS/e+uu3VJoNPHewPwG/i5o5c0jEUgwG44K2IGixJvooBY6yrQU=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
         "name": "AMAZON PRIME",
         "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/media/amazon-prime.png",
         "uri": "sYN+FS+jM4DukijY0Y56uFPQIU90S64p6NQVXiEekk69NdZbxVwTjTRwdgeAkg01B23zPRW3gDHhDcl8zeH3YDt0tVaKLaUjRGDzss6T+c0=",
@@ -3312,6 +3319,13 @@
         "name": "GOL TV",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/800px-GOLTV.png",
         "uri": "eS0ZOrCl6lVGYy/BZQNUH+QKj5FS6+lyHmLoJLOMZfLYJFW4K8zbiVZhij8lQxdA8hKF/fCyhIIML6Mn+d0gdw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "VTV+",
+        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
+        "uri": "RM61iDxnJDTr1M3KEJsYUT/vbOssSCBD+lKfJT1VzpI1mwZhq9mDHBmQlS/e+uu3jZ9YVDofTAMhZ8komJ3oKJjrTGAaLr+G3JCLYbLK/Mk=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -4227,6 +4241,13 @@
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ETkfHo6Ba392kVnntoYgRuM2jZWIfVM/hYuoda42NNSw7SZfgcJXGp3NxWQGCPfXTnFxE4STi1aa1f+panh5NYBHuS88KqpwRZAaCijopbn+KAUzk9x5Oxk/Cs8JOc08/w=="
       },
       {
+        "name": "CANAL+ LIGUE** 1",
+        "ico": "https://upload.wikimedia.org/wikipedia/fr/2/2b/C%2BLigue_1.png",
+        "uri": "ONtdzXQhLEFpyDjOZJxNM1Pv7XwxmrKdS5EUdU7d1Ma7k1jdbtKu43k1cNjCmox3vCxZpBxhWmxsmNi2JufO8HezWVkjZD7chhVSCE2abME=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EewPn5/8DYtijANltb1DrjjvvwbjhmXtwuvvwBaCyWoGj+KLsVU2Md0JUXppSA5Fm33nmXJ/v5TuC6k46wvxKomfljxHstz2zcwepIBsjA3lpvftLCGDT83RGfVAG5WQgg=="
+      },
+      {
         "name": "DAZN RISE",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
         "uri": "1DZsi0eFr4m2AK6C0QxLmGwqE8Y2HN9OHSfXH8FM8w8/T0lg/P0eVYy+3cCvtRH+Uxmb0jqOVzrIAUpqatl/VznZMHq17GjXTyVTwvmojfk=",
@@ -4299,6 +4320,55 @@
         "name": "TVP SPORT",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/9/9d/TVP_Sport_HD_Logo.png",
         "uri": "9ZEJMTOf9Se2dNkG5KHiotM3OYfCIA994z/tgMhGCPHbwcf9yVcIKA4Qgmd1gVBC",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "SPORT TV 1",
+        "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
+        "uri": "RM61iDxnJDTr1M3KEJsYUQ+ofihTsFKEUHKALiR6xGqGySqMsnDK+J6JRX4NJZDVpbjCXBBOM0EEVPcRqZRunA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "SPORT TV 2",
+        "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
+        "uri": "RM61iDxnJDTr1M3KEJsYUQ+ofihTsFKEUHKALiR6xGqGySqMsnDK+J6JRX4NJZDVQ7qVzdmb5BSjXDiSlTicNw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "SPORT TV 3",
+        "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
+        "uri": "RM61iDxnJDTr1M3KEJsYUQ+ofihTsFKEUHKALiR6xGqGySqMsnDK+J6JRX4NJZDVgIP391VtbbjC4aZXdOlOsQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "SPORT TV 4",
+        "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
+        "uri": "RM61iDxnJDTr1M3KEJsYUQ+ofihTsFKEUHKALiR6xGqGySqMsnDK+J6JRX4NJZDVlx3T/niA93xiDZE1IS4vwQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "SPORT TV 5",
+        "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
+        "uri": "RM61iDxnJDTr1M3KEJsYUQ+ofihTsFKEUHKALiR6xGqGySqMsnDK+J6JRX4NJZDV6sPD6DnEofKkVVHEqsqiNA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "SPORT TV PLUS",
+        "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
+        "uri": "RM61iDxnJDTr1M3KEJsYUQ+ofihTsFKEUHKALiR6xGqGySqMsnDK+J6JRX4NJZDVO+2HI55Y8a/AccIYy+FVaA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "BEIN SPORTS CANADA",
+        "ico": "https://i.ibb.co/mDzNP34/bein-sports-logo-DF38-CDADF6-seeklogo-com.png",
+        "uri": "RM61iDxnJDTr1M3KEJsYUQ+ofihTsFKEUHKALiR6xGpCiukz2f7yAroNWzhyu24kSjS/6hF8QrMx+FoSJsl73Q==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -5288,8 +5358,8 @@
       },
       {
         "name": "COMBATE",
-        "ico": "https://i.ibb.co/16P8MSW/Canal-Combate-Logo-PNG-Vector-CDR-Free-Download.jpg",
-        "uri": "6x1RxIbubcjZq6GXEssFF+qoz9Qc3wUrf+KzdpiOvAeC+yGLzQfmrd2Nm82ExX8S3THCyNB/86/+4iw8TYgzypxbIQBqUi3S3c6ZDtTZv48=",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Canal-combate-logo.png/798px-Canal-combate-logo.png",
+        "uri": "RM61iDxnJDTr1M3KEJsYUT/vbOssSCBD+lKfJT1VzpI1mwZhq9mDHBmQlS/e+uu3VJoNPHewPwG/i5o5c0jEUgwG44K2IGixJvooBY6yrQU=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
