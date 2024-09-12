@@ -214,7 +214,7 @@
       },
       {
         "name": "TELEFE ROSARIO",
-        "ico": "https://static.tvar.io/imagenes/teleferosario.png",
+        "ico": "https://raw.githubusercontent.com/DryKillLogic/tv-logos/main/countries/argentina/telefe-ar.png",
         "uri": "EGbTdQSc58tHgH0HJaX1fywder//z/T9Ro7QaKhLvSTGIWTbIArbBB1AG5ZfT0oV3Zc9QsOPkUoQf2lOUjlSyye/yfhFvey+uk5UtxWnCHLm+lb1fIBeVkEMR1/Gn0HqpEkEWU8VU3eMgZCJcoFZTw==",
         "drm_scheme": "clearkey",
         "drm_license_url": "pfccQdO0x9675khuei5j0aEQydm/Uu+slrA1DU8/kOqRJh02TcP5W/34DEcVWbQhszM1ob9FKzJmNXylkSwQElJB1uXYtwPV8YyvJsT7TF8CYgVXzmUIkNnz1WvfpqltK6x94DiUVQ31XH1w7p+6ID4T/oZBz1qHlqc3RI7yrFo="
@@ -958,21 +958,14 @@
       },
       {
         "name": "TELEFE ROSARIO",
-        "ico": "https://static.tvar.io/imagenes/teleferosario.png",
+        "ico": "https://raw.githubusercontent.com/DryKillLogic/tv-logos/main/countries/argentina/telefe-ar.png",
         "uri": "EGbTdQSc58tHgH0HJaX1fywder//z/T9Ro7QaKhLvSTGIWTbIArbBB1AG5ZfT0oV3Zc9QsOPkUoQf2lOUjlSyye/yfhFvey+uk5UtxWnCHLm+lb1fIBeVkEMR1/Gn0HqpEkEWU8VU3eMgZCJcoFZTw==",
         "drm_scheme": "clearkey",
         "drm_license_url": "pfccQdO0x9675khuei5j0aEQydm/Uu+slrA1DU8/kOqRJh02TcP5W/34DEcVWbQhszM1ob9FKzJmNXylkSwQElJB1uXYtwPV8YyvJsT7TF8CYgVXzmUIkNnz1WvfpqltK6x94DiUVQ31XH1w7p+6ID4T/oZBz1qHlqc3RI7yrFo="
       },
-      {
+        {
         "name": "CANAL 3 ROSARIO",
-        "ico": "https://static.tvar.io/imagenes/canal3rosario.png",
-        "uri": "Tm+yTd6LO3geSoxzBJOeB5+M8HiN/4QE6iQXHMyR6jPHH7/AXR29IuC228vm0GtO61hbWbTCWLAmnvp3D/lnEweFU8LkT9OOM0SFWTK4bMj+0KwZ5k4BlbIqcUgb0mUzNn/hh3MavjUDCRYg1CT6djv9EkEDf3Uix1YEJ2MuKIq94RhZX21yB8Mi6TtbTq0QmuSOqoloade/337RhwmBu0EHJjwmEwBBWDBYAJT75nw=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CANAL 3 ROSARIO",
-        "ico": "https://static.tvar.io/imagenes/canal3rosario.png",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Eltres_RGB-grad_%28positivo%29.png/800px-Eltres_RGB-grad_%28positivo%29.png",
         "uri": "EGbTdQSc58tHgH0HJaX1f2ULMfYo0o1gmPP720AkXjOtldBCJO7Bz7MgJoTQUk21sJLX+hWAUXGxytmyYZMe+6RrKnfY7QH0q7sgUM3fmMVbOxRIzdgie1DPWLtLbc64+AGiJQIB8IsodZbmv1hJ5A==",
         "drm_scheme": "clearkey",
         "drm_license_url": "pfccQdO0x9675khuei5j0RBhJPHTZq1zPewDSgzyL70A6yHt68sE5Zb2Adpd+RmJbIQtMQr7SOkX0HcbTxngucBwA92DBF7d6E5l+IrGVcrWVtFiNSM8xBmytUvgshPg5D1KcoTOH0jh4ipyyWBCqdSi+BUjWg+D0X8LS90txUs="
@@ -3092,6 +3085,13 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+             {
+    "name": "COMBATE",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Canal-combate-logo.png/798px-Canal-combate-logo.png",
+    "uri": "RM61iDxnJDTr1M3KEJsYUT/vbOssSCBD+lKfJT1VzpI1mwZhq9mDHBmQlS/e+uu3VJoNPHewPwG/i5o5c0jEUgwG44K2IGixJvooBY6yrQU=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "AMAZON PRIME",
         "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/media/amazon-prime.png",
@@ -3322,6 +3322,13 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+  {
+    "name": "VTV+",
+    "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
+    "uri": "RM61iDxnJDTr1M3KEJsYUT/vbOssSCBD+lKfJT1VzpI1mwZhq9mDHBmQlS/e+uu3jZ9YVDofTAMhZ8komJ3oKJjrTGAaLr+G3JCLYbLK/Mk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "VTV+",
         "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
@@ -5349,13 +5356,13 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-      {
-        "name": "COMBATE",
-        "ico": "https://i.ibb.co/16P8MSW/Canal-Combate-Logo-PNG-Vector-CDR-Free-Download.jpg",
-        "uri": "6x1RxIbubcjZq6GXEssFF+qoz9Qc3wUrf+KzdpiOvAeC+yGLzQfmrd2Nm82ExX8S3THCyNB/86/+4iw8TYgzypxbIQBqUi3S3c6ZDtTZv48=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
+       {
+    "name": "COMBATE",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Canal-combate-logo.png/798px-Canal-combate-logo.png",
+    "uri": "RM61iDxnJDTr1M3KEJsYUT/vbOssSCBD+lKfJT1VzpI1mwZhq9mDHBmQlS/e+uu3VJoNPHewPwG/i5o5c0jEUgwG44K2IGixJvooBY6yrQU=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "UFC PASS",
         "ico": "https://i.ibb.co/GsPN4Yp/63ab4f5a7a18d4001ca360c9-UFC-Fight-Pass-hor-neg.png",
