@@ -3378,268 +3378,65 @@
     "mode": false,
     "lista": [
       {
+        "name": "CANAL 24HS",
+        "ico": "https://i.postimg.cc/YCpPKh09/24-horas.png",
+        "uri": "RM61iDxnJDTr1M3KEJsYUXMo1PAS813vYPxem0jVCKRtX6JRb+dXtQ1bSVtaG++qoCTjYwrKLYgrYI15BPqBow==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CNN CHILE",
+        "ico": "https://1000marcas.net/wp-content/uploads/2020/03/logo-CNN.png",
+        "uri": "RM61iDxnJDTr1M3KEJsYUXMo1PAS813vYPxem0jVCKRtX6JRb+dXtQ1bSVtaG++qNSZX2BXeXkVd9z/ePiMuPg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "LA RED",
+        "ico": "https://i.postimg.cc/C18V7TvX/Emblema-de-La-Red.png",
+        "uri": "RM61iDxnJDTr1M3KEJsYUXMo1PAS813vYPxem0jVCKRtX6JRb+dXtQ1bSVtaG++q6Rf/OGCCpcdDYH3tqqeyiw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
         "name": "MEGA",
         "ico": "https://i.postimg.cc/FHz0t4yc/mega.png",
-        "uri": "waUd8VVIOdZJU4Hh2FnSkrUOQjIaIWbcMoBsjLW1yVdXgIrBS3yBmOlbF4nAMoSVpN09bg7JB9NRz64QwZr9Ew==",
+        "uri": "1rhMcQEF2kDS/+/vGyAvOmssK1hCeOItvMqbc8NpV5cyZ6pbtlKzw6+IZe2cWVN5syGm5QTA60laiKXN3cRnTg==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "TNT CHILE",
         "ico": "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_06/large.TNTSportsblanco.png.3bf2299320c437aa71b172fbed1c837c.png",
-        "uri": "waUd8VVIOdZJU4Hh2FnSkrUOQjIaIWbcMoBsjLW1yVdXgIrBS3yBmOlbF4nAMoSVe8+tVAqda86VZ+1jLK5sJw==",
+        "uri": "RM61iDxnJDTr1M3KEJsYUXMo1PAS813vYPxem0jVCKRtX6JRb+dXtQ1bSVtaG++qCxEMUHImu9juEYfHeR0OZg==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "TV +",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png",
-        "uri": "waUd8VVIOdZJU4Hh2FnSkrUOQjIaIWbcMoBsjLW1yVdXgIrBS3yBmOlbF4nAMoSVH/xlWimyCp54EptrKgapTw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CHILEVISIÓN",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Logotipo_Secundario_de_Chilevisi%C3%B3n.svg/800px-Logotipo_Secundario_de_Chilevisi%C3%B3n.svg.png",
-        "uri": "waUd8VVIOdZJU4Hh2FnSkrUOQjIaIWbcMoBsjLW1yVdXgIrBS3yBmOlbF4nAMoSVenj59UCtNCEZBDGTVZ+SMg==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "TVN",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg/90px-Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg.png",
-        "uri": "waUd8VVIOdZJU4Hh2FnSkrUOQjIaIWbcMoBsjLW1yVdXgIrBS3yBmOlbF4nAMoSVOIf0kTk6OypgaDQ4bAEq6Q==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LA RED",
-        "ico": "https://i.postimg.cc/C18V7TvX/Emblema-de-La-Red.png",
-        "uri": "waUd8VVIOdZJU4Hh2FnSkrUOQjIaIWbcMoBsjLW1yVdXgIrBS3yBmOlbF4nAMoSVRH8AMlAoe4AjjWkaqZd1hg==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CANAL 24HS",
-        "ico": "https://i.postimg.cc/YCpPKh09/24-horas.png",
-        "uri": "waUd8VVIOdZJU4Hh2FnSkrUOQjIaIWbcMoBsjLW1yVdXgIrBS3yBmOlbF4nAMoSVgfJ1H66peVzRu8PFk5hr7g==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CNN CHILE",
-        "ico": "https://1000marcas.net/wp-content/uploads/2020/03/logo-CNN.png",
-        "uri": "waUd8VVIOdZJU4Hh2FnSkrUOQjIaIWbcMoBsjLW1yVdXgIrBS3yBmOlbF4nAMoSVRBkVbjLdW8Fw79CYhy7TvA==",
+        "uri": "RM61iDxnJDTr1M3KEJsYUXMo1PAS813vYPxem0jVCKRtX6JRb+dXtQ1bSVtaG++qwaBpveYWF1cDWQNFDV8+1Q==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "TV CHILE",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Logo_de_TV_Chile.png",
-        "uri": "waUd8VVIOdZJU4Hh2FnSkrUOQjIaIWbcMoBsjLW1yVdXgIrBS3yBmOlbF4nAMoSVnh3l4qJTUK8SslPWmVqHyQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CHV",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png",
-        "uri": "waUd8VVIOdZJU4Hh2FnSkrUOQjIaIWbcMoBsjLW1yVdXgIrBS3yBmOlbF4nAMoSVU4oyh0EG7FNP4lkN6G7b3A==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "13",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/7/72/13C_2018.png",
-        "uri": "smtG4uH5qi96pQYPFXPo3KdKMFTZ/2iw0ZtCB++yiGyzdeV22sUDvs/qLPxLcgXF0mobfhNQJHHBCFW1b2xMcEQMuYPRPKsTW263h8NLjmktlA5AEXNTHJUvxHGUGB/J",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "13",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/7/72/13C_2018.png",
-        "uri": "waUd8VVIOdZJU4Hh2FnSkrUOQjIaIWbcMoBsjLW1yVdXgIrBS3yBmOlbF4nAMoSVzJKO2mQMeydOP2Va0Z/PeA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CANAL 24HS",
-        "ico": "https://i.postimg.cc/YCpPKh09/24-horas.png",
-        "uri": "waUd8VVIOdZJU4Hh2FnSkrUOQjIaIWbcMoBsjLW1yVdXgIrBS3yBmOlbF4nAMoSV1pNRJ6yQlTz/YerwRhyXJw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CNN CHILE",
-        "ico": "https://i.postimg.cc/B60gfzQ0/cnnchile.png",
-        "uri": "EfFyxhrSaFbt7TVyWdyrR3hUhieIx772RZnXsgaNxNbyyTlVWb3jL9mbnMITRwbI2VxkhEItqNIBlDw+76KGWhQGIaPq0n0wjIUCvcBUCVWW+ZAY+8XuLASXapFc+NA0d9ojKlBsWptmeU4vhikskQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "MEGA",
-        "ico": "https://i.postimg.cc/FHz0t4yc/mega.png",
-        "uri": "1rhMcQEF2kDS/+/vGyAvOmssK1hCeOItvMqbc8NpV5cyZ6pbtlKzw6+IZe2cWVN5syGm5QTA60laiKXN3cRnTg==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "MEGA",
-        "ico": "https://i.postimg.cc/FHz0t4yc/mega.png",
-        "uri": "1rhMcQEF2kDS/+/vGyAvOmssK1hCeOItvMqbc8NpV5cyZ6pbtlKzw6+IZe2cWVN5syGm5QTA60laiKXN3cRnTg==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "MEGA",
-        "ico": "https://i.postimg.cc/FHz0t4yc/mega.png",
-        "uri": "jY7rEv3652enDcwu4cRIe4xWvhmw39OWwGPfYjMlTtrRyIlpFmQduLjeymj/GvIl",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "TNT CHILE",
-        "ico": "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_06/large.TNTSportsblanco.png.3bf2299320c437aa71b172fbed1c837c.png",
-        "uri": "jY7rEv3652enDcwu4cRIe4xWvhmw39OWwGPfYjMlTtrHxrFzHZtDt1D24IaOaN7i",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "TV +",
-        "ico": "https://www.tvmas.tv/assets/img/ott/logotvmas.svg",
-        "uri": "jY7rEv3652enDcwu4cRIe4xWvhmw39OWwGPfYjMlTtoWKpHDlFSQjmqIqSYO1CAN",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CHILEVISIÓN",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Logotipo_Secundario_de_Chilevisi%C3%B3n.svg/800px-Logotipo_Secundario_de_Chilevisi%C3%B3n.svg.png",
-        "uri": "jY7rEv3652enDcwu4cRIe4xWvhmw39OWwGPfYjMlTtqCYeTf6v+0jYAqVw3o3hKS",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CHILEVISIÓN",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Logotipo_Secundario_de_Chilevisi%C3%B3n.svg/800px-Logotipo_Secundario_de_Chilevisi%C3%B3n.svg.png",
-        "uri": "jY7rEv3652enDcwu4cRIe4xWvhmw39OWwGPfYjMlTtqCYeTf6v+0jYAqVw3o3hKS",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "13",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/7/72/13C_2018.png",
-        "uri": "H4Cs/+SiH3W8iSDiM0GLrknzHPtYSyM6cnhCGO87pznSywLSYivGhqSU6CLUBhNZ",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "TVN",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg/90px-Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg.png",
-        "uri": "jY7rEv3652enDcwu4cRIe4xWvhmw39OWwGPfYjMlTtqWNA4N+R0wM6wCJtwvZvG1",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LA RED",
-        "ico": "https://i.postimg.cc/C18V7TvX/Emblema-de-La-Red.png",
-        "uri": "jY7rEv3652enDcwu4cRIe4xWvhmw39OWwGPfYjMlTtrXZsKWvSwmxzwa11Qv1r6S",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CANAL 24HS",
-        "ico": "https://i.postimg.cc/YCpPKh09/24-horas.png",
-        "uri": "jY7rEv3652enDcwu4cRIe4xWvhmw39OWwGPfYjMlTtrWC3ct/qU685+Ypq2HSQLR",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CNN CHILE",
-        "ico": "https://1000marcas.net/wp-content/uploads/2020/03/logo-CNN.png",
-        "uri": "jY7rEv3652enDcwu4cRIe4xWvhmw39OWwGPfYjMlTtpkqStyAEEjTPETvPQIo9Dk",
-        "drm_scheme": "",
-        "drm_license_url": ""
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logotipo_de_TV_Chile.svg/686px-Logotipo_de_TV_Chile.svg.png",
+        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0FPLahHzVksQZrzrZrinIkLEpCFl6LAUqSQYGqyEM1DEthDfkyoAFJcFFC5reDHwT4EAt3ga7JMQrsvjRhRXOcs",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EbO9/BzGIMR6sYbDGhB3GUIGnLxDdxzp8S4YKHYWctFsG7wDpskH5HxjTs3x7GuDCbOOk7EacPlhhvUAT2eFvcWSGexP2nvCrZRBn9yReJNe+CTmyfV40U1Ai3vJOuBlqw=="
       },
       {
         "name": "TV CHILE",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Logo_de_TV_Chile.png",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboiKJ3ClhQpWTNn9EJo8darS02VdANuG4VLNdwC047+GM=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "NTV",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Logotipo_de_NTV.svg/90px-Logotipo_de_NTV.svg.png",
-        "uri": "9Yp16NUiJTzLTvklwXKNMx6A9WUSLZKC0gP2Lz1rpFodug5iKAvZEE3H7WaLwgBieM48HwBU40ztpr9EvEGnXA9l2Zuq7gvHOm4QkO4CmQ4p0O0mIvkbiVnOc2asEPOt",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CHV",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubobGvffBEtVNBon3tO6RoWIuR7DyZy5q41+PhC4s/cZmo=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "13",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/7/72/13C_2018.png",
-        "uri": "1rhMcQEF2kDS/+/vGyAvOmssK1hCeOItvMqbc8NpV5cyZ6pbtlKzw6+IZe2cWVN5lufjJJvLQOLSlQt9hFQ79Q==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "13",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/7/72/13C_2018.png",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboGkqe1eEcLLyMncJyxaS2m3ese38x5PjyHMLjdJ6B+pk=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "D13",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Super_R%C3%A1dio_Tupi_logo_2019.png",
-        "uri": "KZ6ju2MXnTh4JWfRi4++He7Aj7Rt4KM1WxQEnXyAFDhNGFdSEEtyb8iBXYU36Bh6KSGWGGWX0OVsqwJVTaQHdPAcefyOELCoo1EshYcpMQsKrZ80TpqNU+vfkWqW7zzwCFJTo5jbGTgbmQ0MC0TKTOxvQVBsf66di99iCT7NgxDk4pT03927LviFClJJjw+2",
+        "uri": "RM61iDxnJDTr1M3KEJsYUXMo1PAS813vYPxem0jVCKRtX6JRb+dXtQ1bSVtaG++qSWOD7v4feSQzWVfyaynaqQ==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "TVN",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg/90px-Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg.png",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboms1Ow1hwsGvYUn6Eo+Hapqjmn2LdEcfK6fRwMHcvxgs=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LA RED",
-        "ico": "https://i.postimg.cc/C18V7TvX/Emblema-de-La-Red.png",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboEcXftcnWDF/uNo2qFM7WRo8Iv0D/X2OW5VVgNH5sFkc=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CANAL 24HS",
-        "ico": "https://i.postimg.cc/YCpPKh09/24-horas.png",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubogF1zBZA0iobpcwsD94lhsIeDntXCL1OWmH+PxNkuCaw=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CNN CHILE",
-        "ico": "https://i.postimg.cc/B60gfzQ0/cnnchile.png",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubokFxsZoAtEo6wHbdHGQtLV9kTk6kCQUo8ktplUjVW1+I=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CNN CHILE",
-        "ico": "https://1000marcas.net/wp-content/uploads/2020/03/logo-CNN.png",
-        "uri": "73pYutAyrz+UHK9oJ15C7KpbKrQc2IjTOO0+9RcbxqPzIjIAkTR4NyjsYCG2Bm/JNRXYooFCcT5gnnR+T/uL/pzrNK+KjftWo4v+9+clxSE=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "REC13 CHILE",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/1/12/Logo_Rec_TV_%282014-2015%29.png",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubomdCQg3soy7CRBPBiaxbfn1x52g77laFJP/V0pEMfU60=",
+        "uri": "RM61iDxnJDTr1M3KEJsYUXMo1PAS813vYPxem0jVCKRtX6JRb+dXtQ1bSVtaG++qmGL7QF7WAZsTubQMcKilmQ==",
         "drm_scheme": "",
         "drm_license_url": ""
       }
@@ -3791,91 +3588,56 @@
       {
         "name": "UNITEL",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/8/88/Unitel_HD.jpg",
-        "uri": "waUd8VVIOdZJU4Hh2FnSkrUOQjIaIWbcMoBsjLW1yVdXgIrBS3yBmOlbF4nAMoSVMPAXXID+gFiRRxwFfVQHnw==",
+        "uri": "RM61iDxnJDTr1M3KEJsYUTCZAJ0N1Ummc5T0/Y+XW3KR3J5dOc6EvvwtuJlgh4sW0kxN9Dtwf2LelWvVXdraOA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "BOLIVIA TV",
+        "ico": "https://k4livetv.com/distribuidor/resize?maxw=96&maxh=32&url=s:1:/images/Bp-vRtZEje6kFpdMZzWxZxxqyQCXIZPqJFraYbTIwPlmM6zIBQqre2DAJ2dlhwcbUqCAhJdojFh1AkwfnGRWSyGcXbPVsFyMwP9nbxO8bKo.png",
+        "uri": "RM61iDxnJDTr1M3KEJsYUTCZAJ0N1Ummc5T0/Y+XW3KR3J5dOc6EvvwtuJlgh4sWw9HZX81LhDUavSnPZRPi6A==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "ATB",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/RedATB2022.png/150px-RedATB2022.png",
-        "uri": "waUd8VVIOdZJU4Hh2FnSkrUOQjIaIWbcMoBsjLW1yVdXgIrBS3yBmOlbF4nAMoSV/9HhbDJWxg3mPXJwX+M6gA==",
+        "uri": "RM61iDxnJDTr1M3KEJsYUTCZAJ0N1Ummc5T0/Y+XW3KR3J5dOc6EvvwtuJlgh4sWEFU+Pdn2GGt4vFtIMvAgAA==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "RED UNO",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/1280px-Uno_logo.svg.png",
-        "uri": "waUd8VVIOdZJU4Hh2FnSkrUOQjIaIWbcMoBsjLW1yVdXgIrBS3yBmOlbF4nAMoSVkZ/Cq1ogWE93yGDeKXdr/w==",
-        "drm_scheme": "",
+        "uri": "RM61iDxnJDTr1M3KEJsYUTCZAJ0N1Ummc5T0/Y+XW3KR3J5dOc6EvvwtuJlgh4sW1wWac/plGHZtTQ6fBAJddg==",
+        "drm_scheme": null,
         "drm_license_url": ""
       },
       {
-        "name": "RED UNO",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/1280px-Uno_logo.svg.png",
-        "uri": "waUd8VVIOdZJU4Hh2FnSkrUOQjIaIWbcMoBsjLW1yVdXgIrBS3yBmOlbF4nAMoSV2TB7DdXmCWINHW6NlF7TTQ==",
-        "drm_scheme": "",
+        "name": "RTP",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/1/14/Rtpbolivia2021.png",
+        "uri": "RM61iDxnJDTr1M3KEJsYUTCZAJ0N1Ummc5T0/Y+XW3KR3J5dOc6EvvwtuJlgh4sWQRBFownD/b8uUt+TriLlag==",
+        "drm_scheme": null,
         "drm_license_url": ""
       },
       {
-        "name": "UNITEL",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/8/88/Unitel_HD.jpg",
-        "uri": "Ve9ZAQMVLVXU/PeZvCNJhPxILGRQsamyvUSNEgbwinR1fQyEJlgpDayaWwTjAgkXl8U+AkDNftCj4E9t58KFgmtCnXwNOcSoX1mRZ6/G91TMp2gbcTXbGwRlf6NLFdE9yiPPTBh14x+FcbTP97VsxJNr713j1MhQcbaOoSeUu8h6nmKSI7ZHVx1Ym/CTT46AkJe6Ba0Oldljh29yxQeyNqilUkUGdd9q4ivywtgcQ2RT4LxkCeQ/G1Gg0rDKu+4w",
-        "drm_scheme": "",
+        "name": "TVU SUCRE",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/1/14/Rtpbolivia2021.png",
+        "uri": "RM61iDxnJDTr1M3KEJsYUTCZAJ0N1Ummc5T0/Y+XW3KR3J5dOc6EvvwtuJlgh4sWdwvFTsoOqPS0svLr+TA+Mg==",
+        "drm_scheme": null,
         "drm_license_url": ""
       },
       {
-        "name": "ATB",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/RedATB2022.png/150px-RedATB2022.png",
-        "uri": "Ve9ZAQMVLVXU/PeZvCNJhPxILGRQsamyvUSNEgbwinR1bJ8Fgfsn2d8zGVMc6WILtQwSmEHubmrwfJzMyT0Cf07AQ1vkYQ/2lX2fJOZz/CyghLAVEceDyebUzCgS7f/ZqP8MFejlPe55uncO2NGBF1BHjVwy0r2n4JeWXH0fou6PaaMkPv1+pLppyvxg4BUrMwsYyss0AqDllPL1SB+t8xCYFtcRDrhWpTX88M+Vs/Zueuaf/naH6awCa8ekT/eZ",
-        "drm_scheme": "",
+        "name": "TVU UNIVERSITARIA",
+        "ico": "https://www.tvusucre.com/images/Cabeza-logo.png",
+        "uri": "XPG+hF+MPuAx2jLRqrZ3UdhvUsSnWdgmCXMgLGhiKheNnzcNsUgSPo79TKcXYV/aFTP0tvultKcQTaIxW/PIzghyxtJpZlwfhePpsig83Fc=",
+        "drm_scheme": null,
         "drm_license_url": ""
       },
       {
-        "name": "RED UNO",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/1280px-Uno_logo.svg.png",
-        "uri": "Ve9ZAQMVLVXU/PeZvCNJhPxILGRQsamyvUSNEgbwinR8KV20PVgHC/evQ2vcKZ3K4OLgG/MvDwXYV/NP6EGfN/Z2EiK4jbpd5OZqjHzNvcNcZJxaZrrUkLqiFT4gtkBWSSPo06KX27/9w2i0G89wY2bMfLhNHRs9+tKQ1jt/izzbvMJM/g2wyNhfrD91rvLFgOVQSAImIzxaVasYQyGiwyzn3l/GfE7X/EF4QcWC7wIa9MXHEIhoOHnyLRPS6e8C",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "RED DTV",
-        "ico": "https://dtv.bo/wp-content/uploads/2023/07/cropped-icono-dtv.png",
-        "uri": "loP5t1cae7ptawJIEP4L5yjHGG295SaOfHE4S0jIISP5txsdYLDl1K688jFL7eD2uzrk6IBKPwcfQmzjujjIPw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "TELE ESTRELLA",
-        "ico": "https://teleestrella.tv.bo/wp-content/uploads/2023/10/cropped-LOGO-ESTRELLA-1920-PNG-1-1.png",
-        "uri": "/ijhfrhbaeKA/wk9i1WDk2UzFPOymD6QweS5IrsNUEP47t9XpLE6QZsa3fSX8vlkQp0VwEmlCMO03HgTih5Tu7vGZ+UcN47UdWJsoAaKdq7wvT9XGPCe0RgxXqDfgFvB",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "TVA TV",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/800px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png",
-        "uri": "Ve9ZAQMVLVXU/PeZvCNJhPxILGRQsamyvUSNEgbwinR8KV20PVgHC/evQ2vcKZ3K4OLgG/MvDwXYV/NP6EGfN/Z2EiK4jbpd5OZqjHzNvcOkoWglV+8TD7M3Mx/HEQow7c9r5LrmdY/lZT1lTAGYewaVHw6blNnjPNNiildlaByD1TxRuF9y7jIredjqjU4ly+5pE77sffQJPMPCeOZ6fZa+qu6As4lRSZ8p7v273wT1VxmN0yD2CNQVgAiA1Mn1",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "RED AMERICA",
-        "ico": "https://redamerica.tv.bo/wp-content/uploads/2024/01/cropped-cropped-logo_ra.png",
-        "uri": "Luf+RcpCrLsxZQbE0iw3m3oVuI6Y4OoIsbKcLl5HX0t/Vz+56d3EWzsJg8TdS0YjLIdMqQe9S69FZ73qw7uMcw5vXXG9uKW7AjKKr8hjNbI=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "DELTA TV",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bandera_de_Bolivia_%28Estado%29.svg/800px-Bandera_de_Bolivia_%28Estado%29.svg.png",
-        "uri": "j7p+k3SK4wsYwLFK3WlRJstfQ1ryHKk3tGTLehH/Qw0rv2kq5dWeLGhxkOxEp/CdBm4Eqj485V4rfevi9VlvL9cx7U0gkSqbOp7NW3NkaEw=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "SIGLO XXI",
-        "ico": "https://redsigloxxibolivia.com/wp-content/uploads/2020/11/Logo-color-Blanco-1-300x225.png",
-        "uri": "/ijhfrhbaeKA/wk9i1WDk2UzFPOymD6QweS5IrsNUEOlOlT7+3dcxfk3O7ndM4Zy7qANiFW+gVFoL6YQC5qNrmh45RSYI/oW+YWGhsd/05I=",
+        "name": "BOLIVISIÓN",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bolivision.png/600px-Bolivision.png",
+        "uri": "RM61iDxnJDTr1M3KEJsYUTCZAJ0N1Ummc5T0/Y+XW3KR3J5dOc6EvvwtuJlgh4sWa+V4p52z8CAXrV7K87dT1w==",
         "drm_scheme": "",
         "drm_license_url": ""
       }
