@@ -929,6 +929,20 @@
     "mode": false,
     "lista": [
       {
+    "name": "CANAL 10 NEUQUÉN",
+    "ico": "https://diario10.com.ar/wp-content/uploads/2024/04/LOGO-DIARIO10-2020-OK_544-X-180.png",
+    "uri": "H3Usj/m0p2+5g8/eLU0ibeFyGlxXXVkUwGf9XxGaaw8/NyMzqgkwu0XEQpk9g3r0IfAlOJCxbUDQcW3sVmtzYk62h0bK7qcltrWdNoxxNQ2/TJmso/1sh+eNxoXbGV07",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "RTN NEUQUÉN",
+    "ico": "https://www.rtnweb.gob.ar/wp-content/uploads/2017/04/LOGO-RTN-Web.png",
+    "uri": "StCJ/QUgxkXWtS/PJVfvgIkwI6Erb/fU7ynBnUW8Hv6k+Hi8zrOfdrq+5qrQRVDFxIXpS+Ss1ObH4ND0LTrBag==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+ {
         "name": "2 MAR DEL PLATA",
         "ico": "https://i.ibb.co/qN6hyqk/canal2mdp-jpg.png",
         "uri": "FTu3LsLvfdIiqlG1vbUiv/rHZfWrUO8yZOED+IYe1I7EoffRHyxB4RCJBnTfPDSug21nJ0cvrehkZNRYfLX/ng==",
