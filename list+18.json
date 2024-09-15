@@ -818,13 +818,13 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
- {
-    "name": "INTER MIAMI",
-    "ico": "https://upload.wikimedia.org/wikipedia/tr/thumb/9/93/Inter_Miami_CF_logo.png/600px-Inter_Miami_CF_logo.png?20200723120044",
-    "uri": "kerMsZ4+4jaDO68Wg0enV3Iqz7ZAx3uFcrEBpxbgFUbeRhMQBTxn6DgLtWqaXm9keGkKlp6hID/p+haUrFRFu3sRmKUvx069V36jzSG/fRprwImdj0oKD5Yf44P9rD5cYn0tQDvYEm8xF2Bd1yW/6w==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
+      {
+        "name": "INTER MIAMI",
+        "ico": "https://upload.wikimedia.org/wikipedia/tr/thumb/9/93/Inter_Miami_CF_logo.png/600px-Inter_Miami_CF_logo.png?20200723120044",
+        "uri": "kerMsZ4+4jaDO68Wg0enV3Iqz7ZAx3uFcrEBpxbgFUbeRhMQBTxn6DgLtWqaXm9keGkKlp6hID/p+haUrFRFu3sRmKUvx069V36jzSG/fRprwImdj0oKD5Yf44P9rD5cYn0tQDvYEm8xF2Bd1yW/6w==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
       {
         "name": "MEXICO",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MX_logo.png/800px-MX_logo.png",
@@ -845,6 +845,117 @@
         "uri": "WIG4ZAXMFjg0tG1FB1ktWQl3k5J85siV7IBkfuv5PI45oXIIbFjHjRCmSH1qTaWO6de9x+z2tmuadcBgnI45/gRF+3ADvV2inA1Q3f7Lm5M=",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EUYT5lHJ1i+GBBDcb0+k8DQv5DzhVFydrNh0asDV1S0Z9+RzoKPyxbs+najnrjC3jKtaISvfez4EAl5Ne+9GaKjpijI1t5NMlsk0OA08SfPjRfR6Bp0L4spK4OXL/Ihj0A=="
+      }
+    ]
+  },
+  {
+    "name": "⚽EVENTOS DISNEY+",
+    "mode": false,
+    "lista": [
+      {
+        "name": " EVENTOS DISNEY+1️⃣",
+        "ico": "https://iili.io/d4fzo0b.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnirUIRXX09kEwcgekCQFfTu8rzbx5OmpoV2bl0mHH4MwU=",
+        "drm_scheme": null,
+        "drm_license_url": ""
+      },
+      {
+        "name": " EVENTOS DISNEY+2️⃣",
+        "ico": "https://iili.io/d4fzo0b.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnisN1xTlVRl511Nof8itinEPK74kjpvHc1yceH7UPzWC0=",
+        "drm_scheme": null,
+        "drm_license_url": ""
+      },
+      {
+        "name": " EVENTOS DISNEY+3️⃣",
+        "ico": "https://iili.io/d4fzo0b.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniygMjTPD7yz6Z0gt5qM/CrXDh6YtCcxL/LW/ajKbt9SQ=",
+        "drm_scheme": null,
+        "drm_license_url": ""
+      },
+      {
+        "name": " EVENTOS DISNEY+4️⃣",
+        "ico": "https://iili.io/d4fzo0b.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnilHp4v8122w+BUkayE/Jy/Ye7DXJSLsSXM8SkrGapZAU=",
+        "drm_scheme": null,
+        "drm_license_url": ""
+      },
+      {
+        "name": " EVENTOS DISNEY+5️⃣",
+        "ico": "https://iili.io/d4fzo0b.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniPHTHREp73ax8cTijbjK7VnX88pD/PYtZyEz7YturxqE=",
+        "drm_scheme": null,
+        "drm_license_url": ""
+      },
+      {
+        "name": " EVENTOS DISNEY+6️⃣",
+        "ico": "https://iili.io/d4fzo0b.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnixfBMvHjll63iShCtS6dDjEGZqHgPkhaK1jZ53uNDOCc=",
+        "drm_scheme": null,
+        "drm_license_url": ""
+      },
+      {
+        "name": " EVENTOS DISNEY+7️⃣",
+        "ico": "https://iili.io/d4fzo0b.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wni5gBODj9Y0i9mBShFxHkJBlGFRYs0KyCrENz7OfJdThY=",
+        "drm_scheme": null,
+        "drm_license_url": ""
+      },
+      {
+        "name": " EVENTOS DISNEY+8️⃣",
+        "ico": "https://iili.io/d4fzo0b.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniRJqIWTiZcKOqBMfsdVQA05uJt1rqjNKihcaaiZ1EfM0=",
+        "drm_scheme": null,
+        "drm_license_url": ""
+      },
+      {
+        "name": " EVENTOS DISNEY+9️⃣",
+        "ico": "https://iili.io/d4fzo0b.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wni22QEenXDnocAQxjO5fPWL8sJs+D7d+6c63Xnw4vtGB0=",
+        "drm_scheme": null,
+        "drm_license_url": ""
+      },
+      {
+        "name": " EVENTOS DISNEY+10",
+        "ico": "https://iili.io/d4fzo0b.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniRkdbNV4AdeWQlfU9dOR8TFeMUNldRMQ0nbFT6rUOhEs=",
+        "drm_scheme": null,
+        "drm_license_url": ""
+      },
+      {
+        "name": " EVENTOS DISNEY+11",
+        "ico": "https://iili.io/d4fzo0b.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniNR0B5bFliIN+d9ImkvS7xhy0ufpPxVH2yRGcYxLQB28=",
+        "drm_scheme": null,
+        "drm_license_url": ""
+      },
+      {
+        "name": " EVENTOS DISNEY+12",
+        "ico": "https://iili.io/d4fzo0b.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wni2sfAbaLQ4jtfA+d24WWgPgFvzvtGh17bxPZa49ByhQA=",
+        "drm_scheme": null,
+        "drm_license_url": ""
+      },
+      {
+        "name": " EVENTOS DISNEY+13",
+        "ico": "https://iili.io/d4fzo0b.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnimIWdWVk3FGgMhxsBwaF53rcl91wnysCRxfu5b3H+sH4=",
+        "drm_scheme": null,
+        "drm_license_url": ""
+      },
+      {
+        "name": " EVENTOS DISNEY+14",
+        "ico": "https://iili.io/d4fzo0b.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wniza8PsizoruWXpFst253VLCQsq/+Dlp1cJ/09wQQvZns=",
+        "drm_scheme": null,
+        "drm_license_url": ""
+      },
+      {
+        "name": " EVENTOS DISNEY+15",
+        "ico": "https://iili.io/d4fzo0b.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniERBze4a6E4Gv4+Et3xQvrV7DS0hig5AyGEt9mPFOlrA=",
+        "drm_scheme": null,
+        "drm_license_url": ""
       }
     ]
   },
@@ -929,20 +1040,20 @@
     "mode": false,
     "lista": [
       {
-    "name": "CANAL 10 NEUQUÉN",
-    "ico": "https://diario10.com.ar/wp-content/uploads/2024/04/LOGO-DIARIO10-2020-OK_544-X-180.png",
-    "uri": "H3Usj/m0p2+5g8/eLU0ibeFyGlxXXVkUwGf9XxGaaw8/NyMzqgkwu0XEQpk9g3r0IfAlOJCxbUDQcW3sVmtzYk62h0bK7qcltrWdNoxxNQ2/TJmso/1sh+eNxoXbGV07",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "RTN NEUQUÉN",
-    "ico": "https://www.rtnweb.gob.ar/wp-content/uploads/2017/04/LOGO-RTN-Web.png",
-    "uri": "StCJ/QUgxkXWtS/PJVfvgIkwI6Erb/fU7ynBnUW8Hv6k+Hi8zrOfdrq+5qrQRVDFxIXpS+Ss1ObH4ND0LTrBag==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
- {
+        "name": "CANAL 10 NEUQUÉN",
+        "ico": "https://diario10.com.ar/wp-content/uploads/2024/04/LOGO-DIARIO10-2020-OK_544-X-180.png",
+        "uri": "H3Usj/m0p2+5g8/eLU0ibeFyGlxXXVkUwGf9XxGaaw8/NyMzqgkwu0XEQpk9g3r0IfAlOJCxbUDQcW3sVmtzYk62h0bK7qcltrWdNoxxNQ2/TJmso/1sh+eNxoXbGV07",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "RTN NEUQUÉN",
+        "ico": "https://www.rtnweb.gob.ar/wp-content/uploads/2017/04/LOGO-RTN-Web.png",
+        "uri": "StCJ/QUgxkXWtS/PJVfvgIkwI6Erb/fU7ynBnUW8Hv6k+Hi8zrOfdrq+5qrQRVDFxIXpS+Ss1ObH4ND0LTrBag==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
         "name": "2 MAR DEL PLATA",
         "ico": "https://i.ibb.co/qN6hyqk/canal2mdp-jpg.png",
         "uri": "FTu3LsLvfdIiqlG1vbUiv/rHZfWrUO8yZOED+IYe1I7EoffRHyxB4RCJBnTfPDSug21nJ0cvrehkZNRYfLX/ng==",
@@ -3009,13 +3120,13 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-  {
-    "name": "RECORD RIO",
-    "ico": "https://raw.githubusercontent.com/DryKillLogic/tv-logos/main/countries/brazil/rede-record-br.png",
-    "uri": "kerMsZ4+4jaDO68Wg0enV3Iqz7ZAx3uFcrEBpxbgFUbeRhMQBTxn6DgLtWqaXm9kryhfHnmEezEFL5n/wEqB+t8fc3HZO5erWKiRJX6aOwjPMlQWkRASHIdQJRzc6o68z8J+lvfee3H3+tWr2y+qYQ==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
+      {
+        "name": "RECORD RIO",
+        "ico": "https://raw.githubusercontent.com/DryKillLogic/tv-logos/main/countries/brazil/rede-record-br.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV3Iqz7ZAx3uFcrEBpxbgFUbeRhMQBTxn6DgLtWqaXm9kryhfHnmEezEFL5n/wEqB+t8fc3HZO5erWKiRJX6aOwjPMlQWkRASHIdQJRzc6o68z8J+lvfee3H3+tWr2y+qYQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
       {
         "name": "GLOBO NEWS",
         "ico": "https://raw.githubusercontent.com/DryKillLogic/tv-logos/main/countries/brazil/globo-news-br.png",
@@ -3383,6 +3494,82 @@
         "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
         "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTVN5VcvHjMNcychnlG+LjHCGpjqtBcvGTFr8x3wPtXAk=",
         "drm_scheme": "",
+        "drm_license_url": ""
+      }
+    ]
+  },
+  {
+    "name": "🇺🇾 DEPORTES URUGUAY",
+    "mode": false,
+    "lista": [
+      {
+        "name": "1️⃣ DSPORTS ᴾʳᶦᵐᵉʳᵃ ᵁʳᵘᵍᵘᵃʸ",
+        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/dsports-lam.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniGoOEHUIK9XetUvs0Ko2eff1MHs8408UjZdE7WlnhDXU=",
+        "drm_scheme": null,
+        "drm_license_url": ""
+      },
+      {
+        "name": "2️⃣ DSPORTS ᴾʳᶦᵐᵉʳᵃ ᵁʳᵘᵍᵘᵃʸ",
+        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/dsports-lam.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniL3DoE04/m5IInwm3lhhnV2rPLp+77nWm/NhskxQNTCs=",
+        "drm_scheme": null,
+        "drm_license_url": ""
+      },
+      {
+        "name": "DIRECTV UY ᴾʳᶦᵐᵉʳᵃ ᵁʳᵘᵍᵘᵃʸ",
+        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/dsports-lam.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnigSRDuA89pPLB7oj/xBsm+GJM4hzgJrlXsJrkbRYQvmw=",
+        "drm_scheme": null,
+        "drm_license_url": ""
+      },
+      {
+        "name": "DIRECTV UY ᴾʳᶦᵐᵉʳᵃ ᵁʳᵘᵍᵘᵃʸ",
+        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/dsports-lam.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniYu/Na8XEwNkEKwXw163c9txbxDfjbKCvDnExC49hGmw=",
+        "drm_scheme": null,
+        "drm_license_url": ""
+      },
+      {
+        "name": "VTV PLUS",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/1280px-Uno_logo.svg.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnipxdiW5VH8Zcnusm0MKdqvNtmWB9O4EJ9pv16qMYeQh4=",
+        "drm_scheme": null,
+        "drm_license_url": ""
+      },
+      {
+        "name": "PPV 1 URUGUAY ᴴᴰ ",
+        "ico": "https://iili.io/d4K4azG.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnibfLgkQe8GUhgbvXr9VZtn05KKkipzYFXS2QcbcptaXg=",
+        "drm_scheme": null,
+        "drm_license_url": ""
+      },
+      {
+        "name": "PPV 2 URUGUAY ᴴᴰ ",
+        "ico": "https://iili.io/d4K4azG.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniISB+x3oY0kc2+O9M54Ib6Cv+Drtuy4rD8/ksZhUDZ48=",
+        "drm_scheme": null,
+        "drm_license_url": ""
+      },
+      {
+        "name": "PPV 3 URUGUAY ᴴᴰ ",
+        "ico": "https://iili.io/d4K4azG.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wni1XYXVgPOOkcssoM30jwmzcKSxJk39YUYvcEnLKtbnTo=",
+        "drm_scheme": null,
+        "drm_license_url": ""
+      },
+      {
+        "name": "GOLTV ᴴᴰ ",
+        "ico": "http://omegabox.live:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWVyNdGSIrPSU-Q9fVLW48RivO5UDL7tQhQKv2p3cHo7gA.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wni+XO2dFuRoyrn9IUyT+hctFXNyEHepCgVPKCZs5t2iaU=",
+        "drm_scheme": null,
+        "drm_license_url": ""
+      },
+      {
+        "name": "GOLTV ᴴᴰ ",
+        "ico": "http://omegabox.live:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWVyNdGSIrPSU-Q9fVLW48RivO5UDL7tQhQKv2p3cHo7gA.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniJF4ZfK6k229XG6i9mcgR+YHzzw7QcH0HkI8WQvFgPEU=",
+        "drm_scheme": null,
         "drm_license_url": ""
       }
     ]
