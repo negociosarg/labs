@@ -121,7 +121,7 @@
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EQ8Ln4h/MDRjL5Viu1ZDccRxCBr77ds066qDbkJq4brKG/fSKkhFGWH4kedf2cDwgbNCJTfsaWrJ0PKP1v+/P1kRO6w1F8ROnKVAR3fs59sBrrX5Sth+AjZ3w1t6RT03Fg=="
       },
-        {
+      {
         "name": "C5N",
         "ico": "https://i.ibb.co/pzRgLkD/c5n.webp",
         "uri": "EGbTdQSc58tHgH0HJaX1f2bZe9P/1h5bYRhVGGeJ83AWKCiOgaTENd6PjseYTctgjJVuEJJEDgtzEDGAFv9efh6z0xk/o6yy/25vNkEk8OI=",
@@ -3064,7 +3064,7 @@
     "name": "🇵🇾 TIGO PARAGUAY",
     "mode": false,
     "lista": [
-    {
+      {
         "name": "TIGO SPORT 24/7",
         "ico": "https://andabolivia.com/wp-content/uploads/2018/05/tigo-sports.png",
         "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniIN9sXjApAzlBPsl9KOOJ2XgwLkWXFYqDf8qWYicCzcc=",
@@ -3682,7 +3682,7 @@
         "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wni1XYXVgPOOkcssoM30jwmzcKSxJk39YUYvcEnLKtbnTo=",
         "drm_scheme": null,
         "drm_license_url": ""
-      },      
+      },
       {
         "name": "1️⃣ DSPORTS ᴾʳᶦᵐᵉʳᵃ ᵁʳᵘᵍᵘᵃʸ",
         "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/dsports-lam.png",
@@ -3718,7 +3718,6 @@
         "drm_scheme": null,
         "drm_license_url": ""
       },
-    
       {
         "name": "GOLTV ᴴᴰ ",
         "ico": "http://omegabox.live:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWVyNdGSIrPSU-Q9fVLW48RivO5UDL7tQhQKv2p3cHo7gA.png",
@@ -4097,6 +4096,138 @@
         "name": "AGUACATE TV",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/135px-Flag_of_Venezuela.svg.png",
         "uri": "4qnkbTx9KTNPb4GD//3uSJW5jWLRUhTYNxgA5qFAJjCfeEw9w7YMnapHsMlCpuCsZnmbd+oWJ5cwVrWbpcuJwn7kTYCrIbEsT8ORY1wrPwRNEdrAoChNQfEi1hiahddp",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      }
+    ]
+  },
+  {
+    "name": "🇫🇷 FRANCIA",
+    "mode": false,
+    "lista": [
+      {
+        "name": "CANAL+ FHD",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1280px-Logo_Canal%2B_1995.svg.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wnit4ijTpz+5hnKkQkxvTgJV1bFf2Ideffiv39lP2r6B/k=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CANAL+ SPORT FHD",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Logo_Canal%2B_Sport_2013.svg/1280px-Logo_Canal%2B_Sport_2013.svg.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnieSd50Mdd9YoA2TTSTJCA8OEf85svbf7I5Due3fD0zmo=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "L'EQUIPE 21 FHD",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/L%27%C3%89quipe_wordmark.svg/1280px-L%27%C3%89quipe_wordmark.svg.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniaEv1xWfGfv2ULN5HSjjsbSGY26NupY/zuSWQwOUFWzc=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TF1 FHD",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Logo_TF1_2013.svg/1280px-Logo_TF1_2013.svg.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniJpwp8M55feB1R0REPNcs/qPsmFhkYNVL4Wzj6z+4548=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "FRANCE 2 HD",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/3/33/France_2_logo.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniOYXqfS9UBZmK7AA5G3Vl6/MaqMykqrZ3Srcrs+I+xgU=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "FRANCE 3 HD",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France_3_logo.png/363px-France_3_logo.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniNJ8KeSvqOLwRaQXWgj9n854pbsFZRY4ZvRhJQfVm8x8=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "FRANCE 4 HD",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/7/73/France_4_logo.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnikJ1kUIOst9xAGL330mhwiIv9gp+bljnrgOp+KBxtSCk=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "M6 MUSIC HD",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/1024px-Logo_M6_%282020%2C_fond_clair%29.svg.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniUBwIG/zbGuSUgwLhsk6uYhOB5Z3nH+XyJ/Tkqpc1EeA=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "FRANCE 24 FR",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnigWP7ok4namW6SjJOz1A0dIQyE9pgVtRd+HQApAMfd2Y=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "C8 HD",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Logo_C8_2016.svg/1280px-Logo_C8_2016.svg.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnilOgrxkadBlfdwse6oezpdU6B2K7uTiB7P8BdeRIy1FI=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "W9 FHD",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/W9_2018.svg/1280px-W9_2018.svg.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniyNYK+ZgPdIhHBzEdBkSz2TKQmtM52VgLOV8XZI/VcFY=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TMC FHD",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/8/88/TMC_logo.jpg",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wni7auZ0Em22GaiqadCZR6e1wmHCWyjGNucK3YthsIb1I0=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": " ARTE HD",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Arte_Logo_2017.svg/320px-Arte_Logo_2017.svg.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnilKM3odbystK/wcHOTlxqEEtuBseDHp/CMMMIfowqf8k=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": " BEIN SPORTS 1 HD",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/1280px-Bein_Sports_Logo.svg.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wni7CGgJ4i12eDqHYwq7xoB6hxyGUoZnnDuy+bizcGYXKM=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": " BEIN SPORTS 2 HD",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/1280px-Bein_Sports_Logo.svg.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniFajNs1K6ME2raZKTXCyBRjsK+Cwmoqex6MxLe7MCNb0=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": " BEIN SPORTS 3 HD",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/1280px-Bein_Sports_Logo.svg.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnidLpcw9FeSkowdtnnHP7ock2ZjQirkak2SyQqLOUFJD0=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": " BEIN SPORTS 4 HD",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/1280px-Bein_Sports_Logo.svg.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniAPjO0ZgnQyZDk0sY7J08PljOE1ENTLQu5mb8Ui7bd+Y=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "FOOT+ 24/24",
+        "ico": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/29/Foot%2B_2011.svg/langfr-140px-Foot%2B_2011.svg.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wnihb2zjLbZcv2LEbkoy1M9Exns7YMo/pruvPtwmKjz7Zs=",
         "drm_scheme": "",
         "drm_license_url": ""
       }
