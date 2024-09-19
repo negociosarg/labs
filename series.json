@@ -518,46 +518,5 @@
         ]
       }
     ]
-  },
-  {
-    "name": "SERIES ANIMADAS",
-    "mode": true,
-    "lista": [
-      {
-        "name": "LOS SIMPSONS 1-5",
-        "ico": "https://logo.iptveditor.com/lessimpsons1.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniUOtLk1Z1ilJjFRlqceo1BUV1Pr629geAMYpsTE4JDqs=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LOS SIMPSONS 6-11",
-        "ico": "https://logo.iptveditor.com/lessimpsons1.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniwSrAaOjbUY8IRnFH/DJ4hC1IFd9dn84+SMpVDvcI0jk=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LOS SIMPSON 12-17",
-        "ico": "https://logo.iptveditor.com/lessimpsons1.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniMHXG6BwcCwH0E7M2XA1Jb1CRmHX55XK5Zh/OEG0OVnQ=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LOS SIMPSONS 18-26",
-        "ico": "https://logo.iptveditor.com/lessimpsons1.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniDb/a097XewgTbQMyD64hm//3MYao8mdNHtbjFo+39Ms=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LOS SIMPSONS 27-30",
-        "ico": "https://logo.iptveditor.com/lessimpsons1.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniruN7Lzio87p0ffe+Hle0kARd88JxBAJKUici9b3+K7U=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      }
-    ]
   }
 ]
