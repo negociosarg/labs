@@ -4526,6 +4526,208 @@
     ]
   },
   {
+    "name": "⚽MLS EVENTOS",
+    "mode": false,
+    "lista": [
+      {
+        "name": "TEAM MIAMI",
+        "ico": "https://paladarnegro.net/escudoteca/estadosunidos/mls/img/miami.jpg",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wnil2W4sVFndGBuqjL+FOmZs1UG14uLW2L/2X3tvLSXltY=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TEAM ATLANTA",
+        "ico": "https://paladarnegro.net/escudoteca/estadosunidos/mls/img/atlanta.jpg",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wni/PF7XzyyuuMFgrivVpC10aGTYEba1ixyVrmdSkMCzwY=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TEAM AUSTIN",
+        "ico": "https://paladarnegro.net/escudoteca/estadosunidos/mls/img/austin.jpg",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniXSVAZwtQ1Clxr0Jw72/NYYgDIPIQGv/J0e6g++35GE0=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TEAM CHARLOTTE",
+        "ico": "https://paladarnegro.net/escudoteca/estadosunidos/mls/img/charlotte.jpg",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WninvJuEmZuDT2MiuAN++z0Jn+C29sTKx7VblTaNDH0Qos=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TEAM CHICAGO",
+        "ico": "https://paladarnegro.net/escudoteca/estadosunidos/mls/img/chicago.jpg",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniyMQn2cAtVKbYuqd204CTVasAOrewSXCw42oEkEXYpD4=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TEAM CINCINNATI",
+        "ico": "https://paladarnegro.net/escudoteca/estadosunidos/mls/img/cincinnati.jpg",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnivA7pnHLyQRG8lha+ZbOWgHyQiN1kAp+7RHCEELwYsgw=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TEAM COLORADO",
+        "ico": "https://paladarnegro.net/escudoteca/estadosunidos/mls/img/colorado.jpg",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniW2znBpwR7FBOGXfWkvz1QuOOKHU4GP3Vy7y4PQ9IX4o=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TEAM COLUMBUS",
+        "ico": "https://paladarnegro.net/escudoteca/estadosunidos/mls/img/columbus.jpg",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wnid5Kq8GXKylhDguCjC6LgnnlSauy+Zym6mVFvVhhBbNY=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TEAM D.C.",
+        "ico": "https://paladarnegro.net/escudoteca/estadosunidos/mls/img/dc.jpg",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniLuCPCEIAGHYbvVK34ZT8SG8H6qkwifVAal+BPYFgUqA=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TEAM DALLAS",
+        "ico": "https://paladarnegro.net/escudoteca/estadosunidos/mls/img/dallas.jpg",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wni1g3SVtcbD7IYv1W7l8EO0rjtFKHTuEslrHHmmHJBMpg=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TEAM HOUSTON",
+        "ico": "https://paladarnegro.net/escudoteca/estadosunidos/mls/img/dynamo.jpg",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnimsNPZRO2A8dV1r5CTvRFNLEGWaQDCJ2lTAWKXcb71T8=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TEAM KANSAS CITY",
+        "ico": "https://paladarnegro.net/escudoteca/estadosunidos/mls/img/kansas.jpg",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniQb+NVzpAJ97/kbIxsv4t5y0YxmakbICz8V0DMgfLPgg=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TEAM LA GALAXY",
+        "ico": "https://paladarnegro.net/escudoteca/estadosunidos/mls/img/losangelesgalaxy.jpg",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wnio11D/LkgPGZ2YSRra3svk3D76h7Fk34yD6TNqtCJaj0=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TEAM LAFC",
+        "ico": "https://paladarnegro.net/escudoteca/estadosunidos/mls/img/losangeles.jpg",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnimnzO3oIL/p3A1N6bvzFb9gColxZgbamVt8aT/1UufDA=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TEAM MINNESOTA",
+        "ico": "https://paladarnegro.net/escudoteca/estadosunidos/mls/img/minnesota.jpg",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniI1g4Gvp06tM92kh/nDw0nu8oYpheF/ln6OD4/a0tPCg=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TEAM MONTREAL",
+        "ico": "https://upload.wikimedia.org/wikipedia/it/thumb/d/d9/CF_Montreal_logo_2023.svg/2048px-CF_Montreal_logo_2023.svg.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WninsprUuP6sf3EPP/gIax+ZgcRpPeYp1h8IjwMlR1AnLU=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TEAM NASHVILLE",
+        "ico": "https://paladarnegro.net/escudoteca/estadosunidos/mls/img/nasvhille.jpg",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wnibqw3OiL9VJieHAbstwh6iPKhs2w/zUuMT7xpjuvcYJ4=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TEAM NEW ENGLAND",
+        "ico": "https://paladarnegro.net/escudoteca/estadosunidos/mls/img/newengland.jpg",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniKSBGbuUHAN1fw4cusSS7be/RBDJyFyDQydnlnRaKWTU=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TEAM NEW YORK RB",
+        "ico": "https://paladarnegro.net/escudoteca/estadosunidos/mls/img/newyork.jpg",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniqgzDJEsI2BHR4cfw8RMbwMZRtnemVGaoYL1IocEaJss=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TEAM NEW YORK CITY",
+        "ico": "https://paladarnegro.net/escudoteca/estadosunidos/mls/img/newyorkcity.jpg",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnipWkeNPi2sMFmXrJjZgpMdajLM5GAbPQtCdBU/1pT/Qo=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TEAM ORLANDO",
+        "ico": "https://paladarnegro.net/escudoteca/estadosunidos/mls/img/orlando.jpg",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniPrlGCUXr8ukYncEW3hHdlrJte7HQY2HNSd365Alm8Ww=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TEAM PHILADELPHIA ",
+        "ico": "https://paladarnegro.net/escudoteca/estadosunidos/mls/img/philadelphia.jpg",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniiIdzjnTbGL8rCLoTeQJVqXixBuqUbSeo0rC08EwyR4E=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TEAM PORTLAND",
+        "ico": "https://paladarnegro.net/escudoteca/estadosunidos/mls/img/portland.jpg",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnivTrMFSIAIZKBUb3JZxOhSEsfRK3k3NZf2UdYrF1kTR0=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TEAM SAN JOSE",
+        "ico": "https://paladarnegro.net/escudoteca/estadosunidos/mls/img/sanjose.jpg",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniS7S8o8Q1RmVJB7caYRJa25/Tq4dT//HY8vb4HU9Nb88=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TEAM SEATTLE",
+        "ico": "https://paladarnegro.net/escudoteca/estadosunidos/mls/img/seattle.jpg",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wni186jZsDMgWCVTCrk0fFn544e+IqM9YZ9PvucoANqHSg=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TEAM ST. LOUIS",
+        "ico": "https://paladarnegro.net/escudoteca/estadosunidos/mls/img/st_louis_city.jpg",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wni7zPLg79pxu0hQR/k7Hq3LAXPk7xe+PXQwo0CSYwkw5o=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TEAM TORONTO",
+        "ico": "https://paladarnegro.net/escudoteca/estadosunidos/mls/img/toronto.jpg",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnioKIkhph0xpUjrwTxX7juJw3dDpMGDaetL+Xtv1F0ZCQ=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TEAM VANCOUVER ",
+        "ico": "https://paladarnegro.net/escudoteca/estadosunidos/mls/img/vancouver.jpg",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wni/yqjRz7umP2+Yhh1W4TL6RIIk57AWBgERyDjqRsAw2U=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      }
+    ]
+  },
+  {
     "name": "⚽DEPORTES INTERNACIONALES",
     "mode": false,
     "lista": [
