@@ -3767,9 +3767,100 @@
     "mode": false,
     "lista": [
       {
+        "name": "ANTOFAGASTA TV",
+        "ico": "https://appnew.megainfoapp.com/files/1/Antofagasta%20TV.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniqKdmTsPyoNAv74Z2g8o3iw6NoeU/z0CiDhfgur35P+o=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CANAL 13 CHILE",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Emblema_del_Canal_13_Chile.png/763px-Emblema_del_Canal_13_Chile.png",
+        "uri": "yXzxqK0HuCWoip3kZ+ZlnB+qvjeeHPrJin4Dr3TYZfscpP+HtvpMIzBzl8k3d1VdwmIash3Su8V8zPVpy0acmnoIdxG9RPcLhurRNG4aXNE9yhrX46qEFizDpuCNqBMyW2DTI8kHzQZeSFRNulxPPcaDeD0LgeBYAAwV11sr3yQvTg0Fd6g5B+aG1OWiiELgxItQ4z0kmmhKNvwUyj+T1nBjJEOhJmVXyIyidcs4d4Qx114sWMWZgM9b/ID32LFDCHmF5dtui1rUj9vwvjE6WVsj48/Mn8v3b9/LBR4861Im6W+vVOxivqpjiGZGLWbuPfRsNIzMj+TxIVJKq0/82zu0q93E0n1zwOdoRo0Swhh65ErnBTp3zz4sYKihJGzzQqe2Q0LuTBOzp0as7uln6TcCRZM2g13r/tSXrRffD+c/nw8eUo4qgpnvWRFjokajurkJ8eeqvbo0NtlAoK3wEonIlzkzG1l/wT/vF6MlZEj0HbAbfgXmrWj5eWfBqKiEtb9F9lUb5Qdrqi2bCc6449cxcrzALExC7moOiVkGeShB/JUCWQbOswfdXl4QnjA0ImgffKEn2+AQdwsT6Ag0Vxgufu+JW6LYiWnihjel5wLMg6c5kgPJHVBATB+YFB45e96G25S9Q4VmUbKX8NL6H7wNiKjAq4vFdOtF8JU809NkisJ5gPAahac58zB3lDVyAEtY+ZY8rd8xwZzOYxCcfd5VRi1GRpyXoSX7ec7XhGg5frLUukBDFy05Vr6oOM3QtLtLMktt9bl5PjUmv87EbwWeJPIBfKKYnj2KuESmr9oInMg1FFP8h+YPnTd3GoUHGCa1Mc8X1KqINAtYTyLuNdshk6a6wnBgsdmARitBHh1dxYqioyes96doTFZldhMILqK/tyzhdh4c61a4SxXvvDQU0KsugnaI0SQh8Gc5/1N8+QB8b6OuB8ccMvyjeyuClTPkzPuki93Zk5GPhpNvA8VjOH27obOXZYYv9A5240OZoLFLgDCR0tufay3nnbC+GOYgUAigXUl4x4+Q9uavkw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CANAL 13 • 01",
+        "ico": "https://1000marcas.net/wp-content/uploads/2021/04/Canal-13-Logo.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniWgQzp+6V1lNvOjq8axke2YC0Ud3AWEH4Mcs1iWDkTE0=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CANAL 13 • 02",
+        "ico": "https://1000marcas.net/wp-content/uploads/2021/04/Canal-13-Logo.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wniod/OG8xTmEsfLXxwec4H2n8/Vs9GWER4IIKnGllzk5Q=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CANAL 13 • 03",
+        "ico": "https://1000marcas.net/wp-content/uploads/2021/04/Canal-13-Logo.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniSv4uOghjyXKn1NOvnZnWNQVim9a7Q0OHKyoL3zu2Vtc=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
         "name": "CANAL 24HS",
         "ico": "https://i.postimg.cc/YCpPKh09/24-horas.png",
         "uri": "RM61iDxnJDTr1M3KEJsYUXMo1PAS813vYPxem0jVCKRtX6JRb+dXtQ1bSVtaG++qoCTjYwrKLYgrYI15BPqBow==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CDO Premium",
+        "ico": "http://fastv.lat:80/images/645e79c95f9d82c6fb879250aad11c7e.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniBJV6/ZleihehuJlVHKi7oE/DqUE8rN6hOfvMm+0OHKM=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CH | MEGA • 01",
+        "ico": "https://imagenes.gatotv.com/logos/canales/claros/mega_chile-mediano.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnikY3aM2C4hUJy/lsttIEBtRBQ4Pt433TQOYB+iNaVKCk=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CH | MEGA • 02",
+        "ico": "https://imagenes.gatotv.com/logos/canales/claros/mega_chile-mediano.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniGiCoTt/0z74pvl4gt57+H1fhOM3ZZHfnIM961O/6da4=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CH | TVN • 01",
+        "ico": "https://www.m3u.cl/logo/452_TVN.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniAwFcghL4TOK1sA9mZ9INJ63SnliN4zzlsU27acS0nrg=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CH | TVN • 02",
+        "ico": "https://www.m3u.cl/logo/452_TVN.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wnim08UtBauj1cqwuAmTDHBob3z/evJufHQgdS45z4tcig=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CHILE VISION • 01",
+        "ico": "https://w7.pngwing.com/pngs/813/101/png-transparent-chilevision-television-show-canal-13-gamba-television-trademark-logo-thumbnail.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniJGYzcNa7OxSwUaOs7x6QfLi4E4BD7KLyU8E8JBFucaU=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CHILE VISION • 02",
+        "ico": "https://w7.pngwing.com/pngs/813/101/png-transparent-chilevision-television-show-canal-13-gamba-television-trademark-logo-thumbnail.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnigDIfKUjTdzC6HG6fHIZRm3l93Vzj7eOZgnCS1EDGtJA=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CL: ETC TV",
+        "ico": "https://davinci.zappingtv.com/gato/media/256/canales/color/etc.jpg",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wni55Sn6iX6mRV0CvrkA6pgLUg+0stElzsk8/eWfDprkKI=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -3781,6 +3872,20 @@
         "drm_license_url": ""
       },
       {
+        "name": "ETC",
+        "ico": "https://i.postimg.cc/0NGT21KB/My-project-55-removebg-preview.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniLbDVtXQ+0z+KHMLe5MCbCyJJH3WF8EZYOU+6a19f/zs=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "ETC TV",
+        "ico": "http://lista.tvq.lat:8080/images/d2a200db7ec1e0f6db03093940fe6851.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniM8B1gJQZ/TPmRIDtyFluSG6l1Bw++51OquNuZC3G/Ik=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
         "name": "LA RED",
         "ico": "https://i.postimg.cc/C18V7TvX/Emblema-de-La-Red.png",
         "uri": "RM61iDxnJDTr1M3KEJsYUXMo1PAS813vYPxem0jVCKRtX6JRb+dXtQ1bSVtaG++q6Rf/OGCCpcdDYH3tqqeyiw==",
@@ -3788,9 +3893,51 @@
         "drm_license_url": ""
       },
       {
+        "name": "LA RED 03",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/200px-La_Red_Logotipo_2021.svg.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniVtWUJ+EYOwC7X7tD72Gv6ZD0vIdZGhOAbyjLSnWeKBQ=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "LA RED • 01",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/200px-La_Red_Logotipo_2021.svg.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniuZt3PcMmlnTzSOk7Veky57daaQvsFE1ovQHCtMHxiyk=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "LA RED • 02",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/200px-La_Red_Logotipo_2021.svg.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniL3n8Kr9SUM74j0FMEuIjs8ADkU5wv2E1G6u0/TEiEqk=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
         "name": "MEGA",
         "ico": "https://i.postimg.cc/FHz0t4yc/mega.png",
         "uri": "1rhMcQEF2kDS/+/vGyAvOmssK1hCeOItvMqbc8NpV5cyZ6pbtlKzw6+IZe2cWVN5syGm5QTA60laiKXN3cRnTg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "REC TV",
+        "ico": "http://castlempire.site:8080/images/c5aea20db7844a504535a52d7b0710a7.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniBxXuRWhQk0bEi5hVzZ9tCCo1Rxd/kwAZeUzoNE2FB8U=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TELETRAK",
+        "ico": "https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/cf/d2/84/cfd28469-2694-f0d5-1511-3d21201d6dab/source/512x512bb.jpg",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnigzFZPLHTUspQ3DRK2iHz/kNQX5muXgWN2k6sKQ5xeS8=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Teletrak",
+        "ico": "http://fastv.lat:80/images/1d2cc653b9379e018d1304a5e4369b5e.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnifI8Q4hnAR7xR8LQ1MM8naTcLIGperV09A5SWYMutF9Q=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
