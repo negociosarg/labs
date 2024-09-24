@@ -5010,6 +5010,215 @@
     ]
   },
   {
+    "name": "⚽DEPORTES ESPAÑA",
+    "mode": false,
+    "lista": [
+      {
+        "name": " EUROSPORT 1 HD",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnifUlgRVLRYjvXmoLBtto+wUIsGBHc/5BEchHM7WplprM=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DEPORTES M+",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1024px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wni/npyZHmoi4xWmO9Old3FKWzzTNSUWrkiAuq2/sX9Fmo=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DEPORTES M+ 1 FHD",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1024px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniSOvqSNZtdJZi1ySmFTpGMfNbBaVonDKAMZAHQpiwGPk=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DEPORTES M+ 1 SD",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1024px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnitfPfHcdAIHSLaOzmaq8+beMRYiqPcAzfkpTc5hA85LU=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DEPORTES M+ 2",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1024px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnilR6zH0UiHF/gJ5ELxEc4mUMwRTP7RTetLrSX/BxT1Tk=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DEPORTES M+ 3 HD",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1024px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnizCc5aG3BnkKr03OOClpoGB/eXNFsaRXy9PmD/Galybw=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DEPORTES M+ 4 HD",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1024px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnihSNO7vh5arVECMANvO6oxHi9AodXKXFC/rUhY3Fc99E=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DEPORTES M+ 5 FHD",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1024px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniFRGmx6c7w4CG+SRhWr2Tlf4c9a7VXJyMwfXNPXQ+qSU=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DEPORTES M+ 7 HD",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1024px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniHrqd98qXBGsPceMVPRI9pz5+VYpXiJAmT9J/hYHLtjY=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DEPORTES M+2 HD",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1024px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnivnqtVZGF1r1BIckCn8tIM7G3rjeKNib6EKtDqXkgBUQ=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "ELLAS #V FHD",
+        "ico": "https://satcesc.com/wp-content/uploads/2018/08/Ellas.jpg",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniYP6JnnCd46CsbieZkbHw8I0VmYtg4D+LE4szUKFKygc=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "GOLF M+ HD",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Golf_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Golf_por_Movistar_Plus%2B_2023_Logo.svg.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniRfjYCMHhibQJFZVITbZe0MGJHpo4LQOIgXRwtqsIE2I=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "LA LIGA TV 2 FHD",
+        "ico": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG1.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniTXbtpptXqokJCLhl+WqDfHTmUYROPbrQ87KHvB1BKa0=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "LA LIGA TV 3 por M+ FHD",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1024px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wni4HzyBHjRrZGcwsWV6gu63W+Hmu6fkGKGnEnL8Po5Xck=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "LA LIGA TV 5 por M+ FHD",
+        "ico": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG4.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniGcE8aBocNQRv7PQ2Nzd7m/2bCLeZuYKioZHH6O2N1us=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "LA LIGA TV 6 por M+ FHD",
+        "ico": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG5.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnizsBJCfGJkgXxNSRe8CLMaKeUaOR4SIV4bc3v3sglWug=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "LA LIGA TV 7 por M+ FHD",
+        "ico": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG6.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniDiMSLrlh8AuUXBzsBAQ9FT/V5hX+hQboHJBD01xlR6M=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "LA LIGA TV por M+ 2 FHD",
+        "ico": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WninitTd66PejX4S1HWVl1WIRxbVOAarDVnYa7XxWIBu5o=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "LIGA HYPERMOTION",
+        "ico": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniKZt7YRY6ToPqvY6RqTdiat02SLea4Ujp8Z6lx9MVoVY=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "LIGA HYPERMOTION FHD",
+        "ico": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniW3oWZSTiQClnSg02tOT2JlcEsIuLhJt2VFTdiSAnnYU=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "LIGA HYPERMOTION M2 FHD",
+        "ico": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniRkbnfiSxntfhl9SXMmWr09LqpfqZaFiCfQAENjl7kWY=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "LIGA HYPERMOTION M3 FHD",
+        "ico": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniA4SBakjDsf84/6JdwRoqNN8zKjj1/w8nex1ojN/BpEY=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "ONETORO",
+        "ico": "https://onetoro.tv/assets-new/images/mundotoro-streaming-logo1.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniALI65xFGVVbcR0z/ndn34p7lqcVRVYJomSZsuvbBT6A=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "REAL MADRID TV HD",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Realmadrid_Television_Logo.svg/1280px-Realmadrid_Television_Logo.svg.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnivA9ud77jNqV9JM72U01bHrb1HCkMsODLncjBrZhEl+w=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "SEVILLA FC",
+        "ico": "https://sevillafc.es/sites/default/files/news/image/AAFF%20RGB%20Televisi%C3%B3n%20Sevilla%20FC_8.jpg",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wni69Uleia4LLLqjn4XFrf+2sWGqxrN6DgYygOMbj0M0s8=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TELEDEPORTE-DEM",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wniz1QaZK7AHD25SyZB0lYrfpaw1tQAL4A53eOHBJEwMhA=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "VAMOS FHD",
+        "ico": "https://boxtvmania.files.wordpress.com/2018/08/vamos.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniN0EZf3eOMQBzj5gFKobZOVr0b7U8Mcf6KTPMw1eDavs=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "VAMOS M+ HD*",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vamos_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniQtDy+gl0S4rQxeYaR6nPr0euy+e5J/8joxWXxaFIOwo=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "VIP - GOL PLAY FHD",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/GOL_PLAY.svg/1280px-GOL_PLAY.svg.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniJGYzjifBk0u8PL/cXO4HRDcMld6XiPodutHuEHxgiNQ=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      }
+    ]
+  },
+  {
     "name": "🇪🇸 DAZN",
     "mode": false,
     "lista": [
