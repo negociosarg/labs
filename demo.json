@@ -1926,51 +1926,9 @@
     ]
   },
   {
-    "name": "⭕PACK UNIVERSAL, MOVISTAR Y STARZ",
+    "name": "⭕PACK UNIVERSAL Y MOVISTAR",
     "mode": false,
     "lista": [
-      {
-        "name": "MOVISTAR ACCIÓN",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/800px-Movistar_Acci%C3%B3n.svg.png",
-        "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7Oi+mfsBBA7OGZMH+W3Z2TA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "MOVISTAR COMEDIA",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/800px-Movistar_Comedia.svg.png",
-        "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7sTk4ST22FHFcY4Pbtrm1i/gPUUUHfpVT+Hu4Xao08Nc=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CINE ESPAÑOL",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/800px-Movistar_Cine_Espa%C3%B1ol.svg.png",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubojznhh4nhXo+95BwI/tphrTJ1JFLvsed0IDgsOSR0ADg=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CINE FHD",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Cine_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Cine_por_Movistar_Plus%2B_2023_Logo.svg.png",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubo42cbdCJUtlYiyV1NPATLB9+m8g8ZAhQH8wW+ljUjCAI=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CINE ACCIÓN",
-        "ico": "https://static.wikia.nocookie.net/logopedia/images/2/20/Movistar_Acci%C3%B3n.svg/revision/latest/scale-to-width-down/1200?cb=20200629222648&path-prefix=es",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubo9GtfP/upAghhbxBEeHa+Jepf3cN3IBlknPjMH83pnL8=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CINE ACCIÓN",
-        "ico": "https://static.wikia.nocookie.net/logopedia/images/2/20/Movistar_Acci%C3%B3n.svg/revision/latest/scale-to-width-down/1200?cb=20200629222648&path-prefix=es",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubo9GtfP/upAghhbxBEeHa+Jepf3cN3IBlknPjMH83pnL8=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
       {
         "name": "UNIVERSAL CINEMA FLOW",
         "ico": "https://i.ibb.co/D4p8NpJ/Universal-Cinema-2021.png",
@@ -2021,51 +1979,65 @@
         "drm_license_url": ""
       },
       {
-        "name": "STARZ",
-        "ico": "https://i.ibb.co/PzfVWHW/Starz-Logo-webp.png",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboaMe3CgEFX9ef7fIY1ME255GXHP2rIVFGvAiuL7r+oI0=",
+        "name": "CINE",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Cine_por_Movistar_Plus%2B_2023_Logo.svg/1024px-Cine_por_Movistar_Plus%2B_2023_Logo.svg.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniozoHkk1wZYiAQbin0gcTu82c5fwdME52ORtSBCTAqyM=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "STARZ WEST",
-        "ico": "https://i.ibb.co/PzfVWHW/Starz-Logo-webp.png",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboRF5ZV0LOoWPVNRPDj0KCVdKqkzvn272KJybpPenkaWY=",
+        "name": "SERIES",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Series_por_Movistar_Plus%2B_2022_logo.svg/1024px-Series_por_Movistar_Plus%2B_2022_logo.svg.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniiJ8SCDX1+/Z8d4/MqVOAvsHjVMuKJKhZS0jCmYGl2q4=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "STARZ ENCORE",
-        "ico": "https://i.ibb.co/PzfVWHW/Starz-Logo-webp.png",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboSMYjl3b7UQkswl5KWaoJaeTVSgVK9TaPSfWAEa1eNwI=",
+        "name": "ACCION",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Acci%C3%B3n_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Acci%C3%B3n_por_Movistar_Plus%2B_2023_Logo.svg.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wniybws8TO0lCkJL69wLl4eedKARDk5k9dKkewdBwEz2gQ=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "STARZ ENCORE CLASSIC",
-        "ico": "https://i.ibb.co/PzfVWHW/Starz-Logo-webp.png",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubottN8G789r1Uh6FB5g7w0xnnwNXG6+9kWR0T2Sv+ReQc=",
+        "name": "COMEDIA",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Comedia_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Comedia_por_Movistar_Plus%2B_2023_Logo.svg.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnioywK8RFIhS5Y5TcMR9T3gdEQkx6FYxvNQ3kDc8BuOLs=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "STARZ ENCORE CLASSIC",
-        "ico": "https://i.ibb.co/PzfVWHW/Starz-Logo-webp.png",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubottN8G789r1Uh6FB5g7w0xnnwNXG6+9kWR0T2Sv+ReQc=",
+        "name": "COMEDIA",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Comedia_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Comedia_por_Movistar_Plus%2B_2023_Logo.svg.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniIi7LIpe0JXZFcvMtXreau9NuMgw8OIVUeA4LxW44o1U=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "STARZ ENCORE SUSPENSE",
-        "ico": "https://i.ibb.co/PzfVWHW/Starz-Logo-webp.png",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubovPlYTMR/C3t0qo318nLUj6SKn+jjx6tBzX+XLLa4tJg=",
+        "name": "COMEDIA",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Comedia_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Comedia_por_Movistar_Plus%2B_2023_Logo.svg.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wni7toGcianRRvRa6SYIdMxB0rjCH3ZwcYSTE3bJHN6LXw=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "STARZ ENCORE WESTERN",
-        "ico": "https://i.ibb.co/PzfVWHW/Starz-Logo-webp.png",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubovPlYTMR/C3t0qo318nLUj6SKn+jjx6tBzX+XLLa4tJg=",
+        "name": "DRAMA",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Drama_por_Movistar_Plus%2B_2023_Logo.svg/1024px-Drama_por_Movistar_Plus%2B_2023_Logo.svg.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniEBsOdhHdOUAQk5vw4HfBgQEpCh0+OaD/CjlB0C8z9W4=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DRAMA",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Drama_por_Movistar_Plus%2B_2023_Logo.svg/1024px-Drama_por_Movistar_Plus%2B_2023_Logo.svg.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniB0wAiPcSAEv4l4h+ruK4BpBSEbtIfd3wIJqF1J4p3H0=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CINE",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Cine_por_Movistar_Plus%2B_2023_Logo.svg/1024px-Cine_por_Movistar_Plus%2B_2023_Logo.svg.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniCP+gylQCZ8QKcV8FS0ztzcO5hW9rENiVxRaRcuvBTyI=",
         "drm_scheme": "",
         "drm_license_url": ""
       }
