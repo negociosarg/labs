@@ -387,7 +387,7 @@
         ]
       },
       {
-        "name": "EL ENCARGADO (2022)",
+        "name": "EL ENCARGADO TEMP 1",
         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uupbGouVR9UPvUJVee3OuzLB426.jpg",
         "temporada": [
           {
@@ -470,6 +470,124 @@
         ]
       },
       {
+        "name": "EL ENCARGADO TEMP 2",
+        "ico": "https://pics.filmaffinity.com/el_encargado-933596616-large.jpg",
+        "temporada": [
+          {
+    "name": "Una mujer solidaria",
+    "ico": "https://pics.filmaffinity.com/el_encargado-933596616-large.jpg",
+    "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEptxMZZlvVWNyRfAz3ugyAKkrBUQMk1Y1glW6yh6WU+dY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Una alianza inesperada",
+    "ico": "https://pics.filmaffinity.com/el_encargado-933596616-large.jpg",
+    "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEp2tWMc6YzWOsS61v3xZBugTxwCRBnwOA1a4aLClREb2Y=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Un pequeño susto",
+    "ico": "https://pics.filmaffinity.com/el_encargado-933596616-large.jpg",
+    "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEpuLRvaSZSf8+lpf6o6gIxrbxJM2B7dtJdZ/y/K2Yqc+s=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "El último adiós",
+    "ico": "https://pics.filmaffinity.com/el_encargado-933596616-large.jpg",
+    "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEp24XMnqw9q2L+q4GjVVE1qDyXR2IkegVLV1igE96Q7wQ=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Allanamiento sorpresa",
+    "ico": "https://pics.filmaffinity.com/el_encargado-933596616-large.jpg",
+    "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEp9fId6u8kJ97LfgU100fTOdDAUx90OFjOI+fARfNH9uY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Junta médica",
+    "ico": "https://pics.filmaffinity.com/el_encargado-933596616-large.jpg",
+    "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEp9SGBvP07gLARE+5K172yqrygy+MhNsyvZVe98xrRezg=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Aceitunas para todos",
+    "ico": "https://pics.filmaffinity.com/el_encargado-933596616-large.jpg",
+    "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEpI2p94l5GkymFPgz8A6HQklsCe6hCx2VlHF1ZJqDIAv4=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Sabotaje en la sala de máquinas",
+    "ico": "https://pics.filmaffinity.com/el_encargado-933596616-large.jpg",
+    "uri": "qeAUaQ9ySv5S01DJYM758Ullda/80vzqyW1LmHkvwXiT7oYHjudgh1ZnLv+sUyCtbmi8qHHjBWy6kM8e2Cesms5Rim6jZw7aEIQM64ydR8EMnfu50XH+b0uZwF7/Zgf/wMyy785nYd1tKxBbfvwrLw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+       }
+        ]
+      },
+      {
+        "name": "EL ENCARGADO TEMP 3",
+        "ico": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
+        "temporada": [
+           {
+    "name": "La Convención",
+    "ico": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
+    "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEpV92N5+T2IoYTqDbZ/AHOJZUUupEPSJ2fPAyBFQsbKFY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Soluciones integrales Basurto",
+    "ico": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
+    "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEpq6dgk+AgGPDPQV100bux0ocdOfHA602mJO9jn41jBuo=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Y bueh...",
+    "ico": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
+    "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEpxLZ2zGtx1qyzqG5GAr11/c7NyFvG7llLIhUg7qk7y10=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Otra oportunidad",
+    "ico": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
+    "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEpYrUmmy942ZVX3Fmg2x1EVRG9AL4IBkQutf2WkuzspUw=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Un beso en los labios",
+    "ico": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
+    "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEpvbPF3twZICj+QfAxsNi+yinhjrTmocfYRhXLWlzospg=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Portericidio",
+    "ico": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
+    "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEpsGFuQEsEufv1K/lupIoRK2hanEy7/T+WjYRR1a6RfLY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Eliseo versus el Estado Nacional Argentino",
+    "ico": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
+    "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEp8VUw9TT2S2hEPgzFeIpdufMzGPxbi+WWCBLkPfagXhs=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+
+        ]
+      },
+      {
         "name": "INVASIÓN SECRETA (2023)",
         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SAIwUnkDsRjLNGQcsxyVqQny7D.jpg",
         "temporada": [
@@ -512,6 +630,53 @@
             "name": "Hogar",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SAIwUnkDsRjLNGQcsxyVqQny7D.jpg",
             "uri": "RM61iDxnJDTr1M3KEJsYUQGp9rMsq/rmkajcE0hF7dcATySDgUb3zzKckiUNWj8DDXUsZfiQ0JSK7P2sHZXXwNbpQdZJzX2dDhdKg0PJVEM=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ANIMADAS",
+    "mode": true,
+    "lista": [
+      {
+        "name": "SIMPSONS",
+        "ico": "https://logo.iptveditor.com/lessimpsons1.png",
+        "temporada": [
+          {
+            "name": "LOS SIMPSONS 1-5",
+            "ico": "https://logo.iptveditor.com/lessimpsons1.png",
+            "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniUOtLk1Z1ilJjFRlqceo1BUV1Pr629geAMYpsTE4JDqs=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "LOS SIMPSONS 6-11",
+            "ico": "https://logo.iptveditor.com/lessimpsons1.png",
+            "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniwSrAaOjbUY8IRnFH/DJ4hC1IFd9dn84+SMpVDvcI0jk=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "LOS SIMPSON 12-17",
+            "ico": "https://logo.iptveditor.com/lessimpsons1.png",
+            "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniMHXG6BwcCwH0E7M2XA1Jb1CRmHX55XK5Zh/OEG0OVnQ=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "LOS SIMPSONS 18-26",
+            "ico": "https://logo.iptveditor.com/lessimpsons1.png",
+            "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniDb/a097XewgTbQMyD64hm//3MYao8mdNHtbjFo+39Ms=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "LOS SIMPSONS 27-30",
+            "ico": "https://logo.iptveditor.com/lessimpsons1.png",
+            "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniruN7Lzio87p0ffe+Hle0kARd88JxBAJKUici9b3+K7U=",
             "drm_scheme": "",
             "drm_license_url": ""
           }
