@@ -4,6 +4,82 @@
     "mode": true,
     "lista": [
       {
+        "name": "MARGARITA: QUE TU CUENTO VALGA LA PENA",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wnkSL5NEHIRuEJ5A13R580WmXh.jpg",
+        "temporada": [
+          {
+            "name": "Episodio 1",
+            "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wnkSL5NEHIRuEJ5A13R580WmXh.jpg",
+            "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEpFcttrf4+3Y5DGrBEsyiivjmOcKKLhopQN5eFSRxE+XI=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Episodio 2",
+            "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wnkSL5NEHIRuEJ5A13R580WmXh.jpg",
+            "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEpM3UpICYdjiZR+9GI3eDrKONw95a7qphgbxTdqGD1VMI=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Episodio 3",
+            "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wnkSL5NEHIRuEJ5A13R580WmXh.jpg",
+            "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEpozNjSunkJrzzSjVuucDYClAXNcI0tL5cp5iBQ2ys7aA=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Episodio 4",
+            "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wnkSL5NEHIRuEJ5A13R580WmXh.jpg",
+            "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEpvjWflbEJxcSIStvpYpWsownktZcdE6deyOxwNwBRdKM=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Episodio 5",
+            "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wnkSL5NEHIRuEJ5A13R580WmXh.jpg",
+            "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEpohVbJwwsebqVOJnpnJP4vZkb2K+fERoBs3YmpUdW44k=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Episodio 6",
+            "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wnkSL5NEHIRuEJ5A13R580WmXh.jpg",
+            "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEpJFnGCOlrPFiToE8x/nWK2r0wvfAXvapM/aLuO6VFwo8=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Episodio 7",
+            "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wnkSL5NEHIRuEJ5A13R580WmXh.jpg",
+            "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEp/wAv6amZZwwb5/anxuQpyQL6mS4lT87XVVTgPi47x6M=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Episodio 8",
+            "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wnkSL5NEHIRuEJ5A13R580WmXh.jpg",
+            "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEpozIWNquKXRyz3bUuTtf9q2TGY/pgbffd3q2zc0Qwk04=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Episodio 9",
+            "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wnkSL5NEHIRuEJ5A13R580WmXh.jpg",
+            "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEp6Q9d2wSo0jhJnhSVGhV0Cp4a1Uel4TeAYzN+s/EiWIg=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Episodio 10",
+            "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wnkSL5NEHIRuEJ5A13R580WmXh.jpg",
+            "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEpX4B+musUf+6ysDQjVxY99HjPwFPQQ5Qs3txdK0XfL/k=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          }
+        ]
+      },
+      {
         "name": "LEYENDAS DE MARVEL STUDIOS",
         "ico": "https://image.tmdb.org/t/p/w780/apFUonh1wVE3LWxbAjJC2zJqZOC.jpg",
         "temporada": [
@@ -474,117 +550,116 @@
         "ico": "https://pics.filmaffinity.com/el_encargado-933596616-large.jpg",
         "temporada": [
           {
-    "name": "Una mujer solidaria",
-    "ico": "https://pics.filmaffinity.com/el_encargado-933596616-large.jpg",
-    "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEptxMZZlvVWNyRfAz3ugyAKkrBUQMk1Y1glW6yh6WU+dY=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Una alianza inesperada",
-    "ico": "https://pics.filmaffinity.com/el_encargado-933596616-large.jpg",
-    "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEp2tWMc6YzWOsS61v3xZBugTxwCRBnwOA1a4aLClREb2Y=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Un pequeño susto",
-    "ico": "https://pics.filmaffinity.com/el_encargado-933596616-large.jpg",
-    "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEpuLRvaSZSf8+lpf6o6gIxrbxJM2B7dtJdZ/y/K2Yqc+s=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "El último adiós",
-    "ico": "https://pics.filmaffinity.com/el_encargado-933596616-large.jpg",
-    "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEp24XMnqw9q2L+q4GjVVE1qDyXR2IkegVLV1igE96Q7wQ=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Allanamiento sorpresa",
-    "ico": "https://pics.filmaffinity.com/el_encargado-933596616-large.jpg",
-    "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEp9fId6u8kJ97LfgU100fTOdDAUx90OFjOI+fARfNH9uY=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Junta médica",
-    "ico": "https://pics.filmaffinity.com/el_encargado-933596616-large.jpg",
-    "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEp9SGBvP07gLARE+5K172yqrygy+MhNsyvZVe98xrRezg=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Aceitunas para todos",
-    "ico": "https://pics.filmaffinity.com/el_encargado-933596616-large.jpg",
-    "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEpI2p94l5GkymFPgz8A6HQklsCe6hCx2VlHF1ZJqDIAv4=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Sabotaje en la sala de máquinas",
-    "ico": "https://pics.filmaffinity.com/el_encargado-933596616-large.jpg",
-    "uri": "qeAUaQ9ySv5S01DJYM758Ullda/80vzqyW1LmHkvwXiT7oYHjudgh1ZnLv+sUyCtbmi8qHHjBWy6kM8e2Cesms5Rim6jZw7aEIQM64ydR8EMnfu50XH+b0uZwF7/Zgf/wMyy785nYd1tKxBbfvwrLw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-       }
+            "name": "Una mujer solidaria",
+            "ico": "https://pics.filmaffinity.com/el_encargado-933596616-large.jpg",
+            "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEptxMZZlvVWNyRfAz3ugyAKkrBUQMk1Y1glW6yh6WU+dY=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Una alianza inesperada",
+            "ico": "https://pics.filmaffinity.com/el_encargado-933596616-large.jpg",
+            "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEp2tWMc6YzWOsS61v3xZBugTxwCRBnwOA1a4aLClREb2Y=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Un pequeño susto",
+            "ico": "https://pics.filmaffinity.com/el_encargado-933596616-large.jpg",
+            "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEpuLRvaSZSf8+lpf6o6gIxrbxJM2B7dtJdZ/y/K2Yqc+s=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "El último adiós",
+            "ico": "https://pics.filmaffinity.com/el_encargado-933596616-large.jpg",
+            "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEp24XMnqw9q2L+q4GjVVE1qDyXR2IkegVLV1igE96Q7wQ=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Allanamiento sorpresa",
+            "ico": "https://pics.filmaffinity.com/el_encargado-933596616-large.jpg",
+            "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEp9fId6u8kJ97LfgU100fTOdDAUx90OFjOI+fARfNH9uY=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Junta médica",
+            "ico": "https://pics.filmaffinity.com/el_encargado-933596616-large.jpg",
+            "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEp9SGBvP07gLARE+5K172yqrygy+MhNsyvZVe98xrRezg=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Aceitunas para todos",
+            "ico": "https://pics.filmaffinity.com/el_encargado-933596616-large.jpg",
+            "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEpI2p94l5GkymFPgz8A6HQklsCe6hCx2VlHF1ZJqDIAv4=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Sabotaje en la sala de máquinas",
+            "ico": "https://pics.filmaffinity.com/el_encargado-933596616-large.jpg",
+            "uri": "qeAUaQ9ySv5S01DJYM758Ullda/80vzqyW1LmHkvwXiT7oYHjudgh1ZnLv+sUyCtbmi8qHHjBWy6kM8e2Cesms5Rim6jZw7aEIQM64ydR8EMnfu50XH+b0uZwF7/Zgf/wMyy785nYd1tKxBbfvwrLw==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          }
         ]
       },
       {
         "name": "EL ENCARGADO TEMP 3",
         "ico": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
         "temporada": [
-           {
-    "name": "La Convención",
-    "ico": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
-    "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEpV92N5+T2IoYTqDbZ/AHOJZUUupEPSJ2fPAyBFQsbKFY=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Soluciones integrales Basurto",
-    "ico": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
-    "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEpq6dgk+AgGPDPQV100bux0ocdOfHA602mJO9jn41jBuo=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Y bueh...",
-    "ico": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
-    "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEpxLZ2zGtx1qyzqG5GAr11/c7NyFvG7llLIhUg7qk7y10=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Otra oportunidad",
-    "ico": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
-    "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEpYrUmmy942ZVX3Fmg2x1EVRG9AL4IBkQutf2WkuzspUw=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Un beso en los labios",
-    "ico": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
-    "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEpvbPF3twZICj+QfAxsNi+yinhjrTmocfYRhXLWlzospg=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Portericidio",
-    "ico": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
-    "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEpsGFuQEsEufv1K/lupIoRK2hanEy7/T+WjYRR1a6RfLY=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Eliseo versus el Estado Nacional Argentino",
-    "ico": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
-    "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEp8VUw9TT2S2hEPgzFeIpdufMzGPxbi+WWCBLkPfagXhs=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  }
-
+          {
+            "name": "La Convención",
+            "ico": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
+            "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEpV92N5+T2IoYTqDbZ/AHOJZUUupEPSJ2fPAyBFQsbKFY=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Soluciones integrales Basurto",
+            "ico": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
+            "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEpq6dgk+AgGPDPQV100bux0ocdOfHA602mJO9jn41jBuo=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Y bueh...",
+            "ico": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
+            "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEpxLZ2zGtx1qyzqG5GAr11/c7NyFvG7llLIhUg7qk7y10=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Otra oportunidad",
+            "ico": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
+            "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEpYrUmmy942ZVX3Fmg2x1EVRG9AL4IBkQutf2WkuzspUw=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Un beso en los labios",
+            "ico": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
+            "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEpvbPF3twZICj+QfAxsNi+yinhjrTmocfYRhXLWlzospg=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Portericidio",
+            "ico": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
+            "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEpsGFuQEsEufv1K/lupIoRK2hanEy7/T+WjYRR1a6RfLY=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Eliseo versus el Estado Nacional Argentino",
+            "ico": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
+            "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEp8VUw9TT2S2hEPgzFeIpdufMzGPxbi+WWCBLkPfagXhs=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          }
         ]
       },
       {
