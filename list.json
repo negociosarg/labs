@@ -1520,6 +1520,13 @@
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EZe6zs4MBqxB9ti35XtQyfdzEjwCB2qRruP2ZZ+/UhRzaBhiKYYEmSOUi/9OsCkWPQkov91Wbl525ZW8a3d21VpOr9Dm+2p70jiYQUsxGGM732kTHDErVi57ACSZ7xDSfA=="
       },
+  {
+    "name": "DNEWS",
+    "ico": "https://i.ibb.co/gJL91wN/DNews.png",
+    "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0H+NtJqy19NOGdVpbqM84GBppTpiog5NisYlILx59yM1Pr+Ksa1TKKds502jX/X2aM=",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EfOwPTscn9wYkgFpiqrMc17T8cQHlJbXNYlXzZBsY07NG22cqthbk8tRnJS5uyS1S75wEax0oQ555mCdGV1h7jjv5QuljtDUsqw2mTxKGMKwyI4WRhDlydNXsAzN7TFjWA=="
+  },
       {
         "name": "FOX NEWS",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png",
