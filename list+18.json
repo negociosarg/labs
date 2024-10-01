@@ -94,6 +94,13 @@
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Eb8sPHbQ3A17YnpsnYByg47XK70uzSpsOF5LaH0v/fa7GzJ5IaaCaN3pq11/KxlQukmtlELfjLpYA6JVuCRtbxcfe3CVgxQw3xHN1Q1kkFNS/h7Uifj/Aa0hpFfWZdq7ZA=="
       },
       {
+        "name": "CANAL DE LA CIUDAD",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/9/91/Logo_Canal_de_la_Ciudad.png",
+        "uri": "O4zQaBxapxoofA7Utbs4F1i98VbTki6DPHkPfNJI/QJuiddMSXvSkutm4T0oYjMX1F92iVbnkTwfLJH2H8i5jHaeNqAwL9d0z1ExxZuEvfS/0f4uUfxJJP2WWNAwhuSCFlac8X5SkGohBTUGL5yxGA==",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EXZp6UfBZS23hW2UA1c/CJQ0DDRl2R9LJp/0x//Eett1RFtXFaIGDtiiojq3yJahoTskoLJfbxLXS52EtqsDe+VS0noQkeaH7pNVbKgkY5vYCeTdSWl8c5FBZDWFp/Z6Pw=="
+      },
+      {
         "name": "EL TRECE",
         "ico": "https://i.ibb.co/HYQbLzj/eltrece.webp",
         "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sNXOfTikq3oXXalyKtKHkhf5WkpbaP6ao15lkH/BWQzTpTn2zNN89IMhNyKU/xY+9ykBIz2U53Qb95XRh1kQjn",
@@ -1027,6 +1034,27 @@
         "drm_license_url": ""
       },
       {
+        "name": "SHOW SPORTS CÓRDOBA",
+        "ico": "https://i.ibb.co/QnqdqBV/ss.png",
+        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0EG45lOUB5rr4pgWIWJP9m+5Dd+UwIsUXddx9mdu9LSKKvpmqFcsdSsqWpOQuXfJBFUB5h27O58BTXyhsKJ78iu",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ed3jYBkEeJfsYfKGizlplssTQdvK+C2z0UYSFb4ChBVKNntmFbf2Ul+w7w2UlyJD9CBt7yFaj76TFHnbXD2vdbR/dngA+LIqzVRcPK9mEhu17dNaB1IilMDs3B8eWQ2Gsg=="
+      },
+      {
+        "name": "CANAL CARLOS PAZ",
+        "ico": "https://www.nextmultimedio.com/wp-content/uploads/2023/02/PNGlogonext5.png",
+        "uri": "O4zQaBxapxoofA7Utbs4FwBoo6XFHOWJSbr2AN+SqBJ4mqQF7tMqjLJlufnYRoWZ2PBa2GNZ4jhb6dYpunBnbGpLmJq51IFslzt1bEGw2qjyiRdlRbm2B0+WcFM2Yskf8Fm6jkWWNXmmTCH1W/b+8A==",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EW8uX+SJhyuZ1wvC6WV6icxvHjz3jSIUgzGmsuxvySzfERf+P4FvtXLc3JHMN1Cg2bvEFGAx+ymoxsfHsg5rk5CpQXIPLvglsbL6EfoxN5vWzhtZ4ARlrg5PKQj7iIlr+w=="
+      },
+      {
+        "name": "CANAL C CÓRDOBA",
+        "ico": "https://i.ibb.co/F6bXsYs/canal-c.png",
+        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0HL4V5MUWM52ycG4i0mGoV1kZ5ctUdy5imqo2qRWJBVRPfqFTobHgsUyhaQQOCbRKky/uatqQdV3qumInsDLi1c",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ES77hRrN9uctKy2lexKMf1/x1IcHhHZzOHNeRjOgbjaXT/m2LbcgT01fzx4ffsFNliu3+BHnjoHOVb6ioRgDH4ONp9fMFflg5KqKLm3zecQVmzOsY7MLP/bRfq01c8NCdw=="
+      },
+      {
         "name": "CANAL 12 CORDOBA",
         "ico": "https://i.ibb.co/XSBg5Wx/eldoce-logo.png",
         "uri": "O4zQaBxapxoofA7Utbs4F0Tl+WtYe/iRC29D4DQTGlp+fvagSGpjF75AKQW5cpyQZwrUYPLZwrG9sk3CBEeGB8r2TTDIVO/MHgr+foU7ganrbHLbeGjjZOcf6gZL1naKBRs+o3S/h9zIQWPPtKPmqw==",
@@ -1095,6 +1123,48 @@
     "name": "⭕PROVINCIAS🇦🇷",
     "mode": false,
     "lista": [
+      {
+        "name": "SOMOS EL VALLE",
+        "ico": "https://i.ibb.co/bdxBzMQ/somos-el-valle.png",
+        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0EyZcWYwnPL7Lwaneo7e5aavE2+OCsBhIbR5I36zoPleAtlltw3tEWcoyOYGM5qvLufduSBq47vRJixE+OG+CMlMIfNsKV+cYs9d9jk8rW9iw==",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU1uRyNxo7jSu89okKR9EsmDBSmy1HvFDBe3tgmhbsde337vS5Xt/rsmCkLA33rPzlq+dTNj19R1YLD2MIS85UuoTv9YQ5uM916LrdHNeFzDlIZn7wgx4yLEjl86D7JjBg=="
+      },
+      {
+        "name": "SOMOS LA PLATA",
+        "ico": "https://i.ibb.co/vBWtKxB/somos-la-plata.png",
+        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0EyApiueApcX5Myjh1zv82mArWbfLbDOIrl+ndUh4vcBmFWD9iOn5liszon6sLsbiLwryhX1g1q7bUiKSfnd7B+",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ETju2+BvM17ayPtGFu9IPFi1gxA9SnviJ+Q6L7Hb37tt3w4Xvw4FwvNndSvoc7UjWtQLATqeH9XB2xwXkc/a6do8JDiYHvU+01qSBfo2HP3up+YZUIbTMvReadcoVi+ecA=="
+      },
+      {
+        "name": "SOMOS NORTE",
+        "ico": "https://i.ibb.co/qnXjFGd/somos-salta.png",
+        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0EyApiueApcX5Myjh1zv82mcAVHf1HPzP7EY8o6OEjzR8ciF9E1+2pzTTXWhO20Xkeop2hZ+VZaPT3HUU8co1hJ",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EbGbAXGLokyGNjGuWlFy0cXBLWffLHEQ80Tt1MO++dds4GY4O0ijiyYHeQlbRY6JkItscxK42G7qfEm8Mo6z0G2QLT0P/fdLHoW1Nrp7DPyQvBsUnCMUmtG/OSc/8l9cRQ=="
+      },
+      {
+        "name": "SOMOS NORTE",
+        "ico": "https://i.ibb.co/qnXjFGd/somos-salta.png",
+        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0EyApiueApcX5Myjh1zv82mcAVHf1HPzP7EY8o6OEjzR8ciF9E1+2pzTTXWhO20Xkeop2hZ+VZaPT3HUU8co1hJ",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EbGbAXGLokyGNjGuWlFy0cXBLWffLHEQ80Tt1MO++dds4GY4O0ijiyYHeQlbRY6JkItscxK42G7qfEm8Mo6z0G2QLT0P/fdLHoW1Nrp7DPyQvBsUnCMUmtG/OSc/8l9cRQ=="
+      },
+      {
+        "name": "SOMOS RAFAELA",
+        "ico": "https://i.ibb.co/b5KqPnJ/somos-rafaela.png",
+        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0EyZcWYwnPL7Lwaneo7e5aazbWGGW5LkHsD5ob0iuPBl8vNEAtJEXiwDMP21ScfFSZV7NIVbNw9RAE5P9B76pjn",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EVXxVkWfMQMuIkR3tWLsgwxQ7JDg+1waaqF3wwTd9dUoY7f6p9b4mkipoaz1s7uifnq2Tx3mQnrk6jyJfWCPvqJLWJ8RDOtSQVyZEUQKsoK6mFI+bEeMkl3t1G4H+mH3og=="
+      },
+      {
+        "name": "SOMOS ROSARIO",
+        "ico": "https://i.ibb.co/BCtZVZT/somos-rosario.png",
+        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0EmpeAEMkaBOgcuEtNJIBYzAbPo0Yp+5ynUg5jshBRhOpovKyysmmnvL60WQAVTVZWxC7y8BOzuWIVTGVnz6H3x",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EaZAu3hrsyyUl0Q/3zNw9Cd5FrTV4ebWzzowoSchObksoK3MQ8FAC5VTRMbg1DO5I4rlqxAd7vQQfOSLiuvqAeTrpJ1aAcfg76rWGBxlq3n/e9VlajjBw1sbdxmIxCgRQA=="
+      },
       {
         "name": "CANAL 10 NEUQUÉN",
         "ico": "https://diario10.com.ar/wp-content/uploads/2024/04/LOGO-DIARIO10-2020-OK_544-X-180.png",
@@ -1514,11 +1584,32 @@
     "mode": false,
     "lista": [
       {
+        "name": "DNEWS",
+        "ico": "https://i.ibb.co/gJL91wN/DNews.png",
+        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0H+NtJqy19NOGdVpbqM84GBppTpiog5NisYlILx59yM1Pr+Ksa1TKKds502jX/X2aM=",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EfOwPTscn9wYkgFpiqrMc17T8cQHlJbXNYlXzZBsY07NG22cqthbk8tRnJS5uyS1S75wEax0oQ555mCdGV1h7jjv5QuljtDUsqw2mTxKGMKwyI4WRhDlydNXsAzN7TFjWA=="
+      },
+      {
         "name": "EURONEWS",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/1920px-Euronews_2022.svg.png",
         "uri": "+u8JOr6SyIr5qvEA/JHNyzZxbMc/FkKR7xs0adneKvcw/vbTeKctyV7XZiB/pszWjt/EDiKbaPU1f5I8jasfoRyVyqFidP2j4+lm8rhfNaQ=",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EZe6zs4MBqxB9ti35XtQyfdzEjwCB2qRruP2ZZ+/UhRzaBhiKYYEmSOUi/9OsCkWPQkov91Wbl525ZW8a3d21VpOr9Dm+2p70jiYQUsxGGM732kTHDErVi57ACSZ7xDSfA=="
+      },
+      {
+        "name": "TELESUR",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/e/e3/TeleSUR_Logo.jpg",
+        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0H21aU2huurZzBObgcTuLZU+4+qcxH5HFnnHDGS5Eqe+WXICjPFCC3tzvAn2H+1NHnIBWLZiWFI8vDJXkGdwvqk",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ERoTh4NAjHfomAeprMwNJYNt2+2i8mgmKqNALwQBWN4udFFgMll+UrlsSFkkgVQb9TIm84M/ICz9oH4p+MUF3Lda9UPoHLEgIwTSBD9C7JCggluc37To4+Li2gaiELEt8A=="
+      },
+      {
+        "name": "TV CHILE",
+        "ico": "https://github.com/masterentertainment/listas/blob/main/logos/TVNI.png",
+        "uri": "O4zQaBxapxoofA7Utbs4F+x+DfoLiMEOgYSMTwLRVnutTKw1xlyDeTSVhtZYrE7+xJj/D8RLzRmX/jNYHR1TlFR/+2+wSLE29OMAt5r/8Cm116hDWUDq7JhHtl0dorpm",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EbO9/BzGIMR6sYbDGhB3GUIGnLxDdxzp8S4YKHYWctFsG7wDpskH5HxjTs3x7GuDCbOOk7EacPlhhvUAT2eFvcWSGexP2nvCrZRBn9yReJNe+CTmyfV40U1Ai3vJOuBlqw=="
       },
       {
         "name": "FOX NEWS",
@@ -3147,6 +3238,13 @@
     "name": "🇧🇷 BRASIL",
     "mode": false,
     "lista": [
+      {
+        "name": "NEW BRASIL",
+        "ico": "https://i.ibb.co/5vSfGjj/new-brasil.png",
+        "uri": "O4zQaBxapxoofA7Utbs4F1i98VbTki6DPHkPfNJI/QJK/aiBSvmplgoB39i0AKG5B21Z71tQrx5wRYGDI/bvSm4BTefmV4tBJ2p4QYv4FKOeJWBGylCI/PvzJGtisofFyI8Kr0tImkccZBvyPmmvJQ==",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EUWMmENkL4I6T7BeCIbj5MdhdxzSrWzjWTcb8RT6H5l/liInduLm+Y1/T+jbR+j3u/K4fwuBhfyezW5iyYUdyC74iR+oTIYx3Nk0p6lbX2ght7Asjc1BDgiS4EpdJkeMgQ=="
+      },
       {
         "name": "A GRANDE CONQUISTA",
         "ico": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/90/A_Grande_Conquista.png/260px-A_Grande_Conquista.png",
