@@ -5680,13 +5680,6 @@
     "mode": false,
     "lista": [
       {
-        "name": "TVE",
-        "ico": "https://github.com/masterentertainment/listas/blob/main/logos/TVESP.png?raw=true",
-        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0FI9U8XNaoa0DRcwtoxCoxvNCZrVY+zA4UN36OH4vJPXYXEHScAtdgssxMwdfC96xPk9/LLsIFCcSF9kwHK7PW5",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EclH9D//A8YfOO4yoRb5GmAwQ6kVzfqjEd65deS+LiT9N8S0mTkOIp9UuOBl4ITJetu2gCVGfVWqV0avLFNsznklnJ76KAbuTEcS2ncUYOQOp3sGizI7+gVLalnHyqKlbA=="
-      },
-      {
         "name": " ANTENA 3 FHD",
         "ico": "https://static.epg.best/es/Antena3.es.png",
         "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniASjzPMJgeHxk5MPFbpsriAyKUxcqTB0eH47VcsGF720=",
@@ -5696,56 +5689,42 @@
       {
         "name": "ANTENA 3",
         "ico": "https://i.ibb.co/m6dKvL5/antena3.png",
-        "uri": "RSx2EIZIDIMu7XIFxwKcQpFTxyiLEwk6WaWlTyqfigkoHB5E14ooWTL53nxfxen+vRNQucPydffmuCToDpgETD+WlJkBkppf4lHD0KGQZKY=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EcTe+k6sbfVghUU3uEv52CNBvtZsrL+7OuQq4ZMioRIh43D0O7TzDnmo4sEXtDr29h1oedTgoBaxYyVBg9hDdrDIwvyF/uSghzuCbElL2MGBUS3IRywrxAxjJNmvOsIduw=="
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnigerRXyJygoCmfgscqwXoXHD+qwoqhRCaK3/xQdGTqPY=",
+        "drm_scheme": "",
+        "drm_license_url": ""
       },
       {
         "name": "ANTENA 3 HD",
         "ico": "https://static.epg.best/es/Antena3.es.png",
-        "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfK1SkTSH3WJ9GjUE4kE/tMjLbO2z5x1P3a2WXbFvr3RaQ==",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wni0Y2A5mvNOq1oAY2F1Jvm1OY2Hl0tdka1HgUxxig8Gek=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "ANTENA 3 INTERNACIONAL",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/800px-Antena_3_Internacional_logo_2017.svg.png",
-        "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N2wwX2NyqG8nqpgn0Nn1CE73waKxS+JOgpfd8qMCzcBaw=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "ANTENA 3 INTERNACIONAL",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/800px-Antena_3_Internacional_logo_2017.svg.png",
-        "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfLexsEcEP+nXzIYktKNcenqmmA5kJ/W93fwBAsAYESYog==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "BARÇA TV",
-        "ico": "https://i.ibb.co/0Cf3MDP/unnamed-5.webp",
-        "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7SIZCCAzce3NDLNuDXhfFeA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
+        "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sJtCf14QuJ/MHAAo/up/Wsky+35JqmYuIJTFQpJ55l/FWDBqpGdTrfnBdXoYU170Dg/+YULYKIUO0FolmqSyrc",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EdngWQq4wfwaVMu61638zX/AdhiGiZVo4iYKEgnk+WvfsJAj+POQtJ0lixFIfEvXTb0I85KEInF7GNusPanPSPqtiyjxlIELd2d2hkAdnEHwdvPSFjYKlDmAHMhXZT5z8g=="
       },
       {
         "name": "CAZA Y PESCA",
         "ico": "https://i.ibb.co/fxW737k/generica-elem-cyp.jpg",
-        "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfLMa7n/UKTFv39PZvRHJb1ZEgFWFcp/nw/GOTsLF7Gqcw==",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniT/PsEd9ZTrmWwVhIQw9adoJevAcXyI8B9TqbKIH1D9s=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "COSMO",
         "ico": "https://static.epg.best/es/Cosmo.es.png",
-        "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfIXo3xxwrEPiY4zQMsj0vSL8r5pi98h5WxSCa+R9K0WaA==",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnimJINjfbzrb3QqsDIfakDNeAkg0UGoAxVyB12S8BOb5Y=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "COSMO",
         "ico": "https://static.epg.best/es/Cosmo.es.png",
-        "uri": "9uzuRQFsqXZXYnGDGw5LjwOXDY3sbS6raZf5OEebH5gP43otqn4UcJnqezjseicMZWeRA4A5YGXV7qR1KzS6x/x/l5a0G5t3+Lo9zbNfy+/R5y0GTIz323OcmGUtyt6wCetxXjOaEYT9GGfPuFKtxA==",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnimJINjfbzrb3QqsDIfakDNeAkg0UGoAxVyB12S8BOb5Y=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -5773,21 +5752,21 @@
       {
         "name": "EUROSPORTS",
         "ico": "https://i.ibb.co/g4v6gfs/z-Hcpx-ZYE-400x400.png",
-        "uri": "RFCZPdBbphp1whMSLWJcO6r3ViKQFg95iU8pxOksX5M3k9jHdD5PH8BFpTisKNvAwnkxvaqS6+LNdJmgjn6mRQ==",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnifUlgRVLRYjvXmoLBtto+wUIsGBHc/5BEchHM7WplprM=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "EUROSPORTS",
         "ico": "https://i.ibb.co/g4v6gfs/z-Hcpx-ZYE-400x400.png",
-        "uri": "RFCZPdBbphp1whMSLWJcO6r3ViKQFg95iU8pxOksX5M3k9jHdD5PH8BFpTisKNvAr6WT0sWI4Q86tjNnDq0OCQ==",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnicagRsalkmqa3rKEmDiQWCD0R+IGdBM5OMcD2Eu9QY2c=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "EUROSPORTS",
         "ico": "https://i.ibb.co/g4v6gfs/z-Hcpx-ZYE-400x400.png",
-        "uri": "RFCZPdBbphp1whMSLWJcO6r3ViKQFg95iU8pxOksX5M3k9jHdD5PH8BFpTisKNvA1zMxfKzVl1e8EjsUdLHigA==",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wni6WEY4HvhHgrpXrAjQB9akh+jSNSBVQQrhmtyhFLjlEI=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -5801,14 +5780,14 @@
       {
         "name": "LA 1",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png",
-        "uri": "fXFW02gJYNQooMN/+vCmxa1BMDrpbpRm7h9EaA0wwVeYkAAgDLh4rC8vALNEOZufRONqooO+P7Vchs15rstySjoD1aRH8GAyEdoFGs75eM4razBJV+Iz+8ZelUs0J/+iYq0fRFAAglgKNwITLsCwAin16Pv8oe4vNJaI2BWOK1A=",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnixhGwZDmv9C3Us+Z/Y0J9tIaPIT3hqXo1HHhgxEewlj4=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "LA 1 FHD",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png",
-        "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfKUxMkxiP630LClGVUF2KPrxhlv3GGAOt4jg/sMnTuc+w==",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wnio0kiobz1BzRVgV5jSrTpJIE6p4Pz4ydYL6SFvDcOq8o=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -5829,14 +5808,14 @@
       {
         "name": "LA 2 FHD",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/1/1c/TVE2_logo.png",
-        "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfKjrP0wuMJlvsQd11VxoJ+As4Cp8fc/AR1cNUwu88lrLA==",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wni43s7DDCajq75V/OSe4W4Jp7NBn3d6zS+h59+7tj4LOs=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "LA LIGA FHD",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/1200px-LaLiga_logo_2023.svg.png",
-        "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfJsri1kdQF88vbNvkPSn7+ysV22tqaNich5z5bkYiisTw==",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniNkWNlBkm8mPTq0GhnloqgZr6iUSe0xxGBTvipDv7pco=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -5850,9 +5829,9 @@
       {
         "name": "LIGA BAR",
         "ico": "https://www.thesportsdb.com/images/media/channel/logo/f9y6oe1692444384.png",
-        "uri": "BZ/b7sP8V2hH1gYk/wQvmdajUV/z0eGWv9bTRnIvLJah7Z0fRdrRMnwacGZUHdC70fTaYYcW+d0pyNzY++JJnzRTJLm7UM6BRPL9MXRLjcxDphd+ZkawF1funU0FHjE1",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ERFPnYaueVYAOVH0zyurPfqCZD7eCAGzsqMZODbN4ho+ivAgXDLXMFTCElyGjrx1mA1/ND1XYUaBhvjX8n+25uEeDNKwVPp4B37kZg/4zl0P/G27qVW7VF+tr8coGpWNFg=="
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniECxnj8LCHf3ziJkO4me3vDsCqNq47KG8mUWzgmUOjN8=",
+        "drm_scheme": "",
+        "drm_license_url": ""
       },
       {
         "name": "MEZZO LIVE SD",
@@ -5864,28 +5843,28 @@
       {
         "name": "MOVISTAR LA LIGA",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/1200px-LaLiga_logo_2023.svg.png",
-        "uri": "ru7OnrdCXD6OlatYBSKSBXTkAnfG9ECc0seFBQaVCgH2RsJowQU2z+I9wc367DmG7IGyoL9T1thmi5QMWF6eEA==",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WninitTd66PejX4S1HWVl1WIRxbVOAarDVnYa7XxWIBu5o=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "MOVISTAR LA LIGA",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/1200px-LaLiga_logo_2023.svg.png",
-        "uri": "ru7OnrdCXD6OlatYBSKSBXTkAnfG9ECc0seFBQaVCgH2RsJowQU2z+I9wc367DmG7IGyoL9T1thmi5QMWF6eEA==",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniDiMSLrlh8AuUXBzsBAQ9FT/V5hX+hQboHJBD01xlR6M=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "MOVISTAR LIGA CAMPEONES",
         "ico": "https://i.imgur.com/MVFRKTv.png",
-        "uri": "8kGMNe2V+9Zlt6x155fZm61/FedHHyIM7h2UsYVQHmI7eEf0Ga597gXU6qN9DhuOJZtHzDxlZvzDrGpBgPK+EyoEP9+968LcizatsAyX8OU=",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniTMNkTJZ0644pz+53Uid1rgDxILCS+vkz2oHn0M0OH7U=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "MOVISTAR PLUS",
         "ico": "https://i.pinimg.com/564x/1c/2a/39/1c2a396172821afd4abed99d46d76553.jpg",
-        "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfKXspkvJJo1LbZR3slNgE8jKgOWhhylGh0dJK/H7kLmGQ==",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wni9WRnC1TbQUHQQM+MfMXGllvtTJnrHNtxrPRPzW8/f7Y=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -5899,7 +5878,7 @@
       {
         "name": "NEOX HD",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/2560px-Neox.svg.png",
-        "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfL+Ei/U1L3wdfge5JtlyEmzNEY0AKANflz883UEXuk3GA==",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wnil1f6od7pc3M3O9d+AP+YPKUGHxxE8j0m8LIYo/FyZFI=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -5913,21 +5892,21 @@
       {
         "name": "REAL MADRID TV",
         "ico": "https://i.ibb.co/DMTZ57S/unnamed-4.webp",
-        "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7mq/VFd8+Vxs8LOlsHEy2hQ==",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnivA9ud77jNqV9JM72U01bHrb1HCkMsODLncjBrZhEl+w=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "RTVE",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Logo_RTVE.es.svg/150px-Logo_RTVE.es.svg.png",
-        "uri": "CfVL4QXWxIiaUUlSE6EGIRcseQWqmx3yd9cie/R/8egIVKjNHBDp5nJrp1Q1cAUq",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnijEY9mJ5PYmIfUCsrde2inMlZMMEiL7pgW5KU4UHWdzU=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "RTVE",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Logo_RTVE.es.svg/150px-Logo_RTVE.es.svg.png",
-        "uri": "CfVL4QXWxIiaUUlSE6EGIUqfYDZkdKgPm2FirX7pQQcvyH/HdmqQPS8IZxMCx2wO",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnijEY9mJ5PYmIfUCsrde2inMlZMMEiL7pgW5KU4UHWdzU=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -5941,21 +5920,21 @@
       {
         "name": "TELECINCO HD",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/1200px-Telecinco.svg.png",
-        "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfIjeXPUP9Je4JuXFpaS1fZJ9aJ+mHyw8GW3O043R69t4g==",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wni71kn0RzXEEpCzhtpiCXYp2VKy0U/RiE2bzO+yks5Wus=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "TELEDEPORTE",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
-        "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfIbPttYDApsrksGHZQ93gIj4sr2awQQ6IMiHdYI+dQJUA==",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniJreo4EgWN4z96DvxL4QuW0LtPhyP476J5LzOMd0tZxo=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "TELEMADRID",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Telemadrid.svg/1200px-Telemadrid.svg.png",
-        "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfI5Ylq7O2eFVEnAmwwcn7rLqybrR+8XkUtLp4l746lTeg==",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wniu/zE9Y3z+/+xJFEMP4TYKIA1cGuH31Kl7aPsytDG2dg=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -5968,15 +5947,8 @@
       },
       {
         "name": "TVE",
-        "ico": "https://seeklogo.com/images/T/tve-la-1-logo-18CBC6CD6F-seeklogo.com.png?v=638252010700000000",
-        "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sJtCf14QuJ/MHAAo/up/WspSejp0QRorMz7njMQwkf7+fI0ZuVPx9UwNyP4HiB643xHUo+iIvS0abJx1vtHRY2",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EclH9D//A8YfOO4yoRb5GmAwQ6kVzfqjEd65deS+LiT9N8S0mTkOIp9UuOBl4ITJetu2gCVGfVWqV0avLFNsznklnJ76KAbuTEcS2ncUYOQOp3sGizI7+gVLalnHyqKlbA=="
-      },
-      {
-        "name": "TVE",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logo_TVE-HD.svg/1024px-Logo_TVE-HD.svg.png",
-        "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfJ44WX8PliL9waVSOn1ENFEjneLmD9FopoEoVslUZvPHQ==",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniWapcbULqbzq2EU6rr4uvPZzUAvGRWQjFPAzXI+dNQdk=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
