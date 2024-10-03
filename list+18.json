@@ -3162,6 +3162,13 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+       {
+    "name": "EWTN CATÓLICO",
+    "ico": "https://iili.io/dblYQJn.png",
+    "uri": "O4zQaBxapxoofA7Utbs4F5hceVjoJEJMmEq439UAjxhUE2NEbVkdKedBB8MeugCcpB4i3jAvs9brrmVIRUIwUSH/9J+upkIms+BFQ3e8B9dHPl4qSjvIWVj86eLVE8gu",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EWUNlMz/nEixlP2iCoSA4yibkjwgqOO++Y0MOVwxiRhrt3DZRZPB7IVhE5XoHGyWhnTvNPN0DbL31aSlOb8/q64dFC2CEjoGgT/6qPoZQQvblTh1M6cR8JgQ78Eq9wPD7A=="
+  },
       {
         "name": "CANAL LUZ",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/5/50/Canal_Luz_actual.png",
@@ -5264,13 +5271,6 @@
         "name": "DTV (HD)",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bandera_de_Bolivia_%28Estado%29.svg/264px-Bandera_de_Bolivia_%28Estado%29.svg.png",
         "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniC4nccRs8UPXkDpkPx1M97E5sQ16hbM9XYkxXoq74x3w=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "EWTN el Canal Católico HD",
-        "ico": "https://w7.pngwing.com/pngs/483/824/png-transparent-ewtn-internet-radio-broadcasting-television-lenten-purple-television-electronics.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniMHDllymMZHWQWBmw/QbXrVlL5lPTuQL3mzC5DXtbrMQ=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
