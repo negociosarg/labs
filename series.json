@@ -803,6 +803,308 @@
     ]
   },
   {
+    "name": "INFANTILES",
+    "mode": true,
+    "lista": [
+      {
+        "name": "PACIFIC RIM: TIERRA DE NADIE",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3mOpPwrcKCPVkSWGqEwOah4jdX.jpg",
+        "temporada": [
+          {
+            "name": "Desde las sombras",
+            "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3mOpPwrcKCPVkSWGqEwOah4jdX.jpg",
+            "uri": "/AA9vAAccmOkCy8AoQR25RUdJZZIwHRYMIjpGxblVFXHbJWu7YCfHljxXi93EcEvORwTAwURPBjPTHV+OjwhHb7fiml82hfcSXMHPllew6M=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Hacia la oscuridad",
+            "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3mOpPwrcKCPVkSWGqEwOah4jdX.jpg",
+            "uri": "/AA9vAAccmOkCy8AoQR25RUdJZZIwHRYMIjpGxblVFXHbJWu7YCfHljxXi93EcEvmIb9z7anFwqj75LEnFVZ+WPQVWEv4ov7nqwmFI29DZM=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Bogan",
+            "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3mOpPwrcKCPVkSWGqEwOah4jdX.jpg",
+            "uri": "/AA9vAAccmOkCy8AoQR25RUdJZZIwHRYMIjpGxblVFXHbJWu7YCfHljxXi93EcEveaqNITw4/eZT+N1VBiaNomGdY+1uE0HVOwbVu7hAxZ8=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "En marcha",
+            "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3mOpPwrcKCPVkSWGqEwOah4jdX.jpg",
+            "uri": "/AA9vAAccmOkCy8AoQR25RUdJZZIwHRYMIjpGxblVFXHbJWu7YCfHljxXi93EcEvQUyRBZWi8SaXNHnQFcyuxrr122LzQc+7mirs90MGiEY=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "La huida de Bogan",
+            "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3mOpPwrcKCPVkSWGqEwOah4jdX.jpg",
+            "uri": "/AA9vAAccmOkCy8AoQR25RUdJZZIwHRYMIjpGxblVFXHbJWu7YCfHljxXi93EcEvNl3J3RfAlYJcHw+jygi84tFSV2s219FrbxnxVdxiKtY=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "El cementerio",
+            "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3mOpPwrcKCPVkSWGqEwOah4jdX.jpg",
+            "uri": "/AA9vAAccmOkCy8AoQR25RUdJZZIwHRYMIjpGxblVFXHbJWu7YCfHljxXi93EcEv5Zlq0IFCZYfEA4FDXR6AtcSj3/4zKoR8qUA3MpCWNL4=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "La hora de la verdad",
+            "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3mOpPwrcKCPVkSWGqEwOah4jdX.jpg",
+            "uri": "/AA9vAAccmOkCy8AoQR25RUdJZZIwHRYMIjpGxblVFXHbJWu7YCfHljxXi93EcEvFDKZN7BV9a4s5AvoU/UhqX6vmQfqtzpGUqh7sqHnKQo=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          }
+        ]
+      },
+      {
+        "name": "RECORD OF RAGNAROK",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygE1AEV6pXFuCzbjS9ts59LxDm5.jpg",
+        "temporada": [
+          {
+            "name": "El Ragnarok",
+            "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygE1AEV6pXFuCzbjS9ts59LxDm5.jpg",
+            "uri": "/AA9vAAccmOkCy8AoQR25RUdJZZIwHRYMIjpGxblVFXHbJWu7YCfHljxXi93EcEv2lzq7Okhexkbf2oKKM+FBfixW66xWrM9vd5ntRgJxOc=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Un adversario a la altura",
+            "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygE1AEV6pXFuCzbjS9ts59LxDm5.jpg",
+            "uri": "/AA9vAAccmOkCy8AoQR25RUdJZZIwHRYMIjpGxblVFXHbJWu7YCfHljxXi93EcEvIuNWby0AoTYIWgN4vNJBynjSRyiJeumJzJ1mFCW0Et8=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "El golpe maestro",
+            "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygE1AEV6pXFuCzbjS9ts59LxDm5.jpg",
+            "uri": "/AA9vAAccmOkCy8AoQR25RUdJZZIwHRYMIjpGxblVFXHbJWu7YCfHljxXi93EcEvVOGnDlUDKn6rdblieV3YpB/+1UxdtBKrw/BDHbjWcP8=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Alegría",
+            "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygE1AEV6pXFuCzbjS9ts59LxDm5.jpg",
+            "uri": "/AA9vAAccmOkCy8AoQR25RUdJZZIwHRYMIjpGxblVFXHbJWu7YCfHljxXi93EcEv1hUfW/NbDkA+T3HdITrhB11APUpcDRsj9rkAC8VVUCA=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Archivo n.º 00000000001",
+            "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygE1AEV6pXFuCzbjS9ts59LxDm5.jpg",
+            "uri": "/AA9vAAccmOkCy8AoQR25RUdJZZIwHRYMIjpGxblVFXHbJWu7YCfHljxXi93EcEvRn0iVgWZpYuRAaV/fnfac4hwaj5HSB/7VwO4Ekx0WWs=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Una gran imitación",
+            "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygE1AEV6pXFuCzbjS9ts59LxDm5.jpg",
+            "uri": "/AA9vAAccmOkCy8AoQR25RUdJZZIwHRYMIjpGxblVFXHbJWu7YCfHljxXi93EcEvqY7FZLDIeBTaUttkqv9rS6mzyYsLdJMY0kIRuvNRjjE=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Expulsados del paraíso",
+            "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygE1AEV6pXFuCzbjS9ts59LxDm5.jpg",
+            "uri": "/AA9vAAccmOkCy8AoQR25RUdJZZIwHRYMIjpGxblVFXHbJWu7YCfHljxXi93EcEv9O4aDGWgRB+AvF2sdMu+G1OahJwIYy+JfDkppBR91DE=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Lleno de gracia",
+            "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygE1AEV6pXFuCzbjS9ts59LxDm5.jpg",
+            "uri": "/AA9vAAccmOkCy8AoQR25RUdJZZIwHRYMIjpGxblVFXHbJWu7YCfHljxXi93EcEvLe8ZGo2fC9ypX/lYr0UCgAA5jPP7h3rcLSAa9/N3yZM=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "El tirano del océano",
+            "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygE1AEV6pXFuCzbjS9ts59LxDm5.jpg",
+            "uri": "/AA9vAAccmOkCy8AoQR25RUdJZZIwHRYMIjpGxblVFXHbJWu7YCfHljxXi93EcEvLmkNIbQi1w96tzbL68w5RmsSxSj/x4jDlh3LEjbFcgw=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "El gran perdedor",
+            "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygE1AEV6pXFuCzbjS9ts59LxDm5.jpg",
+            "uri": "/AA9vAAccmOkCy8AoQR25RUdJZZIwHRYMIjpGxblVFXHbJWu7YCfHljxXi93EcEvAx+tGxWhgmZQspgZC6ekfXSaeg3E77yuH+4hwtWdg6E=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "La golondrina se asoma al abismo",
+            "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygE1AEV6pXFuCzbjS9ts59LxDm5.jpg",
+            "uri": "/AA9vAAccmOkCy8AoQR25RUdJZZIwHRYMIjpGxblVFXHbJWu7YCfHljxXi93EcEvWxhAMRbzGKRMfb2NU8fbxipT4BYOJ+toOwoLB5+fTi0=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Y el Ragnarok continúa",
+            "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygE1AEV6pXFuCzbjS9ts59LxDm5.jpg",
+            "uri": "/AA9vAAccmOkCy8AoQR25RUdJZZIwHRYMIjpGxblVFXHbJWu7YCfHljxXi93EcEvb6EG6MBgPNzkhVAA1NUdzkKsNh1Q2GSuYvpiEVa1rj0=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          }
+        ]
+      },
+      {
+        "name": "LOS LOPEGGS",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzb6s3BXjyXthMiAxcVYqAhFsac.jpg",
+        "temporada": [
+          {
+            "name": "Episodio 1",
+            "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzb6s3BXjyXthMiAxcVYqAhFsac.jpg",
+            "uri": "/AA9vAAccmOkCy8AoQR25RUdJZZIwHRYMIjpGxblVFXHbJWu7YCfHljxXi93EcEve+IMchXlMPdObaZysvefdhil/Ox4zThnsAHlRgT5oe8=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Episodio 2",
+            "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzb6s3BXjyXthMiAxcVYqAhFsac.jpg",
+            "uri": "/AA9vAAccmOkCy8AoQR25RUdJZZIwHRYMIjpGxblVFXHbJWu7YCfHljxXi93EcEvwpUYHpiO0zAxavE231w3uhH3KubwWHEtruJFQAiBqc0=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Episodio 3",
+            "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzb6s3BXjyXthMiAxcVYqAhFsac.jpg",
+            "uri": "/AA9vAAccmOkCy8AoQR25RUdJZZIwHRYMIjpGxblVFXHbJWu7YCfHljxXi93EcEvmVPvV2Q07upJECt1+LTvdSC+mIk1rQ/xmF2d5jeLeWY=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Episodio 4",
+            "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzb6s3BXjyXthMiAxcVYqAhFsac.jpg",
+            "uri": "/AA9vAAccmOkCy8AoQR25RUdJZZIwHRYMIjpGxblVFXHbJWu7YCfHljxXi93EcEveCv5O2RgTheUTbl7hePABEnLdW2+QB7cqu6sy+y9vco=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Episodio 5",
+            "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzb6s3BXjyXthMiAxcVYqAhFsac.jpg",
+            "uri": "/AA9vAAccmOkCy8AoQR25RUdJZZIwHRYMIjpGxblVFXHbJWu7YCfHljxXi93EcEvmTCuTICvRiuYsrbuHUuUSEtcxDSvu3o+SKQlSmWgdbo=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Episodio 6",
+            "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzb6s3BXjyXthMiAxcVYqAhFsac.jpg",
+            "uri": "/AA9vAAccmOkCy8AoQR25RUdJZZIwHRYMIjpGxblVFXHbJWu7YCfHljxXi93EcEvg/8uofTg1oejy5sEXhr3S5GA1wuJYQBHXBms43ERZGA=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EL ENCARGADO TEMP 3",
+            "ico": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
+            "temporada": [
+              {
+                "name": "La Convención",
+                "ico": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
+                "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEpV92N5+T2IoYTqDbZ/AHOJZUUupEPSJ2fPAyBFQsbKFY=",
+                "drm_scheme": "",
+                "drm_license_url": ""
+              },
+              {
+                "name": "Soluciones integrales Basurto",
+                "ico": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
+                "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEpq6dgk+AgGPDPQV100bux0ocdOfHA602mJO9jn41jBuo=",
+                "drm_scheme": "",
+                "drm_license_url": ""
+              },
+              {
+                "name": "Y bueh...",
+                "ico": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
+                "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEpxLZ2zGtx1qyzqG5GAr11/c7NyFvG7llLIhUg7qk7y10=",
+                "drm_scheme": "",
+                "drm_license_url": ""
+              },
+              {
+                "name": "Otra oportunidad",
+                "ico": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
+                "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEpYrUmmy942ZVX3Fmg2x1EVRG9AL4IBkQutf2WkuzspUw=",
+                "drm_scheme": "",
+                "drm_license_url": ""
+              },
+              {
+                "name": "Un beso en los labios",
+                "ico": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
+                "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEpvbPF3twZICj+QfAxsNi+yinhjrTmocfYRhXLWlzospg=",
+                "drm_scheme": "",
+                "drm_license_url": ""
+              },
+              {
+                "name": "Portericidio",
+                "ico": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
+                "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEpsGFuQEsEufv1K/lupIoRK2hanEy7/T+WjYRR1a6RfLY=",
+                "drm_scheme": "",
+                "drm_license_url": ""
+              },
+              {
+                "name": "Eliseo versus el Estado Nacional Argentino",
+                "ico": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
+                "uri": "kerMsZ4+4jaDO68Wg0enV8qtKphylYXLtn+CgrAtEBvFXUoQUJaL15zjEaruFyEp8VUw9TT2S2hEPgzFeIpdufMzGPxbi+WWCBLkPfagXhs=",
+                "drm_scheme": "",
+                "drm_license_url": ""
+              }
+            ]
+          },
+          {
+            "name": "INVASIÓN SECRETA (2023)",
+            "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SAIwUnkDsRjLNGQcsxyVqQny7D.jpg",
+            "temporada": [
+              {
+                "name": "Resurrección",
+                "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SAIwUnkDsRjLNGQcsxyVqQny7D.jpg",
+                "uri": "RM61iDxnJDTr1M3KEJsYUQGp9rMsq/rmkajcE0hF7dcATySDgUb3zzKckiUNWj8DaJzYRli8vzEfSPOi0Kz7hiQPj1jLcrjDJtl6q9BJBJo=",
+                "drm_scheme": "",
+                "drm_license_url": ""
+              },
+              {
+                "name": "Promesas",
+                "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SAIwUnkDsRjLNGQcsxyVqQny7D.jpg",
+                "uri": "RM61iDxnJDTr1M3KEJsYUQGp9rMsq/rmkajcE0hF7dcATySDgUb3zzKckiUNWj8Dd8mH7MopWwSLAl6iD/Dh8LQH4X36PLGPwFdTqsRMrk4=",
+                "drm_scheme": "",
+                "drm_license_url": ""
+              },
+              {
+                "name": "Traicionado",
+                "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SAIwUnkDsRjLNGQcsxyVqQny7D.jpg",
+                "uri": "RM61iDxnJDTr1M3KEJsYUQGp9rMsq/rmkajcE0hF7dcATySDgUb3zzKckiUNWj8DgINf0hmaNlPSKKCgwIhRYo0ekfXUEvEpdRd2Pm1/Alw=",
+                "drm_scheme": "",
+                "drm_license_url": ""
+              },
+              {
+                "name": "Amado",
+                "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SAIwUnkDsRjLNGQcsxyVqQny7D.jpg",
+                "uri": "RM61iDxnJDTr1M3KEJsYUQGp9rMsq/rmkajcE0hF7dcATySDgUb3zzKckiUNWj8Dsp6fNmv4u7C8V/5WQosTsq2r+0S9THU0VqHQyZuwnJk=",
+                "drm_scheme": "",
+                "drm_license_url": ""
+              },
+              {
+                "name": "Cosecha",
+                "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SAIwUnkDsRjLNGQcsxyVqQny7D.jpg",
+                "uri": "RM61iDxnJDTr1M3KEJsYUQGp9rMsq/rmkajcE0hF7dcATySDgUb3zzKckiUNWj8D+eA0m3cePcQ5F6GTCUk5BjxKmj4r6/ri3txgiQ5dobA=",
+                "drm_scheme": "",
+                "drm_license_url": ""
+              },
+              {
+                "name": "Hogar",
+                "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SAIwUnkDsRjLNGQcsxyVqQny7D.jpg",
+                "uri": "RM61iDxnJDTr1M3KEJsYUQGp9rMsq/rmkajcE0hF7dcATySDgUb3zzKckiUNWj8DDXUsZfiQ0JSK7P2sHZXXwNbpQdZJzX2dDhdKg0PJVEM=",
+                "drm_scheme": "",
+                "drm_license_url": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "ANIMADAS",
     "mode": true,
     "lista": [
