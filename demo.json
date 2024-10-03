@@ -3162,6 +3162,13 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+       {
+    "name": "EWTN CATÓLICO",
+    "ico": "https://iili.io/dblYQJn.png",
+    "uri": "O4zQaBxapxoofA7Utbs4F5hceVjoJEJMmEq439UAjxhUE2NEbVkdKedBB8MeugCcpB4i3jAvs9brrmVIRUIwUSH/9J+upkIms+BFQ3e8B9dHPl4qSjvIWVj86eLVE8gu",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EWUNlMz/nEixlP2iCoSA4yibkjwgqOO++Y0MOVwxiRhrt3DZRZPB7IVhE5XoHGyWhnTvNPN0DbL31aSlOb8/q64dFC2CEjoGgT/6qPoZQQvblTh1M6cR8JgQ78Eq9wPD7A=="
+  },
       {
         "name": "CANAL LUZ",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/5/50/Canal_Luz_actual.png",
@@ -3215,13 +3222,6 @@
         "name": "CBN ESPAÑOL",
         "ico": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3cd3c736b140e74c9afb1c88fb207892.webp",
         "uri": "w+ZT4F8DBHevw4miW0ZP+oRtTCaT4yLwYy7Rzx0+3B+xWbbgnaehtAib5uY1prOoty1FPi6ccst31kFUFRHrVqeAypUS8QVGNIRzJuAkaHYdLYwsjizxv9xVVfvkSKsh8e9/908e8AmtXNTG4DOtfKJ5PdN6BjTVGLmN9YraQKU=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "EWTN CATOLICO",
-        "ico": "https://www.ewtn.com/assets/ewtn-badge-4f156d7cd046dd20f7902ec63dd3e1e6892effb9130c634b1fcd868a3a43a05f.jpg",
-        "uri": "JF7RuCR/bkp5TPD/JibLbYOFbZcuMMjEr50mgUoHZpWKfkmD/ViyGw+zlMWYgmLZA8Pk3bhDHLQAoCPBNNxsa2GYOd7Gd138rNkY/zPqlWGOG6RWpZxCJTit49gibLHx",
         "drm_scheme": "",
         "drm_license_url": ""
       },
