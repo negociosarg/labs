@@ -706,6 +706,20 @@
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EfZq3I6tUf+qjJM3Hwt4MouXg3aWKqQe0w+ZdWL8Z8Etrtjp8P9a5cdy+xDlDCyBavmzfkchRtBSIJWo3V6DeRgOfiAEK310yhxv8F/7VEgGurHBuOPz3sTDtDODV9BM8A=="
       },
       {
+        "name": "URUGUAY",
+        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
+        "uri": "eS0ZOrCl6lVGYy/BZQNUH+QKj5FS6+lyHmLoJLOMZfLYJFW4K8zbiVZhij8lQxdAD118nn4NkB1JYyvO9jMzXA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "URUGUAY",
+        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
+        "uri": "i43V2nAfCyyZ8dVVT935Ihxr4wECParD7Kn7g1e6t3+RO+CkkS0pxwGH+c8cn5lbFJtdAMymtrlvdHJ7OxvMpOBv7mXdDpqCIDpotf3ObFo=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
         "name": "SUPERLIGA ESPN PREMIUM",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Superliga_Argentina_Logo.png",
         "uri": "O4zQaBxapxoofA7Utbs4F5hceVjoJEJMmEq439UAjxhqyGW3YIIXw2mbnsZCMey/IQtt2cRISRyWh90sm0zbJEGhacoYb4d1SE5GoxjJCDadx+EVHVJIjOMAdwEG1u8z5YENh9j/CGEVJMLoBzqB35rrNcZc22HNMJ+oWwN3zCQ=",
@@ -837,20 +851,6 @@
         "uri": "Qkc/rvUBYvW6xqp5pwFaITkxDf0bzhvA33DMqkVqGXi7CsIMu2NBH2qs/QvZ2WF3+T9C7CAXq7kwAzz9nLnHkluSiaPiqvsXMg9fGhjoM6D6BJiuif9UylPk+B2XA0ay6MWj/RSBlu1n0gQt08C2QQDfXTocmWaVvDaxeenfXnM=",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ERW+GP22PAVlR2JnyTaLYtZTqE171CoHQvjg/GpmlrZQ/oK8IgHIicpjFj1RoIcsf2TSChvwmXST/3zbMz/3KSkNiOkk8TJRXPPeKDaXE9woDsHa1unLhWkvXDhc+HPgng=="
-      },
-      {
-        "name": "URUGUAY",
-        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
-        "uri": "eS0ZOrCl6lVGYy/BZQNUH+QKj5FS6+lyHmLoJLOMZfLYJFW4K8zbiVZhij8lQxdAD118nn4NkB1JYyvO9jMzXA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "URUGUAY",
-        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
-        "uri": "i43V2nAfCyyZ8dVVT935Ihxr4wECParD7Kn7g1e6t3+RO+CkkS0pxwGH+c8cn5lbFJtdAMymtrlvdHJ7OxvMpOBv7mXdDpqCIDpotf3ObFo=",
-        "drm_scheme": "",
-        "drm_license_url": ""
       },
       {
         "name": "PARAGUAY TIGO",
@@ -3155,13 +3155,13 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-       {
-    "name": "EWTN CATÓLICO",
-    "ico": "https://iili.io/dblYQJn.png",
-    "uri": "O4zQaBxapxoofA7Utbs4F5hceVjoJEJMmEq439UAjxhUE2NEbVkdKedBB8MeugCcpB4i3jAvs9brrmVIRUIwUSH/9J+upkIms+BFQ3e8B9dHPl4qSjvIWVj86eLVE8gu",
-    "drm_scheme": "ClearKey",
-    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EWUNlMz/nEixlP2iCoSA4yibkjwgqOO++Y0MOVwxiRhrt3DZRZPB7IVhE5XoHGyWhnTvNPN0DbL31aSlOb8/q64dFC2CEjoGgT/6qPoZQQvblTh1M6cR8JgQ78Eq9wPD7A=="
-  },
+      {
+        "name": "EWTN CATÓLICO",
+        "ico": "https://iili.io/dblYQJn.png",
+        "uri": "O4zQaBxapxoofA7Utbs4F5hceVjoJEJMmEq439UAjxhUE2NEbVkdKedBB8MeugCcpB4i3jAvs9brrmVIRUIwUSH/9J+upkIms+BFQ3e8B9dHPl4qSjvIWVj86eLVE8gu",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EWUNlMz/nEixlP2iCoSA4yibkjwgqOO++Y0MOVwxiRhrt3DZRZPB7IVhE5XoHGyWhnTvNPN0DbL31aSlOb8/q64dFC2CEjoGgT/6qPoZQQvblTh1M6cR8JgQ78Eq9wPD7A=="
+      },
       {
         "name": "CANAL LUZ",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/5/50/Canal_Luz_actual.png",
@@ -3215,6 +3215,13 @@
         "name": "CBN ESPAÑOL",
         "ico": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3cd3c736b140e74c9afb1c88fb207892.webp",
         "uri": "w+ZT4F8DBHevw4miW0ZP+oRtTCaT4yLwYy7Rzx0+3B+xWbbgnaehtAib5uY1prOoty1FPi6ccst31kFUFRHrVqeAypUS8QVGNIRzJuAkaHYdLYwsjizxv9xVVfvkSKsh8e9/908e8AmtXNTG4DOtfKJ5PdN6BjTVGLmN9YraQKU=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "EWTN CATOLICO",
+        "ico": "https://www.ewtn.com/assets/ewtn-badge-4f156d7cd046dd20f7902ec63dd3e1e6892effb9130c634b1fcd868a3a43a05f.jpg",
+        "uri": "JF7RuCR/bkp5TPD/JibLbYOFbZcuMMjEr50mgUoHZpWKfkmD/ViyGw+zlMWYgmLZA8Pk3bhDHLQAoCPBNNxsa2GYOd7Gd138rNkY/zPqlWGOG6RWpZxCJTit49gibLHx",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -4585,6 +4592,20 @@
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EQSsHUTERaTAEDYrbrHLepNuCsTu/AXxYzrrindw1jc2M2Bu30K+ZLJGfr7S+NwA8DiVg8teBiWiBAgjdM9MrV5tjwXfh+VTucQaA4iJpsX0byvygseD8ZRdvQh6xftvGQ=="
       },
       {
+        "name": "VTV PLUS 1",
+        "ico": "https://i.ibb.co/TmjDrWG/VTV-Plus-2024.webp",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniFwF8I1G4jZ2kBLOkl8CFKTtCSsIzmVz7bl7FPWguRnM=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "VTV PLUS 2",
+        "ico": "https://i.ibb.co/TmjDrWG/VTV-Plus-2024.webp",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnipxdiW5VH8Zcnusm0MKdqvNtmWB9O4EJ9pv16qMYeQh4=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
         "name": "PPV 1 URUGUAY ᴴᴰ ",
         "ico": "https://iili.io/d4K4azG.png",
         "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnibfLgkQe8GUhgbvXr9VZtn05KKkipzYFXS2QcbcptaXg=",
@@ -4630,27 +4651,6 @@
         "name": "DIRECTV UY ᴾʳᶦᵐᵉʳᵃ ᵁʳᵘᵍᵘᵃʸ",
         "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/dsports-lam.png",
         "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniYu/Na8XEwNkEKwXw163c9txbxDfjbKCvDnExC49hGmw=",
-        "drm_scheme": null,
-        "drm_license_url": ""
-      },
-      {
-        "name": "VTV PLUS",
-        "ico": "https://i.ibb.co/TmjDrWG/VTV-Plus-2024.webp",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnipxdiW5VH8Zcnusm0MKdqvNtmWB9O4EJ9pv16qMYeQh4=",
-        "drm_scheme": null,
-        "drm_license_url": ""
-      },
-      {
-        "name": "GOLTV ᴴᴰ ",
-        "ico": "http://omegabox.live:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWVyNdGSIrPSU-Q9fVLW48RivO5UDL7tQhQKv2p3cHo7gA.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wni+XO2dFuRoyrn9IUyT+hctFXNyEHepCgVPKCZs5t2iaU=",
-        "drm_scheme": null,
-        "drm_license_url": ""
-      },
-      {
-        "name": "GOLTV ᴴᴰ ",
-        "ico": "http://omegabox.live:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWVyNdGSIrPSU-Q9fVLW48RivO5UDL7tQhQKv2p3cHo7gA.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniJF4ZfK6k229XG6i9mcgR+YHzzw7QcH0HkI8WQvFgPEU=",
         "drm_scheme": null,
         "drm_license_url": ""
       }
@@ -5257,13 +5257,6 @@
         "name": "DTV (HD)",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bandera_de_Bolivia_%28Estado%29.svg/264px-Bandera_de_Bolivia_%28Estado%29.svg.png",
         "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniC4nccRs8UPXkDpkPx1M97E5sQ16hbM9XYkxXoq74x3w=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "EWTN el Canal Católico HD",
-        "ico": "https://w7.pngwing.com/pngs/483/824/png-transparent-ewtn-internet-radio-broadcasting-television-lenten-purple-television-electronics.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniMHDllymMZHWQWBmw/QbXrVlL5lPTuQL3mzC5DXtbrMQ=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
