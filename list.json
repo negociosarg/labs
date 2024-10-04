@@ -6542,6 +6542,13 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+        {
+    "name": "Sportsnet 360**",
+    "ico": "https://www.logo.wine/a/logo/Sportsnet_360/Sportsnet_360-Logo.wine.svg",
+    "uri": "GkVBvboPtPnQICJDiDHVgucst3KwgaK/daEOuuZvNex28+wObne5j+FqJrIX8HwdESBtivJjtMpy4PyBEI8th54PSPJktUfLHiKWt/zpKjJkhS1HjTalPLv6kIAwpxgLnAMBYdm6HmBKHvT45bvSRw==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EUkcGWLlYg1OLu2Q9jGdclCg6e8pNwcHsKLPD1X2d4w8/5MqPeoKhdQjhcHVG7O5Zy51NfiPTO8mp/5R8PvR6cKh/RZcmg1CpTFi6UzrFMDPNCEJEcrRyn5xjginK97J0A=="
+  },
       {
         "name": "PREMIER SPORTS",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Premier_sports_logo_2018.svg/413px-Premier_sports_logo_2018.svg.png",
