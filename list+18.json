@@ -378,32 +378,25 @@
     "mode": false,
     "lista": [
       {
-        "name": "AMERICA SPORTS",
-        "ico": "https://i.ibb.co/hLxLHfV/large-55-png-b16840144f7c170cb9dc31bff9cb1369.png",
-        "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sJtCf14QuJ/MHAAo/up/WsIy2iqMP2F3VJkhvnhzQAz+ypYV9pc5Glcaq7UiGxe5tCXQAf4tMEjp7Mgp3IEHOND9QhOEVYUJXqyvb84lR5FQ==",
+        "name": "FOX SPORTS 1",
+        "ico": "https://i.ibb.co/cD3CyWC/foxsports.png",
+        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0HvkRV6wSfREHiTRqG4rA0EHRRMuDjttGNMBMRHCGGjuw6P5fzwteHoC0Q4WM9+YUNJUVQnF51/rEqn5J8+Mo38",
         "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ed6l0JTfihx+Lp0l4qpmkthqG+LOrqRWcaPdgC+clT6pbFKBLDNMRA3/5JS5601DUIOdEIoUqI2yBiqVitIxHFOtxHaXJ69Xe1XtTgMTxwALdzCkaeGYsXKN2Wmb1hLzmw=="
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EVYKNzOtN0DnoFS2GyZrOscJ7c8Q3T49sYNrslHrJa0lNl7+nrHpKhKgcIjuY9dg5FilPes81rJtt3Bw36YhA56Hpt8XjexJGJqSFzUr1U+iGlmSCgLiCWFZ3RanH9jbYA=="
       },
       {
-        "name": "CLARO SPORTS",
-        "ico": "https://cdn.prod.website-files.com/640b40225e0d9452eb6904e2/640b40225e0d9456b2690e76_clarosports.png",
-        "uri": "eS0ZOrCl6lVGYy/BZQNUH+QKj5FS6+lyHmLoJLOMZfLYJFW4K8zbiVZhij8lQxdAuag0+cm7n7yZ2tUrW/rphQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CLARO SPORTS",
-        "ico": "https://polideportes.poligran.edu.co/wp-content/uploads/2019/10/olympic-games-1608127_960_720.png",
-        "uri": "eS0ZOrCl6lVGYy/BZQNUH+QKj5FS6+lyHmLoJLOMZfLYJFW4K8zbiVZhij8lQxdAuag0+cm7n7yZ2tUrW/rphQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "DEPORTV ARG",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/DeporTV_%282020_Logo_oficial%29.png/800px-DeporTV_%282020_Logo_oficial%29.png",
-        "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sNXOfTikq3oXXalyKtKHkhYdD+FC31HLXVvRMFlQVOdBYnCeOfQnNHKLO1miUFfIv78YCEmwSUQYRhn7/LMIPh",
+        "name": "FOX SPORTS 2",
+        "ico": "https://i.ibb.co/d5RLy9Q/foxsports2.png",
+        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0HvkRV6wSfREHiTRqG4rA0EFHOaQNGNCIgbLZporzpEk9F9eQuvbI7uLWgs/UpXwpv2AahOIiFKZvTrw23FDox3",
         "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EczlULDWBHfe5QZKikdl/7dG+6jHULA2cgayaO/lTUQ3MZ6hcobS8IYHT5rih0tdbXEkIEMABq0Db/wdiBAM5dfLez6lDPzJlGcUrEQnxLsoAyjOeOtTZDGxsi8rwce4Gg=="
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EeK+utVwlqnXyGL1sbgvmbfFDKSYR5H8iM4TsuTA9LAqqvD5wMQAQJMn6E1y2Y7OHGVqJskdfUPPqDAb4GkU9VnPqtrEY2ZxFQVgsmHgY9onZ/FUUyngh7Om0GB+ULhLKg=="
+      },
+      {
+        "name": "FOX SPORTS 3",
+        "ico": "https://i.ibb.co/v1dVGND/foxsports3.png",
+        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0HvkRV6wSfREHiTRqG4rA0E+YaHM+rjb7A5abIShlov05xT7L2gwzQXkkkHYsXKxPkJ+KmavtucHIy1C9Fvl2R+",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ETvvBYmBQUTz3Bcj9lMHvToRLv0JBRheGnRAJosbgxTRzwaddxDE0xDAyGSBf127IKXQShcYMydwxaRvw4Z+RsFRidZBRpJ7ZuDZ/wtPOwVVfcr8ZvYmV/f6XU+89hOaiA=="
       },
       {
         "name": "ESPN",
@@ -474,27 +467,6 @@
         "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5uM2bnSpKPkPqdAq0ZMqIyJskhUnjaiX5TvpujinSSyrN+wqHTuOVLikm7v3x7fzXsj3g9d58dBps8P0GmsYxL2C8rWpMRVF7LQir+23ZrsgDJB6BgNIfu+8Igbenc+nMw=",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ERbisRvRc+3cGCYSJ7pYMDYLBVghJ7RMtASv3Nu0OwVsy+HI7UdFtveRtISUz8QFV8Vbx8kdkl8ubIawE2Yjvfqx9TOhW5eVMeEwjUnmI3OIvBtW6rcco6y9t5eK07r7xg=="
-      },
-      {
-        "name": "FOX SPORTS 1",
-        "ico": "https://i.ibb.co/cD3CyWC/foxsports.png",
-        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0HvkRV6wSfREHiTRqG4rA0EHRRMuDjttGNMBMRHCGGjuw6P5fzwteHoC0Q4WM9+YUNJUVQnF51/rEqn5J8+Mo38",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EVYKNzOtN0DnoFS2GyZrOscJ7c8Q3T49sYNrslHrJa0lNl7+nrHpKhKgcIjuY9dg5FilPes81rJtt3Bw36YhA56Hpt8XjexJGJqSFzUr1U+iGlmSCgLiCWFZ3RanH9jbYA=="
-      },
-      {
-        "name": "FOX SPORTS 2",
-        "ico": "https://i.ibb.co/d5RLy9Q/foxsports2.png",
-        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0HvkRV6wSfREHiTRqG4rA0EFHOaQNGNCIgbLZporzpEk9F9eQuvbI7uLWgs/UpXwpv2AahOIiFKZvTrw23FDox3",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EeK+utVwlqnXyGL1sbgvmbfFDKSYR5H8iM4TsuTA9LAqqvD5wMQAQJMn6E1y2Y7OHGVqJskdfUPPqDAb4GkU9VnPqtrEY2ZxFQVgsmHgY9onZ/FUUyngh7Om0GB+ULhLKg=="
-      },
-      {
-        "name": "FOX SPORTS 3",
-        "ico": "https://i.ibb.co/v1dVGND/foxsports3.png",
-        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0HvkRV6wSfREHiTRqG4rA0E+YaHM+rjb7A5abIShlov05xT7L2gwzQXkkkHYsXKxPkJ+KmavtucHIy1C9Fvl2R+",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ETvvBYmBQUTz3Bcj9lMHvToRLv0JBRheGnRAJosbgxTRzwaddxDE0xDAyGSBf127IKXQShcYMydwxaRvw4Z+RsFRidZBRpJ7ZuDZ/wtPOwVVfcr8ZvYmV/f6XU+89hOaiA=="
       },
       {
         "name": "PX SPORTS",
@@ -656,6 +628,34 @@
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0E+IWkTs8tkEPaIZydX1p4Qnx4C1FOn8DMPHrVxXoyuOZ8WsFpkTLrAqv6MZ5aTNcVH5jJ1DJlE+zIcZxZclD0RAVS0xWrGoh3GU5SPS54JKQ==",
         "drm_scheme": "ClearKey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EWvKE2ouIHoRfYWbyjJpxZeiIjTsbnWD46+ZGDGKcIcabRIHwIPUktyolhhc7MVbqOzQohLD5JE0iWuC/LVUZdRaLl3HkKGKpjPwzxoqd2JfHuftk+2yKEy7BPxhE2MQpw=="
+      },
+      {
+        "name": "AMERICA SPORTS",
+        "ico": "https://i.ibb.co/hLxLHfV/large-55-png-b16840144f7c170cb9dc31bff9cb1369.png",
+        "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sJtCf14QuJ/MHAAo/up/WsIy2iqMP2F3VJkhvnhzQAz+ypYV9pc5Glcaq7UiGxe5tCXQAf4tMEjp7Mgp3IEHOND9QhOEVYUJXqyvb84lR5FQ==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ed6l0JTfihx+Lp0l4qpmkthqG+LOrqRWcaPdgC+clT6pbFKBLDNMRA3/5JS5601DUIOdEIoUqI2yBiqVitIxHFOtxHaXJ69Xe1XtTgMTxwALdzCkaeGYsXKN2Wmb1hLzmw=="
+      },
+      {
+        "name": "CLARO SPORTS",
+        "ico": "https://cdn.prod.website-files.com/640b40225e0d9452eb6904e2/640b40225e0d9456b2690e76_clarosports.png",
+        "uri": "eS0ZOrCl6lVGYy/BZQNUH+QKj5FS6+lyHmLoJLOMZfLYJFW4K8zbiVZhij8lQxdAuag0+cm7n7yZ2tUrW/rphQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CLARO SPORTS",
+        "ico": "https://polideportes.poligran.edu.co/wp-content/uploads/2019/10/olympic-games-1608127_960_720.png",
+        "uri": "eS0ZOrCl6lVGYy/BZQNUH+QKj5FS6+lyHmLoJLOMZfLYJFW4K8zbiVZhij8lQxdAuag0+cm7n7yZ2tUrW/rphQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DEPORTV ARG",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/DeporTV_%282020_Logo_oficial%29.png/800px-DeporTV_%282020_Logo_oficial%29.png",
+        "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sNXOfTikq3oXXalyKtKHkhYdD+FC31HLXVvRMFlQVOdBYnCeOfQnNHKLO1miUFfIv78YCEmwSUQYRhn7/LMIPh",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EczlULDWBHfe5QZKikdl/7dG+6jHULA2cgayaO/lTUQ3MZ6hcobS8IYHT5rih0tdbXEkIEMABq0Db/wdiBAM5dfLez6lDPzJlGcUrEQnxLsoAyjOeOtTZDGxsi8rwce4Gg=="
       }
     ]
   },
@@ -4538,17 +4538,24 @@
       {
         "name": "GOL TV",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/800px-GOLTV.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnihiPqz7qo82luZvgR1CAwDM8lkJn+6BQ6KqFMmrGvWaE=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "GOL TV",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/800px-GOLTV.png",
         "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniJF4ZfK6k229XG6i9mcgR+YHzzw7QcH0HkI8WQvFgPEU=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
-  {
-    "name": "GOL TV2",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/800px-GOLTV.png",
-    "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnihiPqz7qo82luZvgR1CAwDM8lkJn+6BQ6KqFMmrGvWaE=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
+      {
+        "name": "GOL TV",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/800px-GOLTV.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnihiPqz7qo82luZvgR1CAwDM8lkJn+6BQ6KqFMmrGvWaE=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
       {
         "name": "ESPN URUGUAY",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",
