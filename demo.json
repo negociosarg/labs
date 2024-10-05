@@ -4542,6 +4542,13 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+        {
+    "name": "GOL TV",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/800px-GOLTV.png",
+    "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnihiPqz7qo82luZvgR1CAwDM8lkJn+6BQ6KqFMmrGvWaE=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "ESPN URUGUAY",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",
