@@ -684,13 +684,13 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-  {
-    "name": "URUGUAY 4",
-    "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
-    "uri": "kerMsZ4+4jaDO68Wg0enVxakrYtiU41lRnKnF0YfZoodBlPNf5m5xERCfjqWiOBAtX8a4x7ZMPNLbFuXaV5+hA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
+      {
+        "name": "URUGUAY 4",
+        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enVxakrYtiU41lRnKnF0YfZoodBlPNf5m5xERCfjqWiOBAtX8a4x7ZMPNLbFuXaV5+hA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
       {
         "name": "EVENTO MLS",
         "ico": "https://upload.wikimedia.org/wikipedia/fr/9/93/Inter_Miami_CF_logo.png",
@@ -1200,6 +1200,13 @@
     "mode": false,
     "lista": [
       {
+        "name": "9 RIO CUARTO",
+        "ico": "https://www.canal9riocuarto.com.ar/El_Canal_de_los_Riocuartenses,_y_tu_mejor_compania._files/logotrans.png",
+        "uri": "FTu3LsLvfdIiqlG1vbUiv7eQTtoIHESwtJK2ct5HCBCaNNgSSYtZmvb+GBsHC5ydC9+O2C8sIKHB6hRuy53ouFiHxSDoQWR/4M16Ylk7mSs=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
         "name": "CANAL 10 CORDOBA",
         "ico": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Network_10_logo_2018.svg/1024px-Network_10_logo_2018.svg.png",
         "uri": "s4VbPQWRVxvY7ssoq1pec08KxcssIEHReuI6DIil5yu+q1IZ+qUwXu27UP8MXTYSBmuP2w0d3E4oLZLWG5LMwHjn+r63S4cEKRtk3QTTm/jmf82SlHh8dPxGElgKkJhc",
@@ -1207,18 +1214,25 @@
         "drm_license_url": ""
       },
       {
-        "name": "SHOW SPORTS CÓRDOBA",
-        "ico": "https://i.ibb.co/QnqdqBV/ss.png",
-        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0EG45lOUB5rr4pgWIWJP9m+5Dd+UwIsUXddx9mdu9LSKKvpmqFcsdSsqWpOQuXfJBFUB5h27O58BTXyhsKJ78iu",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ed3jYBkEeJfsYfKGizlplssTQdvK+C2z0UYSFb4ChBVKNntmFbf2Ul+w7w2UlyJD9CBt7yFaj76TFHnbXD2vdbR/dngA+LIqzVRcPK9mEhu17dNaB1IilMDs3B8eWQ2Gsg=="
+        "name": "CANAL 12 CORDOBA",
+        "ico": "https://i.ibb.co/XSBg5Wx/eldoce-logo.png",
+        "uri": "O4zQaBxapxoofA7Utbs4F0Tl+WtYe/iRC29D4DQTGlp+fvagSGpjF75AKQW5cpyQZwrUYPLZwrG9sk3CBEeGB8r2TTDIVO/MHgr+foU7ganrbHLbeGjjZOcf6gZL1naKBRs+o3S/h9zIQWPPtKPmqw==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ERNqgnfbJ9Gg5CAISs6prNC9LSSZU5N4+l3DdV8VU+G46G5Yisv5KSDSSFccIt52G4EeF6nSHFbzKNdrjfXd4K0jlYbzgh9mK9A23ppr6BuSSixlIh//AwiX7g8cewz7FA=="
       },
       {
-        "name": "CANAL CARLOS PAZ",
-        "ico": "https://www.nextmultimedio.com/wp-content/uploads/2023/02/PNGlogonext5.png",
-        "uri": "O4zQaBxapxoofA7Utbs4FwBoo6XFHOWJSbr2AN+SqBJ4mqQF7tMqjLJlufnYRoWZ2PBa2GNZ4jhb6dYpunBnbGpLmJq51IFslzt1bEGw2qjyiRdlRbm2B0+WcFM2Yskf8Fm6jkWWNXmmTCH1W/b+8A==",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EW8uX+SJhyuZ1wvC6WV6icxvHjz3jSIUgzGmsuxvySzfERf+P4FvtXLc3JHMN1Cg2bvEFGAx+ymoxsfHsg5rk5CpQXIPLvglsbL6EfoxN5vWzhtZ4ARlrg5PKQj7iIlr+w=="
+        "name": "CANAL 13 RIO CUARTO",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Canal_13_R%C3%ADo_Cuarto_%28Logo_2008%29.png/133px-Canal_13_R%C3%ADo_Cuarto_%28Logo_2008%29.png",
+        "uri": "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",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CANAL 20",
+        "ico": "https://i.ibb.co/1qB0nPq/channels4-profile-1.jpg",
+        "uri": "bZ9hIiIlHGGDzdhqdkAFw+Huws8HFqTjL0AidHBVDQBd7yntchnbKNUOFTP/5nbSr0rxH33b94VUODu/E5hlXg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
       },
       {
         "name": "CANAL C CÓRDOBA",
@@ -1228,11 +1242,39 @@
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ES77hRrN9uctKy2lexKMf1/x1IcHhHZzOHNeRjOgbjaXT/m2LbcgT01fzx4ffsFNliu3+BHnjoHOVb6ioRgDH4ONp9fMFflg5KqKLm3zecQVmzOsY7MLP/bRfq01c8NCdw=="
       },
       {
-        "name": "CANAL 12 CORDOBA",
-        "ico": "https://i.ibb.co/XSBg5Wx/eldoce-logo.png",
-        "uri": "O4zQaBxapxoofA7Utbs4F0Tl+WtYe/iRC29D4DQTGlp+fvagSGpjF75AKQW5cpyQZwrUYPLZwrG9sk3CBEeGB8r2TTDIVO/MHgr+foU7ganrbHLbeGjjZOcf6gZL1naKBRs+o3S/h9zIQWPPtKPmqw==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ERNqgnfbJ9Gg5CAISs6prNC9LSSZU5N4+l3DdV8VU+G46G5Yisv5KSDSSFccIt52G4EeF6nSHFbzKNdrjfXd4K0jlYbzgh9mK9A23ppr6BuSSixlIh//AwiX7g8cewz7FA=="
+        "name": "CANAL CARLOS PAZ",
+        "ico": "https://www.nextmultimedio.com/wp-content/uploads/2023/02/PNGlogonext5.png",
+        "uri": "O4zQaBxapxoofA7Utbs4FwBoo6XFHOWJSbr2AN+SqBJ4mqQF7tMqjLJlufnYRoWZ2PBa2GNZ4jhb6dYpunBnbGpLmJq51IFslzt1bEGw2qjyiRdlRbm2B0+WcFM2Yskf8Fm6jkWWNXmmTCH1W/b+8A==",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EW8uX+SJhyuZ1wvC6WV6icxvHjz3jSIUgzGmsuxvySzfERf+P4FvtXLc3JHMN1Cg2bvEFGAx+ymoxsfHsg5rk5CpQXIPLvglsbL6EfoxN5vWzhtZ4ARlrg5PKQj7iIlr+w=="
+      },
+      {
+        "name": "CANAL U",
+        "ico": "https://i.ibb.co/yNPNwyj/ar-cba-24n-m.png",
+        "uri": "s4VbPQWRVxvY7ssoq1pec6249ptKNv+Ou1p+LaT46cBok0Z3Qz7KheE2MZJed6eZSvTO88cf8voCNgDDE8Y6TKlEIMsjh0c53aIijbBISv4=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "COOP JESÚS MARIA",
+        "ico": "https://www.canalcoop.com.ar/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcanal-coop.d704a2e4.png&w=3840&q=75",
+        "uri": "cuOwSimjr6lnR339WCoh53lSAkgx8TXcg33SK0Fxpip+O8Mbho8vhKGSCy6D9EhyX1e4DOfBOaV26dQvwWdg2xzE9L2vCOyXcUNs8j9eUPYndmstbU5OAdxCe5BqCT4Q",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "SAN FRANCISCO",
+        "ico": "https://i.ibb.co/GMBybk9/305404928-518692200257477-8245331182613739018-n.jpg",
+        "uri": "Rc+kQu63nuifx66qKWQyVWW/v4XmPAJUuHO9/2f1btU=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "SHOW SPORTS CÓRDOBA",
+        "ico": "https://i.ibb.co/QnqdqBV/ss.png",
+        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0EG45lOUB5rr4pgWIWJP9m+5Dd+UwIsUXddx9mdu9LSKKvpmqFcsdSsqWpOQuXfJBFUB5h27O58BTXyhsKJ78iu",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ed3jYBkEeJfsYfKGizlplssTQdvK+C2z0UYSFb4ChBVKNntmFbf2Ul+w7w2UlyJD9CBt7yFaj76TFHnbXD2vdbR/dngA+LIqzVRcPK9mEhu17dNaB1IilMDs3B8eWQ2Gsg=="
       },
       {
         "name": "TELEFE CORDOBA",
@@ -1245,48 +1287,6 @@
         "name": "UNITEVE VILLA MARIA",
         "ico": "http://uniteve.com.ar/wp-content/themes/uniteve-2017/img/header-logo.png",
         "uri": "Bs7fzYIKIbxUnsP9vofnXSywxly5WCWYwq+Is+R8X52FZn5e7aP4kqDxgo/reg/3r3sMc3nc3zz9rqyu7THxcg==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "9 RIO CUARTO",
-        "ico": "https://www.canal9riocuarto.com.ar/El_Canal_de_los_Riocuartenses,_y_tu_mejor_compania._files/logotrans.png",
-        "uri": "FTu3LsLvfdIiqlG1vbUiv7eQTtoIHESwtJK2ct5HCBCaNNgSSYtZmvb+GBsHC5ydC9+O2C8sIKHB6hRuy53ouFiHxSDoQWR/4M16Ylk7mSs=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CANAL U",
-        "ico": "https://i.ibb.co/yNPNwyj/ar-cba-24n-m.png",
-        "uri": "s4VbPQWRVxvY7ssoq1pec6249ptKNv+Ou1p+LaT46cBok0Z3Qz7KheE2MZJed6eZSvTO88cf8voCNgDDE8Y6TKlEIMsjh0c53aIijbBISv4=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CANAL 20",
-        "ico": "https://i.ibb.co/1qB0nPq/channels4-profile-1.jpg",
-        "uri": "bZ9hIiIlHGGDzdhqdkAFw+Huws8HFqTjL0AidHBVDQBd7yntchnbKNUOFTP/5nbSr0rxH33b94VUODu/E5hlXg==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "SAN FRANCISCO",
-        "ico": "https://i.ibb.co/GMBybk9/305404928-518692200257477-8245331182613739018-n.jpg",
-        "uri": "Rc+kQu63nuifx66qKWQyVWW/v4XmPAJUuHO9/2f1btU=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CANAL 13 RIO CUARTO",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Canal_13_R%C3%ADo_Cuarto_%28Logo_2008%29.png/133px-Canal_13_R%C3%ADo_Cuarto_%28Logo_2008%29.png",
-        "uri": "tLjo5kDbct015TZtplmzUM0bjYwaoFZb6UykIDcu/sYIynlHDXp71wbVuR/hSggf0ERyE9oe6dFfxu+iCAZc4WBivOeNceVFQDs/E6i3jLA=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "COOP JESÚS MARIA",
-        "ico": "https://www.canalcoop.com.ar/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcanal-coop.d704a2e4.png&w=3840&q=75",
-        "uri": "cuOwSimjr6lnR339WCoh53lSAkgx8TXcg33SK0Fxpip+O8Mbho8vhKGSCy6D9EhyX1e4DOfBOaV26dQvwWdg2xzE9L2vCOyXcUNs8j9eUPYndmstbU5OAdxCe5BqCT4Q",
         "drm_scheme": "",
         "drm_license_url": ""
       }
@@ -4543,24 +4543,101 @@
     "mode": false,
     "lista": [
       {
-        "name": "GOL TV",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/800px-GOLTV.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnihiPqz7qo82luZvgR1CAwDM8lkJn+6BQ6KqFMmrGvWaE=",
+        "name": "1️⃣ DSPORTS ᴾʳᶦᵐᵉʳᵃ ᵁʳᵘᵍᵘᵃʸ",
+        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/dsports-lam.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniGoOEHUIK9XetUvs0Ko2eff1MHs8408UjZdE7WlnhDXU=",
+        "drm_scheme": null,
+        "drm_license_url": ""
+      },
+      {
+        "name": "2️⃣ DSPORTS ᴾʳᶦᵐᵉʳᵃ ᵁʳᵘᵍᵘᵃʸ",
+        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/dsports-lam.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniL3DoE04/m5IInwm3lhhnV2rPLp+77nWm/NhskxQNTCs=",
+        "drm_scheme": null,
+        "drm_license_url": ""
+      },
+      {
+        "name": "CAMPEONATO URUGUAY",
+        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
+        "uri": "8bb+eHXtpFK9XpINNn/APVFMVZpCun0+GlwbMYuO2tHshSuPbfPkVb3TNG/QcklHCVHtzpGoHvJ0N1cR9s/1MiZth+6weEz5vRiMcwI+xhw=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "GOL TV",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/800px-GOLTV.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniJF4ZfK6k229XG6i9mcgR+YHzzw7QcH0HkI8WQvFgPEU=",
+        "name": "CAMPEONATO URUGUAY 2",
+        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XEkzbV7qY+9wMDT5hUhc1JihdXKKqxTbmoc8vHQ0si3uEhY1E5KJUe72Ok4cSNimaA==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "GOL TV",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/800px-GOLTV.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnihiPqz7qo82luZvgR1CAwDM8lkJn+6BQ6KqFMmrGvWaE=",
+        "name": "CAMPEONATO URUGUAY 3",
+        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XEkzbV7qY+9wMDT5hUhc1JihdXKKqxTbmoc8vHQ0si3uEhY1E5KJUe72Ok4cSNimaA==",
         "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CAMPEONATO URUGUAY 4",
+        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
+        "uri": "8bb+eHXtpFK9XpINNn/APVFMVZpCun0+GlwbMYuO2tHshSuPbfPkVb3TNG/QcklHp57KDfwo4QLNkrNWxnNcGLm8bgmNkB8A9QAtnFdBV5o=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CAMPEONATO URUGUAY 5",
+        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
+        "uri": "8bb+eHXtpFK9XpINNn/APVFMVZpCun0+GlwbMYuO2tHshSuPbfPkVb3TNG/QcklHCYtQ7iXbs8GJpaV3gKzBpnfaM2oa4TtM5xlE7hD5mvY=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CAMPEONATO URUGUAY 6",
+        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XEkzbV7qY+9wMDT5hUhc1JihdXKKqxTbmoc8vHQ0si3ua7XDSNQukbkIu/qYI0AFrw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CAMPEONATO URUGUAY 7",
+        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XEkzbV7qY+9wMDT5hUhc1JihdXKKqxTbmoc8vHQ0si3uIV38axDY+ByCP5HpC7AAfQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CAMPEONATO URUGUAY 8",
+        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XEkzbV7qY+9wMDT5hUhc1JihdXKKqxTbmoc8vHQ0si3uw5gyof8JICX4s3HsNagEhQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CAMPEONATO URUGUAY 9",
+        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XEkzbV7qY+9wMDT5hUhc1JihdXKKqxTbmoc8vHQ0si3ujSZd/KiJzhSz0FUoWq3/DQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CAMPEONATO URUGUAY 10",
+        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XEkzbV7qY+9wMDT5hUhc1JihdXKKqxTbmoc8vHQ0si3ujSZd/KiJzhSz0FUoWq3/DQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DIRECTV UY ᴾʳᶦᵐᵉʳᵃ ᵁʳᵘᵍᵘᵃʸ",
+        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/dsports-lam.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnigSRDuA89pPLB7oj/xBsm+GJM4hzgJrlXsJrkbRYQvmw=",
+        "drm_scheme": null,
+        "drm_license_url": ""
+      },
+      {
+        "name": "DIRECTV UY ᴾʳᶦᵐᵉʳᵃ ᵁʳᵘᵍᵘᵃʸ",
+        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/dsports-lam.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniYu/Na8XEwNkEKwXw163c9txbxDfjbKCvDnExC49hGmw=",
+        "drm_scheme": null,
         "drm_license_url": ""
       },
       {
@@ -4571,25 +4648,25 @@
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EWUJBq29J/P75GLv4Zd88npuMT5eHqzC/hk1Byo7Nrg/pRTn8OlCbar4d3+QDytbdSZ/hfw/b1txH7V8S0YgsxOqbCrZ+W+0f0JTR7tTB1FMDBufAEWme8ks2jctoO43oA=="
       },
       {
-        "name": "VTV PLUS 1",
-        "ico": "https://i.ibb.co/TmjDrWG/VTV-Plus-2024.webp",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniFwF8I1G4jZ2kBLOkl8CFKTtCSsIzmVz7bl7FPWguRnM=",
-        "drm_scheme": "",
+        "name": "PPV 1 URUGUAY ᴴᴰ ",
+        "ico": "https://iili.io/d4K4azG.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnibfLgkQe8GUhgbvXr9VZtn05KKkipzYFXS2QcbcptaXg=",
+        "drm_scheme": null,
         "drm_license_url": ""
       },
       {
-        "name": "VTV PLUS 2",
-        "ico": "https://i.ibb.co/TmjDrWG/VTV-Plus-2024.webp",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnipxdiW5VH8Zcnusm0MKdqvNtmWB9O4EJ9pv16qMYeQh4=",
-        "drm_scheme": "",
+        "name": "PPV 2 URUGUAY ᴴᴰ ",
+        "ico": "https://iili.io/d4K4azG.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniISB+x3oY0kc2+O9M54Ib6Cv+Drtuy4rD8/ksZhUDZ48=",
+        "drm_scheme": null,
         "drm_license_url": ""
       },
       {
-        "name": "VTV PLUS 3",
-        "ico": "https://dl.dropbox.com/scl/fi/euk6d7rq2vt77e7ttt6tz/vtvplus.png?rlkey=jubnbfbirssq1hur4kqp44ojd&dl=1",
-        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0HQVcDmvA9aPxnDLyWx7Oq4ItFU3fh+bSs/boDG31UDWAJM221lWes7XAJ7DRYebblA4O0r25Ui32ZfIzzY/Pth",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EQSsHUTERaTAEDYrbrHLepNuCsTu/AXxYzrrindw1jc2M2Bu30K+ZLJGfr7S+NwA8DiVg8teBiWiBAgjdM9MrV5tjwXfh+VTucQaA4iJpsX0byvygseD8ZRdvQh6xftvGQ=="
+        "name": "PPV 3 URUGUAY ᴴᴰ ",
+        "ico": "https://iili.io/d4K4azG.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wni1XYXVgPOOkcssoM30jwmzcKSxJk39YUYvcEnLKtbnTo=",
+        "drm_scheme": null,
+        "drm_license_url": ""
       },
       {
         "name": "URUGUAY 1",
@@ -4613,53 +4690,25 @@
         "drm_license_url": ""
       },
       {
-        "name": "PPV 3 URUGUAY ᴴᴰ ",
-        "ico": "https://iili.io/d4K4azG.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wni1XYXVgPOOkcssoM30jwmzcKSxJk39YUYvcEnLKtbnTo=",
-        "drm_scheme": null,
+        "name": "VTV PLUS 1",
+        "ico": "https://i.ibb.co/TmjDrWG/VTV-Plus-2024.webp",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniFwF8I1G4jZ2kBLOkl8CFKTtCSsIzmVz7bl7FPWguRnM=",
+        "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "PPV 2 URUGUAY ᴴᴰ ",
-        "ico": "https://iili.io/d4K4azG.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniISB+x3oY0kc2+O9M54Ib6Cv+Drtuy4rD8/ksZhUDZ48=",
-        "drm_scheme": null,
+        "name": "VTV PLUS 2",
+        "ico": "https://i.ibb.co/TmjDrWG/VTV-Plus-2024.webp",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnipxdiW5VH8Zcnusm0MKdqvNtmWB9O4EJ9pv16qMYeQh4=",
+        "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "PPV 1 URUGUAY ᴴᴰ ",
-        "ico": "https://iili.io/d4K4azG.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnibfLgkQe8GUhgbvXr9VZtn05KKkipzYFXS2QcbcptaXg=",
-        "drm_scheme": null,
-        "drm_license_url": ""
-      },
-      {
-        "name": "DIRECTV UY ᴾʳᶦᵐᵉʳᵃ ᵁʳᵘᵍᵘᵃʸ",
-        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/dsports-lam.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnigSRDuA89pPLB7oj/xBsm+GJM4hzgJrlXsJrkbRYQvmw=",
-        "drm_scheme": null,
-        "drm_license_url": ""
-      },
-      {
-        "name": "DIRECTV UY ᴾʳᶦᵐᵉʳᵃ ᵁʳᵘᵍᵘᵃʸ",
-        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/dsports-lam.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniYu/Na8XEwNkEKwXw163c9txbxDfjbKCvDnExC49hGmw=",
-        "drm_scheme": null,
-        "drm_license_url": ""
-      },
-      {
-        "name": "2️⃣ DSPORTS ᴾʳᶦᵐᵉʳᵃ ᵁʳᵘᵍᵘᵃʸ",
-        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/dsports-lam.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniL3DoE04/m5IInwm3lhhnV2rPLp+77nWm/NhskxQNTCs=",
-        "drm_scheme": null,
-        "drm_license_url": ""
-      },
-      {
-        "name": "1️⃣ DSPORTS ᴾʳᶦᵐᵉʳᵃ ᵁʳᵘᵍᵘᵃʸ",
-        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/dsports-lam.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniGoOEHUIK9XetUvs0Ko2eff1MHs8408UjZdE7WlnhDXU=",
-        "drm_scheme": null,
-        "drm_license_url": ""
+        "name": "VTV PLUS 3",
+        "ico": "https://dl.dropbox.com/scl/fi/euk6d7rq2vt77e7ttt6tz/vtvplus.png?rlkey=jubnbfbirssq1hur4kqp44ojd&dl=1",
+        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0HQVcDmvA9aPxnDLyWx7Oq4ItFU3fh+bSs/boDG31UDWAJM221lWes7XAJ7DRYebblA4O0r25Ui32ZfIzzY/Pth",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EQSsHUTERaTAEDYrbrHLepNuCsTu/AXxYzrrindw1jc2M2Bu30K+ZLJGfr7S+NwA8DiVg8teBiWiBAgjdM9MrV5tjwXfh+VTucQaA4iJpsX0byvygseD8ZRdvQh6xftvGQ=="
       }
     ]
   },
@@ -7506,41 +7555,6 @@
     "mode": false,
     "lista": [
       {
-        "name": "SKY LA LIGA",
-        "ico": "https://w7.pngwing.com/pngs/190/341/png-transparent-sky-sports-news-television-channel-sky-sports-television-text-trademark.png",
-        "uri": "gNBb35DZcJiHJnyoXkGR8tOpvEjdL4DsfW+MyIJTEFGmbwJ5d5I/FWeFCV1pGzqk",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "PADEL TV",
-        "ico": "https://vhx.imgix.net/mypadel/assets/a32a0dbd-54aa-4959-a32b-128480904651.png",
-        "uri": "XraivxHTgpxiNVlanMV9uJWYjqYOydzfIBGhA8HpRtT9H6Pnk6ebeLYFAXc7E148vljyajZuhqZM3B+kM1menWkGVRgwE/wS5AiLiUXHxdyRrDPDx4TcPsulJesTIAEDuOH0W6zH6LLOeA5MX7+1xA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "SPORT TV 1",
-        "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
-        "uri": "KyycXvDmZR0K92hoVlQppOAXko4nbOqqeAui8d8W4JQjE7/JgSB/OVWVPhYvdUa27uG0sS/9gwNSFVPnCTXmkA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "SETANTA SPORTS KZ",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Setanta_sports_hd.png/800px-Setanta_sports_hd.png?20180924035612",
-        "uri": "T4IQSxIEozHLek2WwLakhf+lbZc/ZVUn0Q4hCpO2T29QQR1jW4esWSlGysZH6EgPIKn/NeN7hbC+bRuqbB4i0Q==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "SETANTA SPORTS 1",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Setanta_sports_hd.png/800px-Setanta_sports_hd.png?20180924035612",
-        "uri": "0ZXK2VEtfXUNk+qU5oHS57CjV3Pg10C5kSup4V8iHAFAhVMumNM25IB8bgf0NWhqKjxS73/f0WCLCeRfF/gRy0CRPpU1gMuo1hLHXoTC6J0ZB6vACFmJUqDljx5vmwJWVQ1mUYVKx+uuTPEjR9kB+J7fiSGiwqYz9CHdQnYRYFHAnlrORJBIyjuO4xfmEg9n",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
         "name": "JS 1",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/250px-J_Sports_Logo.svg.png",
         "uri": "I4M7scAmGLnRqn/Gq/JySX1iquU2FV1GTJIxTi3/EK65cxdGus9BGMQXUFHFfOylX7nojUE4i6UNkREBWQl4yBLufZHTdnjjFbiRAfo+L68=",
@@ -7590,11 +7604,88 @@
         "drm_license_url": ""
       },
       {
+        "name": "PADEL TV",
+        "ico": "https://vhx.imgix.net/mypadel/assets/a32a0dbd-54aa-4959-a32b-128480904651.png",
+        "uri": "XraivxHTgpxiNVlanMV9uJWYjqYOydzfIBGhA8HpRtT9H6Pnk6ebeLYFAXc7E148vljyajZuhqZM3B+kM1menWkGVRgwE/wS5AiLiUXHxdyRrDPDx4TcPsulJesTIAEDuOH0W6zH6LLOeA5MX7+1xA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "SETANTA SPORTS 1",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Setanta_sports_hd.png/800px-Setanta_sports_hd.png?20180924035612",
+        "uri": "0ZXK2VEtfXUNk+qU5oHS57CjV3Pg10C5kSup4V8iHAFAhVMumNM25IB8bgf0NWhqKjxS73/f0WCLCeRfF/gRy0CRPpU1gMuo1hLHXoTC6J0ZB6vACFmJUqDljx5vmwJWVQ1mUYVKx+uuTPEjR9kB+J7fiSGiwqYz9CHdQnYRYFHAnlrORJBIyjuO4xfmEg9n",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "SETANTA SPORTS KZ",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Setanta_sports_hd.png/800px-Setanta_sports_hd.png?20180924035612",
+        "uri": "T4IQSxIEozHLek2WwLakhf+lbZc/ZVUn0Q4hCpO2T29QQR1jW4esWSlGysZH6EgPIKn/NeN7hbC+bRuqbB4i0Q==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "SKY LA LIGA",
+        "ico": "https://w7.pngwing.com/pngs/190/341/png-transparent-sky-sports-news-television-channel-sky-sports-television-text-trademark.png",
+        "uri": "gNBb35DZcJiHJnyoXkGR8tOpvEjdL4DsfW+MyIJTEFGmbwJ5d5I/FWeFCV1pGzqk",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
         "name": "SPORT FRANCE",
         "ico": "https://i.ibb.co/p1stMyz/sportenfr.webp",
         "uri": "zCqsxi4QaMrmYGHGUNNaDJn18VAWDgD2X2LXDZvM21rGR4esvBoDUen+ZLN75OaXwHesmmAbcwNkdBz2I7w/3Z4Qx7ZINzEiixipiblUFDo=",
         "drm_scheme": "",
         "drm_license_url": ""
+      },
+      {
+        "name": "SPORT TV 1",
+        "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
+        "uri": "KyycXvDmZR0K92hoVlQppOAXko4nbOqqeAui8d8W4JQjE7/JgSB/OVWVPhYvdUa27uG0sS/9gwNSFVPnCTXmkA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Sportsnet 360",
+        "ico": "https://iili.io/dbZ9hzv.png ",
+        "uri": "GkVBvboPtPnQICJDiDHVgucst3KwgaK/daEOuuZvNex28+wObne5j+FqJrIX8HwdESBtivJjtMpy4PyBEI8th54PSPJktUfLHiKWt/zpKjJkhS1HjTalPLv6kIAwpxgLnAMBYdm6HmBKHvT45bvSRw==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EUkcGWLlYg1OLu2Q9jGdclCg6e8pNwcHsKLPD1X2d4w8/5MqPeoKhdQjhcHVG7O5Zy51NfiPTO8mp/5R8PvR6cKh/RZcmg1CpTFi6UzrFMDPNCEJEcrRyn5xjginK97J0A=="
+      },
+      {
+        "name": "Sportsnet East",
+        "ico": "https://iili.io/dbZ9hzv.png",
+        "uri": "GkVBvboPtPnQICJDiDHVgucst3KwgaK/daEOuuZvNex28+wObne5j+FqJrIX8Hwdp0Hf4Z7YzjI+cjLTKf2arD5r/rOCZnuP771b65gO/Pu0CuJpNNczUh8NNWXIvkdwNEtGfrPDIxur5zC9HcIpVg==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Edczg5dBKqPR84w5bY6D2WljjNxqK7qgDy8LkBlbbgI8WowVXPsWqA96HBpQP+yS32dtmPVZhGzFgrlJAWZUolWbSeirbjx3yFEV1AqXIIe44VO97spBqsyneT5K9kPgIw=="
+      },
+      {
+        "name": "Sportsnet One",
+        "ico": "https://iili.io/dbZ9hzv.png",
+        "uri": "AZ8Ffrn6G0zOuceqiaxNgrQ5kSbVzEgnyOhJXwYr67VwSU1ecBw9Vk9rGjaxyOKqtmC2pE7iUYrw0wgVYhh8MWBo6EkLNy5Rs8zl5mmp/GV5Dsf1AmqYfIitzoDC1TQ3YmdCpWazgymg4P8mM2vBZw==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EUyi6gibP5JgdFtqlN3F/+MpR8tGz9FpaSUhZ1FBdXZF2P1yXNNs8lbJkBzLVEsbJcsbW4FvgG16NQxtXgSgA4WUYuhYqg0FySeyvlwiFRC2RQHjOQK3Q8hDAkpufKe2+Q=="
+      },
+      {
+        "name": "Sportsnet Ontario",
+        "ico": "https://iili.io/dbZ9hzv.png",
+        "uri": "/9WnFys+iR5CjucjTMqwbcG6CiL2H5cW1wrxrXMHn/GX19pY6qv43TTdY3EQ+25/KcmLP44TynuBb8y25NFB2b0lB55qpjmP2cj0QCvzgsVNOOB4j6tezU6e5+VYEfEy7rwZEK2GdMBwKMc3uk9+rg==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EXW8tJkgHz45yR6yd0ynPAvcwJIhWaLY8Zab8ppoE4AwuzuFvsNkhKx6P+7BkAX0+ZE3402UcKehsI6FjouhY/SnxmLvfces8xAYrOUqGY859BEbnjRKCZyXLIDrfCUXRw=="
+      },
+      {
+        "name": "Sportsnet Pacific",
+        "ico": "https://iili.io/dbZ9hzv.png",
+        "uri": "/9WnFys+iR5CjucjTMqwbcG6CiL2H5cW1wrxrXMHn/GX19pY6qv43TTdY3EQ+25/KcmLP44TynuBb8y25NFB2X8gvbzNYPtl+eQRdXm/ptSD/+8FUXOQCQDJXSc8apiM+xcnQkdXNXDwcJEfSy4nWg==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EdnFw7IWezigzgJePArbfvJRc/mYxyK7c85vAIloJpcikRabuCQ5qXIOTCVWqbbNCVYYXNYappnPumsMqoSx/G2C6cuCF9hrp5c8v7dqkIkx1vCrWXLgmQbMWqJrFjWmtg=="
+      },
+      {
+        "name": "Sportsnet West",
+        "ico": "https://iili.io/dbZ9hzv.png",
+        "uri": "GkVBvboPtPnQICJDiDHVgucst3KwgaK/daEOuuZvNex28+wObne5j+FqJrIX8Hwdd7T1RHC2LwPplErtf+p9E8b00t0oTplmmf/YxhmH5SXQ7O6t+GyXu7Vgj5SuRB1lFdhHfM8SN2KntTdjWqggZQ==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EYzCSory3CgmCzlCebQtGW4oo8citnzVg8KcLTPeGifKuwFiFF/iFa1/hp22yY85DMIxWnPWd6GiWUF2aOwc0IZ54fbltZI7yVFqGlZSpEWWJe5+w47RZ8NJiXW8OCYMOQ=="
       }
     ]
   },
