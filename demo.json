@@ -1082,107 +1082,72 @@
     "mode": false,
     "lista": [
       {
-        "name": "DSPORTS Argentina FHD",
+        "name": "DSPORTS 1",
         "ico": "https://iili.io/dpjMczX.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniWG0QVJihXx0LuVl/WyZGh3M9cKzMfzScH3Oys1t1OME=",
+        "uri": "kerMsZ4+4jaDO68Wg0enV6YP/8mHtVtWnuPvNWGUXynn+ehdBAsx7WvqurVvaP91GM6rj8yTSHYtWR7hoLsG4Q==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "DSPORTS Argentina FHD",
+        "name": "DSPORTS 2 ",
         "ico": "https://iili.io/dpjMczX.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniRHM49Gb7/adHuJKp2UU01rZlwSIm46JuA0AUPsdVuPo=",
+        "uri": "kerMsZ4+4jaDO68Wg0enV6YP/8mHtVtWnuPvNWGUXynn+ehdBAsx7WvqurVvaP91OtobNwldtBu72XtF4kC+kQ==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "DSPORTS Colombia",
+        "name": "DSPORTS 3",
         "ico": "https://iili.io/dpjMczX.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wnic8Ee2L/FiQwZSjx3x+KCvHAL+xy2ogYrwGutsZFijPc=",
+        "uri": "kerMsZ4+4jaDO68Wg0enV6YP/8mHtVtWnuPvNWGUXynn+ehdBAsx7WvqurVvaP91TLtZb9rlxAKuO/rFStyLUw==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "DSPORTS Ecuador",
+        "name": "DSPORTS 4",
         "ico": "https://iili.io/dpjMczX.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniL5JlmM/waGjXRRJ8ulhoRGWafbDDRZaP71q3cbSIamg=",
+        "uri": "kerMsZ4+4jaDO68Wg0enV6YP/8mHtVtWnuPvNWGUXynn+ehdBAsx7WvqurVvaP91hg/FFPIekBwTl0VSNK74fg==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "DSPORTS Ecuador HD",
+        "name": "DSPORTS 5",
         "ico": "https://iili.io/dpjMczX.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wnic5Orea4JqSsG6Ql6Dj2jqJZ50MgdSb0Hpbtbm1Uiis8=",
+        "uri": "kerMsZ4+4jaDO68Wg0enV6YP/8mHtVtWnuPvNWGUXynn+ehdBAsx7WvqurVvaP91ULtaPVM3MOboNAyXXpz6Mw==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "DSPORTS Eventos 1",
+        "name": "DSPORTS 6",
         "ico": "https://iili.io/dpjMczX.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wni8atoOJPcnTIiF/QdgJj3ETW2W/nerz6JC+eJAJBdUuw=",
+        "uri": "kerMsZ4+4jaDO68Wg0enV6YP/8mHtVtWnuPvNWGUXynn+ehdBAsx7WvqurVvaP91/pzjLUfOWsTHDb+hsp7Lwg==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "DSPORTS Eventos 2",
+        "name": "DSPORTS 7",
         "ico": "https://iili.io/dpjMczX.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniYNNDUBiW/J0WN+ox2yZruhadS5JFn7XB8ZNoHvCUtQI=",
+        "uri": "kerMsZ4+4jaDO68Wg0enV6YP/8mHtVtWnuPvNWGUXynn+ehdBAsx7WvqurVvaP91GGORIaK+1fsCOISAnYt5gw==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "DSPORTS Eventos 3",
+        "name": "DSPORTS 8",
         "ico": "https://iili.io/dpjMczX.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wni+N9WOL1IawgZdq2p/G1WwAvv61IjOYLYRyRLqEHHQgc=",
+        "uri": "kerMsZ4+4jaDO68Wg0enV6YP/8mHtVtWnuPvNWGUXynn+ehdBAsx7WvqurVvaP91pweRBug5ZsB1M42VQceFSQ==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "DSPORTS Perú",
+        "name": "DSPORTS 9",
         "ico": "https://iili.io/dpjMczX.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wni3DBt3/mS5UXPMFFPJ2Bu5WtQHDmsX16pbGg13CBq9eE=",
+        "uri": "kerMsZ4+4jaDO68Wg0enV6YP/8mHtVtWnuPvNWGUXynn+ehdBAsx7WvqurVvaP91JIeZqQzZcCpOTjnxtY7O6A==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "DSPORTS Perú 2",
+        "name": "DSPORTS 10",
         "ico": "https://iili.io/dpjMczX.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniI8N9nm/zcLvyDrRipjYwu2i6NwfT/taYDeNWneqARm0=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "DSPORTS PLUS Ecuador FHD",
-        "ico": "https://iili.io/dpjMczX.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniL5JlmM/waGjXRRJ8ulhoRGWafbDDRZaP71q3cbSIamg=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "DSPORTS PLUS Perú",
-        "ico": "https://iili.io/dpjMczX.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WninyT6Kwb4TSs0FDZado7yVD7Ntef3I26GTHG5el8KVGQ=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "DSPORTS Uruguay",
-        "ico": "https://iili.io/dpjMczX.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniV0ejO5IcmfeVMtAxhwvTTMAO+HsdT0j0BR5xIvAgGIM=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "DSPORTS+ ARG FHD",
-        "ico": "https://iili.io/dpjMczX.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniPN6oVgYr4LhanBzJ1fexqoG7cvseo5Ss/tuz+lB6QOQ=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "DSPORTS+ ArgentinaFHD",
-        "ico": "https://iili.io/dpjMczX.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniPgHUL0TKYDqFomTuGatPaHEvSEyY54Hw3dOhjiyU47U=",
+        "uri": "kerMsZ4+4jaDO68Wg0enV6YP/8mHtVtWnuPvNWGUXynn+ehdBAsx7WvqurVvaP9140IWuLSYqQt9snucB8VV4w==",
         "drm_scheme": "",
         "drm_license_url": ""
       }
