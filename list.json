@@ -1792,13 +1792,7 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-  {
-    "name": "GLOBO RIO",
-    "ico": "https://i.ibb.co/mhYTWDm/Globo-logo-2020-svg-1.png",
-    "uri": "kerMsZ4+4jaDO68Wg0enV6YP/8mHtVtWnuPvNWGUXynn+ehdBAsx7WvqurVvaP91riYy6l1WLjrKBMTr9mqLdA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
+
         {
         "name": "CARACOL INTERNACIONAL",
         "ico": "https://github.com/masterentertainment/listas/blob/main/logos/CCINT.png?raw=true",
@@ -1820,6 +1814,13 @@
         "drm_scheme": "ClearKey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EdknxeoFxe+p7fwEro+3e005o7/KsvQ9B0uI1z8RbIpmowAFEGkpYRYVl1ZRXF6lzDO5UErZZlCJM3VG00pYOCHaxZ0wlq3qcAnf0lwwn8cru9gMEbceU3UgWYtkGDiXtw=="
       },
+        {
+    "name": "GLOBO RIO",
+    "ico": "https://i.ibb.co/mhYTWDm/Globo-logo-2020-svg-1.png",
+    "uri": "kerMsZ4+4jaDO68Wg0enV6YP/8mHtVtWnuPvNWGUXynn+ehdBAsx7WvqurVvaP91uuGN2MmQfLihVTrzA2XRuQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "DNEWS",
         "ico": "https://i.ibb.co/gJL91wN/DNews.png",
