@@ -677,6 +677,20 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+{
+    "name": "EVENTOS UY",
+    "ico": "https://i.ibb.co/RCMYFsv/espn-2B.png",
+    "uri": "OL0F6NgHdmZdCvjZZ0G6z8jm+0DtPofW0SouRWhAdB0w7MAQYMP3QDN74yxhP8anct3z8usW6TtvtphS07VswEAACsRCZ3n3nhLUhWlQUCI=",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EVud3HicDmWfGdlu4WVpD54A0c+YrX7mR1NHDruGcGuNt3yLMl3Zo50Eijr+GsHbuujRhlZtgmGufm8uoPgDDiGCZ0YOHD5B4TFiXMgF5PXXcA26sMne7R0Q4jSmblzvjA=="
+  },
+  {
+    "name": "EVENTOS 2 UY",
+    "ico": "https://i.ibb.co/RCMYFsv/espn-2B.png",
+    "uri": "+u8JOr6SyIr5qvEA/JHNyzZxbMc/FkKR7xs0adneKveANerQcIgTmVDIrv1HWOJ4SpqyfPCKbdrMEg6lNq3Ung5intIJJ4FUuqIzdXNse9Kb90Zne7LYj6rMDWu3Adka",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EZJTE1gLvWj2B5zI3Thj7ECk52paAtsuR2uMGSBzl2ie2JaBTmmNumzL6kdkPSi4UjUe0buRENjPWnF3c960ysNnLEtwZtmbcGRYjle7T6GIG3xSvfy//Sp3hwrsAagiSQ=="
+  },
       {
         "name": "EVENTO MLS",
         "ico": "https://upload.wikimedia.org/wikipedia/fr/9/93/Inter_Miami_CF_logo.png",
@@ -4462,6 +4476,21 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+{
+    "name": "EVENTOS UY",
+    "ico": "https://i.ibb.co/RCMYFsv/espn-2B.png",
+    "uri": "OL0F6NgHdmZdCvjZZ0G6z8jm+0DtPofW0SouRWhAdB0w7MAQYMP3QDN74yxhP8anct3z8usW6TtvtphS07VswEAACsRCZ3n3nhLUhWlQUCI=",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EVud3HicDmWfGdlu4WVpD54A0c+YrX7mR1NHDruGcGuNt3yLMl3Zo50Eijr+GsHbuujRhlZtgmGufm8uoPgDDiGCZ0YOHD5B4TFiXMgF5PXXcA26sMne7R0Q4jSmblzvjA=="
+  },
+  {
+    "name": "EVENTOS 2 UY",
+    "ico": "https://i.ibb.co/RCMYFsv/espn-2B.png",
+    "uri": "+u8JOr6SyIr5qvEA/JHNyzZxbMc/FkKR7xs0adneKveANerQcIgTmVDIrv1HWOJ4SpqyfPCKbdrMEg6lNq3Ung5intIJJ4FUuqIzdXNse9Kb90Zne7LYj6rMDWu3Adka",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EZJTE1gLvWj2B5zI3Thj7ECk52paAtsuR2uMGSBzl2ie2JaBTmmNumzL6kdkPSi4UjUe0buRENjPWnF3c960ysNnLEtwZtmbcGRYjle7T6GIG3xSvfy//Sp3hwrsAagiSQ=="
+  },
+
       {
         "name": "CANAL 4",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png",
