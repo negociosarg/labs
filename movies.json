@@ -10,13 +10,28 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-        {
-    "name": "LA SOCIEDAD DE LA NIEVE+",
+     {
+    "name": "LA SOCIEDAD DE LA NIEVE",
     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/beCxZp3SDyEsAhPvmF4RMF5ks2o.jpg",
-    "uri": "kerMsZ4+4jaDO68Wg0enVxDV8cpwnmUlAidq0To5miaFp/Vr0RvPMPkJMKityz2OacGnJ/k08/tH4jH17Q8Dp5NQ8531uL39fwDXyBqarQs=",
+    "uri": "kerMsZ4+4jaDO68Wg0enVzP3hqcMinqBUvJKZCp22WRYsGqT7NfMrypz5bWIrW694HRHNgPJtOjaykTXbin02g==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
+  {
+    "name": "novelas",
+    "ico": "http://x.playerlatino.live/latinatv.png",
+    "uri": "5wkCSUzuOuGZgkH24pdJhYZtfsJU5Wubd1QbQG8/tDaIEzZd78sgDgJfYbcSMvD6",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Brasil",
+    "ico": "http://x.playerlatino.live/latinatv.png",
+    "uri": "kerMsZ4+4jaDO68Wg0enV6YP/8mHtVtWnuPvNWGUXynn+ehdBAsx7WvqurVvaP91uuGN2MmQfLihVTrzA2XRuQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+
       {
         "name": "LOS DESFILES FHD (2024)",
         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdEtrHGY7wuJ9WTnlYkTsnklAdF.jpg",
