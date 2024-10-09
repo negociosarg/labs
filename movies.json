@@ -1391,6 +1391,13 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+        {
+    "name": "PERU: Latina",
+    "ico": "http://x.playerlatino.live/latinatv.png",
+    "uri": "5wkCSUzuOuGZgkH24pdJhXHtOHKm2EHK0B1GO1EvUTxDNwd5Zr21HoMkJQj8exPP",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "TAROT DE LA MUERTE",
         "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/cRNMX3xXDjAxxcdrPqxsbSa9im9.jpg",
