@@ -121,6 +121,20 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+        {
+    "name": "PERU: Latina",
+    "ico": "http://x.playerlatino.live/latinatv.png",
+    "uri": "5wkCSUzuOuGZgkH24pdJhXHtOHKm2EHK0B1GO1EvUTxDNwd5Zr21HoMkJQj8exPP",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Brasil",
+    "ico": "http://x.playerlatino.live/latinatv.png",
+    "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wniup7efJoT3P6ktJzZcly1f4JU3kxLxjFF0J0VDAjM4kQ=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "FENÓMENO EN LA OSCURIDAD",
         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8JHPmcNSSfTXIVnCYfririHe6aK.jpg",
