@@ -2458,6 +2458,13 @@
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EQxSwstxPr907iZ6Q+e71RI/DxSRfC5jbiBHZ/epwrYyXcsvt3Pbl63ujD75q30fuPBJ5cx+y0Hfqd/1NiVgUds1v03/NhWALimuYWuztuXMecUJ5EMP6nENly/00FEYqA=="
       },
+  {
+    "name": "KPOPTV",
+    "ico": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
+    "uri": "h/xt2Jd72uE5hIOCq8clGXTBgjRLp45dn+hShgH3VhWqNQ6oEOWyFG4SxX70D9DwefMnNQ4XuvACYZCYQhjY7Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "ESENCIALES VORTERIX",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg",
