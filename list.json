@@ -86,20 +86,83 @@
     "name": "⚽ELIMINATORIAS SUDAMERICANA 2026",
     "mode": false,
     "lista": [
-        {
-    "name": "✅ OP1 EVENTOS BOLIVIA (SOLO EVENTOS)",
-    "ico": "https://i.ibb.co/Hq6qtHz/Tigo-Sports-Bol2.png",
-    "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wni31joZw4Me28tzKGSAYYfz7b35I/BuN8rL4BnWefn2BY=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-   {
-    "name": "EQUIPO",
-    "ico": "https://static.vecteezy.com/system/resources/previews/015/272/184/original/bolivia-3d-rounded-flag-with-no-background-png.png",
-    "uri": "kerMsZ4+4jaDO68Wg0enV/CRILEX3NQ95yYLY5cBeAK//uujxD1tRY2Y2MLUThyc5sqrVabtIfW7r6hXx2X7KunEWRa3C52Dy+dsTboT+5g=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  }
+      {
+        "name": "18:00 Venezuela vs Argentina",
+        "ico": "https://i.ibb.co/r0tmVNt/TNT-Sports-2024.png",
+        "uri": "Hq63msBCCm6cDMT65YQsEoSuY7/5nksIFg6L9B2DHUXjVBsK5TJ0ta+8PtZdnlTxxmomJ42xWJrPFiewKYS6/PtXbEYyaNyglwKXDunPrRU6EVy+bGKdYe5odV15pcxYz2Cgj6+PjLpbp2DibEwhfBu3CAjUJT8ev1eL14RRNenTlOP3Rzt1Z0sUp7U4qpCJ",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "KHpCthZtVP7mOtpU/cqwa3cWgGG7MVYkyg25y7WwlKxuObcgp2+3XkTfNpE1nlYBaqnQZMg+EH2k369PyBC7P/UkQbSJuHjA0zFlGOln3IS3G53uwnYhIyb+pzx+mFv0abinydpIvhQnBSeB1Jl6VvVXwIsFHuEPjSMdJ1Wphd6oh4oZF8N3E414MR5oPyqAJ+xeD3nxtLK1IczzKhTuWP5BbR5STC2ZbTC3WytPVljADNeYPPomiOjnv+KKUVsQkPYNB+BqHN2BFBSvnuwFX0cUzS6AE13I8mbHsqKCvh4="
+      },
+      {
+        "name": "17:00 Bolivia vs Colombia",
+        "ico": "https://static.vecteezy.com/system/resources/previews/015/272/184/original/bolivia-3d-rounded-flag-with-no-background-png.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV0yak+18Vip8TdvyMsM1DiNODQI5Xxq/ZEsdBs/+Ztei/Ihdj0luCM7ZCEfd/pELGBvd/QwiiquKvaiSlfT+93A=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "17:00 Bolivia vs Colombia",
+        "ico": "https://static.vecteezy.com/system/resources/previews/015/272/184/original/bolivia-3d-rounded-flag-with-no-background-png.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV0yak+18Vip8TdvyMsM1DiNODQI5Xxq/ZEsdBs/+Ztei/Ihdj0luCM7ZCEfd/pELGPorcQqESx7yqptWPFjVp+w=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "17:00 Bolivia vs Colombia",
+        "ico": "https://png.pngtree.com/png-clipart/20220704/ourmid/pngtree-colombia-flag-png-image_5686476.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV0yak+18Vip8TdvyMsM1DiNODQI5Xxq/ZEsdBs/+Ztei/Ihdj0luCM7ZCEfd/pELGLWbRL7DGouXBForh8b43Uc=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "18:00 Ecuador vs Paraguay",
+        "ico": "https://i.ibb.co/sJ50F00/gen2-removebg-preview.png",
+        "uri": "Hq63msBCCm6cDMT65YQsEoSuY7/5nksIFg6L9B2DHUX0wNFJ4uLx8pgrnGvKUxQ0/nld7fPmnf8TsOIub8NXYSYT+KmU0V5DyxOXKgnyRIOWeSDOK3TsgRVNJ6m5FHx4mBsmSGe7RDn8//zujD7SVQ==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "KHpCthZtVP7mOtpU/cqwa3cWgGG7MVYkyg25y7WwlKxuObcgp2+3XkTfNpE1nlYBaqnQZMg+EH2k369PyBC7P/UkQbSJuHjA0zFlGOln3ISCf6wt3ZFuVPg5kYC5tJ+JqLh3WlMYMP3P4S+B8pYnx+IaJxH5HBtPHaUgxn5B4xNq9YTPWAPX98B/1MbgfnAeXxH2MCGqRmNCvxrh6drQWa6If1G5mkGUc+s82h1CVF+dthhLdz0l6TZ8rCHQkYGDnxGs14gV7i6vfyvOwi0acvbyqiROvpGhPkkYEuvOf/M="
+      },
+      {
+        "name": "18:00 Ecuador vs Paraguay",
+        "ico": "https://static.vecteezy.com/system/resources/previews/015/272/161/non_2x/ecuador-3d-rounded-flag-with-transparent-background-free-png.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV0yak+18Vip8TdvyMsM1DiNODQI5Xxq/ZEsdBs/+Ztei/Ihdj0luCM7ZCEfd/pELGC6+xlHqLR5KuCSmAnUwC1w=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "21:00 Chile vs Brasil",
+        "ico": "https://png.pngtree.com/png-clipart/20240302/original/pngtree-brazil-round-flag-glossy-glass-effect-vector-transparent-background-png-image_14476633.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV0yak+18Vip8TdvyMsM1DiNODQI5Xxq/ZEsdBs/+Ztei/Ihdj0luCM7ZCEfd/pELGDcC1EV4Y1z5pYkq1Hd3oi8=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "21:00 Chile vs Brasil",
+        "ico": "https://png.pngtree.com/png-clipart/20240302/original/pngtree-brazil-round-flag-glossy-glass-effect-vector-transparent-background-png-image_14476633.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV0yak+18Vip8TdvyMsM1DiNODQI5Xxq/ZEsdBs/+Ztei/Ihdj0luCM7ZCEfd/pELGE1QhilvFPpB+7CIpOLewqo=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "22:30 Perú vs Uruguay",
+        "ico": "https://i.ibb.co/r0tmVNt/TNT-Sports-2024.png",
+        "uri": "Hq63msBCCm6cDMT65YQsEoSuY7/5nksIFg6L9B2DHUXjVBsK5TJ0ta+8PtZdnlTxxmomJ42xWJrPFiewKYS6/PtXbEYyaNyglwKXDunPrRU6EVy+bGKdYe5odV15pcxYz2Cgj6+PjLpbp2DibEwhfBu3CAjUJT8ev1eL14RRNenTlOP3Rzt1Z0sUp7U4qpCJ",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "KHpCthZtVP7mOtpU/cqwa3cWgGG7MVYkyg25y7WwlKxuObcgp2+3XkTfNpE1nlYBaqnQZMg+EH2k369PyBC7P/UkQbSJuHjA0zFlGOln3IS3G53uwnYhIyb+pzx+mFv0abinydpIvhQnBSeB1Jl6VvVXwIsFHuEPjSMdJ1Wphd6oh4oZF8N3E414MR5oPyqAJ+xeD3nxtLK1IczzKhTuWP5BbR5STC2ZbTC3WytPVljADNeYPPomiOjnv+KKUVsQkPYNB+BqHN2BFBSvnuwFX0cUzS6AE13I8mbHsqKCvh4="
+      },
+      {
+        "name": "22:30 Perú vs Uruguay",
+        "ico": "https://cdn.pixabay.com/photo/2019/03/18/08/15/uruguay-4062572_1280.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV0yak+18Vip8TdvyMsM1DiNODQI5Xxq/ZEsdBs/+Ztei/Ihdj0luCM7ZCEfd/pELGMXbAiZ6gwlTkjbxmMFqBuA=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "22:30 Perú vs Uruguay",
+        "ico": "https://cdn.pixabay.com/photo/2019/03/18/08/15/uruguay-4062572_1280.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV0yak+18Vip8TdvyMsM1DiNODQI5Xxq/ZEsdBs/+Ztei/Ihdj0luCM7ZCEfd/pELGKPmzIeCOaeYJFcpx7+9Oig=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      }
     ]
   },
   {
@@ -4846,6 +4909,68 @@
         "name": "Unitel HD- Cochabamba",
         "ico": "https://playnet.live:443/images/EtpPPjH22BD9bQ-ufHjgJfjwThQpqkEhCwpCMh2qSZ7yT1Uhnz3myIZ3xy2_eP23NdfR6FO0GJIEskyLpdfqUg.png",
         "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wni0SRKXgaQsNIUw/A+R83GY1Q6IuT9o6MLM3DnzouZqq4=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      }
+    ]
+  },
+  {
+    "name": "⚽ DEPORTES BOLIVIA 🇧🇴 ",
+    "mode": false,
+    "lista": [
+      {
+        "name": "Educatigo (HD)",
+        "ico": "https://i.ibb.co/XXy1ryC/Tigo-Sports-Bol3.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wninr8OVPBz2BPhwHIVgRB7lekZL2+dfe+d8kQPK7MDXYU=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "F10 (HD)",
+        "ico": "https://i.ibb.co/XXy1ryC/Tigo-Sports-Bol3.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wniguus7AlGUdKN6b7SpYYt4IbHxC/82IGs2AEqcGFImSE=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TIGO SPORTS BO 2",
+        "ico": "https://i.ibb.co/XXy1ryC/Tigo-Sports-Bol3.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV0yak+18Vip8TdvyMsM1DiNODQI5Xxq/ZEsdBs/+Ztei/Ihdj0luCM7ZCEfd/pELGKPmzIeCOaeYJFcpx7+9Oig=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TIGO SPORTS EVENTOS",
+        "ico": "https://i.ibb.co/XXy1ryC/Tigo-Sports-Bol3.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wni3q32LVargyb77wOclQVMgOBiIwGbA5aqX8Q7AxJ77HE=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "✅ OP1 EVENTOS BOLIVIA (SOLO EVENTOS)",
+        "ico": "https://i.ibb.co/Hq6qtHz/Tigo-Sports-Bol2.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wni31joZw4Me28tzKGSAYYfz7b35I/BuN8rL4BnWefn2BY=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "✅ OP1 EVENTOS BOLIVIA (SOLO EVENTOS)",
+        "ico": "https://i.ibb.co/XXy1ryC/Tigo-Sports-Bol3.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wni31joZw4Me28tzKGSAYYfz7b35I/BuN8rL4BnWefn2BY=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "✅ OP2 EVENTOS BOLIVIA (SOLO EVENTOS)",
+        "ico": "https://i.ibb.co/XXy1ryC/Tigo-Sports-Bol3.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniyanCN9wfOS81dADAk237xsQq9ZfEFSvqrE/s2mj91O0=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "✅ OP3 EVENTOS BOLIVIA (SOLO EVENTOS)",
+        "ico": "https://i.ibb.co/XXy1ryC/Tigo-Sports-Bol3.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniFWjEr7fva+4/KKP8kQ0670coIAiPevDKKAH1+8Mwyvw=",
         "drm_scheme": "",
         "drm_license_url": ""
       }
