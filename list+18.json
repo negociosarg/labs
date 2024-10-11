@@ -4474,190 +4474,176 @@
     "lista": [
       {
         "name": "ANTOFAGASTA TV",
-        "ico": "https://appnew.megainfoapp.com/files/1/Antofagasta%20TV.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniqKdmTsPyoNAv74Z2g8o3iw6NoeU/z0CiDhfgur35P+o=",
+        "ico": "https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/5f2da07961acd87f51b057f5/mediaLibrary/photo/864723cb-d3e1-4543-8cb0-244988977bc2-extra-large-standard-q100.webp",
+        "uri": "hVXdd7UaxhGjJx7ChYq5E9+vmEgKfbzam4NSgae4Kl797R8XfY3rSeJ2F97V2XG9JwQzcPB/kTGhC1CNLjtyJw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "ANTOFAGASTA TV",
+        "ico": "https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/5f2da07961acd87f51b057f5/mediaLibrary/photo/864723cb-d3e1-4543-8cb0-244988977bc2-extra-large-standard-q100.webp",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4f7z2vKOoXtLir7p0+qdMTMEyaoZ0EaaVtu90EU5uwXo=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "CANAL 13 CHILE",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Emblema_del_Canal_13_Chile.png/763px-Emblema_del_Canal_13_Chile.png",
-        "uri": "yXzxqK0HuCWoip3kZ+ZlnB+qvjeeHPrJin4Dr3TYZfscpP+HtvpMIzBzl8k3d1VdwmIash3Su8V8zPVpy0acmnoIdxG9RPcLhurRNG4aXNE9yhrX46qEFizDpuCNqBMyW2DTI8kHzQZeSFRNulxPPcaDeD0LgeBYAAwV11sr3yQvTg0Fd6g5B+aG1OWiiELgxItQ4z0kmmhKNvwUyj+T1nBjJEOhJmVXyIyidcs4d4Qx114sWMWZgM9b/ID32LFDCHmF5dtui1rUj9vwvjE6WVsj48/Mn8v3b9/LBR4861Im6W+vVOxivqpjiGZGLWbuPfRsNIzMj+TxIVJKq0/82zu0q93E0n1zwOdoRo0Swhh65ErnBTp3zz4sYKihJGzzQqe2Q0LuTBOzp0as7uln6TcCRZM2g13r/tSXrRffD+c/nw8eUo4qgpnvWRFjokajurkJ8eeqvbo0NtlAoK3wEonIlzkzG1l/wT/vF6MlZEj0HbAbfgXmrWj5eWfBqKiEtb9F9lUb5Qdrqi2bCc6449cxcrzALExC7moOiVkGeShB/JUCWQbOswfdXl4QnjA0ImgffKEn2+AQdwsT6Ag0Vxgufu+JW6LYiWnihjel5wLMg6c5kgPJHVBATB+YFB45e96G25S9Q4VmUbKX8NL6H7wNiKjAq4vFdOtF8JU809NkisJ5gPAahac58zB3lDVyAEtY+ZY8rd8xwZzOYxCcfd5VRi1GRpyXoSX7ec7XhGg5frLUukBDFy05Vr6oOM3QtLtLMktt9bl5PjUmv87EbwWeJPIBfKKYnj2KuESmr9oInMg1FFP8h+YPnTd3GoUHGCa1Mc8X1KqINAtYTyLuNdshk6a6wnBgsdmARitBHh1dxYqioyes96doTFZldhMILqK/tyzhdh4c61a4SxXvvDQU0KsugnaI0SQh8Gc5/1N8+QB8b6OuB8ccMvyjeyuClTPkzPuki93Zk5GPhpNvA8VjOH27obOXZYYv9A5240OZoLFLgDCR0tufay3nnbC+GOYgUAigXUl4x4+Q9uavkw==",
+        "ico": "https://i.postimg.cc/TYDT0bsh/Emblema-del-Canal-13-Chile.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4inUpphpBl5ljUwDErLASlw==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "CANAL 13 • 01",
         "ico": "https://1000marcas.net/wp-content/uploads/2021/04/Canal-13-Logo.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniWgQzp+6V1lNvOjq8axke2YC0Ud3AWEH4Mcs1iWDkTE0=",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4rxctGeKEI6ZDOFkJMafcww==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "CANAL 13 • 02",
         "ico": "https://1000marcas.net/wp-content/uploads/2021/04/Canal-13-Logo.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wniod/OG8xTmEsfLXxwec4H2n8/Vs9GWER4IIKnGllzk5Q=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CANAL 13 • 03",
-        "ico": "https://1000marcas.net/wp-content/uploads/2021/04/Canal-13-Logo.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniSv4uOghjyXKn1NOvnZnWNQVim9a7Q0OHKyoL3zu2Vtc=",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4O29TASUCDv3ZFEk2UTIAew==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "CANAL 24HS",
         "ico": "https://i.postimg.cc/YCpPKh09/24-horas.png",
-        "uri": "RM61iDxnJDTr1M3KEJsYUXMo1PAS813vYPxem0jVCKRtX6JRb+dXtQ1bSVtaG++qoCTjYwrKLYgrYI15BPqBow==",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4EnemIrgXsO9Covht8O+Hpg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CANAL 24HS 2",
+        "ico": "https://i.postimg.cc/YCpPKh09/24-horas.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH427T7VlT+AuWaWmCSWJSpgQ==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "CDO Premium",
-        "ico": "http://fastv.lat:80/images/645e79c95f9d82c6fb879250aad11c7e.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniBJV6/ZleihehuJlVHKi7oE/DqUE8rN6hOfvMm+0OHKM=",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH45SAXOa54P6bA1lxB+cwEhaRbqD0WjiZKw5bCk+iTpa4=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CDO Premium2",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4E93UFaLclck+epiWcNkwj2JDwy47YxvQLmrZWxCjkqk=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "CH | MEGA • 01",
         "ico": "https://imagenes.gatotv.com/logos/canales/claros/mega_chile-mediano.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnikY3aM2C4hUJy/lsttIEBtRBQ4Pt433TQOYB+iNaVKCk=",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4cNaXagLnJiut+X8UAICIAQ==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "CH | MEGA • 02",
         "ico": "https://imagenes.gatotv.com/logos/canales/claros/mega_chile-mediano.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniGiCoTt/0z74pvl4gt57+H1fhOM3ZZHfnIM961O/6da4=",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4cNaXagLnJiut+X8UAICIAQ==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "CH | TVN • 01",
         "ico": "https://www.m3u.cl/logo/452_TVN.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniAwFcghL4TOK1sA9mZ9INJ63SnliN4zzlsU27acS0nrg=",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4aVkec7yCcmTYpxKIjh+BHA==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "CH | TVN • 02",
         "ico": "https://www.m3u.cl/logo/452_TVN.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wnim08UtBauj1cqwuAmTDHBob3z/evJufHQgdS45z4tcig=",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4DdVTiSAk2JygvcwAPHqqaQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CH | TVN • 03",
+        "ico": "https://www.m3u.cl/logo/452_TVN.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4R/d56F69nxHhaZl9t8NsiPUx0pY8XYZJd5lleEE50rs=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "CHILE VISION • 01",
         "ico": "https://w7.pngwing.com/pngs/813/101/png-transparent-chilevision-television-show-canal-13-gamba-television-trademark-logo-thumbnail.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniJGYzcNa7OxSwUaOs7x6QfLi4E4BD7KLyU8E8JBFucaU=",
+        "uri": "aMsxrqOrprrCcN7xnK80Irj7GMRWDAN6AYSdoCFrea+qX8L2Q/tzlSA3jTRB/wfT9CIDC1m0AgYDkYXny2Jgl8kUnNGwb4CHoLxz4qfXEjlAUjOBTN8Dd9rPo5y0uD+yQtL/9rVMjXHD7O1IA2Yctg==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "CHILE VISION • 02",
         "ico": "https://w7.pngwing.com/pngs/813/101/png-transparent-chilevision-television-show-canal-13-gamba-television-trademark-logo-thumbnail.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnigDIfKUjTdzC6HG6fHIZRm3l93Vzj7eOZgnCS1EDGtJA=",
+        "uri": "aMsxrqOrprrCcN7xnK80Irj7GMRWDAN6AYSdoCFrea+qX8L2Q/tzlSA3jTRB/wfT9CIDC1m0AgYDkYXny2Jglz1CS68Py9Fq0a4jTmVr/j6dFN4j52oWnOR9k9bKjo7knA0whNjStGJ0LPTUTTAZkw==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "CL: ETC TV",
-        "ico": "https://davinci.zappingtv.com/gato/media/256/canales/color/etc.jpg",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wni55Sn6iX6mRV0CvrkA6pgLUg+0stElzsk8/eWfDprkKI=",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4Ooni6DMCkZfxE/NR3vTgrg==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "CNN CHILE",
         "ico": "https://1000marcas.net/wp-content/uploads/2020/03/logo-CNN.png",
-        "uri": "RM61iDxnJDTr1M3KEJsYUXMo1PAS813vYPxem0jVCKRtX6JRb+dXtQ1bSVtaG++qNSZX2BXeXkVd9z/ePiMuPg==",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4u2gdsmH8AAh+wtnU8weUww==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "ETC",
-        "ico": "https://i.postimg.cc/0NGT21KB/My-project-55-removebg-preview.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniLbDVtXQ+0z+KHMLe5MCbCyJJH3WF8EZYOU+6a19f/zs=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "ETC TV",
-        "ico": "http://lista.tvq.lat:8080/images/d2a200db7ec1e0f6db03093940fe6851.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniM8B1gJQZ/TPmRIDtyFluSG6l1Bw++51OquNuZC3G/Ik=",
+        "name": "CNN CHILE",
+        "ico": "https://1000marcas.net/wp-content/uploads/2020/03/logo-CNN.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4doFXQafyOaP2vvHGo9Du2o/in9kRPV9QgOHLUkzOTpA=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "LA RED",
         "ico": "https://i.postimg.cc/C18V7TvX/Emblema-de-La-Red.png",
-        "uri": "RM61iDxnJDTr1M3KEJsYUXMo1PAS813vYPxem0jVCKRtX6JRb+dXtQ1bSVtaG++q6Rf/OGCCpcdDYH3tqqeyiw==",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4Ooni6DMCkZfxE/NR3vTgrg==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "LA RED 03",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/200px-La_Red_Logotipo_2021.svg.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniVtWUJ+EYOwC7X7tD72Gv6ZD0vIdZGhOAbyjLSnWeKBQ=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LA RED • 01",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/200px-La_Red_Logotipo_2021.svg.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniuZt3PcMmlnTzSOk7Veky57daaQvsFE1ovQHCtMHxiyk=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LA RED • 02",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/200px-La_Red_Logotipo_2021.svg.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniL3n8Kr9SUM74j0FMEuIjs8ADkU5wv2E1G6u0/TEiEqk=",
+        "ico": "https://i.postimg.cc/C18V7TvX/Emblema-de-La-Red.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4DuuuKdwIUnXi6cqvoVae8Q==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "MEGA",
         "ico": "https://i.postimg.cc/FHz0t4yc/mega.png",
-        "uri": "1rhMcQEF2kDS/+/vGyAvOmssK1hCeOItvMqbc8NpV5cyZ6pbtlKzw6+IZe2cWVN5syGm5QTA60laiKXN3cRnTg==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "REC TV",
-        "ico": "http://castlempire.site:8080/images/c5aea20db7844a504535a52d7b0710a7.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniBxXuRWhQk0bEi5hVzZ9tCCo1Rxd/kwAZeUzoNE2FB8U=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "TELETRAK",
-        "ico": "https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/cf/d2/84/cfd28469-2694-f0d5-1511-3d21201d6dab/source/512x512bb.jpg",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnigzFZPLHTUspQ3DRK2iHz/kNQX5muXgWN2k6sKQ5xeS8=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "Teletrak",
-        "ico": "http://fastv.lat:80/images/1d2cc653b9379e018d1304a5e4369b5e.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnifI8Q4hnAR7xR8LQ1MM8naTcLIGperV09A5SWYMutF9Q=",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH44OJQ9f1IyowbXltgKfQufX/1bkZmfSDrw3sioEG6Eck=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "TNT CHILE",
-        "ico": "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_06/large.TNTSportsblanco.png.3bf2299320c437aa71b172fbed1c837c.png",
-        "uri": "RM61iDxnJDTr1M3KEJsYUXMo1PAS813vYPxem0jVCKRtX6JRb+dXtQ1bSVtaG++qCxEMUHImu9juEYfHeR0OZg==",
+        "ico": "https://i.ibb.co/qYD5XRN/tnt-sport-premium.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4ES6zUWUSUO3m3iVlxPgEfg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TNT CHILE2",
+        "ico": "https://i.ibb.co/qYD5XRN/tnt-sport-premium.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4p7TBKrSzc/gDRevoguwW7w==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "TV +",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png",
-        "uri": "RM61iDxnJDTr1M3KEJsYUXMo1PAS813vYPxem0jVCKRtX6JRb+dXtQ1bSVtaG++qwaBpveYWF1cDWQNFDV8+1Q==",
+        "ico": "https://i.postimg.cc/RFM1qHr6/tv.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4cxral4JevK/5+DyKDBH6Sw==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -4674,13 +4660,6 @@
         "uri": "RM61iDxnJDTr1M3KEJsYUXMo1PAS813vYPxem0jVCKRtX6JRb+dXtQ1bSVtaG++qSWOD7v4feSQzWVfyaynaqQ==",
         "drm_scheme": "",
         "drm_license_url": ""
-      },
-      {
-        "name": "TVN",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg/90px-Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg.png",
-        "uri": "RM61iDxnJDTr1M3KEJsYUXMo1PAS813vYPxem0jVCKRtX6JRb+dXtQ1bSVtaG++qmGL7QF7WAZsTubQMcKilmQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
       }
     ]
   },
@@ -4689,302 +4668,330 @@
     "mode": false,
     "lista": [
       {
-        "name": "✅ TIGO 1 EVENTOS BOLIVIA (SOLO EVENTOS)",
-        "ico": "https://i.ibb.co/Hq6qtHz/Tigo-Sports-Bol2.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wni31joZw4Me28tzKGSAYYfz7b35I/BuN8rL4BnWefn2BY=",
+        "name": "BOL | BOLIVISION HD",
+        "ico": "https://logo.iptveditor.com/bolivision.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4lNRlBtECRdVKQUmnl4445FBV2BENH3koUlK2PiLVlEI=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "✅ TIGO 2 EVENTOS BOLIVIA (SOLO EVENTOS)",
-        "ico": "https://i.ibb.co/Hq6qtHz/Tigo-Sports-Bol2.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniyanCN9wfOS81dADAk237xsQq9ZfEFSvqrE/s2mj91O0=",
+        "name": "BOL | CADENA A",
+        "ico": "https://logo.iptveditor.com/cadenaa.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4PZiqGTK4W02zAeFp80imMh6dZX1Orpz6GSE2rA2sbDo=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "✅ TIGO 3 EVENTOS BOLIVIA (SOLO EVENTOS)",
-        "ico": "https://i.ibb.co/Hq6qtHz/Tigo-Sports-Bol2.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniFWjEr7fva+4/KKP8kQ0670coIAiPevDKKAH1+8Mwyvw=",
+        "name": "BOL | DEPORTES TV",
+        "ico": "https://logo.iptveditor.com/tvcdeportes.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4kdJEp9snqE7cdRRqyuSX7TQj0sH5xCiWbgZY331ovGM=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "✅ TIGO 4 EVENTOS BOLIVIA (SOLO EVENTOS)",
-        "ico": "https://i.ibb.co/Hq6qtHz/Tigo-Sports-Bol2.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniftOOJR0pglLg4hIRGEM8CGe4We29Z2uqMDFPkjsghmc=",
+        "name": "BOL | RED UNO BOLIVIA LA PAZ",
+        "ico": "https://logo.iptveditor.com/atb.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH43QLTLdvfLZowEoAox2w9ONvN3KXncn1iMw/pH/scZ60=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "✅ TIGO 5 EVENTOS BOLIVIA (SOLO EVENTOS)",
-        "ico": "https://i.ibb.co/Hq6qtHz/Tigo-Sports-Bol2.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniDKlwOkN5RzmiAGYs6tGO9cPtsOWUb9yI0uwKsaSN1kY=",
+        "name": "BOL | RED UNO HD",
+        "ico": "https://logo.iptveditor.com/reduno.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH47t/HOhPkH+sYO1nVZf4lZdKyJUqrRuchFwnfx7GiqRE=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "✅ TIGO 6 EVENTOS BOLIVIA (SOLO EVENTOS)",
-        "ico": "https://i.ibb.co/Hq6qtHz/Tigo-Sports-Bol2.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wni9QyW5eq9OcAf4KLwBOZCK4KDZ7x0eEGoaSPJvptw1rY=",
+        "name": "BOLIVIA | ATB",
+        "ico": "https://logo.iptveditor.com/atb.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH43YbaikBIFI7fVJE0IxbSDwBa2S2sfZPbiTXm5L7nXu8=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": " XTO",
-        "ico": "https://i.ibb.co/4Ydj7W5/xto-tv.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniKeo6s1QYMG7mZJjJJZwjrv6DNNBw372+6Hv+nwcn/X8=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "ATB - Cochabamba",
-        "ico": "https://playnet.live:443/images/EtpPPjH22BD9bQ-ufHjgJfjwThQpqkEhCwpCMh2qSZ7vv5Ajvi9voha5s_Ejb2ngc-8C-0CRbzAZbuHmnCv7lA.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniJ6SzjnmOTI4EBWWplRIsBB8NCw0YRerzKoTAaf0nLjU=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "ATB - La Paz",
-        "ico": "https://playnet.live:443/images/EtpPPjH22BD9bQ-ufHjgJfjwThQpqkEhCwpCMh2qSZ7vv5Ajvi9voha5s_Ejb2ngc-8C-0CRbzAZbuHmnCv7lA.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniFH97kp/iD929KNzhD+j0DEHzRfCeGe9+fkzQs2VNovo=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "ATB - Santa Cruz",
-        "ico": "https://playnet.live:443/images/EtpPPjH22BD9bQ-ufHjgJfjwThQpqkEhCwpCMh2qSZ7vv5Ajvi9voha5s_Ejb2ngc-8C-0CRbzAZbuHmnCv7lA.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wni1WVwdbY2xEpZ4J2qo78DJrJCzDgMw3qE5TTuKVrFIEQ=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "ATB 1",
-        "ico": "https://i.ibb.co/GQHGpQm/ATB.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wni6b6UzVQ+PLeym6kTsvTt1ybl7SXMD6kpmqYhJ5MmoIE=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "ATB 2",
-        "ico": "https://i.ibb.co/GQHGpQm/ATB.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniNooocpRxawiLxRpAmmnmcIrgsrc6QZ+clogY8t7Y6TY=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "BOLIVIA TV 2",
-        "ico": "https://i.ibb.co/qn3cXYs/BOLIVIA-TV.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wnihm6yOdnttWz49R4/EXfznJ0IhAQiLVlB0QeoYg+AcPE=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "BOLIVISION 1",
-        "ico": "https://i.ibb.co/yB2Lmdd/BOLIVISION.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnifEOLfMOw51wpx2oKqBVZYf9CiV5FLumC9OZvHAg/wKc=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "BOLIVISION 2",
-        "ico": "https://i.ibb.co/yB2Lmdd/BOLIVISION.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wniah5qvRNOpHbnwCQUh3GsKvUEkF+vLuKqf274TwVW7Kw=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "BOLIVISION 3",
-        "ico": "https://i.ibb.co/yB2Lmdd/BOLIVISION.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniL9Kn4jiL0spNDBxT/uDkh7skqEWDm70d05/rI3vef9U=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CADENA A",
-        "ico": "https://i.ibb.co/1mN1GDx/cadena-a.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wnim3phdEMYyUeWxEz5yxfU4e8ptPXong8mJ4X/E2/LVDg=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CADENA A (HD)",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/1/13/Cadeana_logo_2022.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniFBnrXN04rO3P1U3nb+lWXxW2fhtX4iJXIECNpCvLTxQ=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "Coral TV (480p)",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/7/79/Logo_Canal_45_TV.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniX6dPTmBG0dwy4Bt/kmHls7/tHZSOUg/JdiU55gJqY2k=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CTV (HD)",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bandera_de_Bolivia_%28Estado%29.svg/264px-Bandera_de_Bolivia_%28Estado%29.svg.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniLV4URVPT9sI5bAWndOilOe/o2hp8/DLcpdt0zfz6u44=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "DTV (HD)",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bandera_de_Bolivia_%28Estado%29.svg/264px-Bandera_de_Bolivia_%28Estado%29.svg.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniC4nccRs8UPXkDpkPx1M97E5sQ16hbM9XYkxXoq74x3w=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "RED AMERICA TV (HD)",
-        "ico": "https://redamerica.tv.bo/wp-content/uploads/2024/01/cropped-cropped-logo_ra.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wni7aKK1TSOVZnZlRzYFPz/zhVS2BBesUW0yXXtXijkiAQ=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "RED UNO",
-        "ico": "https://i.ibb.co/9WcrNSg/RED-UNO.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniLK9dTpVgRGst5nQXvqf7jitzJf4nmJTbJnxfjQIOhLI=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "Red Uno HD- Cochabamba",
-        "ico": "https://playnet.live:443/images/EtpPPjH22BD9bQ-ufHjgJfjwThQpqkEhCwpCMh2qSZ7SQUXV-t13Ijvv8dkJPR4vG1HMKcxg8mJR-bxDALpxOQ.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniA8o0zsPo52uhhI5lYg7KoRfO9z4AII3WUCuvOMLWWis=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "Red Uno HD- Santa Cruz",
-        "ico": "https://playnet.live:443/images/EtpPPjH22BD9bQ-ufHjgJfjwThQpqkEhCwpCMh2qSZ7SQUXV-t13Ijvv8dkJPR4vG1HMKcxg8mJR-bxDALpxOQ.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnipkTS3HWGVuzx10/10wFYbRq6GT1PZbArgqtahXNl3t4=",
+        "name": "FTV",
+        "ico": "https://i.imgur.com/YOr1Oac.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4lChy6ufoz01nkBGtXCQPoz7jYkHlZ2PHU3kfLg9tSxQ=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "RTP",
-        "ico": "https://i.ibb.co/3FNgsGZ/RTP.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniXwv0ZQxrFVrx1iHLlxrj8WqQbqzlpsQJT5H0VJ6escQ=",
+        "ico": "https://logo.iptveditor.com/rtp.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4VevlJGgcseCxBVqOeBKYpM6mXMlp9PztgYGMNx732VM=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "SPC Pando (HD)",
-        "ico": "https://playnet.live:443/images/EtpPPjH22BD9bQ-ufHjgJfjwThQpqkEhCwpCMh2qSZ5v1g1ePXmqTrwhqumxZ-DAGFuU8TAHCua6RI5z5rHVUQ.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wnih6JXxaf8R4mQ0VD8JOHji9jj025/MtgJM1tC4w2FAl8=",
+        "name": "RTP",
+        "ico": "https://logo.iptveditor.com/rtp.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4VevlJGgcseCxBVqOeBKYpM6mXMlp9PztgYGMNx732VM=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "TV LATINA HD ",
-        "ico": "https://i.ibb.co/3dbgND1/tv-latina.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnieA6qqhv/wr4myS7gGYA535daEUJeJy7HqbxpjRRz2uo=",
+        "name": "Unitel central",
+        "ico": "https://static.epg.best/bo/Unitel.bo.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4ogt8dBrYPfX0aYihcbj63p/0E1955clM1ULTD04VMeo=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "TVU Pando (HD)",
-        "ico": "https://playnet.live:443/images/h4azQ-kDu3hOoMNxZbAwqDVSK-0i03MCuPIEa1Ly7DTOP0oz4MoEBTgWFQCx6VWI.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnixGmDiNMb9SR+wKw5g1wEER2HMbGDgl3Dvf+8BEqWh70=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "TVU TELEVISION UNIVERSITARIA",
-        "ico": "https://i.ibb.co/5Rds9FB/tvu.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wnidi+w9JEvpPhTJZWvMHTJx6FjGvEvd4KoO99reDpO35w=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "UNITEL 1",
-        "ico": "https://i.ibb.co/pWfz0F9/UNITEL.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnidCFc62RonvJkiAKA7tPNyLOhEjffBKnh0H/F2ip2DJQ=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "UNITEL 3",
-        "ico": "https://i.ibb.co/pWfz0F9/UNITEL.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnidGQrlq4pPiVmmlhM+QTalBFJNphF8NwxcjNsXNFhz+s=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "Unitel HD - Santa Cruz",
-        "ico": "https://playnet.live:443/images/EtpPPjH22BD9bQ-ufHjgJfjwThQpqkEhCwpCMh2qSZ7yT1Uhnz3myIZ3xy2_eP23NdfR6FO0GJIEskyLpdfqUg.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniGBQ2/dG1Nqczesk/pEAsICFLNvGhIzneK5c9bgCxHQ4=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "Unitel HD- Cochabamba",
-        "ico": "https://playnet.live:443/images/EtpPPjH22BD9bQ-ufHjgJfjwThQpqkEhCwpCMh2qSZ7yT1Uhnz3myIZ3xy2_eP23NdfR6FO0GJIEskyLpdfqUg.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wni0SRKXgaQsNIUw/A+R83GY1Q6IuT9o6MLM3DnzouZqq4=",
+        "name": "✅ TIGO 1 EVENTOS BOLIVIA (SOLO EVENTOS)",
+        "ico": "https://i.ibb.co/Hq6qtHz/Tigo-Sports-Bol2.png",
+        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wni31joZw4Me28tzKGSAYYfz7b35I/BuN8rL4BnWefn2BY=",
         "drm_scheme": "",
         "drm_license_url": ""
       }
     ]
   },
   {
-    "name": "⚽ DEPORTES BOLIVIA 🇧🇴 ",
+    "name": "🇵🇪 PERU",
     "mode": false,
     "lista": [
       {
-        "name": "Educatigo (HD)",
-        "ico": "https://i.ibb.co/XXy1ryC/Tigo-Sports-Bol3.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wninr8OVPBz2BPhwHIVgRB7lekZL2+dfe+d8kQPK7MDXYU=",
+        "name": "PE• AMERICA TV (HD) »1«",
+        "ico": "https://i.postimg.cc/BZFt8kVG/america.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4YnXcwCWNAqDCInlz3MgEMgZHVcrazeZTzQMEHyAOCSY=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "F10 (HD)",
-        "ico": "https://i.ibb.co/XXy1ryC/Tigo-Sports-Bol3.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wniguus7AlGUdKN6b7SpYYt4IbHxC/82IGs2AEqcGFImSE=",
+        "name": "PE• AMERICA TV (HD) »2«",
+        "ico": "https://i.postimg.cc/BZFt8kVG/america.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH42o9xShPyUx34rRZuTOKY20RsVCmcsAG59YIyhSmkjSk=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "TIGO SPORTS BO 2",
-        "ico": "https://i.ibb.co/XXy1ryC/Tigo-Sports-Bol3.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV0yak+18Vip8TdvyMsM1DiNODQI5Xxq/ZEsdBs/+Ztei/Ihdj0luCM7ZCEfd/pELGKPmzIeCOaeYJFcpx7+9Oig=",
+        "name": "PE• CANAL N (HD) »1«",
+        "ico": "https://i.postimg.cc/C5pvF9z4/canaln.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4A2dk3+YLw/ithacvDgpzUEa4dC2WP4bwZ+5XDCWGZ6E=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "TIGO SPORTS EVENTOS",
-        "ico": "https://i.ibb.co/XXy1ryC/Tigo-Sports-Bol3.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wni3q32LVargyb77wOclQVMgOBiIwGbA5aqX8Q7AxJ77HE=",
+        "name": "PE• PERU MAGICO (HD) »1«",
+        "ico": "https://i.postimg.cc/1txyCcbg/perumagico.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4wndpoIkOmhUSHRORu0YGmGcITcvbAknWhX9C4OhlURQ=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "✅ OP1 EVENTOS BOLIVIA (SOLO EVENTOS)",
-        "ico": "https://i.ibb.co/Hq6qtHz/Tigo-Sports-Bol2.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wni31joZw4Me28tzKGSAYYfz7b35I/BuN8rL4BnWefn2BY=",
+        "name": "PE• PERU MAGICO (HD) »2«",
+        "ico": "https://i.postimg.cc/1txyCcbg/perumagico.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4dulWt3mPyMTWLsiqvJOsebWIURehEU3O7/Lz/3HGajc=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "✅ OP1 EVENTOS BOLIVIA (SOLO EVENTOS)",
-        "ico": "https://i.ibb.co/XXy1ryC/Tigo-Sports-Bol3.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wni31joZw4Me28tzKGSAYYfz7b35I/BuN8rL4BnWefn2BY=",
+        "name": "PE• PANAMERICANA (HD) »1«",
+        "ico": "https://i.postimg.cc/Fs9fzW5J/Panamericana-tv-svg.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4oSh8qAPtYPkkgUfNFDu8Bf6mgdEIMwk7RX4SII8e/DY=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "✅ OP2 EVENTOS BOLIVIA (SOLO EVENTOS)",
-        "ico": "https://i.ibb.co/XXy1ryC/Tigo-Sports-Bol3.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniyanCN9wfOS81dADAk237xsQq9ZfEFSvqrE/s2mj91O0=",
+        "name": "PE• PANAMERICANA (HD) »2«",
+        "ico": "https://i.postimg.cc/Fs9fzW5J/Panamericana-tv-svg.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4V3llFbZC/fyihMjDeFJyohabhla//IhbSeFdXCMA7f0=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "✅ OP3 EVENTOS BOLIVIA (SOLO EVENTOS)",
-        "ico": "https://i.ibb.co/XXy1ryC/Tigo-Sports-Bol3.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniFWjEr7fva+4/KKP8kQ0670coIAiPevDKKAH1+8Mwyvw=",
+        "name": "PE• LATINA TV (HD) »1«",
+        "ico": "https://i.postimg.cc/CLyN2V8p/Logo-latina-2014.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4g8jFV+duQU8a+51eTmQZkXcJbIvpNE4smTWxqWKsrKI=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "PE• LATINA TV (HD) »2«",
+        "ico": "https://i.postimg.cc/CLyN2V8p/Logo-latina-2014.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4vVNPU2vSNXnRrtkb8ElktEJ1Ozojo0BK0lMT2wC48C0=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "PE• RPP (HD) »1«",
+        "ico": "https://i.postimg.cc/QMCdY1gT/494px-RPP-logo.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4euYud1cKE85DLm/7Fq0dsmDBhniIcGyZaKL4q1RLJL8=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "PE• RPP (HD) »2«",
+        "ico": "https://i.postimg.cc/QMCdY1gT/494px-RPP-logo.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH43f/lPpeA6ecJpTSHSfeyBXiK2H0X76xkGK4TEhqTLLo=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "PE• TV PERU (HD) »1«",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1200px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4+04ObUGqvxMNJNHGWj2DsI4r0pA2C+Q6RiavWTId8Hg=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "PE• TV PERU (HD) »2«",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1200px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4Jk7mvu1oBr+ZoLBhwpAeRfJrLmmWVnjOPmJFWQyRdVM=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "PE• WILLAX (HD) »1«",
+        "ico": "https://i.postimg.cc/RVVcyV08/Willax-Televisi-n-logo-con-texto-blanco-y-sombra-2015.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4a5jKxN1V6QHQMymwkOezxlpxlJhQiGYj6C5efTkQZxk=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "PE• WILLAX (HD) »2«",
+        "ico": "https://i.postimg.cc/RVVcyV08/Willax-Televisi-n-logo-con-texto-blanco-y-sombra-2015.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4CBebii4l+LUEYneeeVaKa+M3LMHHz2s9EUnYPRk0VSM=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "PE• EXITOSA (HD) »1«",
+        "ico": "https://i.postimg.cc/2jGMRyzN/exitosa.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4+ChFmOQ4Je7LisJBwG+bY+fyxSKN3OqaJfTuIfrSPrE=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "PE• EXITOSA (HD) »2«",
+        "ico": "https://i.postimg.cc/2jGMRyzN/exitosa.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4zPR8t2F3pvXm5Vqei6V8elkY6Htpqpb9Rl2MI/TN5o0=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "PE• ATV (HD) »1«",
+        "ico": "https://i.postimg.cc/V6LTxx00/atv.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4CSIDshNh04tYHDVCGDZkn7l691gPNBjdmJYDYFpnBdw=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "PE• ATV (HD) »2«",
+        "ico": "https://i.postimg.cc/V6LTxx00/atv.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4Dx2FJ4WEBunODmH47fjdI8m2k4lxioc6R1gbRXE+Rz8=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "PE• CAPITAL TV (HD) »1«",
+        "ico": "https://i.postimg.cc/cJGWqznw/2020-Canal-Capital-logo-svg.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4xuaU9uj5Ep+IuI8kaPdIZjv2fh9H6Gc06t96yqutFkI=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "PE• CAPITAL TV (HD) »2«",
+        "ico": "https://i.postimg.cc/cJGWqznw/2020-Canal-Capital-logo-svg.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4DFRMY/BAYF5aitqplTpruc2zXRgNasGxqg9l0hsCuXg=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "PE• TV PERU NOTICIAS (HD)",
+        "ico": "https://i.postimg.cc/x8Jp1frC/TV-Per-Noticias-2019-logo.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4IlEHdoi+IDes//0AbIlpgDQGfnvYhgZlC2JumPXvZqs=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "PE• FRECUENCIA LATINA (HD)",
+        "ico": "https://i.postimg.cc/gknx3wjY/Logo-latina-1997.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4rM4/mXC/qcUqzCsCSSb/cS5T9N4g4XUGZ3hG7QWhP1I=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "PE• ANTARES TV (HD)",
+        "ico": "https://i.postimg.cc/fTvqWgpY/Efu5mUQ.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4rnkVWankfh7gY0j1I4s3H0GuXll+wlKF6yKRNN+Wacs=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "PE• IPE (HD)",
+        "ico": "https://i.postimg.cc/2jLf6m7h/Logo-Canal-i-Pe.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH46of6qmdmTqVopngV2SaOShm0fLD63Goo+q/nFIQF0N8=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "PE• BEST CABLE SPORTS (HD)",
+        "ico": "https://i.postimg.cc/8zPC3Z30/bestcable.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4WpcMzif/7QXsHMlSkjIgcihd0N/jbGRlazjSs8zGt5w=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "PE• CULTURA 24 TV (HD)",
+        "ico": "https://i.postimg.cc/rwRtJshK/cultura-24.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4KKa1/4zU6XAs3nDiA4FVhev4JAOdnrPi8PmhfIwpREw=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "PE• LIGA 1 (HD)",
+        "ico": "https://seeklogo.com/images/L/liga-1-peru-logo-2910BFBDB8-seeklogo.com.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4Wsa0jYDf8YVSTJjT1ROC4+Lez1bzNyCa8sF6fpPillg=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "PE• LIGA 1 (FHD)",
+        "ico": "https://seeklogo.com/images/L/liga-1-peru-logo-2910BFBDB8-seeklogo.com.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4MlR6F7M6XCc+Ru+qlHIiIEXo8UgmVWdnXYWIN1KIDDc=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "PE• M. DEPORTES (HD) »1«",
+        "ico": "https://i.postimg.cc/prLCmPg8/1280px-Movistar-Deportes-svg.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4vWl/VuR5qG16DBF2bp3Uaor+boyKjYMPd3FAoRtFSR8=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "PE• M. DEPORTES (HD) »2«",
+        "ico": "https://i.postimg.cc/prLCmPg8/1280px-Movistar-Deportes-svg.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4zl1m8yGGAFuYZtqksDGRT3ps0KOaqRQMCS0cy0DWEsI=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "PE• GOL PERU (HD) »1«",
+        "ico": "https://i.postimg.cc/wjxgDZ0D/Gol-Per-2016.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4UDH0BO3yVHLIVl9QXLXC5Cyd027rSTnKeGuOXJUOrA8=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "PE• GOL PERU (HD) »2«",
+        "ico": "https://i.postimg.cc/wjxgDZ0D/Gol-Per-2016.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH48vO7rMe23G5IhbCoq3F94L2b7lZqPI6H6UzCzLPJurY=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "PE• DIRECTV SPORTS (HD) »1«",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4zgQa+kHMUa+0xx2zPel0UxkAdA19Y2RF83dpEjVW8a0=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "PE• DIRECTV SPORTS+ (HD)",
+        "ico": "https://i.postimg.cc/kGwnyv1z/Direc-TV-Sports-Latin-America-2018-png.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH44nMoC172Knu3ViuglJsO51W+TWgRflk7ROACvj1PuDU=",
         "drm_scheme": "",
         "drm_license_url": ""
       }
