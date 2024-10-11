@@ -255,125 +255,133 @@
     "name": "⭐INFANTILES",
     "mode": false,
     "lista": [
-      {
-        "name": "BARBIE Y LOS DELFINES MÁGICOS",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/42MQwsJHg2iKos3yNUkWISzIDbD.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkA6B2hW+ujsRoeFiRVszulFQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "BARBIE Y SUS HERMANAS EN UNA AVENTURA DE CABALLOS",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7MjjDplsAtWRrGGIn2dljXeFMlL.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkAMd5sC+0MCZdhbF5ykFiPIA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "BARBIE Y SUS HERMANAS: EN BUSCA DE LOS PERRITOS",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d1Wjz6MwW4rSANEDW6RFiqtcUAq.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkAbp8OFTcETAZXiAuuapQkXg==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "BARBIE: SUPERPRINCESA",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7CU5xWxABsDBZeLuTWp12VfmYZ.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkAjT+wknobB48Wiy+jXQwerw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "BICHOS, UNA AVENTURA EN MINIATURA",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3zc9gBzw0egrp7lMrE0zqFkNMms.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkAStDbXCFX+VWHyOSjTs0NMg==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "BOB ESPONJA: LA PELÍCULA",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/CtISczftMz6g7kyk5uLxBben8b.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkA+twwtRLgX5wX6ro6zSKcNg==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CARS",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nqii8TqllZRainaNhQkJLNoSbMv.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkACni/dJpA3IzPDZBDrGoqlQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CARS 2",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQo1LQs5Vo9RHVHYUhNSfMZa3VB.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkA3TDZ1J2h6b3vk4Gy8R6YhA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CARS 3",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tp9W3QAbQcpanBtBceZtHD10UT.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkAho2JiKlheRkWfcyOsmznYg==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "EL PROGRESO DEL PEREGRINO",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQABPpZpSnzsRimhS0Vkd3KumZd.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkAwMK7G6Va6tT07fV20AcqIw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "FROZEN 2",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnFCk7qGGWop2DgfnJXeKLZFuBq.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkADvCtkEHr88BJznY7uepxLA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LA SIRENITA 3: EL ORIGEN DE LA SIRENITA",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFWP8BSOVC8tQ3NI34gfvEhUqZl.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkAgf9xmyC9xWN/0QhhDv1FLQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LEGO DC BATMAN: LA BAT-FAMILIA IMPORTA",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rA5bdwbzEAKfvjHRzza6Q3r0otq.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkATUn0TJ8t6vLXtcrq2ygf8Q==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "PLAYMOBIL, LA PELÍCULA",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/595o8eHiYsHZyDslrW1HwD6G0FD.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkAW5BGOO5A606sdyzSCZ89aA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "TROLLS",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/grCBNLzAGbRrGMzF4eTM9EXwP78.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkAq36VwRVEGsJcnKZIsRxSoA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "UNA CENICIENTA MODERNA: EL PAPEL DE SU VIDA",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/10iL2MYDyR7Z0wEYG91a3s6qhzs.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkAg10t/sdIHn1TQ8tL6muK3Q==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "¡VAYA BICHOS!",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/chKGuvIfAIJBRxtjjiffTWR7s30.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkA/+HA4kRSD4pjxYbXc/wTDw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      }
+       {
+    "name": "BARBIE Y LOS DELFINES MÁGICOS",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/42MQwsJHg2iKos3yNUkWISzIDbD.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYdoKx12JunKaOMDxYPDW8Yo=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "BARBIE Y SUS HERMANAS EN UNA AVENTURA DE CABALLOS",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7MjjDplsAtWRrGGIn2dljXeFMlL.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYY7+je28fSDiBF61zaAuCaM=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "BARBIE Y SUS HERMANAS: EN BUSCA DE LOS PERRITOS",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d1Wjz6MwW4rSANEDW6RFiqtcUAq.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYehtlFEqBwQ3bQsfNwh8x6s=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "BARBIE: SUPERPRINCESA",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7CU5xWxABsDBZeLuTWp12VfmYZ.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYT90XBMzJN+YUTZ6OdtWf3Y=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "BICHOS, UNA AVENTURA EN MINIATURA",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3zc9gBzw0egrp7lMrE0zqFkNMms.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYWKqFJcR8znbhjZj2H8DBEM=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "BOB ESPONJA: LA PELÍCULA",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/CtISczftMz6g7kyk5uLxBben8b.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYchZH9N7Zd8H8O/imFA5w/o=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CARS",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nqii8TqllZRainaNhQkJLNoSbMv.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpc7hy+p1FLPxFCAFa+iW85kSPxFS8xpmHjECCe3ynz4CQ=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CARS 2",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQo1LQs5Vo9RHVHYUhNSfMZa3VB.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpc7hy+p1FLPxFCAFa+iW85kQbMbcET3UBLi/0Hd9fneUw=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CARS 3",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tp9W3QAbQcpanBtBceZtHD10UT.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpc7hy+p1FLPxFCAFa+iW85kSL+UiydrMlo72IZ355/GO0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EL PROGRESO DEL PEREGRINO",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQABPpZpSnzsRimhS0Vkd3KumZd.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYe8YSvBTwBoLF3rsSKGMDl8=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "FROZEN 2",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnFCk7qGGWop2DgfnJXeKLZFuBq.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYbemOtKHNzcBWs7wYMvuCAQ=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LA SIRENITA 3: EL ORIGEN DE LA SIRENITA",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFWP8BSOVC8tQ3NI34gfvEhUqZl.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYXGDJQbZ2iyF1cXMuSRPngs=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LEGO DC BATMAN: LA BAT-FAMILIA IMPORTA",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rA5bdwbzEAKfvjHRzza6Q3r0otq.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYeFi4NU4OIhMfsPySPscHAw=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "PLAYMOBIL, LA PELÍCULA",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/595o8eHiYsHZyDslrW1HwD6G0FD.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYWMPU3crfcTsgjIynGMkvEg=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TROLLS",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/grCBNLzAGbRrGMzF4eTM9EXwP78.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYYphFK78o/MDJmEW2AFmcn0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TROLLS 2: GIRA MUNDIAL",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9GdgycCYq3vnxLHw5Ldah8JEjH4.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYX6ezPgcHTRlmGq9L6hiA+E=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "UNA CENICIENTA MODERNA: EL PAPEL DE SU VIDA",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/10iL2MYDyR7Z0wEYG91a3s6qhzs.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYXNPFxUYOVuXrCmxzwVl2ic=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "¡VAYA BICHOS!",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/chKGuvIfAIJBRxtjjiffTWR7s30.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYbe2kSHbIOx3KtMErKkAsPY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+
     ]
   },
   {
