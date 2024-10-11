@@ -6585,6 +6585,20 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+        {
+    "name": "EVENTOS URUGUAY",
+    "ico": "https://iili.io/dbRAHdB.png",
+    "uri": "O4zQaBxapxoofA7Utbs4F6p1R19bOPaSpW1etMjxw2JpW3+Jh61s3QHU91KPAxzcwhBTESVooUj9QsIey09LAUjTli2f/1+EKMNkmMzm/l7LITksb2kbT97EJeFDbzGm",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EZlKGPkHWOvkGb9GdvvGBoYFl0Gdxsj2124MaRJFBSfrbaNpK2gEAqZ4e3VVI2p4060tpfPePyJPvZz2TT+dxE+3kjdDR4bBJlh3CQKrIx6GF9iVGxTomJRuzcYGxK/YHw=="
+  },
+  {
+    "name": "UR | VTV PLUS OPCION 1",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_VTV_Plus_nuevo.png/1200px-Logo_VTV_Plus_nuevo.png",
+    "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnipxdiW5VH8Zcnusm0MKdqvNtmWB9O4EJ9pv16qMYeQh4=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "CHANNEL FIGHT",
         "ico": "https://i.ibb.co/sVwQKzC/channel-fight.jpg",
