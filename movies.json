@@ -836,90 +836,98 @@
     "name": "⭐TERROR",
     "mode": false,
     "lista": [
-      {
-        "name": "EL JUEGO DE LA MUERTE",
-        "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/jKNCPbhAQtpZ6K9NiqBJbl2193I.jpg",
-        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNlrA11GL5DvIYtX9lw4m9uljxLomLBoNrN/Sj7PlRqcp",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "EL SALARIO DEL MIEDO",
-        "ico": "https://www.dondever.com/es/posters/donde-ver-el-salario-del-miedo-56072.jpg",
-        "uri": "sgjDJRyt9fFn+DLmIpbyaEYwDWkjEioSMRFHYgB5hah/aV9MgvQX69vRbOrdpa2/r5BPAFZrxb+gGeexH+ygTA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "ESTACIÓN ZOMBIE",
-        "ico": "https://www.themoviedb.org/t/p/original/gQDPQxUNep5TPgFPRRORAWFQueQ.jpg",
-        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQPsy+IcmntBrT6qj1lukYeFxmDa2030oO9+LT4wkG2M4=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "EXORCISMO",
-        "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/imZhdkfRxvHrzxRejRqodI9sJbr.jpg",
-        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNh5qvYYNMaWutXM2UEtJp6JBqHnlTrIhW6l/Xeu7rBhH",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LA CALLE DEL TERROR",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2JG46f4JtCJTUf2z9UbiL9qusOP.jpg",
-        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQdD5v0bTgYr/vv8ABDQQ8UIN1X2VowpnSJlUCYxQusfw=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LA MONJA MALA 3",
-        "ico": "https://image.tmdb.org/t/p/w780/g95fhs7w9LjLefMCLsMDFMoZ44x.jpg",
-        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNqObKf+ycW8QkulQhkD9fVCIeZN4G9dxjEKWhMWcF7C7",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LA POSESIÓN DE MERCY BLACK",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJCTV6wl896rF1sJ6yTho87dtVY.jpg",
-        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQ51Pil2s41ZclJhO0rpGICFaMhzj2Y7kJilJHt7RcSHg=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LOS COLORES DEL MAL: ROJO",
-        "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/8T9F0iHTFWtvoSmtHijWTxs6hCk.jpg",
-        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNsIWzqmBykGWXEOHsV2B1N588s7o9GJJuln41Q2lDQ+e",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "MONKEY MAN: EL DESPERTAR DE LA BESTIA",
-        "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/kJhQfICVsZGeYGGRudgcqiD1zQY.jpg",
-        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNgyzN4tBpRZmth3rPq9EPUim9iTeRBFoqg8HK2ggZdM0",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "PERU: Latina",
-        "ico": "http://x.playerlatino.live/latinatv.png",
-        "uri": "5wkCSUzuOuGZgkH24pdJhXHtOHKm2EHK0B1GO1EvUTxDNwd5Zr21HoMkJQj8exPP",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "SATÁN",
-        "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/2PfKHzczyoXW3J4ui9ptJNTCPNA.jpg",
-        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNp17Kstmpvbq/iF6xunCH7hcORHGsubHampgH1ANMHIW",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "TAROT DE LA MUERTE",
-        "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/cRNMX3xXDjAxxcdrPqxsbSa9im9.jpg",
-        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNo6vdN2c7Tw5/LH3t/5ZoLBCCjoJEginIkXQOqwang31",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      }
+     {
+    "name": "EL JUEGO DE LA MUERTE",
+    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/jKNCPbhAQtpZ6K9NiqBJbl2193I.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcCqOJYx14nLcwuiGyXbofYUsVWzfe4kQecXm6Tue4eF8=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EL SALARIO DEL MIEDO",
+    "ico": "https://www.dondever.com/es/posters/donde-ver-el-salario-del-miedo-56072.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcCqOJYx14nLcwuiGyXbofYSXPiFaTrfzFFw0Nl3QN8s0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "APOCALIPSIS ZOMBIE",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJMIcYfM8ktbb55T7dwAgzYoFWw.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYdA3nMvbCPFV8awEwlivfXE=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EL EXORCISMO DE EASTFIELD",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nfSrMW6ooScsf3PRa0ZSjbch8ed.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcCqOJYx14nLcwuiGyXbofYeYcKRqfF7WpN9UZSiWZuaY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EL EXORCISMO DE MI MEJOR AMIGA",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmz93VQwDOIKZuGHPZQPt2h2qHW.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcZGJd8TWZ8Mg6t+/9Hs0CSdGzkE/AWI7CGSs3NSCbPLg=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "JUGUETES DE TERROR",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nlu8YdfUNRrxonk1fvgr2jyXkBm.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpc7hy+p1FLPxFCAFa+iW85kToT7pvLt5bXVkP+g0NP0rk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MANICOMIO DEL TERROR",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zssSZAC9nl0OUR6uPhKUEbgkCVN.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYcqzyJCIQipdKn1YSZlvxD4=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LA MONJA",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q2JFJ8x0IWligHyuLJbBjqNsySf.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYRAEdm+W/NjR5DESk3j6I1I=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LA POSESIÓN DE MERCY BLACK",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJCTV6wl896rF1sJ6yTho87dtVY.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYYr9nNA2Etxt2jEHEx/pw2A=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LOS COLORES DEL MAL: ROJO",
+    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/8T9F0iHTFWtvoSmtHijWTxs6hCk.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcCqOJYx14nLcwuiGyXbofYVzxeSk7otu6wVu1i7aqZ6Y=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EL GRITO",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2h2meVDDxQrJyW8fviwegJ2eTY.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcCqOJYx14nLcwuiGyXbofYQ7qb5Th6iAcirUMiaQH00Q=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "THE PURGE: LA NOCHE DE LAS BESTIAS",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1smw9aHuPiHga2Of5TOJs0Ps1rZ.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcCqOJYx14nLcwuiGyXbofYVJ87ZOQ01kSpswAN1mJPB4=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "NOSOTROS",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kUEbVMrs80nWXtTA8tKd8jRwnIn.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYbfdIQ3KnovsK7igp5c/ldU=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+
     ]
   },
   {
@@ -927,110 +935,104 @@
     "mode": false,
     "lista": [
       {
-        "name": "CADÁVER",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vR6Zaevn3imnkXsbdgBiAdIHNgK.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkAHxTUTn2f8pwLxaBN2emEiQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "ESPÍRITU DEL MAL",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjPalZwRQCIc0b9hvMa0ssuD2ax.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkAULz2uBLy7YGCPBjxne/SsA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "EXTINCTION",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h2peRx0F8tO8crFVkOeKUK2q8BR.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkAO7qvssPS4codUOi7cA8CTQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "HERMANA MUERTE",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wOEF7NmEwcwTdbV8nsCmPk5u8VT.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkAcdjCAGjV3RNN5zAQawG1fQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LA BRUJA",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7utU4usAGNtk30wh56eyO6hDMSi.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkAiSYP2pOPl6LuVCPBpKTCwQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LA INFLUENCIA",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYAimIlIHj61v06t2BbBXUdsxy.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkAhZ/TABg0euH/aijZejjN+w==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LA MONJA",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q2JFJ8x0IWligHyuLJbBjqNsySf.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkAsqcmgoXKv6xZqbUrJc3ZRw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LA MONJA II",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0ryPlzZjpOojEAuGrre2lFuBv6.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkAd1+D7tJeKp3og4I7bH7O5w==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LA PRIMERA PURGA: LA NOCHE DE LAS BESTIAS",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aV3vprqPAZBbriI2UZA5bMNqMjk.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkALmwwR4r6Hbu5XCiixzj3QQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "MORGUE",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mAltHW6uwqw8zCDbAfqxLNpC6wk.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkAKvxbhyavoZUMuvpzqk3z6g==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "MUSA",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kKjinCoWFHkztF64Vx1L2lwcJI3.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkAZGTSKoCPcoY4bxqVvaT9lw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "NOCHE DE MIEDO",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ftzPwgnINKlU6Vrqm0X5KXaFpfZ.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkAGxUMr+9aiTZLYodCYATh1w==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "NOCHE DE MIEDO II",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ssckU2GuOrCUsGj6czhBIf3ddvl.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkA+SSJZPpkpjIypp9cU/lRsA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "OUIJA HOUSE",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sLuFHWp2lAJMqLIinspmtBG3c0j.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkAvcMVYynXbiMPhLehREUE5A==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "SIETE DESEOS",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/heux5kRKFHG9XDUNN8kkeFaSx9p.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkADTyBj/lnVbfFfWJqbmlDMA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      }
+    "name": "ANNABELLE: VUELVE A CASA",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zxwPksbRKGaAi06rapPfFTVsMHv.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcZGJd8TWZ8Mg6t+/9Hs0CSUnonsSJ9z3VBD4lAD1Zzfc=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "ESPÍRITU DEL MAL",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjPalZwRQCIc0b9hvMa0ssuD2ax.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYTEfntH0VDuIDnf1MSGaD6Q=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EXTINCTION",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h2peRx0F8tO8crFVkOeKUK2q8BR.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYRe8r0VjU4IGvHtn0Q5M8AI=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "HERMANA MUERTE",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wOEF7NmEwcwTdbV8nsCmPk5u8VT.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYQT+eOzHXgH4BWzYTuDVqtg=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LA BRUJA",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7utU4usAGNtk30wh56eyO6hDMSi.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYX2VUvD98hlSdc7ezhx/Q2U=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LA INFLUENCIA",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYAimIlIHj61v06t2BbBXUdsxy.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYaS0cR0YnXww+hecm2RAIXA=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SISTER ACT (UNA MONJA DE CUIDADO)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yPBlWxugSoQMcm05TPwsELq110n.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcCqOJYx14nLcwuiGyXbofYSNv/bM1C/sirxQeDBAEj9s=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LA MONJA II",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0ryPlzZjpOojEAuGrre2lFuBv6.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYTJtNy79BuVmeNn1WRA9XXk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MORGUE",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mAltHW6uwqw8zCDbAfqxLNpC6wk.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYZqEvV3bxDjoiI4rv4dSPE0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MUSA",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kKjinCoWFHkztF64Vx1L2lwcJI3.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYeS0HWLra+hL3jADR3VbLig=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "NOCHE DE MIEDO",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ftzPwgnINKlU6Vrqm0X5KXaFpfZ.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYa4fc2isOKEGGuRr8o4fbuk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "NOCHE DE MIEDO II",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fC2igspjsuQipAweNskQG7xB2qk.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYbK3ak2cvZtFlzGAAgKCjUo=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "OUIJA HOUSE",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sLuFHWp2lAJMqLIinspmtBG3c0j.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYdghnIVKSEY6JOSWWFJAn1I=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SIETE DESEOS",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/heux5kRKFHG9XDUNN8kkeFaSx9p.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYfJLELGfMyBiAKtBvdUd2I0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+
     ]
   }
 ]
