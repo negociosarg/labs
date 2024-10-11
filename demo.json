@@ -87,95 +87,53 @@
     "mode": false,
     "lista": [
       {
-        "name": "ARGENTINA OFICIAL",
+        "name": "PERÚ VS URUGUAY (ARGENTINA)",
         "ico": "https://iili.io/29TIjLX.png",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ENI4lZaesFHQ6qxMfPX6TLXMjDQWwyoajyt5BjAdHMcBn12TF1BrrDXDsExN16wJ3KnxNi5AfRXaFp3bSOWo4r",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
       },
       {
-        "name": "17:00 Bolivia vs Colombia",
+        "name": "PERÚ VS URUGUAY",
         "ico": "https://iili.io/29TIjLX.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wni31joZw4Me28tzKGSAYYfz7b35I/BuN8rL4BnWefn2BY=",
+        "uri": "8bb+eHXtpFK9XpINNn/APVFMVZpCun0+GlwbMYuO2tHshSuPbfPkVb3TNG/QcklHp57KDfwo4QLNkrNWxnNcGMiRedbKYFc0DcKkGm/koEw=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "17:00 Bolivia vs Colombia+",
+        "name": "PERÚ VS URUGUAY",
         "ico": "https://iili.io/29TIjLX.png",
-        "uri": "Z4s327Vn+xQqhY1oCZ8+XEkzbV7qY+9wMDT5hUhc1JihdXKKqxTbmoc8vHQ0si3up9aduBrPpn3yXJ2p2iQUFw==",
+        "uri": "8bb+eHXtpFK9XpINNn/APVFMVZpCun0+GlwbMYuO2tHshSuPbfPkVb3TNG/QcklHp57KDfwo4QLNkrNWxnNcGMiRedbKYFc0DcKkGm/koEw=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "17:00 Bolivia vs Colombia",
+        "name": "PERÚ VS URUGUAY",
         "ico": "https://iili.io/29TIjLX.png",
-        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH46I9hsuQ3dNgzl4YzDUwIhk1kcRv3g9Bz6VQ40iQ0HZY=",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH42o9xShPyUx34rRZuTOKY20RsVCmcsAG59YIyhSmkjSk=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "17:00 Bolivia vs Colombia",
+        "name": "PERU VS URUGUAY",
         "ico": "https://iili.io/29TIjLX.png",
-        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4SwI7VIB4mxeCxsbXNyj/rekSOHcp5xEHr9l9H3XC/aQ=",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4YnXcwCWNAqDCInlz3MgEMgZHVcrazeZTzQMEHyAOCSY=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "18:00 Ecuador vs Paraguay",
+        "name": "PERÚ VS URUGUAY",
         "ico": "https://iili.io/29TIjLX.png",
-        "uri": "Hq63msBCCm6cDMT65YQsEoSuY7/5nksIFg6L9B2DHUX0wNFJ4uLx8pgrnGvKUxQ0/nld7fPmnf8TsOIub8NXYSYT+KmU0V5DyxOXKgnyRIOWeSDOK3TsgRVNJ6m5FHx4mBsmSGe7RDn8//zujD7SVQ==",
+        "uri": "kIuB/TaYEGpaWupBtZIB5ltSYgRwSqpFbQATMSv/6PhlG5nRmf6oocWOaeXIVWOHkpfPekN3n8HiIvBfKsGp/V9MApjxWnb7EjmBCIOF1DVzsG4tuvo/GaiL8WV3cUPxaS/z77NbqWGVNInTjTxOqJefw/uiN4GKtZm9f+0dprS2j9tcCqevOa2b+Csq4bUcobF3xcIlFmloMwIzzdqhmBPmnLVcUX/+vsK3TUhPIJORyUTjMVm9LUkoviCGzrko8qLPbRwX0wPgBapFgIBt8mbd0SpyFk09GrXWHXjnf+U=",
         "drm_scheme": "clearkey",
-        "drm_license_url": "KHpCthZtVP7mOtpU/cqwa3cWgGG7MVYkyg25y7WwlKxuObcgp2+3XkTfNpE1nlYBaqnQZMg+EH2k369PyBC7P/UkQbSJuHjA0zFlGOln3ISCf6wt3ZFuVPg5kYC5tJ+JqLh3WlMYMP3P4S+B8pYnx+IaJxH5HBtPHaUgxn5B4xNq9YTPWAPX98B/1MbgfnAeXxH2MCGqRmNCvxrh6drQWa6If1G5mkGUc+s82h1CVF+dthhLdz0l6TZ8rCHQkYGDnxGs14gV7i6vfyvOwi0acvbyqiROvpGhPkkYEuvOf/M="
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EbeTd5UygQQHfnMlPjsdOCBY4BJ8nmPc7hw3SWVnPjuBI5u/EHqVI39pBAyfhDQjxjovJQ8t9rGhaxrCxSrZPIuLEEzwsbzwjNO70TXCNbOzJm/kOXKg2M2P4AnxKem4hQ=="
       },
       {
-        "name": "18:00 Ecuador vs Paraguay",
+        "name": "PERÙ VS URUGUAY",
         "ico": "https://iili.io/29TIjLX.png",
-        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4PkRWqm/CdCm9JUn2cgIMUPm4h3BI3bSOi0m705N/ROc=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "18:00 Ecuador vs Paraguay",
-        "ico": "https://iili.io/29TIjLX.png",
-        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ER46U4k9VzANPTMkRy9+z82lp5YPjOqzUfeEHYhDg5Rj1prYq+FFleask5FCdYClQ=",
+        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ENI4lZaesFHQ6qxMfPX6TLXMjDQWwyoajyt5BjAdHMcBn12TF1BrrDXDsExN16wJ3KnxNi5AfRXaFp3bSOWo4r",
         "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EQxneGYZOszpYc0XiPa1AvkIGlC+nCnI+Q19r8AIYqjG31WtMTs50NqDAvapXrSWhF2Sx1JnGhqai/1xsO6iLT4P/32Y4lo6tsrzjp1WY9odOiXrjFRJqa7XEAqUgx6qeQ=="
-      },
-      {
-        "name": "21:00 Chile vs Brasil",
-        "ico": "https://iili.io/29TIjLX.png",
-        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4NkmLnY3c0ZlPxpEKUgWoARr99Oq0LfXOcwJ1lfnu7Sg=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "21:00 Chile vs Brasil",
-        "ico": "https://iili.io/29TIjLX.png",
-        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4Lgw0GD6rdAkQAzEKQFN6nQvGcmoWUou8tSFWEOHZLpw=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "22:30 Perú vs Uruguay",
-        "ico": "https://iili.io/29TIjLX.png",
-        "uri": "Hq63msBCCm6cDMT65YQsEoSuY7/5nksIFg6L9B2DHUXjVBsK5TJ0ta+8PtZdnlTxxmomJ42xWJrPFiewKYS6/PtXbEYyaNyglwKXDunPrRU6EVy+bGKdYe5odV15pcxYz2Cgj6+PjLpbp2DibEwhfBu3CAjUJT8ev1eL14RRNenTlOP3Rzt1Z0sUp7U4qpCJ",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "KHpCthZtVP7mOtpU/cqwa3cWgGG7MVYkyg25y7WwlKxuObcgp2+3XkTfNpE1nlYBaqnQZMg+EH2k369PyBC7P/UkQbSJuHjA0zFlGOln3IS3G53uwnYhIyb+pzx+mFv0abinydpIvhQnBSeB1Jl6VvVXwIsFHuEPjSMdJ1Wphd6oh4oZF8N3E414MR5oPyqAJ+xeD3nxtLK1IczzKhTuWP5BbR5STC2ZbTC3WytPVljADNeYPPomiOjnv+KKUVsQkPYNB+BqHN2BFBSvnuwFX0cUzS6AE13I8mbHsqKCvh4="
-      },
-      {
-        "name": "22:30 Perú vs Uruguay",
-        "ico": "https://iili.io/29TIjLX.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV0yak+18Vip8TdvyMsM1DiNODQI5Xxq/ZEsdBs/+Ztei/Ihdj0luCM7ZCEfd/pELGMXbAiZ6gwlTkjbxmMFqBuA=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "22:30 Perú vs Uruguay",
-        "ico": "https://iili.io/29TIjLX.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV0yak+18Vip8TdvyMsM1DiNODQI5Xxq/ZEsdBs/+Ztei/Ihdj0luCM7ZCEfd/pELGKPmzIeCOaeYJFcpx7+9Oig=",
-        "drm_scheme": "",
-        "drm_license_url": ""
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
       }
     ]
   },
@@ -694,43 +652,105 @@
     ]
   },
   {
-    "name": "⚽EVENTOS",
+    "name": "⚽DAZN",
     "mode": false,
     "lista": [
       {
-        "name": "URUGUAY 1",
-        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
-        "uri": "eS0ZOrCl6lVGYy/BZQNUH+QKj5FS6+lyHmLoJLOMZfLYJFW4K8zbiVZhij8lQxdAD118nn4NkB1JYyvO9jMzXA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
+        "name": "DAZN LA LIGA",
+        "ico": "https://i.ibb.co/wWkGmgG/dazn-laliga-1-color.webp",
+        "uri": "Qkc/rvUBYvW6xqp5pwFaITkxDf0bzhvA33DMqkVqGXjCAd8gSft52vpHuRG6DJgnJxzV5GhOA+Bud1t6mYh/vDpAk+uz2apOEUoK4XN2Lyo9kqnCnsQnyu3VjNs2qiswKJ2/0lB7KVmMr7sVvURojglq6TcDSSDgyuUG6fJ6jY4=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Efu9wZe3VNbcek1hg1WwqTRKHi/0487WTrpHOlwke+4kNfB0QRTAgqOkw3MTklebfDRcDA1DKNqLOy8zAsqR+UezX86bKxjBCVpS/eolBmAxD6nusFW7afFmo5OlDEABeQ=="
       },
       {
-        "name": "URUGUAY 2",
-        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
-        "uri": "i43V2nAfCyyZ8dVVT935Ihxr4wECParD7Kn7g1e6t3+RO+CkkS0pxwGH+c8cn5lbFJtdAMymtrlvdHJ7OxvMpOBv7mXdDpqCIDpotf3ObFo=",
-        "drm_scheme": "",
-        "drm_license_url": ""
+        "name": "DAZN 1",
+        "ico": "https://i.ibb.co/hX8TK84/dazn-laliga-2.webp",
+        "uri": "+NnUPZcg56QqZXHu08euMdcrZ2FkbWl3WGrnMk6zPchkxP+Gx38LL4DaHSFU2YWHEWFkFBji4ykRakziKRmmDQf6VdPhtHW7Uv2LbuY1XUOWTUq/1x35uUKZpEqxZPKkJY4poMvu1KDHskHIcxmDoasq0ha687l8NwCufhHgJjM=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EVwGj06b4akW7QYLgVyABi67IOmJsIOyBO1LPP40TBrtRLcl4zcvEZdL6khUtbO0EwAk5AJoj7NoKnEBaOtDjqtD2zaV8uAmYv2724qCDiyFbgoJvNcjQovvERLQh1Qpkg=="
       },
       {
-        "name": "EVENTO MLS",
-        "ico": "https://upload.wikimedia.org/wikipedia/fr/9/93/Inter_Miami_CF_logo.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniG8nuZtKkCP2bzBzVodk5WA4vj7jRy+nwbxtFJTYey2Y=",
-        "drm_scheme": "",
-        "drm_license_url": ""
+        "name": "DAZN 2",
+        "ico": "https://i.ibb.co/hX8TK84/dazn-laliga-2.webp",
+        "uri": "+NnUPZcg56QqZXHu08euMdcrZ2FkbWl3WGrnMk6zPchkxP+Gx38LL4DaHSFU2YWHEWFkFBji4ykRakziKRmmDRtmNNGo/re/uEHkR0ZCxaDClRwpfhjZLNvLuQ7zvaopm9gVfCsiDh2fdFgF7G6fHCcQGd/J+cYRJ+nDgIcsD1o=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EfE1tynXiNP0huspknXCAmen7zpFUky3RTLZuXoVCPZSiz8h6pER+5cropp7UYi0kntkZB1mPiUXQMA825z10Cq/ZGcvXT8Wn6aKa4cxWHgQegpBtTF4cQ2VkHDrU1V6VQ=="
       },
       {
-        "name": "EVENTO MLS 2",
-        "ico": "https://upload.wikimedia.org/wikipedia/tr/thumb/9/93/Inter_Miami_CF_logo.png/600px-Inter_Miami_CF_logo.png?20200723120044",
-        "uri": "kerMsZ4+4jaDO68Wg0enV3Iqz7ZAx3uFcrEBpxbgFUbeRhMQBTxn6DgLtWqaXm9keGkKlp6hID/p+haUrFRFu3sRmKUvx069V36jzSG/fRprwImdj0oKD5Yf44P9rD5cYn0tQDvYEm8xF2Bd1yW/6w==",
-        "drm_scheme": "",
-        "drm_license_url": ""
+        "name": "DAZN 3",
+        "ico": "https://i.ibb.co/hX8TK84/dazn-laliga-2.webp",
+        "uri": "+NnUPZcg56QqZXHu08euMdcrZ2FkbWl3WGrnMk6zPchkxP+Gx38LL4DaHSFU2YWHEWFkFBji4ykRakziKRmmDd/oO9QDPkKwlUljCpRpAVX3DqatXTmTi1qUhWYCh7WMN5BKAtxePboGKQEGIOD/FnR0A2JYWJMfxFaWsFQttM0=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EXg+yTylHlegQRAeDqqEJy0Cr/RbJSsoRPKTlAjeC0OD0RUKGMxCq3KRoIl+4bc2SzwfcKuflo4LlJoPvyJ1uDX5xZYpsTquSJPXwWxKL40A7lCyM1nK9wu3LHzM7FbmIw=="
       },
+      {
+        "name": "DAZN 4",
+        "ico": "https://i.ibb.co/hX8TK84/dazn-laliga-2.webp",
+        "uri": "+NnUPZcg56QqZXHu08euMdcrZ2FkbWl3WGrnMk6zPchkxP+Gx38LL4DaHSFU2YWHEWFkFBji4ykRakziKRmmDeYEmu1vRth+sui4stEWzM6LGxC54th1SXfL+dcdhBSSeY4moP0Yj4uHLiaHa+8vnFpGtyQWtZTBDcNNzg32Z+U=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EQTGGcTLA45XgoIZonDrxdcRI9t4bpUXAal6x0T/wI+Oeu2Eg6T7hS4siYQMigFUuClz/fcmphd6QOM+vlbCOZRdR4409wqnwkCHGqYZ97jX2Yi6d22rYT2S7Be3hr1uzg=="
+      },
+      {
+        "name": "DAZN FORMULA 1",
+        "ico": "https://i.ibb.co/mcp1JdM/DAZN-F1-750x354.jpg",
+        "uri": "Qkc/rvUBYvW6xqp5pwFaITkxDf0bzhvA33DMqkVqGXjCAd8gSft52vpHuRG6DJgnJxzV5GhOA+Bud1t6mYh/vOn6qZ1yvuJjyK1ilg6h+6d38fpL+gqlW54n5QzhKB9Mj1dGOxOhF6G6silvzBLNNrml3xTCkbxKEYIC/h3P1gU=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ETkfHo6Ba392kVnntoYgRuM2jZWIfVM/hYuoda42NNSw7SZfgcJXGp3NxWQGCPfXTnFxE4STi1aa1f+panh5NYBHuS88KqpwRZAaCijopbn+KAUzk9x5Oxk/Cs8JOc08/w=="
+      },
+      {
+        "name": "CANAL+ LIGUE** 1",
+        "ico": "https://upload.wikimedia.org/wikipedia/fr/2/2b/C%2BLigue_1.png",
+        "uri": "ONtdzXQhLEFpyDjOZJxNM1Pv7XwxmrKdS5EUdU7d1Ma7k1jdbtKu43k1cNjCmox3vCxZpBxhWmxsmNi2JufO8HezWVkjZD7chhVSCE2abME=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EewPn5/8DYtijANltb1DrjjvvwbjhmXtwuvvwBaCyWoGj+KLsVU2Md0JUXppSA5Fm33nmXJ/v5TuC6k46wvxKomfljxHstz2zcwepIBsjA3lpvftLCGDT83RGfVAG5WQgg=="
+      },
+      {
+        "name": "DAZN RISE",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
+        "uri": "1DZsi0eFr4m2AK6C0QxLmGwqE8Y2HN9OHSfXH8FM8w8/T0lg/P0eVYy+3cCvtRH+Uxmb0jqOVzrIAUpqatl/VznZMHq17GjXTyVTwvmojfk=",
+        "drm_scheme": "Clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ERyk3SnjHWI0UGdRLndyl5CEV1n+ibOslJ7fcX6JJwI7CV/vTEH3F41mS3gkh2ccQ+mEl7p4dX+XDsobLG2FUzPKGw2irIHiBk1F3kx9dVboWwFRtLhIpXpoBPRVaT3kvQ=="
+      },
+      {
+        "name": "DAZN COMBAT",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
+        "uri": "1DZsi0eFr4m2AK6C0QxLmGwqE8Y2HN9OHSfXH8FM8w8/T0lg/P0eVYy+3cCvtRH+BvdvkCHFpBuPNP5jeSrQUZ30PIANahpASdZpCwGnvRY=",
+        "drm_scheme": "Clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ERyk3SnjHWI0UGdRLndyl5CEV1n+ibOslJ7fcX6JJwI7CV/vTEH3F41mS3gkh2ccQ+mEl7p4dX+XDsobLG2FUzPKGw2irIHiBk1F3kx9dVboWwFRtLhIpXpoBPRVaT3kvQ=="
+      },
+      {
+        "name": "DAZN Women's Football",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
+        "uri": "1DZsi0eFr4m2AK6C0QxLmGwqE8Y2HN9OHSfXH8FM8w8/T0lg/P0eVYy+3cCvtRH+dWqICKGVaYW4lJz/Pm4KvTxExB2WF4XtsGeb+tmwxM8=",
+        "drm_scheme": "Clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ERyk3SnjHWI0UGdRLndyl5CEV1n+ibOslJ7fcX6JJwI7CV/vTEH3F41mS3gkh2ccQ+mEl7p4dX+XDsobLG2FUzPKGw2irIHiBk1F3kx9dVboWwFRtLhIpXpoBPRVaT3kvQ=="
+      },
+      {
+        "name": "DAZN FAST+",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
+        "uri": "1DZsi0eFr4m2AK6C0QxLmGwqE8Y2HN9OHSfXH8FM8w8/T0lg/P0eVYy+3cCvtRH+A6zOJc2ZsWWAjstEgUIuG6vAHkhYU5Uxsodse4b1Al4=",
+        "drm_scheme": "Clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ERyk3SnjHWI0UGdRLndyl5CEV1n+ibOslJ7fcX6JJwI7CV/vTEH3F41mS3gkh2ccQ+mEl7p4dX+XDsobLG2FUzPKGw2irIHiBk1F3kx9dVboWwFRtLhIpXpoBPRVaT3kvQ=="
+      }
+    ]
+  },
+  {
+    "name": "⚽EVENTOS",
+    "mode": false,
+    "lista": [
       {
         "name": "BRASILEIRÃO",
         "ico": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png",
         "uri": "Qkc/rvUBYvW6xqp5pwFaITkxDf0bzhvA33DMqkVqGXi7CsIMu2NBH2qs/QvZ2WF3+T9C7CAXq7kwAzz9nLnHkk01lmwIec+cDcT81rx8EnSBOxOHbtuOEtwmNMwdMAWgN8R99t4qidq7Ta5dW5wZgYoY7lmJtZxs7DNxlGDjsLU=",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EfSWxCN9i25qZhNtjA3Z1+lT60gOcaO1PB/AUqWUMrXaiMp6cI5C6utfOcaGX9nlwzyyLdo/4tSymTbGj8PlivyKanzyeiN8Lquyhj52o8TlaB4g8YS2ahKaO24aatL9pg=="
+      },
+      {
+        "name": "BRASILEIRÃO",
+        "ico": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png",
+        "uri": "8YXBZFZooe5f2ewgnUMpgBGwpJ9cLTMHbi3XZ5ZKEgYAEGI7CLNcNWe/301zjAuS",
+        "drm_scheme": "",
+        "drm_license_url": ""
       },
       {
         "name": "BRASILEIRÃO**",
@@ -750,13 +770,6 @@
         "name": "CONMEBOL - BEIN Ñ",
         "ico": "https://i.ibb.co/wh9k5LT/CONMEMBOLPNG.png",
         "uri": "Kq865pvnUvY7pArdXuM1VswTAXwwYJ31NmBSolPc2KzF11aZzDRY9XhRcbd0BU18PAXkdbS3uTLImkyddZRRKiBsaaxRmTDFrfRHHcb/hN7RjbNs8/KvnSSdoysrFC+NlhPbWWh3HFJ+d6XWZSlFZg==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "BRASILEIRÃO",
-        "ico": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png",
-        "uri": "8YXBZFZooe5f2ewgnUMpgBGwpJ9cLTMHbi3XZ5ZKEgYAEGI7CLNcNWe/301zjAuS",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -808,6 +821,41 @@
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ENI4lZaesFHQ6qxMfPX6TLXMjDQWwyoajyt5BjAdHMcBn12TF1BrrDXDsExN16wJ3KnxNi5AfRXaFp3bSOWo4r",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
+      },
+      {
+        "name": "DSP AR (HD) »1«",
+        "ico": "https://iili.io/298whep.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH47xLH19yC4RzWFXH8TVGpuEFExZ0frqU4V1qLd+VtLAU=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DSP AR (HD) »2«",
+        "ico": "https://iili.io/298whep.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4nDqAcJ9bYN++BKfjoY6e3mi7/wNiGq8IcDgUQvDXyqs=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DSP CL (HD) »1«",
+        "ico": "https://iili.io/298whep.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4gZXslX3kZY8VqF/LNrQClngH6LTDkCEhrnA0htJiv+4=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DSP+ AR (HD) »1«",
+        "ico": "https://iili.io/298whep.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH40mRODK3+UROsy7A/HiUkU17xTFNEPtays2ubMt5VZf0=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DSP+ PE (HD)",
+        "ico": "https://iili.io/298whep.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4hfRkc03okWI2tyIKw0ecYJzVzSgqwWdY7oefL+Ka4CM=",
+        "drm_scheme": "",
+        "drm_license_url": ""
       },
       {
         "name": "EVENTO 1",
@@ -927,6 +975,20 @@
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0GeB2w85F8uzUdXZJgqi1DUWceCXuDj8ujEZaB8a8Xl3N/B0vXPEKPa3UsVAzYlDodGJySM/4GehYubV/qMz9Oq",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ETStl0pIkBEniJ9FFk37063ek882wGkgfKTWekfWrEFGKeni49g19G8nYBF1ec4uJsUW8vjbAI4ofNLAC3dYUyi0wRWTFoTOqEM9vxPbdqyWqUuRM8RzjzJ8+z/iveiF9g=="
+      },
+      {
+        "name": "URUGUAY 1",
+        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
+        "uri": "eS0ZOrCl6lVGYy/BZQNUH+QKj5FS6+lyHmLoJLOMZfLYJFW4K8zbiVZhij8lQxdAD118nn4NkB1JYyvO9jMzXA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "URUGUAY 2",
+        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
+        "uri": "i43V2nAfCyyZ8dVVT935Ihxr4wECParD7Kn7g1e6t3+RO+CkkS0pxwGH+c8cn5lbFJtdAMymtrlvdHJ7OxvMpOBv7mXdDpqCIDpotf3ObFo=",
+        "drm_scheme": "",
+        "drm_license_url": ""
       },
       {
         "name": "ÁRABE",
@@ -4237,13 +4299,6 @@
     "mode": false,
     "lista": [
       {
-        "name": "CHARRUA TV",
-        "ico": "https://static.wixstatic.com/media/f8faa2_b19584fbaeb44266bddc2664e3a64331~mv2.jpg/v1/fill/w_275,h_130,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/logo%2520CHARRUATV_2018_edited.jpg",
-        "uri": "GEYKMz0KRKBYjdIQ+3tXbnpmxnZPniVflKqhUJ1rpnVSRqxFjxYILz8M6M/z28w4XUYsSo7zz5c2HjcZo/v7Hw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
         "name": "CANAL 4",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0GjBjbqSxJgkYkH15bnGRePsP4r5R/XI4BZcz73lKU4RS0JSjsHY93rjjE5HCZFaJMOhzIVk1JAXat8N3BDqPQ+",
@@ -4256,6 +4311,48 @@
         "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sNXOfTikq3oXXalyKtKHkhAzdA05nqmlU95XkyuSC/nZkkVltsMDfP1UGfk2tlI5XtEFuVKtSDw00fFUP+nYNav0XV/4dobduIRfDhPGxN2w==",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ed97UlP2hXyPB/r1zUCMomzmgN8jcnH9fNkqp0+LtWY/J06Q7f2Irs7bRqkexOL6d0XwitrjymqtodJM/blbu75i41J30UVG5j7SDjZRp5L5t12FZs8K8spidLj2z9Tvlg=="
+      },
+      {
+        "name": "CANAL 10",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Canal_10_Uruguay_Logo_1960.webp/640px-Canal_10_Uruguay_Logo_1960.webp.png",
+        "uri": "CShol7tV+MJYtbD3ZDj7hLSLnwTU+CoLugon6Un8zHFar0rCU7dfOd4oXwtUlvexJ8zjyW3mknajkX6ArXDEShcQ6cmgbkTfbThwAHGvtB2x8HN6ofaXLDiHlsPyi8ox",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EbB6UnrB4zGpag1/eq8+B8tou5k7mOwqJ8IMNPtnLU1rfyUusmil3WXva5wYHSRytmi3bGSC3/4nlOZuXpq4Ia7qUO/ikhalvOGLC6BEplUveuFqLcVEmIyS1G78xMrpTA=="
+      },
+      {
+        "name": "CHARRUA TV",
+        "ico": "https://static.wixstatic.com/media/f8faa2_b19584fbaeb44266bddc2664e3a64331~mv2.jpg/v1/fill/w_275,h_130,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/logo%2520CHARRUATV_2018_edited.jpg",
+        "uri": "GEYKMz0KRKBYjdIQ+3tXbnpmxnZPniVflKqhUJ1rpnVSRqxFjxYILz8M6M/z28w4XUYsSo7zz5c2HjcZo/v7Hw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "EL 11 URUGUAY",
+        "ico": "https://canal11.uy/wp-content/uploads/2020/04/cropped-logo-rojo-.png",
+        "uri": "fB34L7QNso3jzSwXC4N7+WDpi7OIP7MT+7DFE1ZhkP7EXetWX6TOypdcoh5KpboMPCOhRTisijsZKTgnDddCz9KdC7kRJvEyP4rHJzA9oJQ6VRgwGnIa60C/8JzqveuyKl+i+zXBuK+i7FdtUdCwx0qTWP/fsI7kv/wFlXZPudif/OBtrvL4Hrjw1btt+gqXT98/VBT6VEdGG9L6hfyba9YQFyqjdEen16/FM3rNyloql13JgMKEcyhsIPrlI3ymvsSXuWr/ClTGAknIy4DgByqoZ/W+XML1zLyWo0i2sUs=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "ESPN URUGUAY",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",
+        "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sNXOfTikq3oXXalyKtKHkh8S+27wWUhuwzgr/Vs2NzYOzNxewePf69r5mcF9Zqb5TIZpxnYJOyNDHi7wuRL/1D",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EWUJBq29J/P75GLv4Zd88npuMT5eHqzC/hk1Byo7Nrg/pRTn8OlCbar4d3+QDytbdSZ/hfw/b1txH7V8S0YgsxOqbCrZ+W+0f0JTR7tTB1FMDBufAEWme8ks2jctoO43oA=="
+      },
+      {
+        "name": "EVENTOS URUGUAY",
+        "ico": "https://iili.io/298whep.png",
+        "uri": "O4zQaBxapxoofA7Utbs4F6p1R19bOPaSpW1etMjxw2JpW3+Jh61s3QHU91KPAxzcwhBTESVooUj9QsIey09LAUjTli2f/1+EKMNkmMzm/l7LITksb2kbT97EJeFDbzGm",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EZlKGPkHWOvkGb9GdvvGBoYFl0Gdxsj2124MaRJFBSfrbaNpK2gEAqZ4e3VVI2p4060tpfPePyJPvZz2TT+dxE+3kjdDR4bBJlh3CQKrIx6GF9iVGxTomJRuzcYGxK/YHw=="
+      },
+      {
+        "name": "RADIO SPORT 890",
+        "ico": "https://www.sport890.com.uy/wp-content/themes/sport890_theme/img/logo.png",
+        "uri": "/w9l1ggass2Hs5h2d2X/kVPrt6mfMSj+Cv+flogEGWJrJM95Dn3rS3+RLgY+0IqyCW1tSid7qfVXyke1l2TKKDy9vxwHzLqFsfoX7QB8PKY=",
+        "drm_scheme": "",
+        "drm_license_url": ""
       },
       {
         "name": "TELEDOCE",
@@ -4279,39 +4376,11 @@
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ee3gs7Bkkm1jRahGjJOgtwnAcAnE/I93rtBei4xeKlgbcNk7p39JcHDuHgkFEYSL9YXktMeKyVn5XM3CBzB0eKUpMXZqeFmH5d+0300NZEUvyg3S1WT3bVBn/IrGHs67vw=="
       },
       {
-        "name": "CANAL 10",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Canal_10_Uruguay_Logo_1960.webp/640px-Canal_10_Uruguay_Logo_1960.webp.png",
-        "uri": "CShol7tV+MJYtbD3ZDj7hLSLnwTU+CoLugon6Un8zHFar0rCU7dfOd4oXwtUlvexJ8zjyW3mknajkX6ArXDEShcQ6cmgbkTfbThwAHGvtB2x8HN6ofaXLDiHlsPyi8ox",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EbB6UnrB4zGpag1/eq8+B8tou5k7mOwqJ8IMNPtnLU1rfyUusmil3WXva5wYHSRytmi3bGSC3/4nlOZuXpq4Ia7qUO/ikhalvOGLC6BEplUveuFqLcVEmIyS1G78xMrpTA=="
-      },
-      {
-        "name": "EL 11 URUGUAY",
-        "ico": "https://canal11.uy/wp-content/uploads/2020/04/cropped-logo-rojo-.png",
-        "uri": "fB34L7QNso3jzSwXC4N7+WDpi7OIP7MT+7DFE1ZhkP7EXetWX6TOypdcoh5KpboMPCOhRTisijsZKTgnDddCz9KdC7kRJvEyP4rHJzA9oJQ6VRgwGnIa60C/8JzqveuyKl+i+zXBuK+i7FdtUdCwx0qTWP/fsI7kv/wFlXZPudif/OBtrvL4Hrjw1btt+gqXT98/VBT6VEdGG9L6hfyba9YQFyqjdEen16/FM3rNyloql13JgMKEcyhsIPrlI3ymvsSXuWr/ClTGAknIy4DgByqoZ/W+XML1zLyWo0i2sUs=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "ESPN URUGUAY",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",
-        "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sNXOfTikq3oXXalyKtKHkh8S+27wWUhuwzgr/Vs2NzYOzNxewePf69r5mcF9Zqb5TIZpxnYJOyNDHi7wuRL/1D",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EWUJBq29J/P75GLv4Zd88npuMT5eHqzC/hk1Byo7Nrg/pRTn8OlCbar4d3+QDytbdSZ/hfw/b1txH7V8S0YgsxOqbCrZ+W+0f0JTR7tTB1FMDBufAEWme8ks2jctoO43oA=="
-      },
-      {
         "name": "VTV PLUS",
         "ico": "https://i.ibb.co/TmjDrWG/VTV-Plus-2024.webp",
         "uri": "O4zQaBxapxoofA7Utbs4FzC/LXJ/D8nvkZc67I1wMLSfVfAIp44fv6ImkoY3/Q4Gb1zs3TjIEqhtnKy9fpDNhwodzC33rHziYB+RHZTd0XJp6hm8iiYYb17YfkhBGd+zhRZRO/sYtR7oVhQWe8qjSw==",
         "drm_scheme": "clearkey",
         "drm_license_url": "BTQWWYWIxSP3CYO/6WWU+XQA6XTy/Eh3eyKsNT1BENr/xnPKt6pvsigNqcF/XbcpGKVxJpDntmNmx3vXrXoTng=="
-      },
-      {
-        "name": "RADIO SPORT 890",
-        "ico": "https://www.sport890.com.uy/wp-content/themes/sport890_theme/img/logo.png",
-        "uri": "/w9l1ggass2Hs5h2d2X/kVPrt6mfMSj+Cv+flogEGWJrJM95Dn3rS3+RLgY+0IqyCW1tSid7qfVXyke1l2TKKDy9vxwHzLqFsfoX7QB8PKY=",
-        "drm_scheme": "",
-        "drm_license_url": ""
       }
     ]
   },
@@ -5280,89 +5349,6 @@
         "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniOo5UAzKXYDo64wM7WiUwjm8W8Tqkitd0rZCGpVaXZ9k=",
         "drm_scheme": "",
         "drm_license_url": ""
-      }
-    ]
-  },
-  {
-    "name": "🇪🇸 DAZN",
-    "mode": false,
-    "lista": [
-      {
-        "name": "DAZN LA LIGA",
-        "ico": "https://i.ibb.co/wWkGmgG/dazn-laliga-1-color.webp",
-        "uri": "Qkc/rvUBYvW6xqp5pwFaITkxDf0bzhvA33DMqkVqGXjCAd8gSft52vpHuRG6DJgnJxzV5GhOA+Bud1t6mYh/vDpAk+uz2apOEUoK4XN2Lyo9kqnCnsQnyu3VjNs2qiswKJ2/0lB7KVmMr7sVvURojglq6TcDSSDgyuUG6fJ6jY4=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Efu9wZe3VNbcek1hg1WwqTRKHi/0487WTrpHOlwke+4kNfB0QRTAgqOkw3MTklebfDRcDA1DKNqLOy8zAsqR+UezX86bKxjBCVpS/eolBmAxD6nusFW7afFmo5OlDEABeQ=="
-      },
-      {
-        "name": "DAZN 1",
-        "ico": "https://i.ibb.co/hX8TK84/dazn-laliga-2.webp",
-        "uri": "+NnUPZcg56QqZXHu08euMdcrZ2FkbWl3WGrnMk6zPchkxP+Gx38LL4DaHSFU2YWHEWFkFBji4ykRakziKRmmDQf6VdPhtHW7Uv2LbuY1XUOWTUq/1x35uUKZpEqxZPKkJY4poMvu1KDHskHIcxmDoasq0ha687l8NwCufhHgJjM=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EVwGj06b4akW7QYLgVyABi67IOmJsIOyBO1LPP40TBrtRLcl4zcvEZdL6khUtbO0EwAk5AJoj7NoKnEBaOtDjqtD2zaV8uAmYv2724qCDiyFbgoJvNcjQovvERLQh1Qpkg=="
-      },
-      {
-        "name": "DAZN 2",
-        "ico": "https://i.ibb.co/hX8TK84/dazn-laliga-2.webp",
-        "uri": "+NnUPZcg56QqZXHu08euMdcrZ2FkbWl3WGrnMk6zPchkxP+Gx38LL4DaHSFU2YWHEWFkFBji4ykRakziKRmmDRtmNNGo/re/uEHkR0ZCxaDClRwpfhjZLNvLuQ7zvaopm9gVfCsiDh2fdFgF7G6fHCcQGd/J+cYRJ+nDgIcsD1o=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EfE1tynXiNP0huspknXCAmen7zpFUky3RTLZuXoVCPZSiz8h6pER+5cropp7UYi0kntkZB1mPiUXQMA825z10Cq/ZGcvXT8Wn6aKa4cxWHgQegpBtTF4cQ2VkHDrU1V6VQ=="
-      },
-      {
-        "name": "DAZN 3",
-        "ico": "https://i.ibb.co/hX8TK84/dazn-laliga-2.webp",
-        "uri": "+NnUPZcg56QqZXHu08euMdcrZ2FkbWl3WGrnMk6zPchkxP+Gx38LL4DaHSFU2YWHEWFkFBji4ykRakziKRmmDd/oO9QDPkKwlUljCpRpAVX3DqatXTmTi1qUhWYCh7WMN5BKAtxePboGKQEGIOD/FnR0A2JYWJMfxFaWsFQttM0=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EXg+yTylHlegQRAeDqqEJy0Cr/RbJSsoRPKTlAjeC0OD0RUKGMxCq3KRoIl+4bc2SzwfcKuflo4LlJoPvyJ1uDX5xZYpsTquSJPXwWxKL40A7lCyM1nK9wu3LHzM7FbmIw=="
-      },
-      {
-        "name": "DAZN 4",
-        "ico": "https://i.ibb.co/hX8TK84/dazn-laliga-2.webp",
-        "uri": "+NnUPZcg56QqZXHu08euMdcrZ2FkbWl3WGrnMk6zPchkxP+Gx38LL4DaHSFU2YWHEWFkFBji4ykRakziKRmmDeYEmu1vRth+sui4stEWzM6LGxC54th1SXfL+dcdhBSSeY4moP0Yj4uHLiaHa+8vnFpGtyQWtZTBDcNNzg32Z+U=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EQTGGcTLA45XgoIZonDrxdcRI9t4bpUXAal6x0T/wI+Oeu2Eg6T7hS4siYQMigFUuClz/fcmphd6QOM+vlbCOZRdR4409wqnwkCHGqYZ97jX2Yi6d22rYT2S7Be3hr1uzg=="
-      },
-      {
-        "name": "DAZN FORMULA 1",
-        "ico": "https://i.ibb.co/mcp1JdM/DAZN-F1-750x354.jpg",
-        "uri": "Qkc/rvUBYvW6xqp5pwFaITkxDf0bzhvA33DMqkVqGXjCAd8gSft52vpHuRG6DJgnJxzV5GhOA+Bud1t6mYh/vOn6qZ1yvuJjyK1ilg6h+6d38fpL+gqlW54n5QzhKB9Mj1dGOxOhF6G6silvzBLNNrml3xTCkbxKEYIC/h3P1gU=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ETkfHo6Ba392kVnntoYgRuM2jZWIfVM/hYuoda42NNSw7SZfgcJXGp3NxWQGCPfXTnFxE4STi1aa1f+panh5NYBHuS88KqpwRZAaCijopbn+KAUzk9x5Oxk/Cs8JOc08/w=="
-      },
-      {
-        "name": "CANAL+ LIGUE** 1",
-        "ico": "https://upload.wikimedia.org/wikipedia/fr/2/2b/C%2BLigue_1.png",
-        "uri": "ONtdzXQhLEFpyDjOZJxNM1Pv7XwxmrKdS5EUdU7d1Ma7k1jdbtKu43k1cNjCmox3vCxZpBxhWmxsmNi2JufO8HezWVkjZD7chhVSCE2abME=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EewPn5/8DYtijANltb1DrjjvvwbjhmXtwuvvwBaCyWoGj+KLsVU2Md0JUXppSA5Fm33nmXJ/v5TuC6k46wvxKomfljxHstz2zcwepIBsjA3lpvftLCGDT83RGfVAG5WQgg=="
-      },
-      {
-        "name": "DAZN RISE",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
-        "uri": "1DZsi0eFr4m2AK6C0QxLmGwqE8Y2HN9OHSfXH8FM8w8/T0lg/P0eVYy+3cCvtRH+Uxmb0jqOVzrIAUpqatl/VznZMHq17GjXTyVTwvmojfk=",
-        "drm_scheme": "Clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ERyk3SnjHWI0UGdRLndyl5CEV1n+ibOslJ7fcX6JJwI7CV/vTEH3F41mS3gkh2ccQ+mEl7p4dX+XDsobLG2FUzPKGw2irIHiBk1F3kx9dVboWwFRtLhIpXpoBPRVaT3kvQ=="
-      },
-      {
-        "name": "DAZN COMBAT",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
-        "uri": "1DZsi0eFr4m2AK6C0QxLmGwqE8Y2HN9OHSfXH8FM8w8/T0lg/P0eVYy+3cCvtRH+BvdvkCHFpBuPNP5jeSrQUZ30PIANahpASdZpCwGnvRY=",
-        "drm_scheme": "Clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ERyk3SnjHWI0UGdRLndyl5CEV1n+ibOslJ7fcX6JJwI7CV/vTEH3F41mS3gkh2ccQ+mEl7p4dX+XDsobLG2FUzPKGw2irIHiBk1F3kx9dVboWwFRtLhIpXpoBPRVaT3kvQ=="
-      },
-      {
-        "name": "DAZN Women's Football",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
-        "uri": "1DZsi0eFr4m2AK6C0QxLmGwqE8Y2HN9OHSfXH8FM8w8/T0lg/P0eVYy+3cCvtRH+dWqICKGVaYW4lJz/Pm4KvTxExB2WF4XtsGeb+tmwxM8=",
-        "drm_scheme": "Clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ERyk3SnjHWI0UGdRLndyl5CEV1n+ibOslJ7fcX6JJwI7CV/vTEH3F41mS3gkh2ccQ+mEl7p4dX+XDsobLG2FUzPKGw2irIHiBk1F3kx9dVboWwFRtLhIpXpoBPRVaT3kvQ=="
-      },
-      {
-        "name": "DAZN FAST+",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
-        "uri": "1DZsi0eFr4m2AK6C0QxLmGwqE8Y2HN9OHSfXH8FM8w8/T0lg/P0eVYy+3cCvtRH+A6zOJc2ZsWWAjstEgUIuG6vAHkhYU5Uxsodse4b1Al4=",
-        "drm_scheme": "Clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ERyk3SnjHWI0UGdRLndyl5CEV1n+ibOslJ7fcX6JJwI7CV/vTEH3F41mS3gkh2ccQ+mEl7p4dX+XDsobLG2FUzPKGw2irIHiBk1F3kx9dVboWwFRtLhIpXpoBPRVaT3kvQ=="
       }
     ]
   },
