@@ -388,118 +388,119 @@
     "name": "⭐WESTERN",
     "mode": false,
     "lista": [
-      {
-        "name": "BANDIDAS",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mkSfRjRcld9BULXuxP3eA9cMMs3.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkAmyyOi7X/JPdBzQUmad5vJw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "DODGE, CIUDAD SIN LEY",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cHHJ83B8ij4oG78IrPB4fKCopSC.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkACg26FCHnQo/3lUqcmRw0Mw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "DOS PECADORAS Y UNA MULA",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j8JbQe3WqhnX1yDglxUvkspNugJ.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkACC5wjHIZIWEENCAR99zUuQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "EL BUENO, EL FEO Y EL MALO",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSWnIXsxA47smMLwRELSWkxbVJ.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkAqSUOUEsXikUs5Yl8dbA2IQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "EL DUELO",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kBSGS5ofh5YgWOCsMuntqrrjr81.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkAJnJyVZ4zTi4dZSFw93xJFQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "EN DEFENSA PROPIA",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2mzLo5nrCMZkiG2YuCxw46xWLNM.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkADTpuMOPp/zhRMgx6gc0kWg==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "GRUPO SALVAJE",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8RLSKxIbW10kFKJirxVYDwwmDAl.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkAmZvm36amMqGnJ/zU8VhxCA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LADRONES DE TRENES",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hpTsS2eO9XUZBpzdU7Z1mbjNpUH.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkA3duj5Ht4Zf21iSr7qvECgQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LOS COWBOYS",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPy99rk3Bxz9KcNzEwTz0iGa5Se.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkADbE4u6NlBrxLid+Aff8qzw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LOS QUE NO PERDONAN",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8svxccLfY1P9qyGQIyheuU4MOWw.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkAm+cXKrEos8/lWBASR5oZuQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "MAVERICK",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8NT1BRwKbm6qeG24SwRI1Em7ave.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkAKJBek5SlWLgyy7xvj/UrVg==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "PISTOLERO",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iaKPX5RqBN0caYGFPzEkqXAFqLG.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkAlhrD0Pdo5BXcdOAjkxQqSA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "RÁPIDA Y MORTAL",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lxu6zIY0Df8Wgr5HlqdlSvFuvVp.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkA6xxSPppBnAcbJ08CrrHOlw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "RÍO SIN RETORNO",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6BRHMurq2E86nOs1G4TpVYhznz.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkAcMqkoCS26Cx3sdBw87wGiw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "SILVERADO",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lkQ7ha7WUVq3xqEU78VbqymRc9E.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkAsL202gsFCMJtsmsSBBtreg==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "THE FLOOD",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2HBiv4yXrGraGWta899UYyE7vcL.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkAy4tboYZtzg5a2S6Uhl8F7Q==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      }
+{
+    "name": "BANDIDAS",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mkSfRjRcld9BULXuxP3eA9cMMs3.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYQdTzxV5KvcKUl+ZOULXfSw=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DODGE, CIUDAD SIN LEY",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cHHJ83B8ij4oG78IrPB4fKCopSC.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYY86+z0je0GQZhG8q0va30s=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DOS PECADORAS Y UNA MULA",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j8JbQe3WqhnX1yDglxUvkspNugJ.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYUs+hV8RwOqXU0sDc4rDvlw=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EL BUENO, EL FEO Y EL MALO",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSWnIXsxA47smMLwRELSWkxbVJ.jpg",
+    "uri": "ON/9rzvzDABd+wqwrd0CGO+L7kDiagI3qY0JIxWhzmW4a0fweCfhAJRjdgtd9UokSUQsB7+yqr2oGGgEDpWHEzPp6B6e3GhMv530tXdijGvlxoSlIZPSq5v5YKjF6AYc",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EL DUELO",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kBSGS5ofh5YgWOCsMuntqrrjr81.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYQ0LOy/MoGlUzE56nkjn4tM=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EN DEFENSA PROPIA",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2mzLo5nrCMZkiG2YuCxw46xWLNM.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYTQ8QZ1j8wUe4T1Jb3YMqmI=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "GRUPO SALVAJE",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8RLSKxIbW10kFKJirxVYDwwmDAl.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYeWeDFNp+bjYKd7z2NZML60=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LADRONES DE TRENES",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hpTsS2eO9XUZBpzdU7Z1mbjNpUH.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYYlxgx0Qq+PztJewwPFShek=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LOS COWBOYS",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPy99rk3Bxz9KcNzEwTz0iGa5Se.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYcgzYWmjJhuIgiipau7/QKg=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LOS QUE NO PERDONAN",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8svxccLfY1P9qyGQIyheuU4MOWw.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYcZ0OgGhxQRAn7Qhu4KbxLE=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MAVERICK",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8NT1BRwKbm6qeG24SwRI1Em7ave.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYU+WpWPS+FPBS/IaGRGNlx0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "PISTOLERO",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iaKPX5RqBN0caYGFPzEkqXAFqLG.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYaoRaxjqLAh5zc2qcxpleUk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "RÁPIDA Y MORTAL",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lxu6zIY0Df8Wgr5HlqdlSvFuvVp.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYQDba1oTwmbL/vUYlQ2zdv8=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "RÍO SIN RETORNO",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6BRHMurq2E86nOs1G4TpVYhznz.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYbymaWU7wzPx1HGlJHz4GBo=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SILVERADO",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lkQ7ha7WUVq3xqEU78VbqymRc9E.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpc4Wx/rhq7+W9dXZE1AcdylN3l6rBhOt+lfqQPOG4cPro=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "THE FLOOD",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2HBiv4yXrGraGWta899UYyE7vcL.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYYQe5zxpKKdkrn+H06IwRKY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+
     ]
   },
   {
