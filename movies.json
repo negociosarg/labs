@@ -746,89 +746,90 @@
     "mode": false,
     "lista": [
       {
-        "name": "LIFT: UN ROBO DE PRIMERA CLASE",
-        "ico": "https://pics.filmaffinity.com/lift-500114909-mmed.jpg",
-        "uri": "sgjDJRyt9fFn+DLmIpbyaEYwDWkjEioSMRFHYgB5hah/aV9MgvQX69vRbOrdpa2/qaB01V0F9nb0yK9ORUYS8g==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "EN LAS PROFUNDIDADES DEL SENA",
-        "ico": "https://pics.filmaffinity.com/sous_la_seine-902824671-large.jpg",
-        "uri": "sgjDJRyt9fFn+DLmIpbyaEYwDWkjEioSMRFHYgB5hah/aV9MgvQX69vRbOrdpa2/eB6pAaQdpmbfHBbwjaEQQg==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "EL PASAJERO",
-        "ico": "https://image.tmdb.org/t/p/original/pkQLQpdbomYrxQtQS3lop8WJAxk.jpg",
-        "uri": "sgjDJRyt9fFn+DLmIpbyaEYwDWkjEioSMRFHYgB5hah/aV9MgvQX69vRbOrdpa2/S3m5WDvkMxLzETub4hyRgQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "EL APRENDIZ DEL TIGRE",
-        "ico": "https://pics.filmaffinity.com/the_tiger_s_apprentice-331884264-large.jpg",
-        "uri": "sgjDJRyt9fFn+DLmIpbyaEYwDWkjEioSMRFHYgB5hah/aV9MgvQX69vRbOrdpa2/9l+pyTypyjpLFf6MNb50Fw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LA MUJER EN LA VENTANA",
-        "ico": "https://image.tmdb.org/t/p/w780/htNLpDWkaCYtkjjiFlfV2VBICUx.jpg",
-        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQVzJkGpHPZqNOT6vsEKfnLKAPt+k15rXJ7U4W5EatSdY=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LETRAS EXPLÍCITAS",
-        "ico": "https://image.tmdb.org/t/p/w780/bjVN5D5AXjGVTJAJX469aOzGgnc.jpg",
-        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQ4TzKzHpyiF6WGSW48Rixjmr3zkCxqeTGSENbPtRi9mA=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "NOSOTROS",
-        "ico": "https://es.web.img2.acsta.net/c_310_420/pictures/19/02/12/17/09/1724041.jpg",
-        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQ9p0gChBuFB8O59BQ9egPT+MY9auMTT6EwgtkjYcOcrw=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "REGRESO AL TITANIC",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2t20mlU5nuM664cgBX2lLKg8GGo.jpg",
-        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQSlmb041BKBgFzOUrIKhBZsumqE1rC9kflt7u7cVbYKY=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "MI NOVIO ES UN ZOMBIE",
-        "ico": "https://www.themoviedb.org/t/p/original/6QO91SSXaFFUBWb6xzgTmMBXb57.jpg",
-        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQfoYSqvt5+2w8agP2R19E4bLav26m4Lx6v8EZE7KNb6o=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LA CENICIENTA",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vqzeSm5Agvio7DahhKXaySUbUUW.jpg",
-        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQKWYVgU/fbv6/BNjPGHQaPcisw6vKDM9EXjyK1YDCN3U=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CADAVER",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vR6Zaevn3imnkXsbdgBiAdIHNgK.jpg",
-        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQ51Pil2s41ZclJhO0rpGICFaMhzj2Y7kJilJHt7RcSHg=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "FUIMOS HEROES",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lo284scuFbx1Zz4Tv5yJ3ctNSIJ.jpg",
-        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQEqOERS5LBjfIxW+LUpYwAhPCzvMzL9ODvOJoQvGIg7U=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      }
+    "name": "EN LAS PROFUNDIDADES DEL SENA",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9LjeEVkW6dZB11TbmjU3B88CE2w.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcCqOJYx14nLcwuiGyXbofYfBVBgOXzYCvSLzBJ/cj7mE=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EL PASAJERO",
+    "ico": "https://image.tmdb.org/t/p/original/pkQLQpdbomYrxQtQS3lop8WJAxk.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcCqOJYx14nLcwuiGyXbofYZMU8MrV7CaraPi5Jc/eUUY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EL APRENDIZ DEL TIGRE",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zjmRuNZcLZAKWk5WE5wM57Js5xk.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcCqOJYx14nLcwuiGyXbofYYofquQB6PHd59ycP9KBxmU=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LA MUJER EN LA VENTANA",
+    "ico": "https://image.tmdb.org/t/p/w780/htNLpDWkaCYtkjjiFlfV2VBICUx.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcobASsVtQbsiiqlH6ifOaHNlVoZMDmsLooDnaoJwIw88=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "RUEGA POR NOSOTROS",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/llHklmHQEDwTgbwGrPvQ5ouSy2k.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcobASsVtQbsiiqlH6ifOaHEAYZTgZPKo0qqG7rWT7DXs=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MI NOVIO ES UN ZOMBIE",
+    "ico": "https://www.themoviedb.org/t/p/original/6QO91SSXaFFUBWb6xzgTmMBXb57.jpg",
+    "uri": "MfwLhwi2ILV6cXHJ8mwxAA69zB4zPcFcz7fMxe8zVmRsiclguiC4HUHlxTJAzFTAZoeg/pPLg0wWLj1OLijEP+Fvb2lBZl35vntyop3GYSEIZpu5DHhI8HknIsQj9MsXji58n2loa2EKeMfLGYljog==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LA CENICIENTA",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5kqNkGE5PFt4EOloc90LMUoXqxb.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYRfi3/IStq+7HXTLfeUnCQc=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "10 DÍAS DE UN BUEN HOMBRE",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZjmSFRf6u1hYvLGxCAu13dpGQA.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcUT0OEJ1Qr5zVz1lpziyVl29ckfhH50lSXn3EJezLkTA=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "BENDITA SUEGRA",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5xupm2thQic5GzYi6nim6URMZOY.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpc4Wx/rhq7+W9dXZE1AcdylNp4ZmxwDSFZE1xiNcv/Kaw=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "ESPÍRITU LIBRE",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOyU0FuaVoWADcrh8dWs0Kw801O.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcUT0OEJ1Qr5zVz1lpziyVl55Pn5jCH4uuhEqwK9v7248=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "ENTRE EL AMOR Y LA AMISTAD",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/68qUoVSL7BVirc9U3a1O3zKfsAM.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcUT0OEJ1Qr5zVz1lpziyVl5mTrNel5guYLXp8shxur1A=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CHUPA",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dAwvE6Vd4mhlx2xJU6PqjBAM2y5.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpc4Wx/rhq7+W9dXZE1AcdylJ0s8e/yvndavHHUiQRoG+Y=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+
     ]
   },
   {
