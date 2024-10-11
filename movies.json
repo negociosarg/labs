@@ -507,111 +507,112 @@
     "name": "⭐FICCIÓN",
     "mode": false,
     "lista": [
-      {
-        "name": "ALIEN VS. PREDATOR",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KyXdnsQI7p81T4o6UcfhEjP2mZ.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkAMHya2YqOEia7ubNsE/ZzeQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "ALIENS VS. PREDATOR 2",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3U0JSDmyqXlCOlXeCcPD5PQmp9Q.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkAFhyvaEdhNLH9PrqZ3YWFDQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "ALIEN³",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7W0QB3IgbKyXSyKvGrSu6uu7YWg.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkAUptjA/NVHGls4RJpqdX8ew==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "APOCALIPSIS ÁRTICO",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9jcQmBfieWq3Te4fJ9YzucCZvS4.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkAUc5l7ijf1t4WyqUiuuBCAw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "BATMAN: HUSH",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eiVQORVyVuNNZHPAELuWtlXoQsD.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkAjYJbp+ohpLcLVM4uwC6dDw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "BIRD BOX BARCELONA",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3rlU3gwaKobcdrmIBTRfyGcE6ew.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkAMydSzP7vvfcSgVY3B5GxUQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "GEOSTORM",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6R4IyFqcQv8T4BmBdTyEb1ptXr3.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkAX0tpJjDfGjHnhkBJOtYVLg==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "GÉMINIS",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/imuYGNcXgv6rmZBtwWRypGc7TqH.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkAvax1a8fYWS9uZJKYvkt6GA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "INVASIÓN A LA TIERRA",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioU6K3KSbrPAVJ8J6FqyOmjuqGJ.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkA73Wm6k75VoE3MUPzMzpIHA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "JUNG_E",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYnp9vNPdJiCU0SIisWdA3VIGNB.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkAPsR7mMRUaLMixwnsAQvwKw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "JURASSIC PARK (PARQUE JURÁSICO)",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1r8TWaAExHbFRzyqT3Vcbq1XZQb.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkAVs+7QvE91KyJjyU/xWCo3w==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LIGA DE LA JUSTICIA",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wUWqnavD8iGZ5F4xXhWlrtEzKjV.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkAEJl/Rw3irSzy61WnhT+mMA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LOS INMORTALES",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8af3tPdbKd9iDUqWb8R5dOXShtH.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkAFpFR4Knzuk9UhY2ONUg89A==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LOS QUE NO PERDONAN",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8svxccLfY1P9qyGQIyheuU4MOWw.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkAm+cXKrEos8/lWBASR5oZuQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "ÉRASE UNA VEZ UN CUENTO DE HADAS",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ssckU2GuOrCUsGj6czhBIf3ddvl.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEw9s2KAmCN6Egdoy73aIkA62cf/oMoa/XiAfWLBgjW3g==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      }
+     {
+    "name": "ALIEN VS. PREDATOR",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KyXdnsQI7p81T4o6UcfhEjP2mZ.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYZe3SyOvhz2cTQ1AUmjXCfU=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "ALIEN³",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7W0QB3IgbKyXSyKvGrSu6uu7YWg.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYQxCPO/olpmTDYvR/A0xHSg=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "APOCALIPSIS ÁRTICO",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9jcQmBfieWq3Te4fJ9YzucCZvS4.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcCqOJYx14nLcwuiGyXbofYXHRXw2zaBHgJXirxr9BWNw=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "BATMAN: HUSH",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eiVQORVyVuNNZHPAELuWtlXoQsD.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYdIUOG0ioIC1SpaDTdK7aY0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "BIRD BOX BARCELONA",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3rlU3gwaKobcdrmIBTRfyGcE6ew.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcZGJd8TWZ8Mg6t+/9Hs0CSV54v8U2dQMvg4rweN/NrT8=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "GEOSTORM",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6R4IyFqcQv8T4BmBdTyEb1ptXr3.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcUT0OEJ1Qr5zVz1lpziyVl4UukJLKjfGoP9RKS73iXJ4=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "GÉMINIS",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/imuYGNcXgv6rmZBtwWRypGc7TqH.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYQQl4Kew85Dn1sCRMy1EqVo=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "INVASIÓN A LA TIERRA",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioU6K3KSbrPAVJ8J6FqyOmjuqGJ.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYQ3riFMm6sl4Z79Rj4fLcsk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "JUNG_E",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYnp9vNPdJiCU0SIisWdA3VIGNB.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcZGJd8TWZ8Mg6t+/9Hs0CSZbmEjfsRHXBEz+sItjR4F8=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "JURASSIC PARK (PARQUE JURÁSICO)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1r8TWaAExHbFRzyqT3Vcbq1XZQb.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYTk1mjXd4FdBI94qrPwMym8=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LIGA DE LA JUSTICIA",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wUWqnavD8iGZ5F4xXhWlrtEzKjV.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYTc+t6hQgEprYUWQABHYrE0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LA LIGA DE LA JUSTICIA VS LOS CINCO FATALES",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sw4s1RnhIYa2laxBZoOZ25tZFV9.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYTJE/sTznsoH41YjHZPZ/WM=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LOS INMORTALES",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8af3tPdbKd9iDUqWb8R5dOXShtH.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYSX0pdkaQgCPCJUoacYZ5fA=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LOS QUE NO PERDONAN",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8svxccLfY1P9qyGQIyheuU4MOWw.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYcZ0OgGhxQRAn7Qhu4KbxLE=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "ÉRASE UNA VEZ UN CUENTO DE HADAS",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ssckU2GuOrCUsGj6czhBIf3ddvl.jpg",
+    "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcCqOJYx14nLcwuiGyXbofYadIlnU6uSH2WGwRCUpJuMM=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+
     ]
   },
   {
