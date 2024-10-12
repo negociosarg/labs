@@ -6592,24 +6592,38 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-      {
-    "name": "globo prueba",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/800px-GOLTV.png",
-    "uri": "kerMsZ4+4jaDO68Wg0enV/WVLjV0R0XbuXNP7h8QlZitq5hiKGdRB185UQAiYlVUFGqsfv9kSMVvEkSH2sfGfQuXCqpTkvHCf7u5w5CkQi8=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
   {
     "name": "globo2",
     "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/800px-GOLTV.png",
-    "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wni+peRw6EnX7oRr8XnU30ayYN3iYqXQMr2G0PH+L3wa1Y=",
+    "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wniup7efJoT3P6ktJzZcly1f4JU3kxLxjFF0J0VDAjM4kQ=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "globo3",
+    "name": "globo4",
     "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/800px-GOLTV.png",
-    "uri": "kerMsZ4+4jaDO68Wg0enV6YP/8mHtVtWnuPvNWGUXynn+ehdBAsx7WvqurVvaP91riYy6l1WLjrKBMTr9mqLdA==",
+    "uri": "S4Ne3bbWavWEF6VLkgFOItd24rksfN91qCjptqqYZLnjL9ZWCBBYUFGZKe3netFxd2y04RnGrGfYSS0/7nB4GQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "globo5",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/800px-GOLTV.png",
+    "uri": "S4Ne3bbWavWEF6VLkgFOImlgApItLtMumV6PWZZT5o6TCdwzncNmDZf3mdLc+6V7DF4AXJ0UPKSdYA6zubpvZg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "globotv",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/800px-GOLTV.png",
+    "uri": "S4Ne3bbWavWEF6VLkgFOImlgApItLtMumV6PWZZT5o6TCdwzncNmDZf3mdLc+6V7NaVKFAORWlIO1QRRM6BGKo4JK/dBV1v1e8/uNk/XcwU=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "globo6",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/800px-GOLTV.png",
+    "uri": "S4Ne3bbWavWEF6VLkgFOIjoMGpocjBuLiFQprK9aB2/87FyYeIphmGo0NuORBwgxPmxi87iFI40sK5kfEnhhDA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
