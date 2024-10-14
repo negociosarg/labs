@@ -6592,24 +6592,38 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-  {
-    "name": "globo5",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/800px-GOLTV.png",
-    "uri": "4TerBlOwgV5T8u/B6OdZULWKqYYgQYgT13nKLDyrPB1HfFqmoQVp97DgfdX3MEikVY3fFQx85k4D8rzKkpIJoQ==",
-    "drm_scheme": "",
-    "drm_license_url": ""
+{
+    "name": "BEIN FRANCE FHD",
+    "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png",
+    "uri": "BZkuHPCLax48tE5P8LDSRYvDH0Y8bZD3Lu3pc74/0NOeM1KB04RSfY0ktAUzZSLkEUQQt0x3t+/T5Xfx7D2yWPvGVPs892Yg/Rz9fc88MxM6T3vtRDnGe1W+SrnPyiGm",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EUjx/A6PYOPz5mEaMAxhltSXgxAdCbKnfmJcOdd4uw6rRERgMwXlApC1GfD/AW9mhrkUcATzfCnng3t7q2mWTiaov0Og9aVzwl6jf1ayKPLuKBuU9aB41CXqWc9/KTF7Pg=="
   },
   {
-    "name": "globotv",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/800px-GOLTV.png",
-    "uri": "4TerBlOwgV5T8u/B6OdZULFcDg2pZBzYdCDKU76UhM9a8AtFyCQQKYvdScOOk2l/bexKEI7igqiayOyBg+yBaQ==",
-    "drm_scheme": "",
-    "drm_license_url": ""
+    "name": "BEIN FRANCE HD",
+    "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png",
+    "uri": "BZkuHPCLax48tE5P8LDSRYvDH0Y8bZD3Lu3pc74/0NOeM1KB04RSfY0ktAUzZSLkEUQQt0x3t+/T5Xfx7D2yWPvGVPs892Yg/Rz9fc88MxM6T3vtRDnGe1W+SrnPyiGm",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EdkzFXJAf9aP+rAGLeWxCWsKVUL1QrtdK9xrn73MhZjTrYXGEG6jeJNHOOwlIqaJoVNBiFCHjFtgT/P4TkBR1beiVqRCxW53/3swasip+V/smYlouptUXtZhGLPCypyFYQ=="
   },
   {
-    "name": "globo6",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/800px-GOLTV.png",
-    "uri": "4TerBlOwgV5T8u/B6OdZUMxL1feSaTEsh2M7V2wQ4g5P5IsvIui/nwxse/KYcEpLo3s0uwj32VCVkKnZIYMlMQ==",
+    "name": "PRIME LALIGA TV",
+    "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png",
+    "uri": "BZkuHPCLax48tE5P8LDSRYvDH0Y8bZD3Lu3pc74/0NOeM1KB04RSfY0ktAUzZSLkEUQQt0x3t+/T5Xfx7D2yWPvGVPs892Yg/Rz9fc88MxM6T3vtRDnGe1W+SrnPyiGm",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EdkzFXJAf9aP+rAGLeWxCWsKVUL1QrtdK9xrn73MhZjTrYXGEG6jeJNHOOwlIqaJoVNBiFCHjFtgT/P4TkBR1beiVqRCxW53/3swasip+V/smYlouptUXtZhGLPCypyFYQ=="
+  },
+  {
+    "name": "VIAPLAY",
+    "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png",
+    "uri": "BZkuHPCLax48tE5P8LDSRYvDH0Y8bZD3Lu3pc74/0NOeM1KB04RSfY0ktAUzZSLkEUQQt0x3t+/T5Xfx7D2yWPvGVPs892Yg/Rz9fc88MxM6T3vtRDnGe1W+SrnPyiGm",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EdbYoqhvgjJANIKCY4jh35wPnjnY9l99Yb9K60UusfXW2zWyoIUIg2arnW5ETuaBpJUJqGdewRMs1c1s0mYPx+lqRg5BumacJHi4dX1Z/BkDlsTrspu9OUodHshwRKaRmQ=="
+  },
+  {
+    "name": "GLOBO RIO DE JANEIRO",
+    "ico": "https://img.freepik.com/vector-gratis/ilustracion-concepto-prueba-linea_114360-5456.jpg?w=740&t=st=1728921247~exp=1728921847~hmac=e4d7e54b405d5eb1e0b6e17b2d4bd8ead903f89bfd26455f4811d0dfb873ed9b",
+    "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wni+peRw6EnX7oRr8XnU30ayYN3iYqXQMr2G0PH+L3wa1Y=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
