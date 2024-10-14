@@ -6620,10 +6620,38 @@
     "drm_scheme": "",
     "drm_license_url": ""
   },
-  {
-    "name": "TIGO PRUEBA",
+{
+    "name": "TIGO PRUEBA1",
     "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png",
-    "uri": "kerMsZ4+4jaDO68Wg0enVxakrYtiU41lRnKnF0YfZoqPNHswNv4bp29G2V63icmldf4gOLOv51nNUb99bqccQA==",
+    "uri": "RlBgL7jjZBka6bJZHpEq/50jx+odzeOzjOQbvE+zZSsWl2l2Tsu+9zGPht6+/qhpJ6MeEKCKKBCVKNaeov8mJw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TIGO PRUEBA2",
+    "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png",
+    "uri": "6lxgGMQ05154l4MpQj+GnZlWwu2o3P7OOppwwSUZjqc8SFPQdg0FrbroL5K6wikyHdw7xWm+xcpuT5z2FFOA5g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TIGO PRUEBA3",
+    "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png",
+    "uri": "6lxgGMQ05154l4MpQj+GnXlMMzDFbeI+X7/EiuCjoZyxuGC220KpNkIvaYjjIlcvaoJv+NrBfmX/A3dbSuLnqw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TIGO PRUEBA4",
+    "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png",
+    "uri": "9tjrwbvDv4zraNQfB4Hs+g8KyfM6V2tTv+VHqTAkwwAa2tUSOv3Edsg5Gsq85IFYVyBzYErbFRprQodXL9QJcw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TIGO PRUEBA5",
+    "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png",
+    "uri": "9tjrwbvDv4zraNQfB4Hs+g8KyfM6V2tTv+VHqTAkwwAa2tUSOv3Edsg5Gsq85IFYVyBzYErbFRprQodXL9QJcw==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
