@@ -87,50 +87,64 @@
     "mode": false,
     "lista": [
       {
-        "name": "PERÚ VS URUGUAY (ARGENTINA)",
-        "ico": "https://iili.io/29TIjLX.png",
+        "name": "17:30 - Colombia vs Chile (ARGENTINA)",
+        "ico": "https://iili.io/2JYTzVs.png",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ENI4lZaesFHQ6qxMfPX6TLXMjDQWwyoajyt5BjAdHMcBn12TF1BrrDXDsExN16wJ3KnxNi5AfRXaFp3bSOWo4r",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
       },
       {
-        "name": "PERÚ VS URUGUAY",
-        "ico": "https://iili.io/29TIjLX.png",
-        "uri": "8bb+eHXtpFK9XpINNn/APVFMVZpCun0+GlwbMYuO2tHshSuPbfPkVb3TNG/QcklHp57KDfwo4QLNkrNWxnNcGMiRedbKYFc0DcKkGm/koEw=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "PERÚ VS URUGUAY",
-        "ico": "https://iili.io/29TIjLX.png",
-        "uri": "8bb+eHXtpFK9XpINNn/APVFMVZpCun0+GlwbMYuO2tHshSuPbfPkVb3TNG/QcklHp57KDfwo4QLNkrNWxnNcGMiRedbKYFc0DcKkGm/koEw=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "PERÚ VS URUGUAY",
-        "ico": "https://iili.io/29TIjLX.png",
-        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH42o9xShPyUx34rRZuTOKY20RsVCmcsAG59YIyhSmkjSk=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "PERU VS URUGUAY",
-        "ico": "https://iili.io/29TIjLX.png",
-        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4YnXcwCWNAqDCInlz3MgEMgZHVcrazeZTzQMEHyAOCSY=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "PERÚ VS URUGUAY",
-        "ico": "https://iili.io/29TIjLX.png",
-        "uri": "kIuB/TaYEGpaWupBtZIB5ltSYgRwSqpFbQATMSv/6PhlG5nRmf6oocWOaeXIVWOHkpfPekN3n8HiIvBfKsGp/V9MApjxWnb7EjmBCIOF1DVzsG4tuvo/GaiL8WV3cUPxaS/z77NbqWGVNInTjTxOqJefw/uiN4GKtZm9f+0dprS2j9tcCqevOa2b+Csq4bUcobF3xcIlFmloMwIzzdqhmBPmnLVcUX/+vsK3TUhPIJORyUTjMVm9LUkoviCGzrko8qLPbRwX0wPgBapFgIBt8mbd0SpyFk09GrXWHXjnf+U=",
+        "name": "20:00 - Paraguay vs Venezuela",
+        "ico": "https://iili.io/2JYTzVs.png",
+        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ER46U4k9VzANPTMkRy9+z82lp5YPjOqzUfeEHYhDg5Rj1prYq+FFleask5FCdYClQ=",
         "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EbeTd5UygQQHfnMlPjsdOCBY4BJ8nmPc7hw3SWVnPjuBI5u/EHqVI39pBAyfhDQjxjovJQ8t9rGhaxrCxSrZPIuLEEzwsbzwjNO70TXCNbOzJm/kOXKg2M2P4AnxKem4hQ=="
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EQxneGYZOszpYc0XiPa1AvkIGlC+nCnI+Q19r8AIYqjG31WtMTs50NqDAvapXrSWhF2Sx1JnGhqai/1xsO6iLT4P/32Y4lo6tsrzjp1WY9odOiXrjFRJqa7XEAqUgx6qeQ=="
       },
       {
-        "name": "PERÙ VS URUGUAY",
-        "ico": "https://iili.io/29TIjLX.png",
+        "name": "20:30 - Uruguay vs Ecuador 1",
+        "ico": "https://iili.io/2JYTzVs.png",
+        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIj2lzG6aNvYEluO/FSNURWp7Ylu4yNHfj3SJmZ0WDYAVk=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "20:30 - Uruguay vs Ecuador 1",
+        "ico": "https://iili.io/2JYTzVs.png",
+        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIj8xICtRg3ASfKKzORFzuNEGNjjf8aXJaCvi8RIUwIOS8=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "20:30 - Uruguay vs Ecuador 3",
+        "ico": "https://iili.io/2JYTzVs.png",
+        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIjmHgLVUnHx0NQ/qMjmQynYxtLgHNqXkD8CmsEGqYbTU4=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "21:00 Argentina vs Bolivia (ARGENTINA)",
+        "ico": "https://iili.io/2JYTzVs.png",
+        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ENI4lZaesFHQ6qxMfPX6TLXMjDQWwyoajyt5BjAdHMcBn12TF1BrrDXDsExN16wJ3KnxNi5AfRXaFp3bSOWo4r",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
+      },
+      {
+        "name": "21:00 Argentina vs Bolivia (ARGENTINA) 2",
+        "ico": "https://iili.io/2JYTzVs.png",
+        "uri": "EGbTdQSc58tHgH0HJaX1f2ULMfYo0o1gmPP720AkXjNOpYjeYbx3AJd7Hxdw6uyhVb6nGrznpLAR5LrA4X6He1XpSVhb0o7R49lut/vbjKJi7eXqpbdBfxt+nQGBTVlr",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Eb8sPHbQ3A17YnpsnYByg47XK70uzSpsOF5LaH0v/fa7GzJ5IaaCaN3pq11/KxlQukmtlELfjLpYA6JVuCRtbxcfe3CVgxQw3xHN1Q1kkFNS/h7Uifj/Aa0hpFfWZdq7ZA=="
+      },
+      {
+        "name": "21:45 Brasil vs Perú (Brasil)",
+        "ico": "https://iili.io/2JYTzVs.png",
+        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIj5X1ui7nYKoPmq7HdJlf2Dz6595UU+I3RLGrfwCXRHuc=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "21:45 Brasil vs Perú(ARGENTINA)",
+        "ico": "https://iili.io/2JYTzVs.png",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ENI4lZaesFHQ6qxMfPX6TLXMjDQWwyoajyt5BjAdHMcBn12TF1BrrDXDsExN16wJ3KnxNi5AfRXaFp3bSOWo4r",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
@@ -3280,58 +3294,58 @@
     "mode": false,
     "lista": [
       {
-        "name": " TIGO SPORTS",
+        "name": "COPA DE PRIMERA 1",
         "ico": "https://4.bp.blogspot.com/-6BQv5SOuxn4/XEs537Yz01I/AAAAAAABT-c/aol0uy0p_l8gSbrYVLhz4qu5-GpyGG3lQCLcBGAs/s1600/Copa%2Bde%2BPrimera.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniiytJgErIccqWUji5/YPum5wySj6s/sW/BRAAX3NJ1z4=",
-        "drm_scheme": null,
-        "drm_license_url": ""
-      },
-      {
-        "name": "EVENTO PY",
-        "ico": "https://4.bp.blogspot.com/-6BQv5SOuxn4/XEs537Yz01I/AAAAAAABT-c/aol0uy0p_l8gSbrYVLhz4qu5-GpyGG3lQCLcBGAs/s1600/Copa%2Bde%2BPrimera.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enVyYt/18Bq9NZfGSpGNE6BjgaceiruQxLGxgzVdcnOFiv1wrG0LtROhVh8/SJw3Y5BA==",
+        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIjYiC18LrvFEivh/evLrOa8uEv9mMed2RDU/FcK2qxf3w=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "EVENTO PY 2",
+        "name": "COPA DE PRIMERA 2",
         "ico": "https://4.bp.blogspot.com/-6BQv5SOuxn4/XEs537Yz01I/AAAAAAABT-c/aol0uy0p_l8gSbrYVLhz4qu5-GpyGG3lQCLcBGAs/s1600/Copa%2Bde%2BPrimera.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enVyYt/18Bq9NZfGSpGNE6BjgaceiruQxLGxgzVdcnOFivpejF4fz6jvW+F6dcNTYYiA==",
+        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIjnzCO36EZJEN1eQtx0vxRYAeZSKlDeNylFr7Ds4KA2yk=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "TIGO SPORT 24/7",
+        "name": "COPA DE PRIMERA 3",
         "ico": "https://4.bp.blogspot.com/-6BQv5SOuxn4/XEs537Yz01I/AAAAAAABT-c/aol0uy0p_l8gSbrYVLhz4qu5-GpyGG3lQCLcBGAs/s1600/Copa%2Bde%2BPrimera.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniIN9sXjApAzlBPsl9KOOJ2XgwLkWXFYqDf8qWYicCzcc=",
+        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIj3z978s9eiGN2YZHFT0WQtzMpGW4JHVbIQQ4R8b4AXrA=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "TIGO SPORT 24/7",
+        "name": "COPA DE PRIMERA 4",
         "ico": "https://4.bp.blogspot.com/-6BQv5SOuxn4/XEs537Yz01I/AAAAAAABT-c/aol0uy0p_l8gSbrYVLhz4qu5-GpyGG3lQCLcBGAs/s1600/Copa%2Bde%2BPrimera.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enVyYt/18Bq9NZfGSpGNE6BjgaceiruQxLGxgzVdcnOFiv8zDN1uvv5IaFhOVX+zw5jw==",
+        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIjp0jpqcVF2QaJEv4G8fnNr5S/dutx9E+2nI/CqA39Oyg=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "TIGO SPORT 24/7 OP2",
+        "name": "COPA DE PRIMERA 5",
         "ico": "https://4.bp.blogspot.com/-6BQv5SOuxn4/XEs537Yz01I/AAAAAAABT-c/aol0uy0p_l8gSbrYVLhz4qu5-GpyGG3lQCLcBGAs/s1600/Copa%2Bde%2BPrimera.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enVyYt/18Bq9NZfGSpGNE6BjgaceiruQxLGxgzVdcnOFivMCIGP0zOm8j4jYm6MxN1Tg==",
+        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIjnzCO36EZJEN1eQtx0vxRYAeZSKlDeNylFr7Ds4KA2yk=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "TIGO SPORT EVENTOS",
+        "name": "COPA DE PRIMERA 6",
         "ico": "https://4.bp.blogspot.com/-6BQv5SOuxn4/XEs537Yz01I/AAAAAAABT-c/aol0uy0p_l8gSbrYVLhz4qu5-GpyGG3lQCLcBGAs/s1600/Copa%2Bde%2BPrimera.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnihdJc7Y9ZlhsV8LybF7uP6pCZMDNoEx0wbeYiOdiuQxQ=",
+        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIjCcNcB3ZqCFqBcwABOKZMc45i1mN3n+6vaROAOYVXCu0=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "TIGO SPORT EVENTOS",
+        "name": "COPA DE PRIMERA 7",
         "ico": "https://4.bp.blogspot.com/-6BQv5SOuxn4/XEs537Yz01I/AAAAAAABT-c/aol0uy0p_l8gSbrYVLhz4qu5-GpyGG3lQCLcBGAs/s1600/Copa%2Bde%2BPrimera.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wni2PGRIgld7O3Zd8KccjuX1X7LmAd7WW27Mo9lSc7NFMc=",
+        "uri": "9tjrwbvDv4zraNQfB4Hs+g8KyfM6V2tTv+VHqTAkwwAa2tUSOv3Edsg5Gsq85IFYVyBzYErbFRprQodXL9QJcw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "COPA DE PRIMERA 8",
+        "ico": "https://4.bp.blogspot.com/-6BQv5SOuxn4/XEs537Yz01I/AAAAAAABT-c/aol0uy0p_l8gSbrYVLhz4qu5-GpyGG3lQCLcBGAs/s1600/Copa%2Bde%2BPrimera.png",
+        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIjA79APMx2M4QsUiU6j3IDoG82sdYQiph9uixCPkZzwPA=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -3341,20 +3355,6 @@
         "uri": "N08s3thAztBwhjiPdgzNJ6SD4Mk0DcbWRQvhAVa6TOS/iz8JGMqT5zHQRbn4p8Kdharx1MyZ9P84SM1chKf60jf7FRoly7jKkgGSDXIAO4nSmNcEKw5rSR3mowHJBV6Q",
         "drm_scheme": "ClearKey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EepGcOAoEoftK5viGRjdGJ+39gMNPzlzcz1jleyPUni4MTvysDAF4RVSLtGQslYkWr0IJiAJm0q5tmiBzOpIbHaEloGG7Qx2v7KGyGxsjwbYhGTZMBzt/QOuhOvOlEodnQ=="
-      },
-      {
-        "name": "TIGO SPORTS",
-        "ico": "https://4.bp.blogspot.com/-6BQv5SOuxn4/XEs537Yz01I/AAAAAAABT-c/aol0uy0p_l8gSbrYVLhz4qu5-GpyGG3lQCLcBGAs/s1600/Copa%2Bde%2BPrimera.png",
-        "uri": "eS0ZOrCl6lVGYy/BZQNUH+QKj5FS6+lyHmLoJLOMZfLYJFW4K8zbiVZhij8lQxdASFEDejh3HogzITpSolCocA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "TIGO SPORTS",
-        "ico": "https://4.bp.blogspot.com/-6BQv5SOuxn4/XEs537Yz01I/AAAAAAABT-c/aol0uy0p_l8gSbrYVLhz4qu5-GpyGG3lQCLcBGAs/s1600/Copa%2Bde%2BPrimera.png",
-        "uri": "zZUDUAY0chzGb+d5/LbnrjxsFc2xAgfZlN2BvDxxlPGIX+0d1feJLFZOo/zWWUi22ffZH0Da8HM0vQtUfe1SeA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
       },
       {
         "name": "TIGO SPORTS 1",
@@ -3376,13 +3376,6 @@
         "uri": "N08s3thAztBwhjiPdgzNJ6SD4Mk0DcbWRQvhAVa6TOS/iz8JGMqT5zHQRbn4p8Kdharx1MyZ9P84SM1chKf60jf7FRoly7jKkgGSDXIAO4nSmNcEKw5rSR3mowHJBV6Q",
         "drm_scheme": "ClearKey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EepGcOAoEoftK5viGRjdGJ+39gMNPzlzcz1jleyPUni4MTvysDAF4RVSLtGQslYkWr0IJiAJm0q5tmiBzOpIbHaEloGG7Qx2v7KGyGxsjwbYhGTZMBzt/QOuhOvOlEodnQ=="
-      },
-      {
-        "name": "TIGO SPORTS 24/7",
-        "ico": "https://iili.io/d4fzo0b.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnifeFG2t3j1N2wUGF7eyECKvVJ3ASrL5L1qNV2XNWN1Tk=",
-        "drm_scheme": null,
-        "drm_license_url": ""
       }
     ]
   },
@@ -4389,30 +4382,16 @@
     "mode": false,
     "lista": [
       {
-    "name": "GOL TV",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/800px-GOLTV.png",
-    "uri": "Z4s327Vn+xQqhY1oCZ8+XEkzbV7qY+9wMDT5hUhc1JihdXKKqxTbmoc8vHQ0si3u3JShZcesC5+7mN+sLfD6lA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "GOL TV",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/800px-GOLTV.png",
-    "uri": "Z4s327Vn+xQqhY1oCZ8+XEkzbV7qY+9wMDT5hUhc1JihdXKKqxTbmoc8vHQ0si3ulacYCrmn7oC/EGlNmK1Lrw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "GOL TV",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/800px-GOLTV.png",
-    "uri": "Z4s327Vn+xQqhY1oCZ8+XEkzbV7qY+9wMDT5hUhc1JihdXKKqxTbmoc8vHQ0si3u+CTYNlhZe0dXHni0R/LdUg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-      {
-        "name": "CAMPEONATO URUGUAY",
+        "name": "CAMPEONATO URUGUAY 1",
         "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
-        "uri": "8bb+eHXtpFK9XpINNn/APVFMVZpCun0+GlwbMYuO2tHshSuPbfPkVb3TNG/QcklHCVHtzpGoHvJ0N1cR9s/1MiZth+6weEz5vRiMcwI+xhw=",
+        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIjiILUuYM8jT9VTHMIWhQ5i8qVyxdeT5ri2XxBcy/r0+w=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CAMPEONATO URUGUAY 2",
+        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
+        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIjBdJukoemgtsVbvSoeMhZYyAiHDgXhxozE272gjgh1SY=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -4426,6 +4405,13 @@
       {
         "name": "CAMPEONATO URUGUAY 3",
         "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
+        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIj6xqy5wK2ViU0+v8BsA/Mc7F7jzxdqYh3KutwNCTmsWs=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CAMPEONATO URUGUAY 3",
+        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
         "uri": "Z4s327Vn+xQqhY1oCZ8+XEkzbV7qY+9wMDT5hUhc1JihdXKKqxTbmoc8vHQ0si3uEhY1E5KJUe72Ok4cSNimaA==",
         "drm_scheme": "",
         "drm_license_url": ""
@@ -4433,7 +4419,21 @@
       {
         "name": "CAMPEONATO URUGUAY 4",
         "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
+        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIjwOcUX6Nwn8BxUXMceDVCx31Uc8kOaGqoEYKg7EJQQ/I=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CAMPEONATO URUGUAY 4",
+        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
         "uri": "8bb+eHXtpFK9XpINNn/APVFMVZpCun0+GlwbMYuO2tHshSuPbfPkVb3TNG/QcklHp57KDfwo4QLNkrNWxnNcGLm8bgmNkB8A9QAtnFdBV5o=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CAMPEONATO URUGUAY 5",
+        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
+        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIjFYxDI7jJaIXRjvY2HT3YLNSnJmPCU8VfHUaiEGeVkTk=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -4459,39 +4459,32 @@
         "drm_license_url": ""
       },
       {
-        "name": "CAMPEONATO URUGUAY 8",
-        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
-        "uri": "Z4s327Vn+xQqhY1oCZ8+XEkzbV7qY+9wMDT5hUhc1JihdXKKqxTbmoc8vHQ0si3uw5gyof8JICX4s3HsNagEhQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CAMPEONATO URUGUAY 9",
-        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
-        "uri": "Z4s327Vn+xQqhY1oCZ8+XEkzbV7qY+9wMDT5hUhc1JihdXKKqxTbmoc8vHQ0si3ujSZd/KiJzhSz0FUoWq3/DQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CAMPEONATO URUGUAY 10",
-        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
-        "uri": "Z4s327Vn+xQqhY1oCZ8+XEkzbV7qY+9wMDT5hUhc1JihdXKKqxTbmoc8vHQ0si3ujSZd/KiJzhSz0FUoWq3/DQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "DIRECTV UY ᴾʳᶦᵐᵉʳᵃ ᵁʳᵘᵍᵘᵃʸ",
-        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/dsports-lam.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniYu/Na8XEwNkEKwXw163c9txbxDfjbKCvDnExC49hGmw=",
-        "drm_scheme": null,
-        "drm_license_url": ""
-      },
-      {
         "name": "ESPN URUGUAY",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",
         "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sNXOfTikq3oXXalyKtKHkh8S+27wWUhuwzgr/Vs2NzYOzNxewePf69r5mcF9Zqb5TIZpxnYJOyNDHi7wuRL/1D",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EWUJBq29J/P75GLv4Zd88npuMT5eHqzC/hk1Byo7Nrg/pRTn8OlCbar4d3+QDytbdSZ/hfw/b1txH7V8S0YgsxOqbCrZ+W+0f0JTR7tTB1FMDBufAEWme8ks2jctoO43oA=="
+      },
+      {
+        "name": "GOL TV",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/800px-GOLTV.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XEkzbV7qY+9wMDT5hUhc1JihdXKKqxTbmoc8vHQ0si3u3JShZcesC5+7mN+sLfD6lA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "GOL TV",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/800px-GOLTV.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XEkzbV7qY+9wMDT5hUhc1JihdXKKqxTbmoc8vHQ0si3ulacYCrmn7oC/EGlNmK1Lrw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "GOL TV",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/800px-GOLTV.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XEkzbV7qY+9wMDT5hUhc1JihdXKKqxTbmoc8vHQ0si3u+CTYNlhZe0dXHni0R/LdUg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
       },
       {
         "name": "PPV 1 URUGUAY ᴴᴰ ",
@@ -4501,24 +4494,10 @@
         "drm_license_url": ""
       },
       {
-        "name": "PPV 2 URUGUAY ᴴᴰ ",
-        "ico": "https://iili.io/d4K4azG.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniISB+x3oY0kc2+O9M54Ib6Cv+Drtuy4rD8/ksZhUDZ48=",
-        "drm_scheme": null,
-        "drm_license_url": ""
-      },
-      {
         "name": "PPV 3 URUGUAY ᴴᴰ ",
         "ico": "https://iili.io/d4K4azG.png",
         "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wni1XYXVgPOOkcssoM30jwmzcKSxJk39YUYvcEnLKtbnTo=",
         "drm_scheme": null,
-        "drm_license_url": ""
-      },
-      {
-        "name": "URUGUAY 1",
-        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
-        "uri": "eS0ZOrCl6lVGYy/BZQNUH+QKj5FS6+lyHmLoJLOMZfLYJFW4K8zbiVZhij8lQxdAD118nn4NkB1JYyvO9jMzXA==",
-        "drm_scheme": "",
         "drm_license_url": ""
       },
       {
@@ -4534,27 +4513,6 @@
         "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniJF4ZfK6k229XG6i9mcgR+YHzzw7QcH0HkI8WQvFgPEU=",
         "drm_scheme": "",
         "drm_license_url": ""
-      },
-      {
-        "name": "VTV PLUS 1",
-        "ico": "https://i.ibb.co/TmjDrWG/VTV-Plus-2024.webp",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniFwF8I1G4jZ2kBLOkl8CFKTtCSsIzmVz7bl7FPWguRnM=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "VTV PLUS 2",
-        "ico": "https://i.ibb.co/TmjDrWG/VTV-Plus-2024.webp",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnipxdiW5VH8Zcnusm0MKdqvNtmWB9O4EJ9pv16qMYeQh4=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "VTV PLUS 3",
-        "ico": "https://dl.dropbox.com/scl/fi/euk6d7rq2vt77e7ttt6tz/vtvplus.png?rlkey=jubnbfbirssq1hur4kqp44ojd&dl=1",
-        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0HQVcDmvA9aPxnDLyWx7Oq4ItFU3fh+bSs/boDG31UDWAJM221lWes7XAJ7DRYebblA4O0r25Ui32ZfIzzY/Pth",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EQSsHUTERaTAEDYrbrHLepNuCsTu/AXxYzrrindw1jc2M2Bu30K+ZLJGfr7S+NwA8DiVg8teBiWiBAgjdM9MrV5tjwXfh+VTucQaA4iJpsX0byvygseD8ZRdvQh6xftvGQ=="
       }
     ]
   },
@@ -4758,79 +4716,93 @@
     "mode": false,
     "lista": [
       {
+        "name": "✅ TIGO 1 EVENTOS BOLIVIA (SOLO EVENTOS)",
+        "ico": "https://i.ibb.co/Hq6qtHz/Tigo-Sports-Bol2.png",
+        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIjAtKiq2nt/JRUtg44RJGByvUj7ZINk066nJ5/MJ7uG2Q=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "✅ TIGO 1 EVENTOS BOLIVIA 2(SOLO EVENTOS)",
+        "ico": "https://i.ibb.co/Hq6qtHz/Tigo-Sports-Bol2.png",
+        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIjg6odhFzsJLuwKFxrcJqhrK4deaj1uzPtyt+mgouL5xE=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "BOL | BOLIVIA TV OP A",
+        "ico": "https://logo.iptveditor.com/cadenaa.png",
+        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIjM9vItu7dzsplXQfHajgW3SAHjxe70m7NWC88qVSQtqY=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
         "name": "BOL | BOLIVISION HD",
         "ico": "https://logo.iptveditor.com/bolivision.png",
-        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4lNRlBtECRdVKQUmnl4445FBV2BENH3koUlK2PiLVlEI=",
+        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIjhx3gbkzePH9+NkKYjHmhXbH3mPF9RD4tYgnSTrXaqLQ=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "BOL | CADENA A",
         "ico": "https://logo.iptveditor.com/cadenaa.png",
-        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4PZiqGTK4W02zAeFp80imMh6dZX1Orpz6GSE2rA2sbDo=",
+        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIj3SKFhzRA1T7qoH7ugc9y2JBVDdjpK2rzgXr2yRzMxlE=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "BOL | DEPORTES TV",
         "ico": "https://logo.iptveditor.com/tvcdeportes.png",
-        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4kdJEp9snqE7cdRRqyuSX7TQj0sH5xCiWbgZY331ovGM=",
+        "uri": "RYNUwUi6qpRwkLf5V678MPh6eYw4fUgKD4UBhJv6hXI2pm/EJp4Yd2MS4ACSHE18dXUWuS0kpt4Bu6YJHZ8YZK2f4OKz5alMdfmymrmsN5bc20wn9B5y8MpgBSqrw/Wi3lFIzaVJmLa0aoWlffNerw==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "BOL | RED UNO BOLIVIA LA PAZ",
         "ico": "https://logo.iptveditor.com/atb.png",
-        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH43QLTLdvfLZowEoAox2w9ONvN3KXncn1iMw/pH/scZ60=",
+        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIjhWBgbnMn47s8fHGcBYQj9i39U4msnkylnS5v4nzqvQc=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "BOL | RED UNO HD",
         "ico": "https://logo.iptveditor.com/reduno.png",
-        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH47t/HOhPkH+sYO1nVZf4lZdKyJUqrRuchFwnfx7GiqRE=",
+        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIj163o1oS0CAoBn/R3S6pxLV9NAQEBsc72muT6rr7LBVU=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "BOL | TV LATINA HD OP A",
+        "ico": "https://i.ibb.co/3dbgND1/tv-latina.png",
+        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIjpZKxcfQk9/VQgtg8tZgUYCgXvbD6Nndy1Gnr1XcBtKE=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "BOL | Unitel HD- La Paz",
+        "ico": "https://static.epg.best/bo/Unitel.bo.png",
+        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIjzpaeKhdfkDGdi8rweOYyWbRPKTIzhAqxXg+cdn9knw4=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "BOLIVIA | ATB",
         "ico": "https://logo.iptveditor.com/atb.png",
-        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH43YbaikBIFI7fVJE0IxbSDwBa2S2sfZPbiTXm5L7nXu8=",
+        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIjsgMuZiZwY9hSq5TQwsGI+vcLVkNK8jMpDIK/cy8pE2g=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "FTV",
-        "ico": "https://i.imgur.com/YOr1Oac.png",
-        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4lChy6ufoz01nkBGtXCQPoz7jYkHlZ2PHU3kfLg9tSxQ=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "RTP",
-        "ico": "https://logo.iptveditor.com/rtp.png",
-        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4VevlJGgcseCxBVqOeBKYpM6mXMlp9PztgYGMNx732VM=",
+        "name": "BOLIVIA | ATB 2",
+        "ico": "https://logo.iptveditor.com/atb.png",
+        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIjEj3hcbJ3FDLSN4DhvAEIk/wxIo4Fh6YHdtoVex7rmjU=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "RTP",
         "ico": "https://logo.iptveditor.com/rtp.png",
-        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4VevlJGgcseCxBVqOeBKYpM6mXMlp9PztgYGMNx732VM=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "Unitel central",
-        "ico": "https://static.epg.best/bo/Unitel.bo.png",
-        "uri": "Z4s327Vn+xQqhY1oCZ8+XAE7ds36nAvyL5Xok1YqrhE7czsQaechUVSSm1ldcpH4ogt8dBrYPfX0aYihcbj63p/0E1955clM1ULTD04VMeo=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "✅ TIGO 1 EVENTOS BOLIVIA (SOLO EVENTOS)",
-        "ico": "https://i.ibb.co/Hq6qtHz/Tigo-Sports-Bol2.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wni31joZw4Me28tzKGSAYYfz7b35I/BuN8rL4BnWefn2BY=",
+        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIjswYVg8oSkPeE1gV2AYD2wjdZ4AxsTi1+vtR6W5q3zTY=",
         "drm_scheme": "",
         "drm_license_url": ""
       }
@@ -6592,104 +6564,6 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-{
-    "name": "EVENTOS 3",
-    "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png",
-    "uri": "+u8JOr6SyIr5qvEA/JHNyzZxbMc/FkKR7xs0adneKvfY2Q1SUlEDLTxr3k96XJlZfc1eFlYoBt7PVMb07ke4giSnvjrHfbXdtJAdnR5EklI=",
-    "drm_scheme": "ClearKey",
-    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ES6sYBS339Ij1TbPeWjKRHntlyZXCdsLsfYxa3qUXQ893QyWeztxqM9Me8eExsl88N3lONw+vy/wBhU9qE4N+29dlPazMPdlNjfesQ3i4wTpEQjlo0tnutL9EwszBDk7cQ=="
-  },
-  {
-    "name": "EVENTOS SELECCION URUGUAY",
-    "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png",
-    "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniQ1Tgv0yP7j17kfdqL9UmPdTk11zepyhAWT8glJM3/ss=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "EVENTOS SELECCION URUGUAY",
-    "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png",
-    "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wni0KCz8CzKV5VJ0sd+T0xRfN42Z6DApHmSz21xZqqqtCA=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "GLOBO RIO",
-    "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png",
-    "uri": "JFRpA0t4scng5bNIhmtikEO3Fl6mNNmuLfPHULrMqXY5joNYugzFS1YgHE085gHM5WqimgJHdcvY5cnqyFWP7w==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-{
-    "name": "TIGO PRUEBA1",
-    "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png",
-    "uri": "RlBgL7jjZBka6bJZHpEq/50jx+odzeOzjOQbvE+zZSsWl2l2Tsu+9zGPht6+/qhpJ6MeEKCKKBCVKNaeov8mJw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "TIGO PRUEBA2",
-    "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png",
-    "uri": "6lxgGMQ05154l4MpQj+GnZlWwu2o3P7OOppwwSUZjqc8SFPQdg0FrbroL5K6wikyHdw7xWm+xcpuT5z2FFOA5g==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "TIGO PRUEBA3",
-    "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png",
-    "uri": "6lxgGMQ05154l4MpQj+GnXlMMzDFbeI+X7/EiuCjoZyxuGC220KpNkIvaYjjIlcvaoJv+NrBfmX/A3dbSuLnqw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "TIGO PRUEBA4",
-    "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png",
-    "uri": "9tjrwbvDv4zraNQfB4Hs+g8KyfM6V2tTv+VHqTAkwwAa2tUSOv3Edsg5Gsq85IFYVyBzYErbFRprQodXL9QJcw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "TIGO PRUEBA5",
-    "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png",
-    "uri": "9tjrwbvDv4zraNQfB4Hs+g8KyfM6V2tTv+VHqTAkwwAa2tUSOv3Edsg5Gsq85IFYVyBzYErbFRprQodXL9QJcw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-      {
-    "name": "GLOBO RIO",
-    "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png",
-    "uri": "kerMsZ4+4jaDO68Wg0enVxakrYtiU41lRnKnF0YfZoq5bTVsA2yPMqDVlMTXau5u3GQODyE8V0vo1UG1ioHd7w==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "GLOBO RIO 2",
-    "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png",
-    "uri": "9tjrwbvDv4zraNQfB4Hs+vkDQec1XX92uiJjfQo3hMD9sPNcLuGg8o/dKC7H/wSdjEt4Auw/Di7N5butRza7uw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-      {
-    "name": "COPA DE PRIMERA 1",
-    "ico": "https://4.bp.blogspot.com/-6BQv5SOuxn4/XEs537Yz01I/AAAAAAABT-c/aol0uy0p_l8gSbrYVLhz4qu5-GpyGG3lQCLcBGAs/s1600/Copa%2Bde%2BPrimera.png",
-    "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIjYiC18LrvFEivh/evLrOa8uEv9mMed2RDU/FcK2qxf3w=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "COPA DE PRIMERA 2",
-    "ico": "https://4.bp.blogspot.com/-6BQv5SOuxn4/XEs537Yz01I/AAAAAAABT-c/aol0uy0p_l8gSbrYVLhz4qu5-GpyGG3lQCLcBGAs/s1600/Copa%2Bde%2BPrimera.png",
-    "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIjnzCO36EZJEN1eQtx0vxRYAeZSKlDeNylFr7Ds4KA2yk=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "GLOBO RIO 3",
-    "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png",
-    "uri": "RlBgL7jjZBka6bJZHpEq/50jx+odzeOzjOQbvE+zZSsWl2l2Tsu+9zGPht6+/qhpV3dzXKVdOOu1xYTd6qiLUw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
       {
         "name": "CHANNEL FIGHT",
         "ico": "https://i.ibb.co/sVwQKzC/channel-fight.jpg",
