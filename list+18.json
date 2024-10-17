@@ -1,212 +1,26 @@
 [
   {
-    "name": "⭐STREAX MOVIES",
-    "mode": false,
-    "lista": [
-      {
-        "name": "CINE ACCIÓN",
-        "ico": "https://i.ibb.co/tJf6cVB/CANALESSTREAX-removebg.png",
-        "uri": "ZePn1uXnrKHMU+vOz3k6Sg2q26rkX3iEVaIXFOuleA5s/NRoMPF8/hPlsDq203rIchHfudomwawEV2/flyC4jx6v3sJDSoid6q5jlKwwyMNu5KEuEdtIwB3KZfkoF032dBypaGX5gnWD7USv7DxLOVTyKXS+SB6PBAq0+9we4egozB0laEZbpsWsk39ss1wL6uAnluiE9U97f8dP0BzhNcD1rwL1z8LM1DapfLtSx7kkg8xo06hh9qQEiOk/IxE7Y9LQ6aiPwHYOuTinzcCGtCTXS9GYeovwOai2L10+wj2va2RyZNtPgxvXK0wCkGa/b8W84Ssc4ieLTleVLmx7LiIoglHX9nIzlJmgOxLppECKKvSs4uyKZ2jagZlykisttrwoXFadOosi9Bgl1CoS4ixblgbFNbFZO/FnNkppaDwJEZKtGGe5L+bNoqZSTbxz",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CINE CLÁSICO",
-        "ico": "https://i.ibb.co/tJf6cVB/CANALESSTREAX-removebg.png",
-        "uri": "ZePn1uXnrKHMU+vOz3k6Sg2q26rkX3iEVaIXFOuleA5s/NRoMPF8/hPlsDq203rIqFyau0KY46IP3sZsmhj9Nl4gHGqDwBy+0BYWmPQWr1Nr66lk8E2du5ujuAVdoMoozypm3LlSrBPTzq6lIjrZu/GwFDvqeRPkh8JED/H49HQ8rSiqFoYStJWrCk74WCCvxk++FOjz7NABJg/gnd6MiXovBxtX0lz6q9ewKkXQGeyHPMBE3A4KVwCspxfylBbpa7vT3+rfeHKUdnrqo2Atr6o8vIad3KeK+HVY87dtMKx7D3hm6pEfkvjfcrWqKHk+gPlHmch8aiweLRbRnglnwcffegTdyl8/cDUfsZ2vQrKYpEciCvVcAgl09JUKLF80dcw0lN3xQ9V+gpYJ1jCbayGmOZN6+FWJY/PLmHTIwHkS0nZEfXQIubZpR5CbWsu5",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CINE COMEDIA",
-        "ico": "https://i.ibb.co/tJf6cVB/CANALESSTREAX-removebg.png",
-        "uri": "ZePn1uXnrKHMU+vOz3k6Sg2q26rkX3iEVaIXFOuleA5s/NRoMPF8/hPlsDq203rIbupEsKDAlUGS2csZDQzJW03KEYJeRoRz3zxuJwZBPKoJJUvfhDSEzcLrjaBx+pa5V21NeN1h8hyb74nyF3Lv8NDHIRynWhSsOIGaM5xV4RWA1EzaYqzxwTODqrn48QCETpd0D2swhikQOjVW7oGdI7c/tJ59xWRzXrS2w3w6nDquzxq9zNrVKEC07VvqUT1oYTPccHnTjiGCFMjWHQMW7S3YqBK1OWHkZldhB7AqGNFSC7oNyEMvUSs9252jMBl4f48TaVFX1FGuYLKwQRIbXdF5u2H0zbN7bUM8kgQ82RCOBokFdO2zv/s0YMzWjyrH9RRbft5FD8A4wZEXTcvS1Gc0BN9fmmaPLha73x3DGroFp2jmo5ZvXvIgzB3nPwFD",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CINE SUSPENSO",
-        "ico": "https://i.ibb.co/tJf6cVB/CANALESSTREAX-removebg.png",
-        "uri": "ZePn1uXnrKHMU+vOz3k6Sg2q26rkX3iEVaIXFOuleA5s/NRoMPF8/hPlsDq203rITXwFryH2tT3zFcFDfgbt15jYDMiFn+ECs3AcW4Ly6FVmbXF38G2BRGrZv2aN3xvl4y2d02bKBfCPw/1/tUeFCVt4nIP7qWiDe6mSQt8E/f9hDl0k2qC3SKyvir1smckHMtNbYLatAESlpl46CDMhO2v7ZZXxFXxAsT642VM5dSsfPFINxFd3tfp7ahemmIXmIuAvfrvSF/5lk5kmp3JWQXgPUo5qqleMh/gT6rt9f6wdrcy/NszvLX1k2gERVlswoTBniu2dLBOs6q7PlmnPE+hpmTMlEnrKl/AvJRx80HLFf7mBC1oJtihX0Q4U2Dy5dXlCwW2TKEX82UU9kAZnxb9wi2oCbBKzP/rjb9A0A0WO7yGoZ1Vz66ynmj+HLn7H",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CINE CRIMEN",
-        "ico": "https://i.ibb.co/tJf6cVB/CANALESSTREAX-removebg.png",
-        "uri": "ZePn1uXnrKHMU+vOz3k6Sg2q26rkX3iEVaIXFOuleA5s/NRoMPF8/hPlsDq203rIRcjRxV5sLe7waVfy5e3Gcezq5HQvMuYP/dVJpbFHMQ5GSVIO3M1CPsoLvVaK1L+uXG+5/Tc05mlv1WGcN5SPb+C/GEPVQVZWeiwV4f1gbrR0+leVMylKvTdCRxiP+kricHlVffXY5ppA+dMEKMdGZcZm8LmdLsBQ9Wm6ahLFkdxvz4Vozg9q/2+NkVPf1E0tNuVXSXQ5IdNRnn3Z0+ygOHuUBXjetjX37MkIGcb6w7UNoUp20WSFnhPV50KpsrvDeCJUoHKiSjdGgaK7f4ie7AHMWsqPBydEdUOBrbp0qTUzVfFN5Y+k4MiAXXKvbL9LHiIYQHxzqrzcuBZ8XwEdRnaqfxFCD7mTMA3QZ696sPqtSYZS5AVvyx7eZ5IrsUpk",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CINE DRAMA",
-        "ico": "https://i.ibb.co/tJf6cVB/CANALESSTREAX-removebg.png",
-        "uri": "ZePn1uXnrKHMU+vOz3k6Sg2q26rkX3iEVaIXFOuleA5s/NRoMPF8/hPlsDq203rIlJ8adBxrJdPLcAUAh1A0OYMDwD1zg6iiQQYil9d5nD1kQdnacwfvBotNbuswHKl3a23IubOn97FMR4HxNUAJrS24wkz+MB009mtdBylTqsRtZtvRIWZwwuv9psHQWYstXHD7DJGvF9Ypb6DFrLNs8AiTSVaa6krzN92Wh7vP4Js+kmTTKX0ycCVOvc5sxZlKo7jI6d0nHgxdqbCcgdBdSOsoWtBI2HroSIZbzW2V0Jld4T+sdlDLLyKHLGFpugC3fULj505N+fRGwZ1P1rfsGiX4EJizeOycbwlR/E9ADn/+kTCXy4+nYXZjZDWlG1f+0ehHOvmPyb3E33Ym1aFEWTCEgKFg4trsIm6Z34e3XwrlOYQrQiFDu2wif8gckETm",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CINE FAMILIA",
-        "ico": "https://i.ibb.co/tJf6cVB/CANALESSTREAX-removebg.png",
-        "uri": "ZePn1uXnrKHMU+vOz3k6Sg2q26rkX3iEVaIXFOuleA5s/NRoMPF8/hPlsDq203rIUhs297bBzN9y8cvtvNCVFlgFc2ttGf7R5hw6Tb6BuxKSKkPiPOO9OnFLKw+qM5KhvjsJA5mCbb0u+qiEN3T7K8y7z2z5LwpYwJppyzEnI1h+wL/3vyI3/XiOs+2K/gO3WxUD2JT7j7qqu5vDvgRe8uQB6CdIxVpQeKjW5nYs/VRmEVn7GR+dP3DNfYlsx3Nu9sNfkpWp6ZH1NyJjnWdaDgB1XUPM8ZA6y4PsXHJ1gq+BrqoDW3roKmhA6b8zmfv1mmOwEuBtp+ITLW3NmHdFx4n/KhlmHixTR2sbjeki666OA4b0JDvG4QO2q+LOXFP7xgsQCsytGwnyKFHpXuZr999HWzTlixtSl9klapbnVH3EyYSSPixpIjJs/7qhpdqG",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CINE ROMANCE",
-        "ico": "https://i.ibb.co/tJf6cVB/CANALESSTREAX-removebg.png",
-        "uri": "ZePn1uXnrKHMU+vOz3k6Sg2q26rkX3iEVaIXFOuleA5s/NRoMPF8/hPlsDq203rIv1NsEp7FHrKhXnbbHvPhv28ULSmS5LfpZfogthwak0EKYN9ixXRt20RnWobbU66l0e4/myL4tX/68JScNNaa76v9QDOmuFRkPQvtM3WdUmQW1fAsbX81h/v3zSXawJ89zaF2fS7RF3WHUQ+CwpIuFArtU3mTGr1HjBcyDGuGweRBGrgO35NoXtU1yVGT1IVDa0+gSEo0NaL4YqZO18pD6LUXim2EjC38oXqCdd+Jo4ZJIIAWHYlNKWDJ9KE/V25BvCONf11b3tBQ7LE5Cl53kFkXYeF1btMfUMxJIhbI5BhTiyfDBuz6nzGdj/KSx224D69y2/yNV1k0r8SF+utZrwN0CW3O5c7bCsUH4pza9Izf4bdFBEc2OW6Vdp8wUz+y",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CINE TERROR",
-        "ico": "https://i.ibb.co/tJf6cVB/CANALESSTREAX-removebg.png",
-        "uri": "ZePn1uXnrKHMU+vOz3k6Sg2q26rkX3iEVaIXFOuleA5s/NRoMPF8/hPlsDq203rIlJ8adBxrJdPLcAUAh1A0ORqdCltLc1MiL0K8VMhO+CmKj0X6YPvPHX5s0aoRiPaiYihhkO25Dv5zy8R/vHGOx0Osj7epXMWRRjogfdWxObMT1GoefdqWAbs1wd+SAet4iwDqkBbAFj/pzBfVp/NhVDQJgPsIy9ltZO9vO0MMvnrXi5TDYChKR5yGwNkV+kl/dlOqzpGf0HXURHC2QAx6+/fpFG1IwfNdflq+IyMGSjoDZB/6bzNGtzs3N6WeXxtPW8ZlZWsFNVzJX71e0CBpwSh8kn/rbZ2ZINo6zGJcHc1NHSoO2aIFvY/edPdZPb+5QZvGzLxTJtXQNMOD+VLoMwa71DIv+qE95T2ATwNYbDHkS5u9R6d5nR18X6MnE+uJ",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CINE INVESTIGACIÓN",
-        "ico": "https://i.ibb.co/tJf6cVB/CANALESSTREAX-removebg.png",
-        "uri": "ZePn1uXnrKHMU+vOz3k6Sg2q26rkX3iEVaIXFOuleA5s/NRoMPF8/hPlsDq203rIonh8/2prAWdLmOPePvq73HaudDMP8DosPx9oAUFhszODpRMHW/88MFlRECmkVZ0jA4B0pXq80wSY+I/eVe3b10rSit8GBRBrZwXQo243zqiYYbiSjGjr8yuKPmZAeuZbt8s1Bwkk7/8KtgyFT2mn4t6TRV+GcrfV1aMSAbKlNzwOaoZxp+9eymz3PRjiql7NlwcsEkHh/5RZxlCUA8L0xOjxb0WTDqjQif4ibdienQJH406QhJGya9UPrXiMejNXKaYFUJBq/8Ir9AYuKCAppZNvfOVsFB380seMo70C+FGVdKPhPeu3DIG/QgP/ONk2j6S+h5xOddTgt+T/qau4/KTvkcFZTZMkivGTbMh7BTwEGRNFQ8GqklxDhjZntlDz",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CINE FICCIÓN",
-        "ico": "https://i.ibb.co/tJf6cVB/CANALESSTREAX-removebg.png",
-        "uri": "ZePn1uXnrKHMU+vOz3k6Sg2q26rkX3iEVaIXFOuleA5s/NRoMPF8/hPlsDq203rIxI5ILOr1nUieLmzk8uUYfU0Ipio1kxvO6oZnpdm6MZ1ex4vdkLYoxYoiYtNoi1gcSb5GdipsZtGENN/Ihjt1m3YY4dBPUdABF/0VvJgemQz1uhD9lDsLe6APnbOJZGtdCvmhH2czkZ1M742qjYuPnDvJTOr+SRPYfxJhY30Bo6upEVwk/5E44ieu6XuAx21HKx6E85NdkgHFgyb7+7w+scr5GM4qIwWqr4ki+PfreLY4VDbqeqpnw1+VObOxs16+RAPNMg3oFLCcO6AlDfoh/NVyLyUQzq1C+Khmg6EHnZSl70p3PVMslS/ftH1CwlC/R/V1n2gmM0UUlegmsXGTxGUTqdZizWj/RhaGHJVu1zukuDFBE8UI1eQPcXXAM1C0",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      }
-    ]
-  },
-  {
-    "name": "⚽ELIMINATORIAS SUDAMERICANA 2026",
-    "mode": false,
-    "lista": [
-      {
-        "name": "17:30 - Colombia vs Chile (ARGENTINA)",
-        "ico": "https://iili.io/2JYTzVs.png",
-        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ENI4lZaesFHQ6qxMfPX6TLXMjDQWwyoajyt5BjAdHMcBn12TF1BrrDXDsExN16wJ3KnxNi5AfRXaFp3bSOWo4r",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
-      },
-      {
-        "name": "20:00 - Paraguay vs Venezuela",
-        "ico": "https://iili.io/2JYTzVs.png",
-        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ER46U4k9VzANPTMkRy9+z82lp5YPjOqzUfeEHYhDg5Rj1prYq+FFleask5FCdYClQ=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EQxneGYZOszpYc0XiPa1AvkIGlC+nCnI+Q19r8AIYqjG31WtMTs50NqDAvapXrSWhF2Sx1JnGhqai/1xsO6iLT4P/32Y4lo6tsrzjp1WY9odOiXrjFRJqa7XEAqUgx6qeQ=="
-      },
-      {
-        "name": "20:30 - Uruguay vs Ecuador 1",
-        "ico": "https://iili.io/2JYTzVs.png",
-        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIj2lzG6aNvYEluO/FSNURWp7Ylu4yNHfj3SJmZ0WDYAVk=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "20:30 - Uruguay vs Ecuador 1",
-        "ico": "https://iili.io/2JYTzVs.png",
-        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIj8xICtRg3ASfKKzORFzuNEGNjjf8aXJaCvi8RIUwIOS8=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "20:30 - Uruguay vs Ecuador 3",
-        "ico": "https://iili.io/2JYTzVs.png",
-        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIjmHgLVUnHx0NQ/qMjmQynYxtLgHNqXkD8CmsEGqYbTU4=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "21:00 Argentina vs Bolivia (ARGENTINA)",
-        "ico": "https://iili.io/2JYTzVs.png",
-        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ENI4lZaesFHQ6qxMfPX6TLXMjDQWwyoajyt5BjAdHMcBn12TF1BrrDXDsExN16wJ3KnxNi5AfRXaFp3bSOWo4r",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
-      },
-      {
-        "name": "21:00 Argentina vs Bolivia (ARGENTINA) 2",
-        "ico": "https://iili.io/2JYTzVs.png",
-        "uri": "EGbTdQSc58tHgH0HJaX1f2ULMfYo0o1gmPP720AkXjNOpYjeYbx3AJd7Hxdw6uyhVb6nGrznpLAR5LrA4X6He1XpSVhb0o7R49lut/vbjKJi7eXqpbdBfxt+nQGBTVlr",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Eb8sPHbQ3A17YnpsnYByg47XK70uzSpsOF5LaH0v/fa7GzJ5IaaCaN3pq11/KxlQukmtlELfjLpYA6JVuCRtbxcfe3CVgxQw3xHN1Q1kkFNS/h7Uifj/Aa0hpFfWZdq7ZA=="
-      },
-      {
-        "name": "21:45 Brasil vs Perú (Brasil)",
-        "ico": "https://iili.io/2JYTzVs.png",
-        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIj5X1ui7nYKoPmq7HdJlf2Dz6595UU+I3RLGrfwCXRHuc=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "21:45 Brasil vs Perú(ARGENTINA)",
-        "ico": "https://iili.io/2JYTzVs.png",
-        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ENI4lZaesFHQ6qxMfPX6TLXMjDQWwyoajyt5BjAdHMcBn12TF1BrrDXDsExN16wJ3KnxNi5AfRXaFp3bSOWo4r",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
-      }
-    ]
-  },
-  {
-    "name": "🏠REALITY ARGENTINA",
-    "mode": false,
-    "lista": [
-      {
-        "name": "POR AMOR O POR DINERO",
-        "ico": "https://iili.io/dbRAHdB.png",
-        "uri": "O4zQaBxapxoofA7Utbs4F1nab40X+SvELpiF1u07B3ko6W7GMxoMaAe48PYCN1/+4W/hmUzStDk5dVhgaNQ5FoFIxYR/Ce7eAwQimmH6c/RT/DCbx3RFYg0XrTWgnb+Gmp7EIMx6oh9Y4NWkMf1XOQ==",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EekmjCRogyE7eW02SRoxqcTcOy9JxuCk9fRF6AeZJLBlS7vv2sL2rqq/AdYGbC1x7tR8N2iuA0l5uMor2LkVZLphZKQx4LGtBGot/sisb0pnjf12vm0pbRtWgwmols7D9g=="
-      },
-      {
-        "name": "POR AMOR O POR DINERO",
-        "ico": "https://iili.io/dbRAHdB.png",
-        "uri": "O4zQaBxapxoofA7Utbs4F1CSwhbnNaQ1IX2zodhgBcsgZXcHxuHU/mqcvHMAh6CZBj6brH5vmgrzRuQjk5j/I8Cq9nbYmI7p6BAjl4wThjfZU+VnKGrGwznJflZnIM55qBngupuYbS19HSj7Byrq7A==",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EfZgW/VS1We3kaOBqbzQTLlon1p1BnIdiQXoyWsHlU6+WsWwynitVQglRR0uL0BXLZTk913PMedkSg/wqM1GAR4XPgwz6d/jPNr2SjbEDDbnQ38bdrDCY8+KzipVNEtDYQ=="
-      },
-      {
-        "name": "POR AMOR O POR DINERO",
-        "ico": "https://iili.io/dbRAHdB.png",
-        "uri": "O4zQaBxapxoofA7Utbs4F1nab40X+SvELpiF1u07B3ko6W7GMxoMaAe48PYCN1/+caN4VB2+5gCXfvgAYZjGxw6ntMdad8rzxXg8F2fqf8OLhdX3lFwLB41M3RTTj9utI5ac94eHTOvOSzwmWB3edg==",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ETFlbJr80tjBimYBvq4uxbS6oKT3UuOFVbBZrbGkSF96B4ju2uS0C3HQ1i4LzUoMPdKS1s9SYda2sojGV37MDk8nlBvRFTF9zpn/pQm63qdSIErQW7JRXNlEda8XSftUPw=="
-      },
-      {
-        "name": "POR AMOR O POR DINERO",
-        "ico": "https://iili.io/dbRAHdB.png",
-        "uri": "O4zQaBxapxoofA7Utbs4F5hceVjoJEJMmEq439UAjxgO9/v+pbMNRZAxLu5p7b5T+I722Rqm4ucI2ikwRoVik5ZOGbZ6fu29yWpeM3dqyXWYn7JmZiZKDajMV4vCms72+UhufRWf/HNWJt2qVTi4tQ==",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ETg7A+Ir8sobK0LsNn0gshEFYe6esPf/p25PBNux4UjAK3wq9NJWQWQQ4SsSOZ8XOHE8J1NbloyzSDZZa9tZKxYKSd/4m3f7sbedsO6/+0ozH2ldOjs8sBJkIAY8XnL42g=="
-      }
-    ]
-  },
-  {
     "name": "📻RADIOS ARGENTINA",
     "mode": false,
     "lista": [
       {
-        "name": "RADIO MITRE",
-        "ico": "https://web.app.flow.com.ar/img/radios/radioMitre.png",
-        "uri": "tPVsQZRrhMz/X2yFYxZOYrOP+D2Sd+H82+aPp/ewuYJ8+KhexWiGnOGkyf6j6Ei7",
+        "name": "ELECTRÓNICA",
+        "ico": "https://iili.io/2dEqtd7.png",
+        "uri": "tPVsQZRrhMz/X2yFYxZOYrOP+D2Sd+H82+aPp/ewuYIhk1+mLlRbYXGnKQDpyG07",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "RADIO MPB BRASIL",
-        "ico": "https://web.app.flow.com.ar/img/radios/mpb.svg",
-        "uri": "tPVsQZRrhMz/X2yFYxZOYrOP+D2Sd+H82+aPp/ewuYImSEDMW+AnTjVbr9LzKRBi",
+        "name": "EXITOS 80/90",
+        "ico": "https://iili.io/2dEqL12.png",
+        "uri": "tPVsQZRrhMz/X2yFYxZOYrOP+D2Sd+H82+aPp/ewuYIh6bpZ9qLQ/VHVf0j0bSfv",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "RADIO DISNEY",
-        "ico": "https://web.app.flow.com.ar/img/radios/radioDisney.png",
-        "uri": "tPVsQZRrhMz/X2yFYxZOYrOP+D2Sd+H82+aPp/ewuYJatLupbbtUClIiRsq2y672",
+        "name": "RADIO CNN",
+        "ico": "https://iili.io/2dEx9yP.png",
+        "uri": "tPVsQZRrhMz/X2yFYxZOYrOP+D2Sd+H82+aPp/ewuYI+AOmhxS+qQjPA2sm1ZqIx",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -218,16 +32,9 @@
         "drm_license_url": ""
       },
       {
-        "name": "RADIO RIVADAVIA",
-        "ico": "https://web.app.flow.com.ar/img/radios/radioRivadavia.png",
-        "uri": "tPVsQZRrhMz/X2yFYxZOYrOP+D2Sd+H82+aPp/ewuYIVtL8+o6NWe7A52JqC3wfL",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "RADIO MITRE CORDOBA",
-        "ico": "https://web.app.flow.com.ar/img/radios/radioMitreCordoba.png",
-        "uri": "tPVsQZRrhMz/X2yFYxZOYrOP+D2Sd+H82+aPp/ewuYJ2HNN35XZ1Lb3XRdSMGtUO",
+        "name": "RADIO DISNEY",
+        "ico": "https://web.app.flow.com.ar/img/radios/radioDisney.png",
+        "uri": "tPVsQZRrhMz/X2yFYxZOYrOP+D2Sd+H82+aPp/ewuYJatLupbbtUClIiRsq2y672",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -239,6 +46,27 @@
         "drm_license_url": ""
       },
       {
+        "name": "RADIO MITRE",
+        "ico": "https://web.app.flow.com.ar/img/radios/radioMitre.png",
+        "uri": "tPVsQZRrhMz/X2yFYxZOYrOP+D2Sd+H82+aPp/ewuYJ8+KhexWiGnOGkyf6j6Ei7",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "RADIO MITRE CORDOBA",
+        "ico": "https://web.app.flow.com.ar/img/radios/radioMitreCordoba.png",
+        "uri": "tPVsQZRrhMz/X2yFYxZOYrOP+D2Sd+H82+aPp/ewuYJ2HNN35XZ1Lb3XRdSMGtUO",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "RADIO MPB BRASIL",
+        "ico": "https://iili.io/2dEqQgS.png",
+        "uri": "tPVsQZRrhMz/X2yFYxZOYrOP+D2Sd+H82+aPp/ewuYImSEDMW+AnTjVbr9LzKRBi",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
         "name": "RADIO NACIONAL",
         "ico": "https://web.app.flow.com.ar/img/radios/radioNacional.png",
         "uri": "tPVsQZRrhMz/X2yFYxZOYrOP+D2Sd+H82+aPp/ewuYIY4FjkgTCZaFEnOj07K1Wd",
@@ -246,30 +74,23 @@
         "drm_license_url": ""
       },
       {
-        "name": "RADIO CNN",
-        "ico": "https://web.app.flow.com.ar/img/radios/RadioCNN.svg",
-        "uri": "tPVsQZRrhMz/X2yFYxZOYrOP+D2Sd+H82+aPp/ewuYI+AOmhxS+qQjPA2sm1ZqIx",
+        "name": "RADIO RIVADAVIA",
+        "ico": "https://web.app.flow.com.ar/img/radios/radioRivadavia.png",
+        "uri": "tPVsQZRrhMz/X2yFYxZOYrOP+D2Sd+H82+aPp/ewuYIVtL8+o6NWe7A52JqC3wfL",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "TANGO ARGENTINO",
-        "ico": "https://web.app.flow.com.ar/img/radios/tango.svg",
+        "ico": "https://iili.io/2dEqmmu.png",
         "uri": "tPVsQZRrhMz/X2yFYxZOYrOP+D2Sd+H82+aPp/ewuYKNQ/H/NCipxaC8AhZyWiPp",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "ÉXITOS 80/90",
-        "ico": "https://web.app.flow.com.ar/img/radios/8090Internacional.svg",
-        "uri": "tPVsQZRrhMz/X2yFYxZOYrOP+D2Sd+H82+aPp/ewuYIh6bpZ9qLQ/VHVf0j0bSfv",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "ELECTRÓNICA",
-        "ico": "https://web.app.flow.com.ar/img/radios/electronica.svg",
-        "uri": "tPVsQZRrhMz/X2yFYxZOYrOP+D2Sd+H82+aPp/ewuYIhk1+mLlRbYXGnKQDpyG07",
+        "name": "TOP 40",
+        "ico": "https://iili.io/2dEqD79.png",
+        "uri": "tPVsQZRrhMz/X2yFYxZOYrOP+D2Sd+H82+aPp/ewuYKwjGhmr7xIGgn9DhKtzpxL",
         "drm_scheme": "",
         "drm_license_url": ""
       }
@@ -390,6 +211,34 @@
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0E8kg2K3s8wNWOBciGDLSwJrnpG26d7OofUETnOlH6GteKB/Rw2zq7CU2O1GYfQqUu30pOCUxuzMGI9Ra1dXYeAFjEuciZlFzq7Z6j8xAPa6lGEBIOLugv09rgeqq4UzFU=",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EQu3IjKuvc62moPVO8OxRlwlB0zFnxCqKqwfanovyBt8e3niNHEFSF7VrZge/uszBFYeivPqc5OlYNy+OXEgP5/SFyWZxkLMMQ3q7U0zvUT0vIqtVUwAAz29TX42+gGmXA=="
+      },
+      {
+        "name": "POR AMOR O POR DINERO 1",
+        "ico": "https://iili.io/dbRAHdB.png",
+        "uri": "O4zQaBxapxoofA7Utbs4F1nab40X+SvELpiF1u07B3ko6W7GMxoMaAe48PYCN1/+4W/hmUzStDk5dVhgaNQ5FoFIxYR/Ce7eAwQimmH6c/RT/DCbx3RFYg0XrTWgnb+Gmp7EIMx6oh9Y4NWkMf1XOQ==",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EekmjCRogyE7eW02SRoxqcTcOy9JxuCk9fRF6AeZJLBlS7vv2sL2rqq/AdYGbC1x7tR8N2iuA0l5uMor2LkVZLphZKQx4LGtBGot/sisb0pnjf12vm0pbRtWgwmols7D9g=="
+      },
+      {
+        "name": "POR AMOR O POR DINERO 2",
+        "ico": "https://iili.io/dbRAHdB.png",
+        "uri": "O4zQaBxapxoofA7Utbs4F1CSwhbnNaQ1IX2zodhgBcsgZXcHxuHU/mqcvHMAh6CZBj6brH5vmgrzRuQjk5j/I8Cq9nbYmI7p6BAjl4wThjfZU+VnKGrGwznJflZnIM55qBngupuYbS19HSj7Byrq7A==",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EfZgW/VS1We3kaOBqbzQTLlon1p1BnIdiQXoyWsHlU6+WsWwynitVQglRR0uL0BXLZTk913PMedkSg/wqM1GAR4XPgwz6d/jPNr2SjbEDDbnQ38bdrDCY8+KzipVNEtDYQ=="
+      },
+      {
+        "name": "POR AMOR O POR DINERO 3",
+        "ico": "https://iili.io/dbRAHdB.png",
+        "uri": "O4zQaBxapxoofA7Utbs4F1nab40X+SvELpiF1u07B3ko6W7GMxoMaAe48PYCN1/+caN4VB2+5gCXfvgAYZjGxw6ntMdad8rzxXg8F2fqf8OLhdX3lFwLB41M3RTTj9utI5ac94eHTOvOSzwmWB3edg==",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ETFlbJr80tjBimYBvq4uxbS6oKT3UuOFVbBZrbGkSF96B4ju2uS0C3HQ1i4LzUoMPdKS1s9SYda2sojGV37MDk8nlBvRFTF9zpn/pQm63qdSIErQW7JRXNlEda8XSftUPw=="
+      },
+      {
+        "name": "POR AMOR O POR DINERO 3",
+        "ico": "https://iili.io/dbRAHdB.png",
+        "uri": "O4zQaBxapxoofA7Utbs4F5hceVjoJEJMmEq439UAjxgO9/v+pbMNRZAxLu5p7b5T+I722Rqm4ucI2ikwRoVik5ZOGbZ6fu29yWpeM3dqyXWYn7JmZiZKDajMV4vCms72+UhufRWf/HNWJt2qVTi4tQ==",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ETg7A+Ir8sobK0LsNn0gshEFYe6esPf/p25PBNux4UjAK3wq9NJWQWQQ4SsSOZ8XOHE8J1NbloyzSDZZa9tZKxYKSd/4m3f7sbedsO6/+0ozH2ldOjs8sBJkIAY8XnL42g=="
       },
       {
         "name": "LN+ - LA NACION",
@@ -2328,6 +2177,89 @@
     ]
   },
   {
+    "name": "⭐STREAX MOVIES",
+    "mode": false,
+    "lista": [
+      {
+        "name": "CINE ACCIÓN",
+        "ico": "https://i.ibb.co/tJf6cVB/CANALESSTREAX-removebg.png",
+        "uri": "ZePn1uXnrKHMU+vOz3k6Sg2q26rkX3iEVaIXFOuleA5s/NRoMPF8/hPlsDq203rIchHfudomwawEV2/flyC4jx6v3sJDSoid6q5jlKwwyMNu5KEuEdtIwB3KZfkoF032dBypaGX5gnWD7USv7DxLOVTyKXS+SB6PBAq0+9we4egozB0laEZbpsWsk39ss1wL6uAnluiE9U97f8dP0BzhNcD1rwL1z8LM1DapfLtSx7kkg8xo06hh9qQEiOk/IxE7Y9LQ6aiPwHYOuTinzcCGtCTXS9GYeovwOai2L10+wj2va2RyZNtPgxvXK0wCkGa/b8W84Ssc4ieLTleVLmx7LiIoglHX9nIzlJmgOxLppECKKvSs4uyKZ2jagZlykisttrwoXFadOosi9Bgl1CoS4ixblgbFNbFZO/FnNkppaDwJEZKtGGe5L+bNoqZSTbxz",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CINE CLÁSICO",
+        "ico": "https://i.ibb.co/tJf6cVB/CANALESSTREAX-removebg.png",
+        "uri": "ZePn1uXnrKHMU+vOz3k6Sg2q26rkX3iEVaIXFOuleA5s/NRoMPF8/hPlsDq203rIqFyau0KY46IP3sZsmhj9Nl4gHGqDwBy+0BYWmPQWr1Nr66lk8E2du5ujuAVdoMoozypm3LlSrBPTzq6lIjrZu/GwFDvqeRPkh8JED/H49HQ8rSiqFoYStJWrCk74WCCvxk++FOjz7NABJg/gnd6MiXovBxtX0lz6q9ewKkXQGeyHPMBE3A4KVwCspxfylBbpa7vT3+rfeHKUdnrqo2Atr6o8vIad3KeK+HVY87dtMKx7D3hm6pEfkvjfcrWqKHk+gPlHmch8aiweLRbRnglnwcffegTdyl8/cDUfsZ2vQrKYpEciCvVcAgl09JUKLF80dcw0lN3xQ9V+gpYJ1jCbayGmOZN6+FWJY/PLmHTIwHkS0nZEfXQIubZpR5CbWsu5",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CINE COMEDIA",
+        "ico": "https://i.ibb.co/tJf6cVB/CANALESSTREAX-removebg.png",
+        "uri": "ZePn1uXnrKHMU+vOz3k6Sg2q26rkX3iEVaIXFOuleA5s/NRoMPF8/hPlsDq203rIbupEsKDAlUGS2csZDQzJW03KEYJeRoRz3zxuJwZBPKoJJUvfhDSEzcLrjaBx+pa5V21NeN1h8hyb74nyF3Lv8NDHIRynWhSsOIGaM5xV4RWA1EzaYqzxwTODqrn48QCETpd0D2swhikQOjVW7oGdI7c/tJ59xWRzXrS2w3w6nDquzxq9zNrVKEC07VvqUT1oYTPccHnTjiGCFMjWHQMW7S3YqBK1OWHkZldhB7AqGNFSC7oNyEMvUSs9252jMBl4f48TaVFX1FGuYLKwQRIbXdF5u2H0zbN7bUM8kgQ82RCOBokFdO2zv/s0YMzWjyrH9RRbft5FD8A4wZEXTcvS1Gc0BN9fmmaPLha73x3DGroFp2jmo5ZvXvIgzB3nPwFD",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CINE SUSPENSO",
+        "ico": "https://i.ibb.co/tJf6cVB/CANALESSTREAX-removebg.png",
+        "uri": "ZePn1uXnrKHMU+vOz3k6Sg2q26rkX3iEVaIXFOuleA5s/NRoMPF8/hPlsDq203rITXwFryH2tT3zFcFDfgbt15jYDMiFn+ECs3AcW4Ly6FVmbXF38G2BRGrZv2aN3xvl4y2d02bKBfCPw/1/tUeFCVt4nIP7qWiDe6mSQt8E/f9hDl0k2qC3SKyvir1smckHMtNbYLatAESlpl46CDMhO2v7ZZXxFXxAsT642VM5dSsfPFINxFd3tfp7ahemmIXmIuAvfrvSF/5lk5kmp3JWQXgPUo5qqleMh/gT6rt9f6wdrcy/NszvLX1k2gERVlswoTBniu2dLBOs6q7PlmnPE+hpmTMlEnrKl/AvJRx80HLFf7mBC1oJtihX0Q4U2Dy5dXlCwW2TKEX82UU9kAZnxb9wi2oCbBKzP/rjb9A0A0WO7yGoZ1Vz66ynmj+HLn7H",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CINE CRIMEN",
+        "ico": "https://i.ibb.co/tJf6cVB/CANALESSTREAX-removebg.png",
+        "uri": "ZePn1uXnrKHMU+vOz3k6Sg2q26rkX3iEVaIXFOuleA5s/NRoMPF8/hPlsDq203rIRcjRxV5sLe7waVfy5e3Gcezq5HQvMuYP/dVJpbFHMQ5GSVIO3M1CPsoLvVaK1L+uXG+5/Tc05mlv1WGcN5SPb+C/GEPVQVZWeiwV4f1gbrR0+leVMylKvTdCRxiP+kricHlVffXY5ppA+dMEKMdGZcZm8LmdLsBQ9Wm6ahLFkdxvz4Vozg9q/2+NkVPf1E0tNuVXSXQ5IdNRnn3Z0+ygOHuUBXjetjX37MkIGcb6w7UNoUp20WSFnhPV50KpsrvDeCJUoHKiSjdGgaK7f4ie7AHMWsqPBydEdUOBrbp0qTUzVfFN5Y+k4MiAXXKvbL9LHiIYQHxzqrzcuBZ8XwEdRnaqfxFCD7mTMA3QZ696sPqtSYZS5AVvyx7eZ5IrsUpk",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CINE DRAMA",
+        "ico": "https://i.ibb.co/tJf6cVB/CANALESSTREAX-removebg.png",
+        "uri": "ZePn1uXnrKHMU+vOz3k6Sg2q26rkX3iEVaIXFOuleA5s/NRoMPF8/hPlsDq203rIlJ8adBxrJdPLcAUAh1A0OYMDwD1zg6iiQQYil9d5nD1kQdnacwfvBotNbuswHKl3a23IubOn97FMR4HxNUAJrS24wkz+MB009mtdBylTqsRtZtvRIWZwwuv9psHQWYstXHD7DJGvF9Ypb6DFrLNs8AiTSVaa6krzN92Wh7vP4Js+kmTTKX0ycCVOvc5sxZlKo7jI6d0nHgxdqbCcgdBdSOsoWtBI2HroSIZbzW2V0Jld4T+sdlDLLyKHLGFpugC3fULj505N+fRGwZ1P1rfsGiX4EJizeOycbwlR/E9ADn/+kTCXy4+nYXZjZDWlG1f+0ehHOvmPyb3E33Ym1aFEWTCEgKFg4trsIm6Z34e3XwrlOYQrQiFDu2wif8gckETm",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CINE FAMILIA",
+        "ico": "https://i.ibb.co/tJf6cVB/CANALESSTREAX-removebg.png",
+        "uri": "ZePn1uXnrKHMU+vOz3k6Sg2q26rkX3iEVaIXFOuleA5s/NRoMPF8/hPlsDq203rIUhs297bBzN9y8cvtvNCVFlgFc2ttGf7R5hw6Tb6BuxKSKkPiPOO9OnFLKw+qM5KhvjsJA5mCbb0u+qiEN3T7K8y7z2z5LwpYwJppyzEnI1h+wL/3vyI3/XiOs+2K/gO3WxUD2JT7j7qqu5vDvgRe8uQB6CdIxVpQeKjW5nYs/VRmEVn7GR+dP3DNfYlsx3Nu9sNfkpWp6ZH1NyJjnWdaDgB1XUPM8ZA6y4PsXHJ1gq+BrqoDW3roKmhA6b8zmfv1mmOwEuBtp+ITLW3NmHdFx4n/KhlmHixTR2sbjeki666OA4b0JDvG4QO2q+LOXFP7xgsQCsytGwnyKFHpXuZr999HWzTlixtSl9klapbnVH3EyYSSPixpIjJs/7qhpdqG",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CINE ROMANCE",
+        "ico": "https://i.ibb.co/tJf6cVB/CANALESSTREAX-removebg.png",
+        "uri": "ZePn1uXnrKHMU+vOz3k6Sg2q26rkX3iEVaIXFOuleA5s/NRoMPF8/hPlsDq203rIv1NsEp7FHrKhXnbbHvPhv28ULSmS5LfpZfogthwak0EKYN9ixXRt20RnWobbU66l0e4/myL4tX/68JScNNaa76v9QDOmuFRkPQvtM3WdUmQW1fAsbX81h/v3zSXawJ89zaF2fS7RF3WHUQ+CwpIuFArtU3mTGr1HjBcyDGuGweRBGrgO35NoXtU1yVGT1IVDa0+gSEo0NaL4YqZO18pD6LUXim2EjC38oXqCdd+Jo4ZJIIAWHYlNKWDJ9KE/V25BvCONf11b3tBQ7LE5Cl53kFkXYeF1btMfUMxJIhbI5BhTiyfDBuz6nzGdj/KSx224D69y2/yNV1k0r8SF+utZrwN0CW3O5c7bCsUH4pza9Izf4bdFBEc2OW6Vdp8wUz+y",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CINE TERROR",
+        "ico": "https://i.ibb.co/tJf6cVB/CANALESSTREAX-removebg.png",
+        "uri": "ZePn1uXnrKHMU+vOz3k6Sg2q26rkX3iEVaIXFOuleA5s/NRoMPF8/hPlsDq203rIlJ8adBxrJdPLcAUAh1A0ORqdCltLc1MiL0K8VMhO+CmKj0X6YPvPHX5s0aoRiPaiYihhkO25Dv5zy8R/vHGOx0Osj7epXMWRRjogfdWxObMT1GoefdqWAbs1wd+SAet4iwDqkBbAFj/pzBfVp/NhVDQJgPsIy9ltZO9vO0MMvnrXi5TDYChKR5yGwNkV+kl/dlOqzpGf0HXURHC2QAx6+/fpFG1IwfNdflq+IyMGSjoDZB/6bzNGtzs3N6WeXxtPW8ZlZWsFNVzJX71e0CBpwSh8kn/rbZ2ZINo6zGJcHc1NHSoO2aIFvY/edPdZPb+5QZvGzLxTJtXQNMOD+VLoMwa71DIv+qE95T2ATwNYbDHkS5u9R6d5nR18X6MnE+uJ",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CINE INVESTIGACIÓN",
+        "ico": "https://i.ibb.co/tJf6cVB/CANALESSTREAX-removebg.png",
+        "uri": "ZePn1uXnrKHMU+vOz3k6Sg2q26rkX3iEVaIXFOuleA5s/NRoMPF8/hPlsDq203rIonh8/2prAWdLmOPePvq73HaudDMP8DosPx9oAUFhszODpRMHW/88MFlRECmkVZ0jA4B0pXq80wSY+I/eVe3b10rSit8GBRBrZwXQo243zqiYYbiSjGjr8yuKPmZAeuZbt8s1Bwkk7/8KtgyFT2mn4t6TRV+GcrfV1aMSAbKlNzwOaoZxp+9eymz3PRjiql7NlwcsEkHh/5RZxlCUA8L0xOjxb0WTDqjQif4ibdienQJH406QhJGya9UPrXiMejNXKaYFUJBq/8Ir9AYuKCAppZNvfOVsFB380seMo70C+FGVdKPhPeu3DIG/QgP/ONk2j6S+h5xOddTgt+T/qau4/KTvkcFZTZMkivGTbMh7BTwEGRNFQ8GqklxDhjZntlDz",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CINE FICCIÓN",
+        "ico": "https://i.ibb.co/tJf6cVB/CANALESSTREAX-removebg.png",
+        "uri": "ZePn1uXnrKHMU+vOz3k6Sg2q26rkX3iEVaIXFOuleA5s/NRoMPF8/hPlsDq203rIxI5ILOr1nUieLmzk8uUYfU0Ipio1kxvO6oZnpdm6MZ1ex4vdkLYoxYoiYtNoi1gcSb5GdipsZtGENN/Ihjt1m3YY4dBPUdABF/0VvJgemQz1uhD9lDsLe6APnbOJZGtdCvmhH2czkZ1M742qjYuPnDvJTOr+SRPYfxJhY30Bo6upEVwk/5E44ieu6XuAx21HKx6E85NdkgHFgyb7+7w+scr5GM4qIwWqr4ki+PfreLY4VDbqeqpnw1+VObOxs16+RAPNMg3oFLCcO6AlDfoh/NVyLyUQzq1C+Khmg6EHnZSl70p3PVMslS/ftH1CwlC/R/V1n2gmM0UUlegmsXGTxGUTqdZizWj/RhaGHJVu1zukuDFBE8UI1eQPcXXAM1C0",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      }
+    ]
+  },
+  {
     "name": "⭕RAKUTEN / FREETV",
     "mode": false,
     "lista": [
@@ -3481,44 +3413,44 @@
     "mode": false,
     "lista": [
       {
-        "name": "BAND NEWS",
-        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/band-news-br.png",
-        "uri": "JFRpA0t4scng5bNIhmtikHFywA2HKBFr+G0BhLKWKqWU2iWv4ARsJGH6riOBxx91iY+sEt1KTwhkMLApDrlmQL2Ts8fTgdHFhQh2SpyqV20=",
+        "name": "SPORT TV 3",
+        "ico": "https://i.ibb.co/68mym0W/sport-tv.png",
+        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIjndTg5M69DBsuSUg/ouE0I5z+2jsOHTwHRPpmJvcVc4E=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "BAND SPORTS HD",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/800px-BandSports_logo.svg.png",
-        "uri": "JFRpA0t4scng5bNIhmtikHFywA2HKBFr+G0BhLKWKqWU2iWv4ARsJGH6riOBxx91iY+sEt1KTwhkMLApDrlmQPvC9gv0ntGlZSnHVS8vH9U=",
+        "name": "SPORT TV 2",
+        "ico": "https://i.ibb.co/68mym0W/sport-tv.png",
+        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIjXaz1rlbui/rwx74KleiPoIA6AbgYx4DcDwN3dy6KHDE=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "COMBATE HD",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Canal-combate-logo.png/798px-Canal-combate-logo.png",
-        "uri": "JFRpA0t4scng5bNIhmtikHFywA2HKBFr+G0BhLKWKqWU2iWv4ARsJGH6riOBxx91iY+sEt1KTwhkMLApDrlmQIlWweCkJUN0w6wNdQ8FQU4=",
+        "name": "SPORT TV 1",
+        "ico": "https://i.ibb.co/68mym0W/sport-tv.png",
+        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIjX90kkjNa4fM+6c17zjX6wrDuOF+3vpxHqDvT0CQw4vQ=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "GLOBO NEWS",
-        "ico": "https://raw.githubusercontent.com/DryKillLogic/tv-logos/main/countries/brazil/globo-news-br.png",
-        "uri": "JFRpA0t4scng5bNIhmtikHFywA2HKBFr+G0BhLKWKqWU2iWv4ARsJGH6riOBxx91iY+sEt1KTwhkMLApDrlmQMrpTtMB+U5OP/5iK9FNVH8=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "GLOBO RJ HD",
+        "name": "REDE GLOBO SP",
         "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/globo-br.png",
-        "uri": "JFRpA0t4scng5bNIhmtikHFywA2HKBFr+G0BhLKWKqWU2iWv4ARsJGH6riOBxx91iY+sEt1KTwhkMLApDrlmQCszlN52fWDlINAfP3Q1Dm0=",
+        "uri": "JFRpA0t4scng5bNIhmtikHFywA2HKBFr+G0BhLKWKqWU2iWv4ARsJGH6riOBxx91iY+sEt1KTwhkMLApDrlmQKASjps7Aq8us7xqPBApCmA=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "JOVEM PAN NEWS",
-        "ico": "https://raw.githubusercontent.com/DryKillLogic/tv-logos/main/countries/brazil/jovem-pan-news-br.png",
-        "uri": "JFRpA0t4scng5bNIhmtikHFywA2HKBFr+G0BhLKWKqWU2iWv4ARsJGH6riOBxx91iY+sEt1KTwhkMLApDrlmQCjz3qfwC027HAmL8FNZVDs=",
+        "name": "REDE GLOBO SP",
+        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/globo-br.png",
+        "uri": "JFRpA0t4scng5bNIhmtikHFywA2HKBFr+G0BhLKWKqWU2iWv4ARsJGH6riOBxx91iY+sEt1KTwhkMLApDrlmQE6WzMDsOKRFbaVKXVYVqHU=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "RECORD RJ HD",
+        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/record-br.png",
+        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIj8ailBVITwyUtNnTjza7KJvIFZwEnLuCUCQWVeddwkGI=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -3530,16 +3462,51 @@
         "drm_license_url": ""
       },
       {
-        "name": "REDE GLOBO SP",
-        "ico": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/90/A_Grande_Conquista.png/260px-A_Grande_Conquista.png",
-        "uri": "JFRpA0t4scng5bNIhmtikHFywA2HKBFr+G0BhLKWKqWU2iWv4ARsJGH6riOBxx91iY+sEt1KTwhkMLApDrlmQKASjps7Aq8us7xqPBApCmA=",
+        "name": "JOVEM PAN NEWS",
+        "ico": "https://raw.githubusercontent.com/DryKillLogic/tv-logos/main/countries/brazil/jovem-pan-news-br.png",
+        "uri": "JFRpA0t4scng5bNIhmtikHFywA2HKBFr+G0BhLKWKqWU2iWv4ARsJGH6riOBxx91iY+sEt1KTwhkMLApDrlmQCjz3qfwC027HAmL8FNZVDs=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "REDE GLOBO SP",
-        "ico": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/90/A_Grande_Conquista.png/260px-A_Grande_Conquista.png",
-        "uri": "JFRpA0t4scng5bNIhmtikHFywA2HKBFr+G0BhLKWKqWU2iWv4ARsJGH6riOBxx91iY+sEt1KTwhkMLApDrlmQE6WzMDsOKRFbaVKXVYVqHU=",
+        "name": "GLOBO RJ HD",
+        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/globo-br.png",
+        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIj5X1ui7nYKoPmq7HdJlf2Dz6595UU+I3RLGrfwCXRHuc=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "GLOBO RJ HD",
+        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/globo-br.png",
+        "uri": "JFRpA0t4scng5bNIhmtikHFywA2HKBFr+G0BhLKWKqWU2iWv4ARsJGH6riOBxx91iY+sEt1KTwhkMLApDrlmQCszlN52fWDlINAfP3Q1Dm0=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "GLOBO NEWS",
+        "ico": "https://raw.githubusercontent.com/DryKillLogic/tv-logos/main/countries/brazil/globo-news-br.png",
+        "uri": "JFRpA0t4scng5bNIhmtikHFywA2HKBFr+G0BhLKWKqWU2iWv4ARsJGH6riOBxx91iY+sEt1KTwhkMLApDrlmQMrpTtMB+U5OP/5iK9FNVH8=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "COMBATE HD",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Canal-combate-logo.png/798px-Canal-combate-logo.png",
+        "uri": "JFRpA0t4scng5bNIhmtikHFywA2HKBFr+G0BhLKWKqWU2iWv4ARsJGH6riOBxx91iY+sEt1KTwhkMLApDrlmQIlWweCkJUN0w6wNdQ8FQU4=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "BAND SPORTS HD",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/800px-BandSports_logo.svg.png",
+        "uri": "JFRpA0t4scng5bNIhmtikHFywA2HKBFr+G0BhLKWKqWU2iWv4ARsJGH6riOBxx91iY+sEt1KTwhkMLApDrlmQPvC9gv0ntGlZSnHVS8vH9U=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "BAND NEWS",
+        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/band-news-br.png",
+        "uri": "JFRpA0t4scng5bNIhmtikHFywA2HKBFr+G0BhLKWKqWU2iWv4ARsJGH6riOBxx91iY+sEt1KTwhkMLApDrlmQL2Ts8fTgdHFhQh2SpyqV20=",
         "drm_scheme": "",
         "drm_license_url": ""
       }
@@ -4020,6 +3987,27 @@
         "name": "UY | 2️⃣ DSPORTS",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",
         "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIjLlnMJNznOI1JWrsKLdvedo6YrcdMxnTIhR+9pT/CGiI=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "UY | 3️⃣DSPORTS",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",
+        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIjQ/GvGbfOxKiiUJ/Vejfx4678XaS1rESYeuchJNOtDAs=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "UY | 4️⃣DSPORTS",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",
+        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIj0wH8T8+gjmjNNKikxtfeiDQ8WpqXgufL+f+AoES8dmc=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "UY | 5️⃣DSPORTS",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",
+        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIjBqtTfN7BN8X9N5JStBuYvFumQL75fYKz4IzxJwc2vSI=",
         "drm_scheme": "",
         "drm_license_url": ""
       }
@@ -4897,48 +4885,6 @@
         "name": "TVP SPORT",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/9/9d/TVP_Sport_HD_Logo.png",
         "uri": "9ZEJMTOf9Se2dNkG5KHiotM3OYfCIA994z/tgMhGCPHbwcf9yVcIKA4Qgmd1gVBC",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "SPORT TV 1",
-        "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
-        "uri": "RM61iDxnJDTr1M3KEJsYUQ+ofihTsFKEUHKALiR6xGqGySqMsnDK+J6JRX4NJZDVpbjCXBBOM0EEVPcRqZRunA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "SPORT TV 2",
-        "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
-        "uri": "RM61iDxnJDTr1M3KEJsYUQ+ofihTsFKEUHKALiR6xGqGySqMsnDK+J6JRX4NJZDVQ7qVzdmb5BSjXDiSlTicNw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "SPORT TV 3",
-        "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
-        "uri": "RM61iDxnJDTr1M3KEJsYUQ+ofihTsFKEUHKALiR6xGqGySqMsnDK+J6JRX4NJZDVgIP391VtbbjC4aZXdOlOsQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "SPORT TV 4",
-        "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
-        "uri": "RM61iDxnJDTr1M3KEJsYUQ+ofihTsFKEUHKALiR6xGqGySqMsnDK+J6JRX4NJZDVlx3T/niA93xiDZE1IS4vwQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "SPORT TV 5",
-        "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
-        "uri": "RM61iDxnJDTr1M3KEJsYUQ+ofihTsFKEUHKALiR6xGqGySqMsnDK+J6JRX4NJZDV6sPD6DnEofKkVVHEqsqiNA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "SPORT TV PLUS",
-        "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
-        "uri": "RM61iDxnJDTr1M3KEJsYUQ+ofihTsFKEUHKALiR6xGqGySqMsnDK+J6JRX4NJZDVO+2HI55Y8a/AccIYy+FVaA==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -5830,48 +5776,6 @@
     "mode": false,
     "lista": [
       {
-        "name": "JS 1",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/250px-J_Sports_Logo.svg.png",
-        "uri": "I4M7scAmGLnRqn/Gq/JySX1iquU2FV1GTJIxTi3/EK65cxdGus9BGMQXUFHFfOylX7nojUE4i6UNkREBWQl4yBLufZHTdnjjFbiRAfo+L68=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "JS 2",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/250px-J_Sports_Logo.svg.png",
-        "uri": "I4M7scAmGLnRqn/Gq/JySX1iquU2FV1GTJIxTi3/EK65cxdGus9BGMQXUFHFfOylX7nojUE4i6UNkREBWQl4yC3s7FItJhSBFAC9LX+2ca0=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "JS 3",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/250px-J_Sports_Logo.svg.png",
-        "uri": "I4M7scAmGLnRqn/Gq/JySX1iquU2FV1GTJIxTi3/EK65cxdGus9BGMQXUFHFfOylX7nojUE4i6UNkREBWQl4yBWhRspXkVfzxT6oXKAeL4o=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "JS 3",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/250px-J_Sports_Logo.svg.png",
-        "uri": "I4M7scAmGLnRqn/Gq/JySX1iquU2FV1GTJIxTi3/EK65cxdGus9BGMQXUFHFfOylX7nojUE4i6UNkREBWQl4yBWhRspXkVfzxT6oXKAeL4o=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "JS 4",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/250px-J_Sports_Logo.svg.png",
-        "uri": "I4M7scAmGLnRqn/Gq/JySX1iquU2FV1GTJIxTi3/EK65cxdGus9BGMQXUFHFfOylX7nojUE4i6UNkREBWQl4yHt/UloQ/dsGtr3IlQ5JXYw=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "JS 4",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/250px-J_Sports_Logo.svg.png",
-        "uri": "I4M7scAmGLnRqn/Gq/JySX1iquU2FV1GTJIxTi3/EK65cxdGus9BGMQXUFHFfOylX7nojUE4i6UNkREBWQl4yHt/UloQ/dsGtr3IlQ5JXYw=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
         "name": "MOTORSPORTS",
         "ico": "https://www.mtrspt1.com/en/dominios/mtrspt.pagegear.co/plantillas/pagegear/recursos/logo-mtrspt.png",
         "uri": "XraivxHTgpxiNVlanMV9uJWYjqYOydzfIBGhA8HpRtSk3sXggs5RHXuvH/I9ou8EKkFspMLcoKN0dmVKykMzIUFbq6RH+4NKPiqLBr2sgz0ZhU5CVUEljZRzCnhPDo2z",
@@ -5879,11 +5783,18 @@
         "drm_license_url": ""
       },
       {
-        "name": "PADEL TV",
-        "ico": "https://vhx.imgix.net/mypadel/assets/a32a0dbd-54aa-4959-a32b-128480904651.png",
-        "uri": "XraivxHTgpxiNVlanMV9uJWYjqYOydzfIBGhA8HpRtT9H6Pnk6ebeLYFAXc7E148vljyajZuhqZM3B+kM1menWkGVRgwE/wS5AiLiUXHxdyRrDPDx4TcPsulJesTIAEDuOH0W6zH6LLOeA5MX7+1xA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
+        "name": "BEIN FRANCE",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/4/41/BeIN_Sports_logo_%282017%29.png",
+        "uri": "QlU1CfbGfNthwpm/QyeTk7IBec8EniHSmUgQO98KbP0uKKUGxANnyE8PS1NoLx3z1DNP4pzmqDNPWMi2XrjvUQ==",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ES1DMRNRiFE7NE9/DsY1msVNNWaEopa7nvIKCRz7EBwVp9ixtTQ0f0fDyrwbhbPxYCZdSHQL0ii6ZvSPumlIPzfDxFcyvaLQhh/ecq9qJAzhGM8SOFTG6TIaazscW0INPQ=="
+      },
+      {
+        "name": "BEIN FRANCE 2",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/4/41/BeIN_Sports_logo_%282017%29.png",
+        "uri": "QlU1CfbGfNthwpm/QyeTk7IBec8EniHSmUgQO98KbP0uKKUGxANnyE8PS1NoLx3z1DNP4pzmqDNPWMi2XrjvUQ==",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EekMfMEsEu12ch/WwZSVFf6BaOxRG7lns6c6EpsKLPDrZjPecO3H6SLi01u60vlfEZ0c0dcdfLSUXO0B2qdwPjux2SRKXe45n5M+nc6K4+OHuFhawym+kY+T/VESW+SyRA=="
       },
       {
         "name": "SETANTA SPORTS 1",
