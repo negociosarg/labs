@@ -4042,6 +4042,96 @@
     ]
   },
   {
+    "name": "🇺🇾 RADIOS URUGUAY",
+    "mode": false,
+    "lista": [
+      {
+        "name": "Aire (Montevideo)",
+        "ico": "https://cdn.instant.audio/images/logos/radios-com-uy/aire-montevideo.png",
+        "uri": "NPWpKuegPfregKwI7OsCNg6RaYH9Wl98IWOVF5lj+fExI4ZPZeIVSLvtLPm2r9Qz",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Aspen (Punta del Este)",
+        "ico": "https://cdn.instant.audio/images/logos/radios-com-uy/aspen-punta-del-este.png",
+        "uri": "05kDJLattigN03jrTqkjiE6hnO0ZRplWojneWMjP487ebr3spzi1OQd2omIMZSIng7xlwAueYrs6Tjt6xKYsNQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Carve (Montevideo)",
+        "ico": "https://cdn.instant.audio/images/logos/radios-com-uy/radio-carve.png",
+        "uri": "tjRnsnQqrXakjHuyuhuJxBKgyI2HEutNU68TXj3RI6nFpeQyl00h4RLgivc6/BQf",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "FM HIT 90.3",
+        "ico": "https://cdn.instant.audio/images/logos/radios-com-uy/fm-hit-90-3.png",
+        "uri": "m9ni5yRraPRhGn/Qsgjio5wN9fOPfaNRRnEcfHC9cJI=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "FM Ideal (Santa Lucía)",
+        "ico": "https://cdn.instant.audio/images/logos/radios-com-uy/ideal-canelones.png",
+        "uri": "05kDJLattigN03jrTqkjiMJpX1yINgxeb0QahzX5/VdDY3FDWlHjiBiwyxNTecBExCoH5qgiUi7MhcRsuV+xQw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "FM Inolvidable (Montevideo)",
+        "ico": "https://cdn.instant.audio/images/logos/radios-com-uy/inolvidable-montevideo.png",
+        "uri": "xHbR4Aamhe7WrcbHbh1Tw0T7dcVcZYpE8GhrWPQiuts=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Lacosta FM",
+        "ico": "https://cdn.instant.audio/images/logos/radios-com-uy/la-costa.png",
+        "uri": "ZeMLMqoxc/oKakew2FSBxKstSRrJhseMGuFt2PrYXwc=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Metrópolis",
+        "ico": "https://cdn.instant.audio/images/logos/radios-com-uy/metropolis-fm.png",
+        "uri": "UTdb84hBcXeGqmz0L3nDc90dccyLRy57V75MY5SqJfCEJrB2itu/V2N85RhDy89k",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Radio Oriental",
+        "ico": "https://cdn.instant.audio/images/logos/radios-com-uy/oriental.png",
+        "uri": "tjRnsnQqrXakjHuyuhuJxCMjPZrqqE7AYfAZt9KC7KC0AUEhj42xxulF22k53Ubz",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Radio Oriental",
+        "ico": "https://cdn.instant.audio/images/logos/radios-com-uy/futura.png",
+        "uri": "/w9l1ggass2Hs5h2d2X/kWObqug+vtx+Xur4OjIQdUm1Cn+LuWafzT4MQp799rlkQbNWKYZN/zFAzcAgG3IACTaK4llmhTqJ0Uih9+lPKQ8=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Radio Universal (Montevideo)",
+        "ico": "https://cdn.instant.audio/images/logos/radios-com-uy/universal-montevideo.png",
+        "uri": "zPi0Phxt1aW4+9jNyrXWGXy17SHYfptWmHy1M4RkWfo2ciuLygjP40aivsXb0ZnD",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Éxito FM (Paysandú)",
+        "ico": "https://cdn.instant.audio/images/logos/radios-com-uy/exito-paysandu.png",
+        "uri": "Ktvf5G1NwXfH8+zY4DiOLUfxJazJ+noLs22KCv6FDiFX2v6Ynkjx18AKtUBVNgGz",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      }
+    ]
+  },
+  {
     "name": "🇨🇱 CHILE",
     "mode": false,
     "lista": [
