@@ -4436,20 +4436,6 @@
     "mode": false,
     "lista": [
       {
-        "name": "✅ TIGO 1 EVENTOS BOLIVIA (SOLO EVENTOS)",
-        "ico": "https://i.ibb.co/Hq6qtHz/Tigo-Sports-Bol2.png",
-        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIjAtKiq2nt/JRUtg44RJGByvUj7ZINk066nJ5/MJ7uG2Q=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "✅ TIGO 1 EVENTOS BOLIVIA 2(SOLO EVENTOS)",
-        "ico": "https://i.ibb.co/Hq6qtHz/Tigo-Sports-Bol2.png",
-        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIjg6odhFzsJLuwKFxrcJqhrK4deaj1uzPtyt+mgouL5xE=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
         "name": "BOL | BOLIVIA TV OP A",
         "ico": "https://logo.iptveditor.com/cadenaa.png",
         "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIjM9vItu7dzsplXQfHajgW3SAHjxe70m7NWC88qVSQtqY=",
@@ -4520,9 +4506,30 @@
         "drm_license_url": ""
       },
       {
+        "name": "ESPN BO",
+        "ico": "https://i.ibb.co/s37NZCT/espn-1B.png",
+        "uri": "l4EWAAQ8e1uiKm558/nMVxlWmxv30zI8s78FtKxhxCNM69zseCNflaZOgKZVpiyMYfObzkrnxia4YQpZqvklefdrzSw29cKJ+8HUc8s+hUv0ic3a4wG2KDfPMpEN0mmkbS4rnqSX0cowwSxoc202xQ==",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EUje696E2Ha4AFWySIk6pUhqk67+lxtSBi1rAxWVEczFcZAx5aZxyoD11wLXoNeGJQpJV1AlrxN4qyPzJ9TLq+yhVI00Njb5f8Fh8VV8Byop4CL5C2gF8LWGCYdcp+r2JQ=="
+      },
+      {
         "name": "RTP",
         "ico": "https://logo.iptveditor.com/rtp.png",
         "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIjswYVg8oSkPeE1gV2AYD2wjdZ4AxsTi1+vtR6W5q3zTY=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "✅ TIGO 1 EVENTOS BOLIVIA (SOLO EVENTOS)",
+        "ico": "https://i.ibb.co/Hq6qtHz/Tigo-Sports-Bol2.png",
+        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIjAtKiq2nt/JRUtg44RJGByvUj7ZINk066nJ5/MJ7uG2Q=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "✅ TIGO 1 EVENTOS BOLIVIA 2(SOLO EVENTOS)",
+        "ico": "https://i.ibb.co/Hq6qtHz/Tigo-Sports-Bol2.png",
+        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIjg6odhFzsJLuwKFxrcJqhrK4deaj1uzPtyt+mgouL5xE=",
         "drm_scheme": "",
         "drm_license_url": ""
       }
@@ -5892,6 +5899,96 @@
         "name": "DUBAI RACING 3",
         "ico": "https://www.tvpolsat.info/wp-content/uploads/2021/12/abudhabisporst.png",
         "uri": "fUwPD7QS8gxjHOmg284PhHaBo1ZUj2wmC3usgu2FEkXTWXZNS0T2P8bPo0BUv5oQn69IWlwAYWbRGtBzFvVclqwSq+3M+iE7NJ6MMyzJqG/VHs1rLaU3wBICqwtcMpCm",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      }
+    ]
+  },
+  {
+    "name": "⚽DEPORTES PORTUGAL",
+    "mode": false,
+    "lista": [
+      {
+        "name": "SPORT TV1",
+        "ico": "https://intranet.sporttv.pt/cms/media/images/public/4py6mehk58gkcxqqg857yx2sxd/logo_sporttv4.png",
+        "uri": "Tr678nCoRI21oiOLUtLcMLu+/eeRgeGz/0NPcMZFjnlTORLr9jjBhJkAdtCeBQbbnuBINEFctIO++ExH9SofRg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "SPORT TV2",
+        "ico": "https://intranet.sporttv.pt/cms/media/images/public/4py6mehk58gkcxqqg857yx2sxd/logo_sporttv4.png",
+        "uri": "Tr678nCoRI21oiOLUtLcMLu+/eeRgeGz/0NPcMZFjnk4Ht/P+8AoZrS1Ck8MtMBLsWH8xW/zaq8wB8Akj5VXJA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "SPORT TV3",
+        "ico": "https://intranet.sporttv.pt/cms/media/images/public/4py6mehk58gkcxqqg857yx2sxd/logo_sporttv4.png",
+        "uri": "Tr678nCoRI21oiOLUtLcMLu+/eeRgeGz/0NPcMZFjnnWbdR6d0NkAtcMMdRmc6hJOf4ijrKC8jAxSagAzfHOxA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "SPORT TV4",
+        "ico": "https://intranet.sporttv.pt/cms/media/images/public/4py6mehk58gkcxqqg857yx2sxd/logo_sporttv4.png",
+        "uri": "Tr678nCoRI21oiOLUtLcMLu+/eeRgeGz/0NPcMZFjnnKBKMjfN6BkrvgFKixoE5brEGHql8o/7KoSCcqwXJyJw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "SPORT TV5",
+        "ico": "https://intranet.sporttv.pt/cms/media/images/public/4py6mehk58gkcxqqg857yx2sxd/logo_sporttv4.png",
+        "uri": "Tr678nCoRI21oiOLUtLcMLu+/eeRgeGz/0NPcMZFjnk2L03unG2Z3mLumECYl55uQIfrP2gfqMXEzU2R/P7rHQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "SPORT TV6",
+        "ico": "https://intranet.sporttv.pt/cms/media/images/public/4py6mehk58gkcxqqg857yx2sxd/logo_sporttv4.png",
+        "uri": "Tr678nCoRI21oiOLUtLcMLu+/eeRgeGz/0NPcMZFjnkZ+PWi+ijFTAHwwRt8mTvQIPr8CAK1BzD3Vg4MRCNXxA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DAZN 1",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
+        "uri": "eTHoL0w3rhprISPjaF1Li478R6304/iu/vx/SVUbpc2AcPUOEcEtQIUPImpNCSQC/axpd21sfEiPrvXgGMpE3g==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DAZN 2",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
+        "uri": "eTHoL0w3rhprISPjaF1Li478R6304/iu/vx/SVUbpc205hgkriWq3NMT6Ukjn8yGtwdbwD7JYfevXQJzjpCbdA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DAZN 3",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
+        "uri": "eTHoL0w3rhprISPjaF1Li478R6304/iu/vx/SVUbpc0PLdSRNDSi4lMkhO9b0emxS1YKHpCN5wNSjeQu+m2+6w==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DAZN 4",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
+        "uri": "eTHoL0w3rhprISPjaF1Li478R6304/iu/vx/SVUbpc2X66uh/6HY4IY0baOaTlAwmq+8ooQ0jP7cV9iSqRSP/Q==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DAZN 5",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
+        "uri": "eTHoL0w3rhprISPjaF1Li478R6304/iu/vx/SVUbpc2yBWF8B5feoeRpOiaxs3BNgo76szerzJ2jkW8Poh2/0w==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DAZN 6",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
+        "uri": "eTHoL0w3rhprISPjaF1Li478R6304/iu/vx/SVUbpc3e8xpySOrUGq/1HD787v1muVMERLoDW5EBPCR7Z2T8LA==",
         "drm_scheme": "",
         "drm_license_url": ""
       }
