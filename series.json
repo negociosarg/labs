@@ -1267,5 +1267,135 @@
         ]
       }
     ]
+  },
+  {
+    "name": "AMAZON",
+    "mode": true,
+    "lista": [
+      {
+        "name": "EL SEÑOR DE LOS ANILLOS: LOS ANILLOS DE PODER 1ª Temporada",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/suvlZfDAoq5vfVUrfb468KJhFlL.jpg",
+        "temporada": [
+          {
+            "name": "EPISODIO 1",
+            "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/suvlZfDAoq5vfVUrfb468KJhFlL.jpg",
+            "uri": "JFRpA0t4scng5bNIhmtikMBfyJlosvWI3JoU64kCpFDF6WHaqZ8rTtRT3ZU/v3aX5HRb4cnxByd1SGgnr4tJ/PyV6nOKF0CtzG3Y+PDh8Lc=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EPISODIO 2",
+            "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/suvlZfDAoq5vfVUrfb468KJhFlL.jpg",
+            "uri": "JFRpA0t4scng5bNIhmtikMBfyJlosvWI3JoU64kCpFDF6WHaqZ8rTtRT3ZU/v3aX5HRb4cnxByd1SGgnr4tJ/JDBtHWDPMGg16BeMwnz+t0=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EPISODIO 3",
+            "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/suvlZfDAoq5vfVUrfb468KJhFlL.jpg",
+            "uri": "JFRpA0t4scng5bNIhmtikMBfyJlosvWI3JoU64kCpFDF6WHaqZ8rTtRT3ZU/v3aX5HRb4cnxByd1SGgnr4tJ/H/i/RbvNKFHgBY8CT7GwSg=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EPISODIO 4",
+            "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/suvlZfDAoq5vfVUrfb468KJhFlL.jpg",
+            "uri": "JFRpA0t4scng5bNIhmtikMBfyJlosvWI3JoU64kCpFDF6WHaqZ8rTtRT3ZU/v3aX5HRb4cnxByd1SGgnr4tJ/OnTWV45/q7xAS6NTQYwzww=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EPISODIO 5",
+            "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/suvlZfDAoq5vfVUrfb468KJhFlL.jpg",
+            "uri": "JFRpA0t4scng5bNIhmtikMBfyJlosvWI3JoU64kCpFDF6WHaqZ8rTtRT3ZU/v3aX5HRb4cnxByd1SGgnr4tJ/D/IrganzMoyTs7AU4QJEm8=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EPISODIO 6",
+            "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/suvlZfDAoq5vfVUrfb468KJhFlL.jpg",
+            "uri": "JFRpA0t4scng5bNIhmtikMBfyJlosvWI3JoU64kCpFDF6WHaqZ8rTtRT3ZU/v3aX5HRb4cnxByd1SGgnr4tJ/K2JAjaCeXMA9exJ/8SEKPE=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EPISODIO 7",
+            "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/suvlZfDAoq5vfVUrfb468KJhFlL.jpg",
+            "uri": "JFRpA0t4scng5bNIhmtikMBfyJlosvWI3JoU64kCpFDF6WHaqZ8rTtRT3ZU/v3aX5HRb4cnxByd1SGgnr4tJ/K8HWK124+/ZOhadsv5DnJU=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EPISODIO 8",
+            "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/suvlZfDAoq5vfVUrfb468KJhFlL.jpg",
+            "uri": "JFRpA0t4scng5bNIhmtikMBfyJlosvWI3JoU64kCpFDF6WHaqZ8rTtRT3ZU/v3aX5HRb4cnxByd1SGgnr4tJ/K8HWK124+/ZOhadsv5DnJU=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          }
+        ]
+      },
+      {
+        "name": "EL SEÑOR DE LOS ANILLOS: LOS ANILLOS DE PODER 2ª Temporada",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/suvlZfDAoq5vfVUrfb468KJhFlL.jpg",
+        "temporada": [
+          {
+            "name": "EPISODIO 1",
+            "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/suvlZfDAoq5vfVUrfb468KJhFlL.jpg",
+            "uri": "JFRpA0t4scng5bNIhmtikMBfyJlosvWI3JoU64kCpFDF6WHaqZ8rTtRT3ZU/v3aX5HRb4cnxByd1SGgnr4tJ/FhpiOtN7Eb8IVI7MfIcypI=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EPISODIO 2",
+            "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/suvlZfDAoq5vfVUrfb468KJhFlL.jpg",
+            "uri": "JFRpA0t4scng5bNIhmtikMBfyJlosvWI3JoU64kCpFDF6WHaqZ8rTtRT3ZU/v3aX5HRb4cnxByd1SGgnr4tJ/Ejbt8i8N14p3KQKnz69X9Y=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EPISODIO 3",
+            "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/suvlZfDAoq5vfVUrfb468KJhFlL.jpg",
+            "uri": "JFRpA0t4scng5bNIhmtikMBfyJlosvWI3JoU64kCpFDF6WHaqZ8rTtRT3ZU/v3aX5HRb4cnxByd1SGgnr4tJ/NfLOnkIh3T8ZxhBqLhWb7g=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EPISODIO 4",
+            "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/suvlZfDAoq5vfVUrfb468KJhFlL.jpg",
+            "uri": "JFRpA0t4scng5bNIhmtikMBfyJlosvWI3JoU64kCpFDF6WHaqZ8rTtRT3ZU/v3aX5HRb4cnxByd1SGgnr4tJ/DyNZZx50NvRVGoJqJGCZBU=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EPISODIO 5",
+            "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/suvlZfDAoq5vfVUrfb468KJhFlL.jpg",
+            "uri": "JFRpA0t4scng5bNIhmtikMBfyJlosvWI3JoU64kCpFDF6WHaqZ8rTtRT3ZU/v3aX5HRb4cnxByd1SGgnr4tJ/A0lzzu0HX95LH4Rsfih8n4=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EPISODIO 6",
+            "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/suvlZfDAoq5vfVUrfb468KJhFlL.jpg",
+            "uri": "JFRpA0t4scng5bNIhmtikMBfyJlosvWI3JoU64kCpFDF6WHaqZ8rTtRT3ZU/v3aX5HRb4cnxByd1SGgnr4tJ/KFUj+U73y/Raln3T8t0biA=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EPISODIO 7",
+            "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/suvlZfDAoq5vfVUrfb468KJhFlL.jpg",
+            "uri": "JFRpA0t4scng5bNIhmtikMBfyJlosvWI3JoU64kCpFDF6WHaqZ8rTtRT3ZU/v3aX5HRb4cnxByd1SGgnr4tJ/Fjb5R5JaI5ZcJdsXHtkDVs=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EPISODIO 8",
+            "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/suvlZfDAoq5vfVUrfb468KJhFlL.jpg",
+            "uri": "JFRpA0t4scng5bNIhmtikMBfyJlosvWI3JoU64kCpFDF6WHaqZ8rTtRT3ZU/v3aX5HRb4cnxByd1SGgnr4tJ/OqL8iq+Z8sbpkf0L4fMDhA=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          }
+        ]
+      }
+    ]
   }
 ]
