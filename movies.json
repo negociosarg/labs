@@ -1256,5 +1256,123 @@
         "drm_license_url": ""
       }
     ]
+  },
+  {
+    "name": "❇️DOCUMENTALES",
+    "mode": false,
+    "lista": [
+      {
+        "name": "ANTES QUE SEA TARDE",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eEZt3AmPUeGLTMO9ZBirlzinYW1.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhUUaogo2Mnw++H6zTdMhELE=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CHIVAS: LA PELÍCULA",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/go1s43XbczYq84vVwZGCg0IGKKW.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhV+V1tZoNKyaJiyeHkKXzPQ=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DIEGO MARADONA",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9SRu5YKrA2qQoGBssEJQc3h04cd.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhYL2oFQIU247gp8m0IYpvNk=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "EL GRAN HACKEO",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sG2CGvjq3KR0y9ZB5UpvC1PwKcs.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhdhXcKtn40PaDW1X7B25yzM=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "EN BUSCA DEL CORAL",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvRHRqI4ahmEwscylU10iaNo5RY.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhTCcH8q83rlXb5yk/NjX6qU=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "FERRARI: CARRERA A LA INMORTALIDAD",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lkN67j8e6fszSuRL7XuNMTY0oeT.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhXzAae9o4wzjfS5OrgrzE54=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "GRANDES FELINOS AFRICANOS: EL REINO DEL CORAJE",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oqnJnHow4YxztJQz5Ws1TD7hlNa.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhV/SkoAV6oHnwv06fBXllsc=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "MESSI",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bzfAwCy6bKFASP5tcF53Wehsgt2.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhWs+gP2i1LjcgYgZvwWWITg=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "MICHAEL JACKSON MEMORIAL",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kzcsTkgQjt7DDYqHf7PQcaw21z1.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhXk+n9KdnTlW4RkXZbvXxh8=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "MICHAEL JACKSON. LA VIDA DE UN ÍDOLO",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2MFDKcgTI7vqYNIT3lEbNsdLAM.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhQSt8v0Tp1ZotRbqxYH4OI8=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "MISTERIOS DEL TITANIC",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2LQtXYRpdwlsFElKMkuK9hH4v2C.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhVXB/GqZPPKNKGJD0lC9ao8=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "OCÉANO SALVAJE 3D",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A2VCimOYGC8PDi9yn5mKTYvYh0D.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhTIgbZ1PPwygmC2J6Rk1goY=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "OSOS",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dO2JdK7MonWis9Jg2im9IcVq7eJ.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhY2t83frKITW1L9wVrqSeBw=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "PLANET FIFA",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ijVec9tn69e2JibP0QFZ9soFDAh.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhZ+tsq4roxouCYc34M7HLgE=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "RONALDO",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iFt1uxhtdLxfyGRA7PQLI5F3aCp.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhVMyxUXGOFDJ34PHpm5aYDE=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TITAN, LA PELICULA DE MARTIN PALERMO",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vskedpPE42ciXk91NnzEQXWBm0G.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhWgY0tQqYkxDkkIyEBCtjnY=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      }
+    ]
   }
 ]
