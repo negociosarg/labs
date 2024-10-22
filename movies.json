@@ -17,6 +17,14 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+  {
+    "name": "Alien: Romulus LAT",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8PYqGSd8MOm5ce8io4qNSAiSExW.jpg",
+    "uri": "65QfB985J8EeRP9jnpA5a13rh5kFr91HhNcJjx4UCLXGoK3EaoMGogbW4YYjcZ+zon4md9qIDfdiFbpReiBt4+RHHSArzPvq1UaSazG7Np0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+
       {
         "name": "ALERTA AMBER",
         "ico": "https://image.tmdb.org/t/p/w400/7rvfugoxG5Omr0QQJk9BdSu1g3Y.jpg",
@@ -185,6 +193,13 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+{
+    "name": "Migración: un viaje patas arriba",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/brAqSBoSXzxEYV6rGYwbRvhlXCE.jpg",
+    "uri": "65QfB985J8EeRP9jnpA5a13rh5kFr91HhNcJjx4UCLXGoK3EaoMGogbW4YYjcZ+zV+Hg8Tj0+Z9stYnorq1hYudsxwto6Ufn+QyTR00TbCA=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "PRESA (2024)",
         "ico": "https://image.tmdb.org/t/p/w400/uMILqn3ArGkfDSteAlqsL2WiINT.jpg",
