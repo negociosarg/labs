@@ -811,138 +811,6 @@
     "mode": false,
     "lista": [
       {
-        "name": "CAPITÁN AVISPA",
-        "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/zmthz3CuFljmBQcfuaz4hBNwbQ0.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpc7mlIn3sYcIQEIun5tbQ3v1X9fPfkqyNR/d1aOFe1B1Y=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CARNADA",
-        "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/mehUdQGRSbxTTOgT3zCctg5uj3F.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpc7mlIn3sYcIQEIun5tbQ3v9Hjf6A0nvFtroQd1JQVxHA=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "DEADPOOL & WOLVERINE",
-        "ico": "https://image.tmdb.org/t/p/w780/9TFSqghEHrlBMRR63yTx80Orxva.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpc7mlIn3sYcIQEIun5tbQ3v9BxRHEwyYWRPstRKktWa/4=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "DETONANTES",
-        "ico": "https://image.tmdb.org/t/p/w780/mOXgCNK2PKf7xlpsZzybMscFsqm.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpc7mlIn3sYcIQEIun5tbQ3v10/4HQIyUdgFqADRJuGur0=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "EL PODEROSO VICTORIA",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uAnwuVnnJ52ro72DaVUXKmBHnzq.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpc4Wx/rhq7+W9dXZE1AcdylELBI7y5OnWYgdW6hYcgGfI=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "GRANDES ESPÍAS: MISIÓN ITALIA",
-        "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/ghlwOez45gndnAp3aPMzg5kxMjp.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpc7mlIn3sYcIQEIun5tbQ3v6ij5Orrs57puwJr2S38xPY=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "HORIZON: AN AMERICAN SAGA - CAPÍTULO 1",
-        "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/pk7CvqHJZGfEwWyn5Dfnp8PVb0I.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpc7mlIn3sYcIQEIun5tbQ3vxYlH+YjGzNGIV8f1Mjt8os=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LA HERENCIA",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A4SJSOxYT4uoUJo7KvMrVnIxP69.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcCqOJYx14nLcwuiGyXbofYaT7qJXlEmMC/6iP8qX5FCM=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LA JOVEN Y EL MAR",
-        "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/oyQXRZD0CHC4sf3lMph3X3cJzSw.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpc7mlIn3sYcIQEIun5tbQ3v161IAuZ1ECjGW+7at+Vo5Y=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LOBOLA MAN",
-        "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/9QusyGRq3X8zmbrqGM1ynGuPFB5.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpc7mlIn3sYcIQEIun5tbQ3v6WqU9N863aN1eOtW4r0A3c=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "MAXXXINE",
-        "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/jDw7wTs3qg7M06uQyoMvBpT2Y6U.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpc7mlIn3sYcIQEIun5tbQ3v30E4mOkcts/Fwvhk968VMA=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "PRESA",
-        "ico": "https://image.tmdb.org/t/p/w780/uMILqn3ArGkfDSteAlqsL2WiINT.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpc7mlIn3sYcIQEIun5tbQ3v2J3StY2K/cKO5bQ0pzD0x4=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "RESCATE IMPOSIBLE",
-        "ico": "https://image.tmdb.org/t/p/w780/syKwepJwzvoYhPLBfUy4YYSrstr.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpc7mlIn3sYcIQEIun5tbQ3v3uy0MOzkNe6EZRvxTHUpXA=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "SKYWALKERS: UNA HISTORIA DE AMOR",
-        "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/ot8WWwG8SllHGXowtgMz9vWcrJJ.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpc7mlIn3sYcIQEIun5tbQ3v91Mx11lI2qDx15cg622pNo=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "SOLO UNA NOCHE DE JUEGOS",
-        "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/d6mQAufyjfqGhRcvqTKAmUV6QRo.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpc7mlIn3sYcIQEIun5tbQ3v9GQZYnCZQeKz89wCGVOzW0=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "SOUTH PARK: EL FIN DE LA OBESIDAD",
-        "ico": "https://image.tmdb.org/t/p/w780/iNHa3E72FFVmOz7jmjXnNU27ys1.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpc7mlIn3sYcIQEIun5tbQ3vxJCTTo7f7kkPeHhReOdsgc=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "UN ASUNTO FAMILIAR",
-        "ico": "https://image.tmdb.org/t/p/w780/yCwx4wq3LjrBYewMdW6krgiEfhM.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpc7mlIn3sYcIQEIun5tbQ3v3zkB/kTCRUHP9401O1CgPI=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "UN CRIMEN ARGENTINO",
-        "ico": "https://image.tmdb.org/t/p/w780/1iGVhDwTaLMPYVK2DeOLa1uAKjN.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcZGJd8TWZ8Mg6t+/9Hs0CSS/m6YOZjVsvM52DgeQb/sU=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      }
-    ]
-  },
-  {
-    "name": "⭐ESTRENOS 2024 VII",
-    "mode": false,
-    "lista": [
-      {
         "name": "TORNADOS(2024)",
         "ico": "https://image.tmdb.org/t/p/w400/50xgtaDR0xJkLSVghdTGUeMoPHP.jpg",
         "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpc7mlIn3sYcIQEIun5tbQ3v0hwvuxLKX2eXSXfjk5trX4=",
@@ -981,6 +849,235 @@
         "name": "GARFIELD: FUERA DE CASA",
         "ico": "https://static.wikia.nocookie.net/doblaje/images/e/e2/Garfield_2024_Poster_Final.jpg/revision/latest/scale-to-width-down/1000?cb=20240412162513&path-prefix=es",
         "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpc7mlIn3sYcIQEIun5tbQ3v12CJE12BbM4FR4HLtfSmcE=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      }
+    ]
+  },
+  {
+    "name": "🎸CONCIERTOS",
+    "mode": false,
+    "lista": [
+      {
+        "name": "OZZY OSBOURNE - SPEAK OF THE DEVIL",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2rvPFCsGz9sD6t9WJGAjjyoLWCu.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhTSjmpvps9pO0aqCfw7Rr4I=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DURAN DURAN: LIVE FROM LONDON",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kpnLXL0Jt1mLOgHqFBe3Jgafp1V.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhTpPxkjFJ1JFoWcUjmVEkg0=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "LADY GAGA AT THE BBC",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AgNlq2fOSEWDo1YxTzON1j4FqW2.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhTPzRFulUeyy+rzy9yG6v2Q=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "MADONNA: MDNA WORLD TOUR",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/trRielQED9VWOpW8d6PThciQwze.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhblMMa5otAIKxBSg6ULL8So=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "RICARDO ARJONA VIÑA DEL MAR, 2015",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lmUDvk4BRZVU5wbgDXnhJgMJt9G.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhTWq/h967HgherGCSLzen6U=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "RICKY MARTIN - BLACK AND WHITE TOUR",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mLzyi7LziYeHZEnY9OeDGrZSP3C.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhZaPLaUcn6oJhStTkfX4lmo=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "JUAN LUIS GUERRA FESTIVAL DE VIÑA DEL MAR",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQuFdDfalBXjMBy0vxAdQjYNdZO.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhZlfVknn2bPMrigWKuti6Y4=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "LAURA PAUSINI FESTIVAL DE VIÑA DEL MAR",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8hKqtOzeqkcmCh4ZOlCpYwCITei.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhWb7rG1G+znqS5mmMvBhNHs=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "FAITH NO MORE – LIVE HELLFEST 2015",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLCNFSHfk4v1YcXLtZ69xsBvCkd.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFluDCT+zJALnGdyrOGra4WnilxvZAdOMu8Q474cLL9wXuM1Znw7dKzdNNLzCurJ9E=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "LUIS MIGUEL: VIVO",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dVtKCl5vV8XnqaWXnFTaFhg0XBd.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFluDCT+zJALnGdyrOGra4WnilxvZAdOMu8Q474cLL9wb66vWb90MwVS8i8ghSK56Y=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "JULIO IGLESIAS - LIVE IN JERUSALEM",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iDTDXxIv85Xj9KiBNlI27nwpglP.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFluDCT+zJALnGdyrOGra4WnilxvZAdOMu8Q474cLL9wVyU+I6jP8H228EaaEssHQY=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "SODA STEREO: GIRA ME VERÁS VOLVER",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JgQIgFYOmm3BddZpNJZTj19TrB.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhS7qvnRsIBCgd+lnX2ykjrE=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "MICHAEL JACKSON: LIVE IN BUCHAREST - THE DANGEROUS TOUR",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iF58vbVsnIgApB8Corlnq3Ml0P9.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhfTekyPC5PCs/cKikhuRROw=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "GLORIA TREVI | EN CONCIERTO",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJTuvjfuh2zn87eBIDahg4nTOvf.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhfVrUaNxdgoY6gKpRC4j/qs=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      }
+    ]
+  },
+  {
+    "name": "🧒DC & MARVEL",
+    "mode": false,
+    "lista": [
+      {
+        "name": "Batman",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mo7teil1qH0SxgLijnqeYP1Eb4w.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcCqOJYx14nLcwuiGyXbofYQ6waZHzwKlCacUw5EgzLoo=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Batman Vuelve",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gTdEE0qGuagjMnzKNGYR6uaBITA.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcCqOJYx14nLcwuiGyXbofYZUWuCvhfnvYEQFSP13jzOw=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Batman Y Robin",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJAvyXHdIjeKHS07Dlim7LETBEK.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcCqOJYx14nLcwuiGyXbofYauNd8E2QAwcqTMuJT8XkIk=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Capitán América: El Primer Vengador",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5eSA5DK5iAv53SB4yv57bN56o6.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcZGJd8TWZ8Mg6t+/9Hs0CSfgLxXIBsnsJqQYCXoGDtfg=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Deadpool",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3TUYy0XvhPQBhrXJwRIaOoYFOBO.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcCqOJYx14nLcwuiGyXbofYThrBefh4S/gBRrzR6zcCn4=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Doctor Strange",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wJEZI3PWyMW7qcW6n9jyCh7Cclf.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcCqOJYx14nLcwuiGyXbofYUJix6v1xSiGSx+h9Ky4wVc=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Los 4 Fantásticos",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ij3Nl6Jlx3CJBwXbIFaYYz1acna.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcCqOJYx14nLcwuiGyXbofYWY6oZWc+kCDPdEhGg/44qY=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "LOS VENGADORES",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugX4WZJO3jEvTOerctAWJLinujo.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcZGJd8TWZ8Mg6t+/9Hs0CSTsIUnX/Reo6kx6Ex2Grfxo=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Mundo Prodigiosa: Las Aventuras De Ladybug En Nueva York",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mFoxoluhrUYHJNIfE1j1ZikdLeo.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpc7hy+p1FLPxFCAFa+iW85kf2K84211cbYTJWGrDtYwoQ=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Prodigiosa: Las Aventuras De Ladybug: La Película",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bVlB5J2KYkbwBnWJSJEAbvPFaqm.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcZGJd8TWZ8Mg6t+/9Hs0CSbc/N+Ld1G/qOh2Y6BZ7+X0=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Spider-man",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bCDaKZLRkrVVtPNyHxUfKvepW1N.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcCqOJYx14nLcwuiGyXbofYT921hBE6nhuuBM8cYFAVm8=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Spider-man 2",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p9R3lUNzpHnivyGpKwEPUNGdmmH.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcCqOJYx14nLcwuiGyXbofYeMlzqs3z8kqxIoehRN8mlg=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Spider-man 3",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lkuQzlShE2uzJcsZYU4zBI4VQZP.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcCqOJYx14nLcwuiGyXbofYXDCNnUq57woUFAlZwYQty0=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Spider-man. Lejos De Casa",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKVR1ba3W1wCm9bVCcpnNvxQUWX.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcCqOJYx14nLcwuiGyXbofYSo84W5zfN+XTsed/cS7zC0=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Thor",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qFAVW4XJaxhj7PcpiUI5hhO9bOX.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcZGJd8TWZ8Mg6t+/9Hs0CSa2/2SFBTuk/64tSShz4adE=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Vengadores: Infinity War",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ksBQ4oHQDdJwND8H90ay8CbMihU.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcZGJd8TWZ8Mg6t+/9Hs0CSd5das5ne+7oqopBPdMiafs=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Vengadores: La Era De Ultrón",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Lz6h5rlCFNNyCZRaRJ2ZjtBnAE.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcZGJd8TWZ8Mg6t+/9Hs0CSeCU7RM7Ylj2OnuOKtvgwoQ=",
         "drm_scheme": "",
         "drm_license_url": ""
       }
@@ -1155,131 +1252,6 @@
         "name": "Tod Y Toby 2",
         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pqPdNJG8XC7cklobrB5pk8ML1Ij.jpg",
         "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYb4vyHDklsQ7vFzKayFa/wg=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      }
-    ]
-  },
-  {
-    "name": "🧒DC & MARVEL",
-    "mode": false,
-    "lista": [
-      {
-        "name": "Batman",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mo7teil1qH0SxgLijnqeYP1Eb4w.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcCqOJYx14nLcwuiGyXbofYQ6waZHzwKlCacUw5EgzLoo=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "Batman Vuelve",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gTdEE0qGuagjMnzKNGYR6uaBITA.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcCqOJYx14nLcwuiGyXbofYZUWuCvhfnvYEQFSP13jzOw=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "Batman Y Robin",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJAvyXHdIjeKHS07Dlim7LETBEK.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcCqOJYx14nLcwuiGyXbofYauNd8E2QAwcqTMuJT8XkIk=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "Capitán América: El Primer Vengador",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5eSA5DK5iAv53SB4yv57bN56o6.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcZGJd8TWZ8Mg6t+/9Hs0CSfgLxXIBsnsJqQYCXoGDtfg=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "Deadpool",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3TUYy0XvhPQBhrXJwRIaOoYFOBO.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcCqOJYx14nLcwuiGyXbofYThrBefh4S/gBRrzR6zcCn4=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "Doctor Strange",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wJEZI3PWyMW7qcW6n9jyCh7Cclf.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcCqOJYx14nLcwuiGyXbofYUJix6v1xSiGSx+h9Ky4wVc=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "Los 4 Fantásticos",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ij3Nl6Jlx3CJBwXbIFaYYz1acna.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcCqOJYx14nLcwuiGyXbofYWY6oZWc+kCDPdEhGg/44qY=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LOS VENGADORES",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugX4WZJO3jEvTOerctAWJLinujo.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcZGJd8TWZ8Mg6t+/9Hs0CSTsIUnX/Reo6kx6Ex2Grfxo=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "Mundo Prodigiosa: Las Aventuras De Ladybug En Nueva York",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mFoxoluhrUYHJNIfE1j1ZikdLeo.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpc7hy+p1FLPxFCAFa+iW85kf2K84211cbYTJWGrDtYwoQ=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "Prodigiosa: Las Aventuras De Ladybug: La Película",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bVlB5J2KYkbwBnWJSJEAbvPFaqm.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcZGJd8TWZ8Mg6t+/9Hs0CSbc/N+Ld1G/qOh2Y6BZ7+X0=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "Spider-man",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bCDaKZLRkrVVtPNyHxUfKvepW1N.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcCqOJYx14nLcwuiGyXbofYT921hBE6nhuuBM8cYFAVm8=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "Spider-man 2",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p9R3lUNzpHnivyGpKwEPUNGdmmH.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcCqOJYx14nLcwuiGyXbofYeMlzqs3z8kqxIoehRN8mlg=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "Spider-man 3",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lkuQzlShE2uzJcsZYU4zBI4VQZP.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcCqOJYx14nLcwuiGyXbofYXDCNnUq57woUFAlZwYQty0=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "Spider-man. Lejos De Casa",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKVR1ba3W1wCm9bVCcpnNvxQUWX.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcCqOJYx14nLcwuiGyXbofYSo84W5zfN+XTsed/cS7zC0=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "Thor",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qFAVW4XJaxhj7PcpiUI5hhO9bOX.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcZGJd8TWZ8Mg6t+/9Hs0CSa2/2SFBTuk/64tSShz4adE=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "Vengadores: Infinity War",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ksBQ4oHQDdJwND8H90ay8CbMihU.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcZGJd8TWZ8Mg6t+/9Hs0CSd5das5ne+7oqopBPdMiafs=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "Vengadores: La Era De Ultrón",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Lz6h5rlCFNNyCZRaRJ2ZjtBnAE.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcZGJd8TWZ8Mg6t+/9Hs0CSeCU7RM7Ylj2OnuOKtvgwoQ=",
         "drm_scheme": "",
         "drm_license_url": ""
       }
