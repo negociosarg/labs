@@ -3843,13 +3843,13 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-      {
-        "name": "GOL TV",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/800px-GOLTV.png",
-        "uri": "80izxiPSTbZzuaXybmCUxOZvjZcgSvUjD0dItWa2tktZvB3jE2GCsvqCVUFovRn8by/3h/4AOqqclpKZ9tRAp62Yp9F5JqeE6nQsJfFj87RqGQ9vnktGiMXSxzODUdlIhgEemXIKEyMkK57GVrwLjSc+weL2z8VwTUK5qutLPxYRPCjUdCI24ll9x6iKqohY",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
+  {
+    "name": "GOL TV",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/800px-GOLTV.png",
+    "uri": "Z4s327Vn+xQqhY1oCZ8+XEkzbV7qY+9wMDT5hUhc1JihdXKKqxTbmoc8vHQ0si3u3JShZcesC5+7mN+sLfD6lA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "CAMPEONATO URUGUAY 1",
         "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
