@@ -10,13 +10,21 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-      {
-        "name": "ALIEN: ROMULUS (2024)",
-        "ico": "https://image.tmdb.org/t/p/w400/8PYqGSd8MOm5ce8io4qNSAiSExW.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpc7mlIn3sYcIQEIun5tbQ3v6zQS9IFb74XH1DoRaXzGn8=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
+ {
+    "name": "ALIEN: ROMULUS HD (2024)",
+    "ico": "https://image.tmdb.org/t/p/w400/8PYqGSd8MOm5ce8io4qNSAiSExW.jpg",
+    "uri": "lVJnsU2LqaHu7jPtfVw+Ejb1D4Mbi2lILf3NA/rztskg9GK7B41YXK0SVPvOBiCPuTS4uH7KmqOKxwc2pBrbZnM3kfU96uuYIWp4aIde6To=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "ELIJO CREER (2024)",
+    "ico": "https://image.tmdb.org/t/p/w780/eLbDSu14EZ2VldIgDDGrt5pJkoL.jpg",
+    "uri": "lVJnsU2LqaHu7jPtfVw+Ejb1D4Mbi2lILf3NA/rztskg9GK7B41YXK0SVPvOBiCPuTS4uH7KmqOKxwc2pBrbZunrGL5QzAaKzCLHa7rPGuk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+
       {
         "name": "ALERTA AMBER",
         "ico": "https://image.tmdb.org/t/p/w400/7rvfugoxG5Omr0QQJk9BdSu1g3Y.jpg",
