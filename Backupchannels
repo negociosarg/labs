@@ -1061,74 +1061,11 @@
     "mode": false,
     "lista": [
       {
-        "name": " Canal 22 Buenos Aires",
-        "ico": "https://static.wikia.nocookie.net/tvficticia/images/9/94/Canal22.png/revision/latest?cb=20230606194222&path-prefix=es",
-        "uri": "i8XeAu/e1buXKjKBsFH6FG6mT9Lb5FwyZ6Aab3rDATF6GGrvp564/Yw+hWaDGn79qOLNss14l1OuIjs6T1T3t8CLZImjLI9JoVdWksMIx/3ea5JhinTzCb8ne/2ip+ZN",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "2 MAR DEL PLATA",
+        "name": "CANAL 2 MAR DEL PLATA",
         "ico": "https://i.ibb.co/qN6hyqk/canal2mdp-jpg.png",
         "uri": "FTu3LsLvfdIiqlG1vbUiv/rHZfWrUO8yZOED+IYe1I7EoffRHyxB4RCJBnTfPDSug21nJ0cvrehkZNRYfLX/ng==",
         "drm_scheme": "",
         "drm_license_url": ""
-      },
-      {
-        "name": "9 DIGITAL",
-        "ico": "https://imagedelivery.net/oLOMq1mQoHbW_udmoWxC0w/3c8f9a56-e985-41d0-3bfd-5c829f00e700/w=9999",
-        "uri": "s4VbPQWRVxvY7ssoq1pec6249ptKNv+Ou1p+LaT46cCSwn2NqKaauphgfyddA+36Q+t6tY2P6DwMVCoVq169cr9h0t37eKCf06sT6xhLl0ftKwgwY8TR29xZSq8tNgBu/8S64JRVdQM2zugcs68kBQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "9 TELEVIDA MENDOZA",
-        "ico": "https://www.elnueve.com/images/logo-canal-9-televida-mendoza.png",
-        "uri": "bdn50+CnMW/B+oMbu7isDzMgswfbvFglyz3CMz7Q3w/jMmbniiGXhwqjnbb9ELpPwDF0WMt/u0yIaBxgoTtBQwrK5xdeCIYJ9xWVg3O6r1oHrMOPUYFgPsTWlJq289E9",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "11 PARANÁ",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_ELONCE_Paran%C3%A1.png/600px-Logo_ELONCE_Paran%C3%A1.png",
-        "uri": "yXzxqK0HuCWoip3kZ+ZlnB+qvjeeHPrJin4Dr3TYZfscpP+HtvpMIzBzl8k3d1VdwmIash3Su8V8zPVpy0acmnD1aTVWjBQWuvRhtWw7Uhrpj7CPil/eZxPeSJhhewxN13gl6UzxcmFfh1CD4cwFJOB0oj41YdwgAmL8frnSeo57mWuqCurzIegKVlPhwtf9t+f1M5lESABDsvfxC4koXWtAXxoqPXM2wv7kZfCN223WwVpdG18dp99w7QcSaUO8CJcsh69eFh1hDJaJftelAC+4FGIc69cBdlGy8C3XsFKO9802Fif1O2ZdFkmVBAAGyr/PrMH5Yey9yDfJ3+8/0Pi4D+QYcX5ardrF5VsXOPa5O/9tqvVeh55AaeK201JeWm/exhRjQSBsV1hDAlZ1iAjBuITjU3qpWbnOg0NsZgbGGqyGYhUmZD46E+ALExy7165AlkUfB2YqNpzfjn+w3xewCRzEU+QKSnew7CoDZ0iqFRKl4oXkGnpYuW2f2sawvUjOnM1ewppkd3A3VOzTw50YBvHweuK+s9+7PrlVjysddarshXqOEy/im91ENDDqmsV7Pz9Yil3n62Vfs57X2NemxtC+1o18KO01dlKWL4oU6D7rvooH/GWYL0pluL8Dffqq0AbCw+O6y8bpHjSWafE9OfHNn1yrw5mOe/aa5hwQVgWErlFBGkJkihI6lj+G8dFxJPv9nc33u3sKYaMya3PSxIEUUK7HEdM8vxW6tafz1PlrWvSYEon6kfN7gS9ffp+9xA/ecAQoTOmxn9F82y557HEjplLAwONMYgaJ6nbJWkFiBRKq/fdF8t6ub1+oNyuKtVom3T3UE0Aqd35OjSqR6h4VFayKHr4qNT4o3bWO7K1oEGMDVHuKr5E1dsyMKne5I/XCDnWWPBMzT9ISxmJjPq8bnj+hCmHQtRSOBJirc2TTs2z6wUErsbZBRsO5P5H+14cQY9mqUeKEv0R+nI9vg+ozVz5I7f7FAFlyt/RAtMuCGZp4oH0muAJHc6UZfsBEBiNff3YeM3dTbNZH+E5NvqR7sGrjLmfCujQMo60Bcsem29RXE1eObOHIkr/Y",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "13 Max Televisión",
-        "ico": "https://static.tvar.io/imagenes/13maxdigital.png",
-        "uri": "rPBZo0odVaF+jzhVwDZJ7emEGLWo0tWV3ocZCdYuRwCC5CEa+mwVu9xrg6CLkIq04DB/CaonaTDq7fxLElWUvxx+lB9LtvSo8STpIXxOe4A=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "Albardon TV",
-        "ico": "https://static.tvar.io/imagenes/albardontv.png",
-        "uri": "61tajS+n66PsElonbuZ3nYD1ki68Yt1LdAMYgoq1zaRfmPwmBi1vw9ia7GxDlyxru0Npy5lfnIzpf3e3PEjt4w==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "ARGENTINISIMA SATELITAL",
-        "ico": "https://i.ibb.co/G0zCDL0/descarga-1.png",
-        "uri": "O4zQaBxapxoofA7Utbs4F01ypullrBHmlEf6LRsnUP5tTqTshj/MKxa8LimFaeTJa47evwFgcBaIbZclUIZRayDh0aFXU9mA4Lww0L1hjWM5ewToJLxcMpEXOkEcNhOF0GLKaMnWI0vtMZz54goF+A==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "pfccQdO0x9675khuei5j0bHDWnZD6prrECOtG7OpnMRKjbB9YGPJVBPxlMbrqSSmeT4C8TrLK85zTYk7niSPSw=="
-      },
-      {
-        "name": "BRAGADO TV",
-        "ico": "https://www.bragadotv.com.ar/images/custom/logo-social.jpg",
-        "uri": "kyrjpakqkT0ZwQnsnXcJMBfgA8bNtnFE8ECkLjy6HqbN9D7luDbArkMQbGx2z5tFilr7wLNMTphrO8RcQ6cptWG12gVFL9EAIJY+0tOgdHY=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "BRAVO TV",
-        "ico": "https://television-libre.online/img/bravotv.png",
-        "uri": "O4zQaBxapxoofA7Utbs4F01ypullrBHmlEf6LRsnUP7vi/4Q7QAjRRpVNS9cIhKkekL0kwv7sevzorPklI9LGqVw5zK4X6i9R9Z5YBQHUTxYMf44OgLSJ9qzns655IVI",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Eewhb0fNNsKeQ++JVRQjMYR9Ijovl0oP7yela0AEBQCZ9GJ81mMbJmPLbXb7BlaPjxb7z48UOcctewhygO9FZujo/VPDMStzki4Co/WWyMmCtrVE0RpaS92S7xzAkrAdaQ=="
       },
       {
         "name": "CANAL 2 MISIONES",
@@ -1201,6 +1138,13 @@
         "drm_license_url": ""
       },
       {
+        "name": "CANAL 7 MENDONZA",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/1/13/Elsiete.webp",
+        "uri": "I3lpRncg3wfooS2w3XLHO8gOAR37fov3NbfUj5pBJNoQW3hEeExShx6o3ePUFWz8+46cnr/WVutKqASn5g4l7q88HWIJVBqXfhiss1wxzxw=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
         "name": "CANAL 8 MAR DEL PLATA",
         "ico": "https://i.ibb.co/Xjf026r/1676293959012-jpg.png",
         "uri": "s4VbPQWRVxvY7ssoq1pec4FVL/49eT16m5CVtE4iOXH9SxOMlWj6XcPVzONbMYOq3sJcpAqQhgzaB7nGA2PfwqK3nbo7Pz8ZyduEDIGaWZN3+N060+AUo3pq6MavO3U0",
@@ -1234,6 +1178,13 @@
         "uri": "EGbTdQSc58tHgH0HJaX1fywder//z/T9Ro7QaKhLvSQdaSQImAqp1ZtEBtJui17OU2mfmNa2SN+6yNuLp5/njHUViF6zAaTMXR4synbFqwN8aaa7bAegTn6OlXiGXephAAw4ipzDmmQg277BNHPenw==",
         "drm_scheme": "clearkey",
         "drm_license_url": "pfccQdO0x9675khuei5j0eL0fFeuqbBiWAOHZ9RgjZm5wr8sN7LupT/3QgWY7Wkd2iZB9eZsZyryI3vKH7CUqgoN+mT8h0iLV9C80Xv/IyA6+b9p7PTpF0/+QK49d845NGjDYHrmbc3xdSwiNObGeLnwqN+W9OjqFemuBOvZr1s="
+      },
+      {
+        "name": "CANAL 9 MENDONZA",
+        "ico": "https://www.elnueve.com/images/logo-canal-9-televida-mendoza.png",
+        "uri": "lVJnsU2LqaHu7jPtfVw+EhzU06Sna/LEuZQhJAqoSMvCqeztOTTPG0vKvh5Q4kSW6OYvMdY+vI3YUvGT9QATi++m11S3+riM6e+P8AQI1aw=",
+        "drm_scheme": "",
+        "drm_license_url": ""
       },
       {
         "name": "CANAL 10 CORDOBA",
@@ -1292,9 +1243,23 @@
         "drm_license_url": "pfccQdO0x9675khuei5j0VYi9+o7XoX5omKNX3EO0lMoHiBSlckozTTFClrripHs8bBHylqLINwLdK47Ze17krasKu3Q5Eu/zBuTDxvuySj6fwgFnib0RYjmusCbH8ITRba8SBCS9Dt2gbeKN/ZmDT9jkfbiA71FWTbMzH6rswk="
       },
       {
+        "name": "CANAL 13 Max Televisión",
+        "ico": "https://static.tvar.io/imagenes/13maxdigital.png",
+        "uri": "rPBZo0odVaF+jzhVwDZJ7emEGLWo0tWV3ocZCdYuRwCC5CEa+mwVu9xrg6CLkIq04DB/CaonaTDq7fxLElWUvxx+lB9LtvSo8STpIXxOe4A=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
         "name": "CANAL 13 RIO CUARTO",
         "ico": "https://static.tvar.io/imagenes/canal13riocuarto.jpg",
         "uri": "tLjo5kDbct015TZtplmzUM0bjYwaoFZb6UykIDcu/sYIynlHDXp71wbVuR/hSggf0ERyE9oe6dFfxu+iCAZc4WBivOeNceVFQDs/E6i3jLA=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CANAL 22 Buenos Aires",
+        "ico": "https://static.wikia.nocookie.net/tvficticia/images/9/94/Canal22.png/revision/latest?cb=20230606194222&path-prefix=es",
+        "uri": "i8XeAu/e1buXKjKBsFH6FG6mT9Lb5FwyZ6Aab3rDATF6GGrvp564/Yw+hWaDGn79qOLNss14l1OuIjs6T1T3t8CLZImjLI9JoVdWksMIx/3ea5JhinTzCb8ne/2ip+ZN",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -1304,6 +1269,34 @@
         "uri": "OZV0um1kSs186MlH7i14fCaPykZy/adyuBXLiK2SrPm9SAdrsU4stp4eEnPvXiW7EfPImPf7md/LK24gGVPZnJHiX8lmdm5j8d82Ms6eKh4=",
         "drm_scheme": "",
         "drm_license_url": ""
+      },
+      {
+        "name": "CANAL Albardon TV",
+        "ico": "https://static.tvar.io/imagenes/albardontv.png",
+        "uri": "61tajS+n66PsElonbuZ3nYD1ki68Yt1LdAMYgoq1zaRfmPwmBi1vw9ia7GxDlyxru0Npy5lfnIzpf3e3PEjt4w==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CANAL ARGENTINISIMA SATELITAL",
+        "ico": "https://i.ibb.co/G0zCDL0/descarga-1.png",
+        "uri": "O4zQaBxapxoofA7Utbs4F01ypullrBHmlEf6LRsnUP5tTqTshj/MKxa8LimFaeTJa47evwFgcBaIbZclUIZRayDh0aFXU9mA4Lww0L1hjWM5ewToJLxcMpEXOkEcNhOF0GLKaMnWI0vtMZz54goF+A==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "pfccQdO0x9675khuei5j0bHDWnZD6prrECOtG7OpnMRKjbB9YGPJVBPxlMbrqSSmeT4C8TrLK85zTYk7niSPSw=="
+      },
+      {
+        "name": "CANAL BRAGADO TV",
+        "ico": "https://www.bragadotv.com.ar/images/custom/logo-social.jpg",
+        "uri": "kyrjpakqkT0ZwQnsnXcJMBfgA8bNtnFE8ECkLjy6HqbN9D7luDbArkMQbGx2z5tFilr7wLNMTphrO8RcQ6cptWG12gVFL9EAIJY+0tOgdHY=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CANAL BRAVO TV",
+        "ico": "https://television-libre.online/img/bravotv.png",
+        "uri": "O4zQaBxapxoofA7Utbs4F01ypullrBHmlEf6LRsnUP7vi/4Q7QAjRRpVNS9cIhKkekL0kwv7sevzorPklI9LGqVw5zK4X6i9R9Z5YBQHUTxYMf44OgLSJ9qzns655IVI",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Eewhb0fNNsKeQ++JVRQjMYR9Ijovl0oP7yela0AEBQCZ9GJ81mMbJmPLbXb7BlaPjxb7z48UOcctewhygO9FZujo/VPDMStzki4Co/WWyMmCtrVE0RpaS92S7xzAkrAdaQ=="
       },
       {
         "name": "Canal Siete Bahía Blanca",
@@ -1316,13 +1309,6 @@
         "name": "COSMOS TV SAN JUAN",
         "ico": "https://www.radio.es/images/broadcasts/af/83/36918/1/c300.png",
         "uri": "SCaNtbheutpvO+8fw3lElaKFtkeGaz2kRc+M21sp3WkjzNR8HTHDAYXjVptTYzHK",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "EL 7 MENDOZA",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Elsiete.webp/220px-Elsiete.webp.png",
-        "uri": "yXzxqK0HuCWoip3kZ+ZlnB+qvjeeHPrJin4Dr3TYZfscpP+HtvpMIzBzl8k3d1VdwmIash3Su8V8zPVpy0acmnodJT+8qN/sJRVjHu1k+SIdy1aQ3iTSL5LhXpOvNpGopC04hN7vv49MRdhkhwdjM1KQOXznK1/KyhHULv9Mj2DjmMHzva9BPt9dSdaW2HMKE6cCQAnwaftuc7nSmVQs1dZzzqWygKojZKKwMTk0EMMUocmKRK/Dk5tlnTGD4/64XdEvuN59Jh2yt+u42V7CCLRxqcOu9IJOYPaPpO8uX69TSVAcveCi0IDxxFFO0s4E5CaIPhgcaNSibEmKegjh+fH7q/BuSYJv7MA3Dkj3EMD7jJVUSju+ngmpoQOt2P+X4DuofqBHuRURQTWV0rm04GibIKEJ8GRaY1GCblRWP7Kxu/cca0lp6/qCzQnwLuAog//SR4KTjZT1fcpDo5RuhEL9nyKjGfhHrv+joCF+Yz/iRXscT2lwc8LxnOEaAvvGjg2bzXiatYeE9MfCYY9TSUT1Zp7dmt4Nq9NCb6HjIPOEDgGhOJhfsqkHAebAxZQurhYCAjryMQ/d4H24x3ZMxWm4riUDWxdltf5DbgmKYoCdZsWyHpKpQYbSl87xJ9xarQqkWnaSN/4q1zK8E0zCr9Py7OAoiT+mQbxHfOxWkhNnzyYOx0/bgcpdwwxx/Y4qAdK6c4h4YGypddsNVdRkVtUEL2kSXk0QMOV2EEehSR/ZI7KpWQm2KgPe8nQoTxzVi40uzvsIYs+DhCuuQCkWqfjW5HwvfXVSCm2Ki7pXjuu29DM4wfLVue/iShjDDxksRjWqo3sEh0oeGRu3+n/qqBjdAw53zIp6EFS8rXuLG04x5ZDmvQtfv3pcc1/Dy2PCzKrqxnVsKcKkh6xGl9pjrzuaJRhB7abfNSOALuKvND25iBCpaGCuQ4oFavowMUvFzadDukitE8DRn9Nnocf22sLDOp7kZAQk+H5ugukZ7XnHNhvA+hiNuJ1M4H1JzlvgJfV3eTnn9qkw4smpHL8BtTAfghTtefHmoEovm4Zrf14=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -2059,7 +2045,7 @@
     ]
   },
   {
-    "name": "⭕PACK UNIVERSAL Y MOVISTAR",
+    "name": "⭕PACK UNIVERSAL",
     "mode": false,
     "lista": [
       {
@@ -2108,69 +2094,6 @@
         "name": "UNIVERSAL COMEDY",
         "ico": "https://i.ibb.co/GVxjP47/universal-comedy-dark-logo.png",
         "uri": "eS0ZOrCl6lVGYy/BZQNUH87jp6VSSI4wSoST6vYppOJO5lDjRfJC2/3zSVftiCDW8EZT4BdGlEjAP0q1MRfhr5IXXBtnodnr8veJsnEMKUHmqhNVA5c2ldxbrLpfm2fp",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CINE",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Cine_por_Movistar_Plus%2B_2023_Logo.svg/1024px-Cine_por_Movistar_Plus%2B_2023_Logo.svg.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniozoHkk1wZYiAQbin0gcTu82c5fwdME52ORtSBCTAqyM=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "SERIES",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Series_por_Movistar_Plus%2B_2022_logo.svg/1024px-Series_por_Movistar_Plus%2B_2022_logo.svg.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniiJ8SCDX1+/Z8d4/MqVOAvsHjVMuKJKhZS0jCmYGl2q4=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "ACCION",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Acci%C3%B3n_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Acci%C3%B3n_por_Movistar_Plus%2B_2023_Logo.svg.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wniybws8TO0lCkJL69wLl4eedKARDk5k9dKkewdBwEz2gQ=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "COMEDIA",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Comedia_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Comedia_por_Movistar_Plus%2B_2023_Logo.svg.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnioywK8RFIhS5Y5TcMR9T3gdEQkx6FYxvNQ3kDc8BuOLs=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "COMEDIA",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Comedia_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Comedia_por_Movistar_Plus%2B_2023_Logo.svg.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniIi7LIpe0JXZFcvMtXreau9NuMgw8OIVUeA4LxW44o1U=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "COMEDIA",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Comedia_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Comedia_por_Movistar_Plus%2B_2023_Logo.svg.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wni7toGcianRRvRa6SYIdMxB0rjCH3ZwcYSTE3bJHN6LXw=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "DRAMA",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Drama_por_Movistar_Plus%2B_2023_Logo.svg/1024px-Drama_por_Movistar_Plus%2B_2023_Logo.svg.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniEBsOdhHdOUAQk5vw4HfBgQEpCh0+OaD/CjlB0C8z9W4=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "DRAMA",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Drama_por_Movistar_Plus%2B_2023_Logo.svg/1024px-Drama_por_Movistar_Plus%2B_2023_Logo.svg.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniB0wAiPcSAEv4l4h+ruK4BpBSEbtIfd3wIJqF1J4p3H0=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CINE",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Cine_por_Movistar_Plus%2B_2023_Logo.svg/1024px-Cine_por_Movistar_Plus%2B_2023_Logo.svg.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniCP+gylQCZ8QKcV8FS0ztzcO5hW9rENiVxRaRcuvBTyI=",
         "drm_scheme": "",
         "drm_license_url": ""
       }
@@ -3330,62 +3253,6 @@
     "mode": false,
     "lista": [
       {
-        "name": "COPA DE PRIMERA 1",
-        "ico": "https://4.bp.blogspot.com/-6BQv5SOuxn4/XEs537Yz01I/AAAAAAABT-c/aol0uy0p_l8gSbrYVLhz4qu5-GpyGG3lQCLcBGAs/s1600/Copa%2Bde%2BPrimera.png",
-        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIjYiC18LrvFEivh/evLrOa8uEv9mMed2RDU/FcK2qxf3w=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "COPA DE PRIMERA 2",
-        "ico": "https://4.bp.blogspot.com/-6BQv5SOuxn4/XEs537Yz01I/AAAAAAABT-c/aol0uy0p_l8gSbrYVLhz4qu5-GpyGG3lQCLcBGAs/s1600/Copa%2Bde%2BPrimera.png",
-        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIjnzCO36EZJEN1eQtx0vxRYAeZSKlDeNylFr7Ds4KA2yk=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "COPA DE PRIMERA 3",
-        "ico": "https://4.bp.blogspot.com/-6BQv5SOuxn4/XEs537Yz01I/AAAAAAABT-c/aol0uy0p_l8gSbrYVLhz4qu5-GpyGG3lQCLcBGAs/s1600/Copa%2Bde%2BPrimera.png",
-        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIj3z978s9eiGN2YZHFT0WQtzMpGW4JHVbIQQ4R8b4AXrA=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "COPA DE PRIMERA 4",
-        "ico": "https://4.bp.blogspot.com/-6BQv5SOuxn4/XEs537Yz01I/AAAAAAABT-c/aol0uy0p_l8gSbrYVLhz4qu5-GpyGG3lQCLcBGAs/s1600/Copa%2Bde%2BPrimera.png",
-        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIjp0jpqcVF2QaJEv4G8fnNr5S/dutx9E+2nI/CqA39Oyg=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "COPA DE PRIMERA 5",
-        "ico": "https://4.bp.blogspot.com/-6BQv5SOuxn4/XEs537Yz01I/AAAAAAABT-c/aol0uy0p_l8gSbrYVLhz4qu5-GpyGG3lQCLcBGAs/s1600/Copa%2Bde%2BPrimera.png",
-        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIjnzCO36EZJEN1eQtx0vxRYAeZSKlDeNylFr7Ds4KA2yk=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "COPA DE PRIMERA 6",
-        "ico": "https://4.bp.blogspot.com/-6BQv5SOuxn4/XEs537Yz01I/AAAAAAABT-c/aol0uy0p_l8gSbrYVLhz4qu5-GpyGG3lQCLcBGAs/s1600/Copa%2Bde%2BPrimera.png",
-        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIjCcNcB3ZqCFqBcwABOKZMc45i1mN3n+6vaROAOYVXCu0=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "COPA DE PRIMERA 7",
-        "ico": "https://4.bp.blogspot.com/-6BQv5SOuxn4/XEs537Yz01I/AAAAAAABT-c/aol0uy0p_l8gSbrYVLhz4qu5-GpyGG3lQCLcBGAs/s1600/Copa%2Bde%2BPrimera.png",
-        "uri": "9tjrwbvDv4zraNQfB4Hs+g8KyfM6V2tTv+VHqTAkwwAa2tUSOv3Edsg5Gsq85IFYVyBzYErbFRprQodXL9QJcw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "COPA DE PRIMERA 8",
-        "ico": "https://4.bp.blogspot.com/-6BQv5SOuxn4/XEs537Yz01I/AAAAAAABT-c/aol0uy0p_l8gSbrYVLhz4qu5-GpyGG3lQCLcBGAs/s1600/Copa%2Bde%2BPrimera.png",
-        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIjA79APMx2M4QsUiU6j3IDoG82sdYQiph9uixCPkZzwPA=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
         "name": "TIGO SPORTS",
         "ico": "https://4.bp.blogspot.com/-6BQv5SOuxn4/XEs537Yz01I/AAAAAAABT-c/aol0uy0p_l8gSbrYVLhz4qu5-GpyGG3lQCLcBGAs/s1600/Copa%2Bde%2BPrimera.png",
         "uri": "N08s3thAztBwhjiPdgzNJ6SD4Mk0DcbWRQvhAVa6TOS/iz8JGMqT5zHQRbn4p8Kdharx1MyZ9P84SM1chKf60jf7FRoly7jKkgGSDXIAO4nSmNcEKw5rSR3mowHJBV6Q",
@@ -3419,20 +3286,6 @@
     "name": "🇧🇷 BRASIL",
     "mode": false,
     "lista": [
-      {
-        "name": "AMAZON PRIME",
-        "ico": "https://playertv.net/wp-content/uploads/2024/04/prime1-300x169.webp",
-        "uri": "sYN+FS+jM4DukijY0Y56uFPQIU90S64p6NQVXiEekk69NdZbxVwTjTRwdgeAkg01B23zPRW3gDHhDcl8zeH3YBYmB4nTndLx0kKCEh9I0SA=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "AMAZON PRIME",
-        "ico": "https://playertv.net/wp-content/uploads/2024/04/prime1-300x169.webp",
-        "uri": "sYN+FS+jM4DukijY0Y56uFPQIU90S64p6NQVXiEekk69NdZbxVwTjTRwdgeAkg01B23zPRW3gDHhDcl8zeH3YDt0tVaKLaUjRGDzss6T+c0=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
       {
         "name": "BAND NEWS",
         "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/band-news-br.png",
@@ -3636,9 +3489,16 @@
     "mode": false,
     "lista": [
       {
-        "name": "AMAZON PRIME",
-        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/media/amazon-prime.png",
-        "uri": "sYN+FS+jM4DukijY0Y56uFPQIU90S64p6NQVXiEekk69NdZbxVwTjTRwdgeAkg01B23zPRW3gDHhDcl8zeH3YDt0tVaKLaUjRGDzss6T+c0=",
+        "name": "DISNEY+ 2",
+        "ico": "https://iili.io/23PrmtR.png",
+        "uri": "sYN+FS+jM4DukijY0Y56uFPQIU90S64p6NQVXiEekk69NdZbxVwTjTRwdgeAkg01B23zPRW3gDHhDcl8zeH3YIiEZRPEyr6vYc3rRBHlzn4=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DISNEY+ 1",
+        "ico": "https://iili.io/23PrmtR.png",
+        "uri": "sYN+FS+jM4DukijY0Y56uFPQIU90S64p6NQVXiEekk69NdZbxVwTjTRwdgeAkg01B23zPRW3gDHhDcl8zeH3YAi1+ZSMEw3CdMBVxSNaZTE=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -3893,20 +3753,6 @@
         "uri": "sYN+FS+jM4DukijY0Y56uFPQIU90S64p6NQVXiEekk69NdZbxVwTjTRwdgeAkg01B23zPRW3gDHhDcl8zeH3YDPlMAX1BbFbWho6iPo6Izo=",
         "drm_scheme": "",
         "drm_license_url": ""
-      },
-      {
-        "name": "STAR+ 1",
-        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/star-int.png",
-        "uri": "sYN+FS+jM4DukijY0Y56uFPQIU90S64p6NQVXiEekk69NdZbxVwTjTRwdgeAkg01B23zPRW3gDHhDcl8zeH3YAi1+ZSMEw3CdMBVxSNaZTE=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "STAR+ 2",
-        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/star-int.png",
-        "uri": "sYN+FS+jM4DukijY0Y56uFPQIU90S64p6NQVXiEekk69NdZbxVwTjTRwdgeAkg01B23zPRW3gDHhDcl8zeH3YIiEZRPEyr6vYc3rRBHlzn4=",
-        "drm_scheme": "",
-        "drm_license_url": ""
       }
     ]
   },
@@ -3998,65 +3844,30 @@
     "mode": false,
     "lista": [
       {
-        "name": "CAMPEONATO URUGUAY 1",
-        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
-        "uri": "8bb+eHXtpFK9XpINNn/APVFMVZpCun0+GlwbMYuO2tHshSuPbfPkVb3TNG/QcklHCVHtzpGoHvJ0N1cR9s/1MiZth+6weEz5vRiMcwI+xhw=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CAMPEONATO URUGUAY 2",
-        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
-        "uri": "8bb+eHXtpFK9XpINNn/APVFMVZpCun0+GlwbMYuO2tHshSuPbfPkVb3TNG/QcklHp57KDfwo4QLNkrNWxnNcGEjB09vw6jyDsRdyQGuxtkg=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CAMPEONATO URUGUAY 3",
-        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
-        "uri": "Z4s327Vn+xQqhY1oCZ8+XEkzbV7qY+9wMDT5hUhc1JihdXKKqxTbmoc8vHQ0si3u3JShZcesC5+7mN+sLfD6lA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CAMPEONATO URUGUAY 4",
-        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
-        "uri": "Z4s327Vn+xQqhY1oCZ8+XEkzbV7qY+9wMDT5hUhc1JihdXKKqxTbmoc8vHQ0si3u3JShZcesC5+7mN+sLfD6lA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CAMPEONATO URUGUAY 5",
-        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
-        "uri": "Z4s327Vn+xQqhY1oCZ8+XEkzbV7qY+9wMDT5hUhc1JihdXKKqxTbmoc8vHQ0si3uEhY1E5KJUe72Ok4cSNimaA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CAMPEONATO URUGUAY 6",
-        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
-        "uri": "8bb+eHXtpFK9XpINNn/APVFMVZpCun0+GlwbMYuO2tHshSuPbfPkVb3TNG/QcklHp57KDfwo4QLNkrNWxnNcGLm8bgmNkB8A9QAtnFdBV5o=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CAMPEONATO URUGUAY 7",
-        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
-        "uri": "8bb+eHXtpFK9XpINNn/APVFMVZpCun0+GlwbMYuO2tHshSuPbfPkVb3TNG/QcklHCYtQ7iXbs8GJpaV3gKzBpnfaM2oa4TtM5xlE7hD5mvY=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CAMPEONATO URUGUAY 8",
+        "name": "CAMPEONATO URUGUAY",
         "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
         "uri": "Z4s327Vn+xQqhY1oCZ8+XEkzbV7qY+9wMDT5hUhc1JihdXKKqxTbmoc8vHQ0si3uIV38axDY+ByCP5HpC7AAfQ==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "CAMPEONATO URUGUAY 9",
+        "name": "CAMPEONATO URUGUAY 2",
         "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
         "uri": "Z4s327Vn+xQqhY1oCZ8+XEkzbV7qY+9wMDT5hUhc1JihdXKKqxTbmoc8vHQ0si3ua7XDSNQukbkIu/qYI0AFrw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DISNEY+ 1",
+        "ico": "https://iili.io/23PrmtR.png",
+        "uri": "sYN+FS+jM4DukijY0Y56uFPQIU90S64p6NQVXiEekk69NdZbxVwTjTRwdgeAkg01B23zPRW3gDHhDcl8zeH3YAi1+ZSMEw3CdMBVxSNaZTE=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DISNEY+ 2",
+        "ico": "https://iili.io/23PrmtR.png",
+        "uri": "sYN+FS+jM4DukijY0Y56uFPQIU90S64p6NQVXiEekk69NdZbxVwTjTRwdgeAkg01B23zPRW3gDHhDcl8zeH3YIiEZRPEyr6vYc3rRBHlzn4=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -4075,65 +3886,37 @@
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EZlKGPkHWOvkGb9GdvvGBoYFl0Gdxsj2124MaRJFBSfrbaNpK2gEAqZ4e3VVI2p4060tpfPePyJPvZz2TT+dxE+3kjdDR4bBJlh3CQKrIx6GF9iVGxTomJRuzcYGxK/YHw=="
       },
       {
-        "name": "PPV 1 URUGUAY ᴴᴰ ",
-        "ico": "https://iili.io/d4K4azG.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WnibfLgkQe8GUhgbvXr9VZtn05KKkipzYFXS2QcbcptaXg=",
-        "drm_scheme": null,
+        "name": "GOL TV",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/800px-GOLTV.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XEkzbV7qY+9wMDT5hUhc1JihdXKKqxTbmoc8vHQ0si3uYUq2JL1VYL4Joewn7K5NhQ==",
+        "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "PPV 3 URUGUAY ᴴᴰ ",
-        "ico": "https://iili.io/d4K4azG.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8Wni1XYXVgPOOkcssoM30jwmzcKSxJk39YUYvcEnLKtbnTo=",
-        "drm_scheme": null,
+        "name": "GOL TV",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/800px-GOLTV.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XEkzbV7qY+9wMDT5hUhc1JihdXKKqxTbmoc8vHQ0si3ulWfehxaQ6coJMYDk5loF9g==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "GOL TV",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/800px-GOLTV.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XEkzbV7qY+9wMDT5hUhc1JihdXKKqxTbmoc8vHQ0si3uQCj8IeTKb04OihlVgGe88Q==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "GOL TV",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/800px-GOLTV.png",
+        "uri": "Z4s327Vn+xQqhY1oCZ8+XEkzbV7qY+9wMDT5hUhc1JihdXKKqxTbmoc8vHQ0si3u3JShZcesC5+7mN+sLfD6lA==",
+        "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "URUGUAY 2",
         "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
         "uri": "i43V2nAfCyyZ8dVVT935Ihxr4wECParD7Kn7g1e6t3+RO+CkkS0pxwGH+c8cn5lbFJtdAMymtrlvdHJ7OxvMpOBv7mXdDpqCIDpotf3ObFo=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "URUGUAY 3",
-        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV9cmZa0hu0lTyYq280rE7jLcsmT2Vwum/XfCth7p8WniJF4ZfK6k229XG6i9mcgR+YHzzw7QcH0HkI8WQvFgPEU=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "UY | 1️⃣ DSPORTS",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",
-        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIjkMqwujlPvUq5yfxXFtQ/Wr+HYtwxUd6Y6DiSCWGEUso=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "UY | 2️⃣ DSPORTS",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",
-        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIjLlnMJNznOI1JWrsKLdvedo6YrcdMxnTIhR+9pT/CGiI=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "UY | 3️⃣DSPORTS",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",
-        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIjQ/GvGbfOxKiiUJ/Vejfx4678XaS1rESYeuchJNOtDAs=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "UY | 4️⃣DSPORTS",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",
-        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIj0wH8T8+gjmjNNKikxtfeiDQ8WpqXgufL+f+AoES8dmc=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "UY | 5️⃣DSPORTS",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",
-        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIjBqtTfN7BN8X9N5JStBuYvFumQL75fYKz4IzxJwc2vSI=",
         "drm_scheme": "",
         "drm_license_url": ""
       }
@@ -4147,6 +3930,13 @@
         "name": "Aire (Montevideo)",
         "ico": "https://cdn.instant.audio/images/logos/radios-com-uy/aire-montevideo.png",
         "uri": "NPWpKuegPfregKwI7OsCNg6RaYH9Wl98IWOVF5lj+fExI4ZPZeIVSLvtLPm2r9Qz",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "BAJO LA LUPA",
+        "ico": "https://bajolalupa.uy/7yumnfp7u9/wp-content/uploads/2022/04/Recurso-2@4x-e1649171990677.png",
+        "uri": "ZTneI1tmEHlOttiXM7NwPjMZLFsr6H3iPgZkb8TQ1PHY/noDs7P+ULr9Rbpct6rO4E3Rr0N9vazM+gl2pO+uSQ==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -4436,20 +4226,6 @@
     "mode": false,
     "lista": [
       {
-        "name": "✅ TIGO 1 EVENTOS BOLIVIA (SOLO EVENTOS)",
-        "ico": "https://i.ibb.co/Hq6qtHz/Tigo-Sports-Bol2.png",
-        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIjAtKiq2nt/JRUtg44RJGByvUj7ZINk066nJ5/MJ7uG2Q=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "✅ TIGO 1 EVENTOS BOLIVIA 2(SOLO EVENTOS)",
-        "ico": "https://i.ibb.co/Hq6qtHz/Tigo-Sports-Bol2.png",
-        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIjg6odhFzsJLuwKFxrcJqhrK4deaj1uzPtyt+mgouL5xE=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
         "name": "BOL | BOLIVIA TV OP A",
         "ico": "https://logo.iptveditor.com/cadenaa.png",
         "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIjM9vItu7dzsplXQfHajgW3SAHjxe70m7NWC88qVSQtqY=",
@@ -4520,9 +4296,30 @@
         "drm_license_url": ""
       },
       {
+        "name": "ESPN BO",
+        "ico": "https://i.ibb.co/s37NZCT/espn-1B.png",
+        "uri": "l4EWAAQ8e1uiKm558/nMVxlWmxv30zI8s78FtKxhxCNM69zseCNflaZOgKZVpiyMYfObzkrnxia4YQpZqvklefdrzSw29cKJ+8HUc8s+hUv0ic3a4wG2KDfPMpEN0mmkbS4rnqSX0cowwSxoc202xQ==",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EUje696E2Ha4AFWySIk6pUhqk67+lxtSBi1rAxWVEczFcZAx5aZxyoD11wLXoNeGJQpJV1AlrxN4qyPzJ9TLq+yhVI00Njb5f8Fh8VV8Byop4CL5C2gF8LWGCYdcp+r2JQ=="
+      },
+      {
         "name": "RTP",
         "ico": "https://logo.iptveditor.com/rtp.png",
         "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIjswYVg8oSkPeE1gV2AYD2wjdZ4AxsTi1+vtR6W5q3zTY=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "✅ TIGO 1 EVENTOS BOLIVIA (SOLO EVENTOS)",
+        "ico": "https://i.ibb.co/Hq6qtHz/Tigo-Sports-Bol2.png",
+        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIjAtKiq2nt/JRUtg44RJGByvUj7ZINk066nJ5/MJ7uG2Q=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "✅ TIGO 1 EVENTOS BOLIVIA 2(SOLO EVENTOS)",
+        "ico": "https://i.ibb.co/Hq6qtHz/Tigo-Sports-Bol2.png",
+        "uri": "RlBgL7jjZBka6bJZHpEq/5TSSHMWr9lsEWtSA1QyMlVEuAthFl6sTruqb06sjnIjg6odhFzsJLuwKFxrcJqhrK4deaj1uzPtyt+mgouL5xE=",
         "drm_scheme": "",
         "drm_license_url": ""
       }
@@ -5892,6 +5689,96 @@
         "name": "DUBAI RACING 3",
         "ico": "https://www.tvpolsat.info/wp-content/uploads/2021/12/abudhabisporst.png",
         "uri": "fUwPD7QS8gxjHOmg284PhHaBo1ZUj2wmC3usgu2FEkXTWXZNS0T2P8bPo0BUv5oQn69IWlwAYWbRGtBzFvVclqwSq+3M+iE7NJ6MMyzJqG/VHs1rLaU3wBICqwtcMpCm",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      }
+    ]
+  },
+  {
+    "name": "⚽DEPORTES PORTUGAL",
+    "mode": false,
+    "lista": [
+      {
+        "name": "SPORT TV1",
+        "ico": "https://intranet.sporttv.pt/cms/media/images/public/4py6mehk58gkcxqqg857yx2sxd/logo_sporttv4.png",
+        "uri": "Tr678nCoRI21oiOLUtLcMLu+/eeRgeGz/0NPcMZFjnlTORLr9jjBhJkAdtCeBQbbnuBINEFctIO++ExH9SofRg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "SPORT TV2",
+        "ico": "https://intranet.sporttv.pt/cms/media/images/public/4py6mehk58gkcxqqg857yx2sxd/logo_sporttv4.png",
+        "uri": "Tr678nCoRI21oiOLUtLcMLu+/eeRgeGz/0NPcMZFjnk4Ht/P+8AoZrS1Ck8MtMBLsWH8xW/zaq8wB8Akj5VXJA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "SPORT TV3",
+        "ico": "https://intranet.sporttv.pt/cms/media/images/public/4py6mehk58gkcxqqg857yx2sxd/logo_sporttv4.png",
+        "uri": "Tr678nCoRI21oiOLUtLcMLu+/eeRgeGz/0NPcMZFjnnWbdR6d0NkAtcMMdRmc6hJOf4ijrKC8jAxSagAzfHOxA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "SPORT TV4",
+        "ico": "https://intranet.sporttv.pt/cms/media/images/public/4py6mehk58gkcxqqg857yx2sxd/logo_sporttv4.png",
+        "uri": "Tr678nCoRI21oiOLUtLcMLu+/eeRgeGz/0NPcMZFjnnKBKMjfN6BkrvgFKixoE5brEGHql8o/7KoSCcqwXJyJw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "SPORT TV5",
+        "ico": "https://intranet.sporttv.pt/cms/media/images/public/4py6mehk58gkcxqqg857yx2sxd/logo_sporttv4.png",
+        "uri": "Tr678nCoRI21oiOLUtLcMLu+/eeRgeGz/0NPcMZFjnk2L03unG2Z3mLumECYl55uQIfrP2gfqMXEzU2R/P7rHQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "SPORT TV6",
+        "ico": "https://intranet.sporttv.pt/cms/media/images/public/4py6mehk58gkcxqqg857yx2sxd/logo_sporttv4.png",
+        "uri": "Tr678nCoRI21oiOLUtLcMLu+/eeRgeGz/0NPcMZFjnkZ+PWi+ijFTAHwwRt8mTvQIPr8CAK1BzD3Vg4MRCNXxA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DAZN 1",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
+        "uri": "eTHoL0w3rhprISPjaF1Li478R6304/iu/vx/SVUbpc2AcPUOEcEtQIUPImpNCSQC/axpd21sfEiPrvXgGMpE3g==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DAZN 2",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
+        "uri": "eTHoL0w3rhprISPjaF1Li478R6304/iu/vx/SVUbpc205hgkriWq3NMT6Ukjn8yGtwdbwD7JYfevXQJzjpCbdA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DAZN 3",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
+        "uri": "eTHoL0w3rhprISPjaF1Li478R6304/iu/vx/SVUbpc0PLdSRNDSi4lMkhO9b0emxS1YKHpCN5wNSjeQu+m2+6w==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DAZN 4",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
+        "uri": "eTHoL0w3rhprISPjaF1Li478R6304/iu/vx/SVUbpc2X66uh/6HY4IY0baOaTlAwmq+8ooQ0jP7cV9iSqRSP/Q==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DAZN 5",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
+        "uri": "eTHoL0w3rhprISPjaF1Li478R6304/iu/vx/SVUbpc2yBWF8B5feoeRpOiaxs3BNgo76szerzJ2jkW8Poh2/0w==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DAZN 6",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
+        "uri": "eTHoL0w3rhprISPjaF1Li478R6304/iu/vx/SVUbpc3e8xpySOrUGq/1HD787v1muVMERLoDW5EBPCR7Z2T8LA==",
         "drm_scheme": "",
         "drm_license_url": ""
       }
