@@ -1,5 +1,248 @@
 [
   {
+    "name": "🇦🇷 ARGENTINAS",
+    "mode": false,
+    "lista": [
+      {
+        "name": "CASI MUERTA (2023)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gSezYOBs7H3RG8rDcjsK3MqluxN.jpg",
+        "uri": "65QfB985J8EeRP9jnpA5a13rh5kFr91HhNcJjx4UCLWCh26yTv0A1A/n8Kjuen1cQfJrYA2fPzkF9yFilkWdLVkCPTkb1ytR2sJxfs0DRuE=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CUANDO ACECHA LA MALDAD (2023)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZMIXnSxEn64FDKciRnAxBCe3q9.jpg",
+        "uri": "65QfB985J8EeRP9jnpA5a13rh5kFr91HhNcJjx4UCLWCh26yTv0A1A/n8Kjuen1cQfJrYA2fPzkF9yFilkWdLVx4bFLjCWzJsPTx8+hHU28=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DESCANSAR EN PAZ (2024)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xdbXo63wcUZ3TLwrjwg35m1TEm.jpg",
+        "uri": "65QfB985J8EeRP9jnpA5a13rh5kFr91HhNcJjx4UCLWCh26yTv0A1A/n8Kjuen1cQfJrYA2fPzkF9yFilkWdLa+03GGnvnb/K5NRMd3V7FE=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "ECOS DE UN CRIMEN",
+        "ico": "https://image.tmdb.org/t/p/w780/1ilviUUwqRzWDgOYqjZTmlUFbxR.jpg",
+        "uri": "65QfB985J8EeRP9jnpA5a13rh5kFr91HhNcJjx4UCLWCh26yTv0A1A/n8Kjuen1cQfJrYA2fPzkF9yFilkWdLaGf/4DnHCm0jn5Rz9MLpUk=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "EL HOMBRE QUE AMABA LOS PLATOS VOLADORES  LAT (2024)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pE9PHoaOXF5HeLRvFuiqAm7SAU5.jpg",
+        "uri": "65QfB985J8EeRP9jnpA5a13rh5kFr91HhNcJjx4UCLWCh26yTv0A1A/n8Kjuen1cQfJrYA2fPzkF9yFilkWdLenQIZe9wMQlW6MWihYcDqU=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "ESPERANDO LA CARROZA",
+        "ico": "https://image.tmdb.org/t/p/w780/qkSThbNiC6kimvLlWrgeTNYLCeq.jpg",
+        "uri": "65QfB985J8EeRP9jnpA5a13rh5kFr91HhNcJjx4UCLWCh26yTv0A1A/n8Kjuen1cQfJrYA2fPzkF9yFilkWdLY406JvgLzxIiBoIFOZMnWg=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "GRANIZO (2022)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pnTp17HCwQ6EhsWfqzgwnUfhSym.jpg",
+        "uri": "65QfB985J8EeRP9jnpA5a13rh5kFr91HhNcJjx4UCLWCh26yTv0A1A/n8Kjuen1cQfJrYA2fPzkF9yFilkWdLV51xnEnngs/22WKzL7UZAk=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "INDUSTRIA ARGENTINA (2012)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yAt1f09PAVccj4CKdhL4Q3j87qo.jpg",
+        "uri": "65QfB985J8EeRP9jnpA5a13rh5kFr91HhNcJjx4UCLWCh26yTv0A1A/n8Kjuen1cQfJrYA2fPzkF9yFilkWdLda1MpvjO08PlzIyBnBdVg4=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "LA EXTORSION (2023)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fn3Z1gfVUDWd8ZQ9m2VhdwCFCMW.jpg",
+        "uri": "65QfB985J8EeRP9jnpA5a13rh5kFr91HhNcJjx4UCLWCh26yTv0A1A/n8Kjuen1cQfJrYA2fPzkF9yFilkWdLSq20iZxL1W19xc7SZd1QfE=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "LA ODISEA DE LOS GILES (2019)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8rVakDWkFn1G0z6e1tRRY5IZ3aa.jpg",
+        "uri": "65QfB985J8EeRP9jnpA5a13rh5kFr91HhNcJjx4UCLWCh26yTv0A1A/n8Kjuen1cQfJrYA2fPzkF9yFilkWdLdOfwqCjonFE3U1cFFuwfeE=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "LOS LADRONES: LA VERDADERA HISTORIA DEL ROBO DEL SIGLO (2022)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/WC1pBBTiUIvj2jfUI82Z3XheZK.jpg",
+        "uri": "65QfB985J8EeRP9jnpA5a13rh5kFr91HhNcJjx4UCLWCh26yTv0A1A/n8Kjuen1cQfJrYA2fPzkF9yFilkWdLUQ+4lcAihYdXbtXl0zUEI8=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "ME CASÉ CON UN BOLUDO (2016)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWo38m3XwcbOeArt2UOixPtkoB9.jpg",
+        "uri": "65QfB985J8EeRP9jnpA5a13rh5kFr91HhNcJjx4UCLWCh26yTv0A1A/n8Kjuen1cQfJrYA2fPzkF9yFilkWdLQHyGgS4u+eJJkNNWKh7Gjs=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "MI OBRA MAESTRA (2018)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hiO0l4BwbcDqwxR4tz31GkK5ZJE.jpg",
+        "uri": "65QfB985J8EeRP9jnpA5a13rh5kFr91HhNcJjx4UCLWCh26yTv0A1A/n8Kjuen1cQfJrYA2fPzkF9yFilkWdLc6waMXgdNCS3ITHjxfv33Y=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "NAHIR (2024) LAT (2024)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3lCerAA6lArxaVskPqR586GJqB5.jpg",
+        "uri": "65QfB985J8EeRP9jnpA5a13rh5kFr91HhNcJjx4UCLWCh26yTv0A1A/n8Kjuen1cQfJrYA2fPzkF9yFilkWdLV5w8CjxOv1qN/m3X4b1hFg=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "RELATOS SALVAJES (2014)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ttaZHjuyiyBqH85sOBqgWxczqdJ.jpg",
+        "uri": "65QfB985J8EeRP9jnpA5a13rh5kFr91HhNcJjx4UCLWCh26yTv0A1A/n8Kjuen1cQfJrYA2fPzkF9yFilkWdLU2FC0h4nfQQvOdWbCVeuk0=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "SANGRE BLANCA (2018)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a1NYu98NyGSbob0K0uM8qNKd9LI.jpg",
+        "uri": "65QfB985J8EeRP9jnpA5a13rh5kFr91HhNcJjx4UCLWCh26yTv0A1A/n8Kjuen1cQfJrYA2fPzkF9yFilkWdLUvxBnfSdrHijoHiCGdsi4Q=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "SIN RETORNO (2020)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qn36s5wdg0l7bJzYijeQlZRxYkr.jpg",
+        "uri": "65QfB985J8EeRP9jnpA5a13rh5kFr91HhNcJjx4UCLWCh26yTv0A1A/n8Kjuen1cQfJrYA2fPzkF9yFilkWdLfVhb/SvCfV7OPnLpYZTQzE=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      }
+    ]
+  },
+  {
+    "name": "❇️DOCUMENTALES",
+    "mode": false,
+    "lista": [
+      {
+        "name": "ANTES QUE SEA TARDE",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eEZt3AmPUeGLTMO9ZBirlzinYW1.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhUUaogo2Mnw++H6zTdMhELE=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CHIVAS: LA PELÍCULA",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/go1s43XbczYq84vVwZGCg0IGKKW.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhV+V1tZoNKyaJiyeHkKXzPQ=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DIEGO MARADONA",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9SRu5YKrA2qQoGBssEJQc3h04cd.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhYL2oFQIU247gp8m0IYpvNk=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "EL GRAN HACKEO",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sG2CGvjq3KR0y9ZB5UpvC1PwKcs.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhdhXcKtn40PaDW1X7B25yzM=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "EN BUSCA DEL CORAL",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvRHRqI4ahmEwscylU10iaNo5RY.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhTCcH8q83rlXb5yk/NjX6qU=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "FERRARI: CARRERA A LA INMORTALIDAD",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lkN67j8e6fszSuRL7XuNMTY0oeT.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhXzAae9o4wzjfS5OrgrzE54=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "GRANDES FELINOS AFRICANOS: EL REINO DEL CORAJE",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oqnJnHow4YxztJQz5Ws1TD7hlNa.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhV/SkoAV6oHnwv06fBXllsc=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "MESSI",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bzfAwCy6bKFASP5tcF53Wehsgt2.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhWs+gP2i1LjcgYgZvwWWITg=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "MICHAEL JACKSON MEMORIAL",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kzcsTkgQjt7DDYqHf7PQcaw21z1.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhXk+n9KdnTlW4RkXZbvXxh8=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "MICHAEL JACKSON. LA VIDA DE UN ÍDOLO",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2MFDKcgTI7vqYNIT3lEbNsdLAM.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhQSt8v0Tp1ZotRbqxYH4OI8=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "MISTERIOS DEL TITANIC",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2LQtXYRpdwlsFElKMkuK9hH4v2C.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhVXB/GqZPPKNKGJD0lC9ao8=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "OCÉANO SALVAJE 3D",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A2VCimOYGC8PDi9yn5mKTYvYh0D.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhTIgbZ1PPwygmC2J6Rk1goY=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "OSOS",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dO2JdK7MonWis9Jg2im9IcVq7eJ.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhY2t83frKITW1L9wVrqSeBw=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "PLANET FIFA",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ijVec9tn69e2JibP0QFZ9soFDAh.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhZ+tsq4roxouCYc34M7HLgE=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "RONALDO",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iFt1uxhtdLxfyGRA7PQLI5F3aCp.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhVMyxUXGOFDJ34PHpm5aYDE=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TITAN, LA PELICULA DE MARTIN PALERMO",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vskedpPE42ciXk91NnzEQXWBm0G.jpg",
+        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhWgY0tQqYkxDkkIyEBCtjnY=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      }
+    ]
+  },
+  {
     "name": "⭐ESTRENOS 2024",
     "mode": false,
     "lista": [
@@ -776,13 +1019,13 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-  {
-    "name": "EL SECRETO DE SUS OJOS",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sd6LML87wa9UPZgfuPnGwic82YH.jpg",
-    "uri": "65QfB985J8EeRP9jnpA5a13rh5kFr91HhNcJjx4UCLWCh26yTv0A1A/n8Kjuen1cQfJrYA2fPzkF9yFilkWdLQP4nHipbok9/yaUaip4Ids=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
+      {
+        "name": "EL SECRETO DE SUS OJOS",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sd6LML87wa9UPZgfuPnGwic82YH.jpg",
+        "uri": "65QfB985J8EeRP9jnpA5a13rh5kFr91HhNcJjx4UCLWCh26yTv0A1A/n8Kjuen1cQfJrYA2fPzkF9yFilkWdLQP4nHipbok9/yaUaip4Ids=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
       {
         "name": "UN CRIMEN ARGENTINO",
         "ico": "https://image.tmdb.org/t/p/w780/1iGVhDwTaLMPYVK2DeOLa1uAKjN.jpg",
@@ -939,6 +1182,131 @@
         "name": "GLORIA TREVI | EN CONCIERTO",
         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJTuvjfuh2zn87eBIDahg4nTOvf.jpg",
         "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhfVrUaNxdgoY6gKpRC4j/qs=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      }
+    ]
+  },
+  {
+    "name": "😨TERROR",
+    "mode": false,
+    "lista": [
+      {
+        "name": "COCODRILO (2000)",
+        "ico": "https://image.tmdb.org/t/p/w780/mofW5P6YcVtOZtj491oy7Vlp1zt.jpg",
+        "uri": "lVJnsU2LqaHu7jPtfVw+Ejb1D4Mbi2lILf3NA/rztskg9GK7B41YXK0SVPvOBiCPuTS4uH7KmqOKxwc2pBrbZrAxEYzNR3ldUY5uy0tN4rQ=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "COCODRILO 2 (2002)",
+        "ico": "https://image.tmdb.org/t/p/w780/qMaMDrdM3P0UtvQa3hDCexOC7wp.jpg",
+        "uri": "lVJnsU2LqaHu7jPtfVw+Ejb1D4Mbi2lILf3NA/rztskg9GK7B41YXK0SVPvOBiCPuTS4uH7KmqOKxwc2pBrbZvA0V+G6mTwpGFjNLGBd3B8=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DESAMPARADOS (2022)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cO9ywQ2AMHM9EoBJsJGH1Gl9U5L.jpg",
+        "uri": "65QfB985J8EeRP9jnpA5a13rh5kFr91HhNcJjx4UCLWCh26yTv0A1A/n8Kjuen1cQfJrYA2fPzkF9yFilkWdLR5mVKm70Ynvk9ZDmPqrPKc=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "EL CUERVO (2024)",
+        "ico": "https://image.tmdb.org/t/p/w780/X9iFHeIYgfqoZImvdidx8b9v4R.jpg",
+        "uri": "lVJnsU2LqaHu7jPtfVw+Ejb1D4Mbi2lILf3NA/rztskg9GK7B41YXK0SVPvOBiCPuTS4uH7KmqOKxwc2pBrbZtWy3hLQ4ljhvca4KBA6Njs=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "EL EXORCISMO DE DIOS (2022)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wHA9cysdFmGDfIvu9iEpu19w9GK.jpg",
+        "uri": "65QfB985J8EeRP9jnpA5a13rh5kFr91HhNcJjx4UCLWCh26yTv0A1A/n8Kjuen1cQfJrYA2fPzkF9yFilkWdLQjH9gCbvh+VZZujkz6utI8=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "EL EXORCISMO DE MICHAEL KING (2014)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r1LrvbUsQHn8ByJIOoeI76F6jR0.jpg",
+        "uri": "65QfB985J8EeRP9jnpA5a13rh5kFr91HhNcJjx4UCLWCh26yTv0A1A/n8Kjuen1cQfJrYA2fPzkF9yFilkWdLTXsuIwJnzOmsHK7+U+Afno=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "EL EXORCISTA (1973)",
+        "ico": "https://image.tmdb.org/t/p/w780/rQU3sOBms4WA7iFAqBCtbMXgaB8.jpg",
+        "uri": "lVJnsU2LqaHu7jPtfVw+Ejb1D4Mbi2lILf3NA/rztskg9GK7B41YXK0SVPvOBiCPuTS4uH7KmqOKxwc2pBrbZtBdfAeIjCfAxjyzSPOZrSg=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "EL EXORCISTA: EL COMIENZO. LA VERSIÓN PROHIBIDA (2005)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Inmep1mWSMZDIaSXngHSr3Qur3.jpg",
+        "uri": "65QfB985J8EeRP9jnpA5a13rh5kFr91HhNcJjx4UCLWCh26yTv0A1A/n8Kjuen1cQfJrYA2fPzkF9yFilkWdLQETUNmzKrR6JbOU7FG5yGQ=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "EXORCISMO EN CONNECTICUT (2009)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2dbMuIhjCyy3ElL2xQZPyQY5FXO.jpg",
+        "uri": "65QfB985J8EeRP9jnpA5a13rh5kFr91HhNcJjx4UCLWCh26yTv0A1A/n8Kjuen1cQfJrYA2fPzkF9yFilkWdLaMEd2CrWDWl/a+MVrmxA3A=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "JEEPERS CREEPERS",
+        "ico": "https://image.tmdb.org/t/p/w780/kPlknIjzXkmhmR24NfXa4ECc5Wm.jpg",
+        "uri": "65QfB985J8EeRP9jnpA5a13rh5kFr91HhNcJjx4UCLWCh26yTv0A1A/n8Kjuen1cQfJrYA2fPzkF9yFilkWdLa1XKTE96wU0gDl8tyqSabY=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "JUGUETES DE TERROR (2021)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nlu8YdfUNRrxonk1fvgr2jyXkBm.jpg",
+        "uri": "65QfB985J8EeRP9jnpA5a13rh5kFr91HhNcJjx4UCLWCh26yTv0A1A/n8Kjuen1cQfJrYA2fPzkF9yFilkWdLT6lemyl16B3/YCDXk58FRU=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "LA CALLE DEL TERROR - PARTE 1: 1994 (2021)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xGf1snRLGQpiUkWvJSGwiSXW9sR.jpg",
+        "uri": "65QfB985J8EeRP9jnpA5a13rh5kFr91HhNcJjx4UCLWCh26yTv0A1A/n8Kjuen1cQfJrYA2fPzkF9yFilkWdLfIc51lWY6v2V+41+NGdIF0=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "LA CALLE DEL TERROR - PARTE 2: 1978 (2021)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPcLH9QHrRb9ZRplxWOMO38ImL8.jpg",
+        "uri": "65QfB985J8EeRP9jnpA5a13rh5kFr91HhNcJjx4UCLWCh26yTv0A1A/n8Kjuen1cQfJrYA2fPzkF9yFilkWdLVBHgcZOCzPVjOWDlGoVsUY=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "LA MONJA II (2023)",
+        "ico": "https://image.tmdb.org/t/p/w780/x0ryPlzZjpOojEAuGrre2lFuBv6.jpg",
+        "uri": "lVJnsU2LqaHu7jPtfVw+Ejb1D4Mbi2lILf3NA/rztskg9GK7B41YXK0SVPvOBiCPuTS4uH7KmqOKxwc2pBrbZnqmhL1utZ4KuvoD9Zo7jls=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "SAW X (2023)",
+        "ico": "https://image.tmdb.org/t/p/w780/hx6riiVXOLo3fdFaT3dU9gSlHIb.jpg",
+        "uri": "lVJnsU2LqaHu7jPtfVw+Ejb1D4Mbi2lILf3NA/rztskg9GK7B41YXK0SVPvOBiCPuTS4uH7KmqOKxwc2pBrbZpMqwJ15AH7xiqxBC2N9Nbo=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TAROT (2024)",
+        "ico": "https://image.tmdb.org/t/p/w780/Adh7xmtgSIUGZBaMj9VLTmq2G8z.jpg",
+        "uri": "lVJnsU2LqaHu7jPtfVw+Ejb1D4Mbi2lILf3NA/rztskg9GK7B41YXK0SVPvOBiCPuTS4uH7KmqOKxwc2pBrbZpKOAMa58nnJOMKl3HGkXJ4=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "UNA NOCHE CON EL DEMONIO (2023) LAT (2023)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j3xiOd2vYut7CCvEaFr0n0Pcfwj.jpg",
+        "uri": "65QfB985J8EeRP9jnpA5a13rh5kFr91HhNcJjx4UCLWCh26yTv0A1A/n8Kjuen1cQfJrYA2fPzkF9yFilkWdLXPl9d3rw5S7upL2d+wdU40=",
         "drm_scheme": "",
         "drm_license_url": ""
       }
@@ -1234,135 +1602,17 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-{
-    "name": "EL SECRETO DE SUS OJOS (2009)",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sd6LML87wa9UPZgfuPnGwic82YH.jpg",
-    "uri": "65QfB985J8EeRP9jnpA5a13rh5kFr91HhNcJjx4UCLWCh26yTv0A1A/n8Kjuen1cQfJrYA2fPzkF9yFilkWdLQP4nHipbok9/yaUaip4Ids=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
+      {
+        "name": "EL SECRETO DE SUS OJOS (2009)",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sd6LML87wa9UPZgfuPnGwic82YH.jpg",
+        "uri": "65QfB985J8EeRP9jnpA5a13rh5kFr91HhNcJjx4UCLWCh26yTv0A1A/n8Kjuen1cQfJrYA2fPzkF9yFilkWdLQP4nHipbok9/yaUaip4Ids=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
       {
         "name": "Tod Y Toby 2",
         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pqPdNJG8XC7cklobrB5pk8ML1Ij.jpg",
         "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHEZEAKX3BnzwdEE6zO/ubpcElwqZqJeQX5v9Qmk0nAUYb4vyHDklsQ7vFzKayFa/wg=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      }
-    ]
-  },
-  {
-    "name": "❇️DOCUMENTALES",
-    "mode": false,
-    "lista": [
-      {
-        "name": "ANTES QUE SEA TARDE",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eEZt3AmPUeGLTMO9ZBirlzinYW1.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhUUaogo2Mnw++H6zTdMhELE=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CHIVAS: LA PELÍCULA",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/go1s43XbczYq84vVwZGCg0IGKKW.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhV+V1tZoNKyaJiyeHkKXzPQ=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "DIEGO MARADONA",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9SRu5YKrA2qQoGBssEJQc3h04cd.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhYL2oFQIU247gp8m0IYpvNk=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "EL GRAN HACKEO",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sG2CGvjq3KR0y9ZB5UpvC1PwKcs.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhdhXcKtn40PaDW1X7B25yzM=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "EN BUSCA DEL CORAL",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvRHRqI4ahmEwscylU10iaNo5RY.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhTCcH8q83rlXb5yk/NjX6qU=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "FERRARI: CARRERA A LA INMORTALIDAD",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lkN67j8e6fszSuRL7XuNMTY0oeT.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhXzAae9o4wzjfS5OrgrzE54=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "GRANDES FELINOS AFRICANOS: EL REINO DEL CORAJE",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oqnJnHow4YxztJQz5Ws1TD7hlNa.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhV/SkoAV6oHnwv06fBXllsc=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "MESSI",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bzfAwCy6bKFASP5tcF53Wehsgt2.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhWs+gP2i1LjcgYgZvwWWITg=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "MICHAEL JACKSON MEMORIAL",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kzcsTkgQjt7DDYqHf7PQcaw21z1.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhXk+n9KdnTlW4RkXZbvXxh8=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "MICHAEL JACKSON. LA VIDA DE UN ÍDOLO",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2MFDKcgTI7vqYNIT3lEbNsdLAM.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhQSt8v0Tp1ZotRbqxYH4OI8=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "MISTERIOS DEL TITANIC",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2LQtXYRpdwlsFElKMkuK9hH4v2C.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhVXB/GqZPPKNKGJD0lC9ao8=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "OCÉANO SALVAJE 3D",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A2VCimOYGC8PDi9yn5mKTYvYh0D.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhTIgbZ1PPwygmC2J6Rk1goY=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "OSOS",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dO2JdK7MonWis9Jg2im9IcVq7eJ.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhY2t83frKITW1L9wVrqSeBw=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "PLANET FIFA",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ijVec9tn69e2JibP0QFZ9soFDAh.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhZ+tsq4roxouCYc34M7HLgE=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "RONALDO",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iFt1uxhtdLxfyGRA7PQLI5F3aCp.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhVMyxUXGOFDJ34PHpm5aYDE=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "TITAN, LA PELICULA DE MARTIN PALERMO",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vskedpPE42ciXk91NnzEQXWBm0G.jpg",
-        "uri": "JFRpA0t4scng5bNIhmtikGBlvtG0DoqQqwLoMDY8EHFcjqBip+gm1iueo+FN1KgNDfwdUiNqtFTcBot3d3dKhWgY0tQqYkxDkkIyEBCtjnY=",
         "drm_scheme": "",
         "drm_license_url": ""
       }
