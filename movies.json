@@ -1686,7 +1686,34 @@
     "drm_scheme": "ClearKey",
     "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EQVmNdxwbyBTKyimkS2Racrex3gmAXmfoO/q3hJmagTVV4DzFnI7Iylhsg7EizVy/YKFqJJbR/IpevgNNab8kvIeYR0VfF7SDQ4CiLz0dDC2dnYFw6p+kHpXuIlN3XQjIw=="
   },
-
+{
+    "name": "PTV SPORTS",
+    "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png",
+    "uri": "+kZ9aeB3MSfhEjgWSeOruXly0tjdBqo4zfQUtgbyskSy02XMu0/GszENeywEUITxC0PUgLiAEA4vgDupOHQpoKOTxCQuRjEdHltEl1RPgrg=",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EUhraitX0lUUS1IjSuCYYosd0i9ODAHGiDjVBIkYQBZvV8MHAI+bjm6t7voNn3beeeZhy+MfzgAcEJAKCEjHg/hBLllbS6DCrZGsyR21wqVm03cRfPphf7C14xz9txZo6Q=="
+  },
+  {
+    "name": "Cricket Sports",
+    "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png",
+    "uri": "+kZ9aeB3MSfhEjgWSeOruXly0tjdBqo4zfQUtgbyskTPi4qKppuTRaboOunhv05I180TZ3dIaqbQbwd9dukbXg==",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EVncruXrdNAN3PZ/fbzlbOj08Op7FyUDZCttPr0AZFW+OLDx9vgTLI2n7rumZCQu+sDOmEHfawvFfcwv03SU2XEgYiw1J6MC8K65GKd2CT6Jc+138QbzIBi97KgTHAyzlw=="
+  },
+  {
+    "name": "CANAL+ PREMIER LEAGUE",
+    "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png",
+    "uri": "UQyqnPyn69mwDSDoWY5K8NpwVL617WimgCCE2S8j3cYNpEX4zWI3s5an4jXTZ6CHaqka+A0NgnZ7ks9sNECidvDMhM7oq1vIIm8mO5QYNaiQ4eZDs6Bo2/c6sEPDofGTUlX2YWX6IdmvarVkzd2NNKd7mE0aJmndqunKkgm+6qc=",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EffUVkYnv3/ysONGi54feYU/xllFHL8Lub+YKa9rj/K1vPE1dxHLJqaAmGkpsELKUurrx0gD6HexOxDGHctJsjxrzAGNLW8kgeGX0Gg+7bLi4VrRxjcBnhjKyYLf1v30ig=="
+  },
+  {
+    "name": "Infinity Champions 1 FULL",
+    "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png",
+    "uri": "VY9ufKOWpZ0rU4kxykCQmUMAM//cHYV6PNw5fS0EKrOh1C8+6gGpN6V/nnK5eDY3ZGm/WLtE5vRb2/GJxeGXrSVoTHUS9KgrkMDVbs7x6o3tlwooFi7FiEdOa1Agxu58lHkKTKqByik+OI8ZBY+5Ng==",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ES9s3d8gd9XwW8UKNoif+UpMPoqgLrpx1ZBRbfHX5RSGRxf8zFdXMM5Z2ojyVF+pKuELEfsmz7L9QQYXbIlS24mtBYgfoPqC3w4IYfrEqx38kEoUbGraKBgG3yPdpwxlvw=="
+  },
       {
         "name": "Tod Y Toby 2",
         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pqPdNJG8XC7cklobrB5pk8ML1Ij.jpg",
