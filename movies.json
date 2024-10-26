@@ -1609,6 +1609,42 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+       {
+    "name": "COLOR VISIÓN",
+    "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png",
+    "uri": "jeA6wudA17Vm/QFb6A0ov5frbI4XNNRTSM9GTw2bo4jQ0KBcKES9U0+2wCVsAwIOscqDylKxVGYLafhSgKYh+9P7tNiTvWfn+VdOs3xWFtnOOMow6VKNzWA2mA85NqGk798ORN44NyHngnqkCPr3cw==",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EaUaUmagGSBipinQYk6Q0H5pDoCussumfUdq2yZ8HwLLKy+vZbiKY6u5mvkqPkDatW8cVWVJtXYidcYrPCa60rWiG8hs78xKcoFn5OL+EOfEbhaIzAzo7lpn2V/VBDmBLA=="
+  },
+  {
+    "name": "CINE AR",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/CINEARLogo.png/320px-CINEARLogo.png",
+    "uri": "O4zQaBxapxoofA7Utbs4F1CSwhbnNaQ1IX2zodhgBcuMfVNhGmxI6EmjAXoCazipc8qISQWZ6JjoC2vt44IlMpsdPHh6qOxXDc8sD6gDqawGp81dopqQodl7aRLy/Oq5",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EegWEBjUCq8YGvrYGV/FavmYhkiHgZbgqWr+IqZ1d6w6261XFRd0J0QINHRxISfl0H6be6778bd1JAX3EE3T5bP0fEI8BNujJ5jUBBrKoO6YxvAz+F2oCvt2RNa01qJnyQ=="
+  },
+  {
+    "name": "SOMOS RIO CUARTO",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo_Canales_Somos_de_Cablevisi%C3%B3n.png",
+    "uri": "+u8JOr6SyIr5qvEA/JHNyzZxbMc/FkKR7xs0adneKveyVvAYqD4SrJYqnjCip8BpNq3T0moQt6XQRiQqt55GOGNuUEkDUT5kT3dRTIpnwABEmmNjV5eAi+sSjJn3XjKZ",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EegWEBjUCq8YGvrYGV/FavmYhkiHgZbgqWr+IqZ1d6w6261XFRd0J0QINHRxISfl0H6be6778bd1JAX3EE3T5bP0fEI8BNujJ5jUBBrKoO6YxvAz+F2oCvt2RNa01qJnyQ=="
+  },
+  {
+    "name": "SPORT TV",
+    "ico": "https://i.ibb.co/68mym0W/sport-tv.png",
+    "uri": "rbspjb32YaV2FFBjpXjXLvikI2NxHxM8Ut9OBqQW4gCfANNeGquLDv5yDZ9UkocPnpuLzbLZi4dJrjzlaw8M32DAFP6AEgMX1AHMQwTQPgE=",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EaMQOuA/lDo5vI6k3fCsK1UwEDolqixX+9zrTF2Xns79vfjk6NZif9+26lZy8bxzBm4SDgxro5lyWXSWk/8gPTtsSG3TpBkrMop7vgm9Onp0ahzO9WuARgX6YcEAwQmtNg=="
+  },
+  {
+    "name": "SPORT TV 2",
+    "ico": "https://i.ibb.co/68mym0W/sport-tv.png",
+    "uri": "rbspjb32YaV2FFBjpXjXLrXRc5Nlsog/5ECYBfCikkXi+VQ0PM+71pLv0CcFlpBrGfSchy3PHH18vIEbtX7XYgoHgFI4rFI3zuslyP/TnAg=",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EQVmNdxwbyBTKyimkS2Racrex3gmAXmfoO/q3hJmagTVV4DzFnI7Iylhsg7EizVy/YKFqJJbR/IpevgNNab8kvIeYR0VfF7SDQ4CiLz0dDC2dnYFw6p+kHpXuIlN3XQjIw=="
+  },
+
       {
         "name": "Tod Y Toby 2",
         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pqPdNJG8XC7cklobrB5pk8ML1Ij.jpg",
