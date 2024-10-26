@@ -776,6 +776,20 @@
         "drm_license_url": ""
       },
       {
+        "name": "DSP ARG (FHD)",
+        "ico": "https://iili.io/298whep.png",
+        "uri": "lVJnsU2LqaHu7jPtfVw+EhzU06Sna/LEuZQhJAqoSMvCqeztOTTPG0vKvh5Q4kSWDue/NaseMtKGAFgMSHbFhexxOsiBIFjbkJqkHF1UQ4U=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DSP ARG 2 (FHD)",
+        "ico": "https://iili.io/298whep.png",
+        "uri": "lVJnsU2LqaHu7jPtfVw+EhzU06Sna/LEuZQhJAqoSMvCqeztOTTPG0vKvh5Q4kSW9RJr+fmyYur6M29tXh+fB1BU5MELjNXcodeOy9wt57Y=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
         "name": "DSP+ ARG (HD)",
         "ico": "https://iili.io/298whep.png",
         "uri": "Z4s327Vn+xQqhY1oCZ8+XEkzbV7qY+9wMDT5hUhc1JihdXKKqxTbmoc8vHQ0si3u2br20LwdanJiUBrXgSTSxA==",
@@ -898,6 +912,27 @@
         "name": "MEXICO",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MX_logo.png/800px-MX_logo.png",
         "uri": "gNBb35DZcJiHJnyoXkGR8tOpvEjdL4DsfW+MyIJTEFFmUhqoGrhuTnQXKMPM2hxl",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "MLS 1",
+        "ico": "https://iili.io/2qzLSl2.png",
+        "uri": "JFRpA0t4scng5bNIhmtikHFywA2HKBFr+G0BhLKWKqWU2iWv4ARsJGH6riOBxx91iY+sEt1KTwhkMLApDrlmQBdFvAIabODA7+M/Hee/aG4=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "MLS 2",
+        "ico": "https://iili.io/2qzLSl2.png",
+        "uri": "JFRpA0t4scng5bNIhmtikHFywA2HKBFr+G0BhLKWKqWU2iWv4ARsJGH6riOBxx91iY+sEt1KTwhkMLApDrlmQECaiiLcG764dEp7HqgrdpI=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "MLS 3",
+        "ico": "https://iili.io/2qzLSl2.png",
+        "uri": "JFRpA0t4scng5bNIhmtikHFywA2HKBFr+G0BhLKWKqWU2iWv4ARsJGH6riOBxx91iY+sEt1KTwhkMLApDrlmQN8xnlLlmoXKbD00E5Wi0+Y=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -1069,21 +1104,21 @@
       },
       {
         "name": "CANAL 3 ROSARIO",
-        "ico": "http://imgfz.com/i/DhJWEVu.jpeg",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Eltres_RGB-grad_%28positivo%29.png/153px-Eltres_RGB-grad_%28positivo%29.png",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0HMpDbd6kr72w1CrNfsQt+UOAnwm/wEDWyw9aPbMbFxhN83nl7XXefFq1A4gEAOmnVsOUkSw40yz1SlRMzie70R6rvXnGUBJ7Cmavi5Vyx67Q==",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EXiM/mrr7o0KKMwiiy2XbC2StfwNdssY31UcuvYhbZuqOSm5jdsOFb26nPWSPQyc/hthLIy/Zr73UVpGb3X/hNgSbAs1u7QJtwI0mS+ZLWjX/8q1A+yEpPAHa04qUUhKSQ=="
       },
       {
         "name": "CANAL 3 ROSARIO",
-        "ico": "https://static.tvar.io/imagenes/canal3rosario.png",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Eltres_RGB-grad_%28positivo%29.png/153px-Eltres_RGB-grad_%28positivo%29.png",
         "uri": "EGbTdQSc58tHgH0HJaX1f2ULMfYo0o1gmPP720AkXjOtldBCJO7Bz7MgJoTQUk21sJLX+hWAUXGxytmyYZMe+6RrKnfY7QH0q7sgUM3fmMVbOxRIzdgie1DPWLtLbc64+AGiJQIB8IsodZbmv1hJ5A==",
         "drm_scheme": "clearkey",
         "drm_license_url": "pfccQdO0x9675khuei5j0RBhJPHTZq1zPewDSgzyL70A6yHt68sE5Zb2Adpd+RmJbIQtMQr7SOkX0HcbTxngucBwA92DBF7d6E5l+IrGVcrWVtFiNSM8xBmytUvgshPg5D1KcoTOH0jh4ipyyWBCqdSi+BUjWg+D0X8LS90txUs="
       },
       {
         "name": "CANAL 3 ROSARIO",
-        "ico": "https://static.tvar.io/imagenes/canal3rosario.png",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Eltres_RGB-grad_%28positivo%29.png/153px-Eltres_RGB-grad_%28positivo%29.png",
         "uri": "EGbTdQSc58tHgH0HJaX1f2ULMfYo0o1gmPP720AkXjOtldBCJO7Bz7MgJoTQUk21sJLX+hWAUXGxytmyYZMe+6RrKnfY7QH0q7sgUM3fmMVbOxRIzdgie1DPWLtLbc64+AGiJQIB8IsodZbmv1hJ5A==",
         "drm_scheme": "clearkey",
         "drm_license_url": "pfccQdO0x9675khuei5j0RBhJPHTZq1zPewDSgzyL70A6yHt68sE5Zb2Adpd+RmJbIQtMQr7SOkX0HcbTxngucBwA92DBF7d6E5l+IrGVcrWVtFiNSM8xBmytUvgshPg5D1KcoTOH0jh4ipyyWBCqdSi+BUjWg+D0X8LS90txUs="
@@ -1097,7 +1132,7 @@
       },
       {
         "name": "Canal 4 San Juan",
-        "ico": "https://static.tvar.io/imagenes/canal4sanjuan.png",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Channel_4_logo_%28San_Juan%2C_Argentina%29_.png/133px-Channel_4_logo_%28San_Juan%2C_Argentina%29_.png",
         "uri": "b6pimIOhPM83FKUGqCdhiQN5f9qsFm/aM51MJT5oocNel/dzaFHjhz5QtCFTWApyb3UwpiPWDtuTu61m4+puSw==",
         "drm_scheme": "",
         "drm_license_url": ""
@@ -1132,7 +1167,7 @@
       },
       {
         "name": "Canal 8 San Juan",
-        "ico": "https://static.tvar.io/imagenes/canalochosanjuan.png",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Canal_Ocho_San_Juan_%28Logo_2018%29.png/133px-Canal_Ocho_San_Juan_%28Logo_2018%29.png",
         "uri": "FLX8AGlPe2gTLcCIn8/z4jLdxDqb0rR6MzkCcRVkouXVM8p4LgAHv4PoqlzRF6S3A+sq+b6fuT2U61Ao3EZtD36lmvXAICmHP4UkKYkswaASgV3mPBn6nY5GPQXM8OewlH2QjQRKChE3qatC7GnG8w==",
         "drm_scheme": "",
         "drm_license_url": ""
@@ -1153,7 +1188,7 @@
       },
       {
         "name": "Canal 9 Litoral",
-        "ico": "https://static.tvar.io/imagenes/canal9litoral.png",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_9_Litoral_2021.png/133px-Canal_9_Litoral_2021.png",
         "uri": "EGbTdQSc58tHgH0HJaX1fywder//z/T9Ro7QaKhLvSQdaSQImAqp1ZtEBtJui17OU2mfmNa2SN+6yNuLp5/njHUViF6zAaTMXR4synbFqwN8aaa7bAegTn6OlXiGXephAAw4ipzDmmQg277BNHPenw==",
         "drm_scheme": "clearkey",
         "drm_license_url": "pfccQdO0x9675khuei5j0eL0fFeuqbBiWAOHZ9RgjZm5wr8sN7LupT/3QgWY7Wkd2iZB9eZsZyryI3vKH7CUqgoN+mT8h0iLV9C80Xv/IyA6+b9p7PTpF0/+QK49d845NGjDYHrmbc3xdSwiNObGeLnwqN+W9OjqFemuBOvZr1s="
@@ -1162,13 +1197,6 @@
         "name": "CANAL 9 MENDONZA",
         "ico": "https://www.elnueve.com/images/logo-canal-9-televida-mendoza.png",
         "uri": "lVJnsU2LqaHu7jPtfVw+EhzU06Sna/LEuZQhJAqoSMvCqeztOTTPG0vKvh5Q4kSW6OYvMdY+vI3YUvGT9QATi++m11S3+riM6e+P8AQI1aw=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CANAL 10 CORDOBA",
-        "ico": "https://static.tvar.io/imagenes/canal10cba.jpg",
-        "uri": "s4VbPQWRVxvY7ssoq1pec6249ptKNv+Ou1p+LaT46cAikHvLw19DjumYxEFBvOj2QYp/dY4QKHrdBoLSHCEgZ3yYKlNcT7KOg0VaU+e1H90=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -1201,13 +1229,6 @@
         "drm_license_url": ""
       },
       {
-        "name": "CANAL 12 CORDOBA",
-        "ico": "https://i.ibb.co/60sFBfY/og-image.jpg",
-        "uri": "O4zQaBxapxoofA7Utbs4F0Tl+WtYe/iRC29D4DQTGlp+fvagSGpjF75AKQW5cpyQZwrUYPLZwrG9sk3CBEeGB8r2TTDIVO/MHgr+foU7ganrbHLbeGjjZOcf6gZL1naKBRs+o3S/h9zIQWPPtKPmqw==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "pfccQdO0x9675khuei5j0UCFnzcJ8HFhn28NWhKvDslFDs8/yyCuSGxuT9cDbGckiu3fIY/2WaTl1ZHD/zaGS/lGq3tI77LP1RuyeY8NOaxhcOz7F12vvUvly2scVMztOxk/oLg0kQpJIjmHHJt0NxhimLijoz2IVVKYZ+lV0Yo="
-      },
-      {
         "name": "CANAL 12 MISIONES",
         "ico": "https://iili.io/dmYDz6N.png",
         "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5uUbPzJDCJjMKqMvp3K6dSkiv6OTiQp4cWW54TVIo9BScJ+zeRXmfPNVjLAFLni7lcF+5kDvdLPpMjkyF3AYb031uNNK8rtDehk65Ref0o11Q==",
@@ -1223,14 +1244,14 @@
       },
       {
         "name": "CANAL 13 Max Televisión",
-        "ico": "https://static.tvar.io/imagenes/13maxdigital.png",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png",
         "uri": "rPBZo0odVaF+jzhVwDZJ7emEGLWo0tWV3ocZCdYuRwCC5CEa+mwVu9xrg6CLkIq04DB/CaonaTDq7fxLElWUvxx+lB9LtvSo8STpIXxOe4A=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "CANAL 13 RIO CUARTO",
-        "ico": "https://static.tvar.io/imagenes/canal13riocuarto.jpg",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Canal_13_R%C3%ADo_Cuarto_%28Logo_2008%29.png/133px-Canal_13_R%C3%ADo_Cuarto_%28Logo_2008%29.png",
         "uri": "tLjo5kDbct015TZtplmzUM0bjYwaoFZb6UykIDcu/sYIynlHDXp71wbVuR/hSggf0ERyE9oe6dFfxu+iCAZc4WBivOeNceVFQDs/E6i3jLA=",
         "drm_scheme": "",
         "drm_license_url": ""
