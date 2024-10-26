@@ -916,23 +916,9 @@
         "drm_license_url": ""
       },
       {
-        "name": "MLS 1",
+        "name": "MLS 1*",
         "ico": "https://iili.io/2qzLSl2.png",
-        "uri": "JFRpA0t4scng5bNIhmtikHFywA2HKBFr+G0BhLKWKqWU2iWv4ARsJGH6riOBxx91iY+sEt1KTwhkMLApDrlmQBdFvAIabODA7+M/Hee/aG4=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "MLS 2",
-        "ico": "https://iili.io/2qzLSl2.png",
-        "uri": "JFRpA0t4scng5bNIhmtikHFywA2HKBFr+G0BhLKWKqWU2iWv4ARsJGH6riOBxx91iY+sEt1KTwhkMLApDrlmQECaiiLcG764dEp7HqgrdpI=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "MLS 3",
-        "ico": "https://iili.io/2qzLSl2.png",
-        "uri": "JFRpA0t4scng5bNIhmtikHFywA2HKBFr+G0BhLKWKqWU2iWv4ARsJGH6riOBxx91iY+sEt1KTwhkMLApDrlmQN8xnlLlmoXKbD00E5Wi0+Y=",
+        "uri": "JFRpA0t4scng5bNIhmtikHFywA2HKBFr+G0BhLKWKqWU2iWv4ARsJGH6riOBxx91iY+sEt1KTwhkMLApDrlmQFxXfhSl8pqqQofcqinm1TM=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -1053,6 +1039,13 @@
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0EG45lOUB5rr4pgWIWJP9m+5Dd+UwIsUXddx9mdu9LSKKvpmqFcsdSsqWpOQuXfJBFUB5h27O58BTXyhsKJ78iu",
         "drm_scheme": "ClearKey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ed3jYBkEeJfsYfKGizlplssTQdvK+C2z0UYSFb4ChBVKNntmFbf2Ul+w7w2UlyJD9CBt7yFaj76TFHnbXD2vdbR/dngA+LIqzVRcPK9mEhu17dNaB1IilMDs3B8eWQ2Gsg=="
+      },
+      {
+        "name": "SOMOS RIO CUARTO",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo_Canales_Somos_de_Cablevisi%C3%B3n.png",
+        "uri": "+u8JOr6SyIr5qvEA/JHNyzZxbMc/FkKR7xs0adneKveyVvAYqD4SrJYqnjCip8BpNq3T0moQt6XQRiQqt55GOGNuUEkDUT5kT3dRTIpnwABEmmNjV5eAi+sSjJn3XjKZ",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EegWEBjUCq8YGvrYGV/FavmYhkiHgZbgqWr+IqZ1d6w6261XFRd0J0QINHRxISfl0H6be6778bd1JAX3EE3T5bP0fEI8BNujJ5jUBBrKoO6YxvAz+F2oCvt2RNa01qJnyQ=="
       },
       {
         "name": "TELEFE CORDOBA",
@@ -6014,7 +6007,7 @@
     ]
   },
   {
-    "name": "🔞PROHIBIDO PARA MENORES",
+    "name": "🔞ADULTOS +18",
     "mode": false,
     "lista": [
       {
