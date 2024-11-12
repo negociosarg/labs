@@ -2265,9 +2265,9 @@
       {
         "name": "LOVE NATURE ES",
         "ico": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png",
-        "uri": "65QfB985J8EeRP9jnpA5awsYtP2aRcSSXzCpWocG4OUszzs3a4Wx6osmxwHm4bepnuN0CkWnT8LSLGDy5aLCa0+waReMhhiEin2MY0qGFJo=",
-        "drm_scheme": "",
-        "drm_license_url": ""
+        "uri": "X857L3F1h0U7Or4d3m5yRD9wcVqJWV12hlLTwwZLGIqVyELZILYWExNQ3IGqzjPJaL/qa/5EOFWl4ddlRQFL54FuHBSQsnFwOdiv49wtfgw=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EVwig44rACfBAl+46Bc1qQNJNFCfrv3kQYcNoYtUQZsmRF214gTvM9Vtmn/5ZTihKlPj8uyx4Nb4VuLU2F0c+E0cqnTODxcOEp7nphV1KqkSJa9SwDTLo36sP/TrBlBf1Q=="
       },
       {
         "name": "LOVE NATURE US",
@@ -3867,28 +3867,7 @@
       {
         "name": "CAMPEONATO URUGUAY 3",
         "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
-        "uri": "K6uXWCttiYM/bGJzfOfzzBqMNqLQZrJEEoX2IO96QrkiIPyUvCOUM6I9txvCLdbWh7zUiLitGSfSckR3jvhzTxzPnASUZIXoPRVmY+obfY0=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CAMPEONATO URUGUAY 4 ",
-        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
-        "uri": "K6uXWCttiYM/bGJzfOfzzBqMNqLQZrJEEoX2IO96QrkiIPyUvCOUM6I9txvCLdbWh7zUiLitGSfSckR3jvhzT6a1cv372qoXPhSTvEFpwX4=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CAMPEONATO URUGUAY 5 ",
-        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
-        "uri": "K6uXWCttiYM/bGJzfOfzzBqMNqLQZrJEEoX2IO96QrkiIPyUvCOUM6I9txvCLdbWh7zUiLitGSfSckR3jvhzT6a1cv372qoXPhSTvEFpwX4=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CAMPEONATO URUGUAY 6 ",
-        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
-        "uri": "K6uXWCttiYM/bGJzfOfzzBqMNqLQZrJEEoX2IO96QrkiIPyUvCOUM6I9txvCLdbWh7zUiLitGSfSckR3jvhzTxP3OlmGrWJ8b0IQriVuDcs=",
+        "uri": "F9EOH+rrzr5Dp5pFLe3mywq8lPH4Dey4b/u9rBfjr9oj7IdA8WE3Ra15ByopgXTJ4zfzGtpTGsdWHCnfVsK2ig==",
         "drm_scheme": "",
         "drm_license_url": ""
       }
