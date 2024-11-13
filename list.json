@@ -276,24 +276,24 @@
     "lista": [
       {
         "name": "⚽ESPN PREMIUM Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ",
-        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-premium-ar.png",
-        "uri": "fQlXZK8sFnbUgAEf0UbEqLvcG79vWkBmdUu5rdFeqsH6OI9iwjljJqfl5xr1Ix4ruwr00ZMKU1RibGC5Dc3xIqK+/J5TJMOGeqLog5tfjFX0HSelFwgFbPCm5kt9GgEzYDl/6ZLxDs4sMio2/dxdQBDCRGmN5RBtNI738XTCrZ4=",
-        "drm_scheme": "ClearKey",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Superliga_Argentina_Logo.png",
+        "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5uM2bnSpKPkPqdAq0ZMqIyJskhUnjaiX5TvpujinSSyrN+wqHTuOVLikm7v3x7fzXsj3g9d58dBps8P0GmsYxL2C8rWpMRVF7LQir+23ZrsgDJB6BgNIfu+8Igbenc+nMw=",
+        "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ERbisRvRc+3cGCYSJ7pYMDYLBVghJ7RMtASv3Nu0OwVsy+HI7UdFtveRtISUz8QFV8Vbx8kdkl8ubIawE2Yjvfqx9TOhW5eVMeEwjUnmI3OIvBtW6rcco6y9t5eK07r7xg=="
       },
       {
         "name": "⚽TNT SPORT Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ",
-        "ico": "https://i.ibb.co/r0tmVNt/TNT-Sports-2024.png",
-        "uri": "fQlXZK8sFnbUgAEf0UbEqLvcG79vWkBmdUu5rdFeqsF3YWu+972Rcnnc4toT9wbxuqEIovqqxKvsZdQUy9DcHy5edw5l5417uyf28zE9Ib8LrLKeCZoIrLV4mcgz1/MpkocpfMCEFhdnQyKLpUaydw==",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Superliga_Argentina_Logo.png",
+        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0GeB2w85F8uzUdXZJgqi1DUWceCXuDj8ujEZaB8a8Xl3N/B0vXPEKPa3UsVAzYlDodGJySM/4GehYubV/qMz9Oq",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ETStl0pIkBEniJ9FFk37063ek882wGkgfKTWekfWrEFGKeni49g19G8nYBF1ec4uJsUW8vjbAI4ofNLAC3dYUyi0wRWTFoTOqEM9vxPbdqyWqUuRM8RzjzJ8+z/iveiF9g=="
       },
       {
         "name": "⚽TYC SPORTS Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ",
-        "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png",
-        "uri": "9JhfypofPmajNtJjskjanznCS2QidHGg3h5rSFKQ+ln7iXNW6+8YYWBchGQPoJ5y5yr4GolPF0XaAsxtSH8oEA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Superliga_Argentina_Logo.png",
+        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ENI4lZaesFHQ6qxMfPX6TLXMjDQWwyoajyt5BjAdHMcBn12TF1BrrDXDsExN16wJ3KnxNi5AfRXaFp3bSOWo4r",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
       }
     ]
   },
@@ -380,14 +380,14 @@
       },
       {
         "name": "ESPN PREMIUM",
-        "ico": "https://raw.githubusercontent.com/DryKillLogic/tv-logos/main/countries/argentina/espn-premium-ar.png",
+        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-premium-ar.png",
         "uri": "O4zQaBxapxoofA7Utbs4F5hceVjoJEJMmEq439UAjxhqyGW3YIIXw2mbnsZCMey/IQtt2cRISRyWh90sm0zbJEGhacoYb4d1SE5GoxjJCDadx+EVHVJIjOMAdwEG1u8z5YENh9j/CGEVJMLoBzqB35rrNcZc22HNMJ+oWwN3zCQ=",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ERbisRvRc+3cGCYSJ7pYMDYLBVghJ7RMtASv3Nu0OwVsy+HI7UdFtveRtISUz8QFV8Vbx8kdkl8ubIawE2Yjvfqx9TOhW5eVMeEwjUnmI3OIvBtW6rcco6y9t5eK07r7xg=="
       },
       {
         "name": "ESPN PREMIUM FHD",
-        "ico": "https://raw.githubusercontent.com/DryKillLogic/tv-logos/main/countries/argentina/espn-premium-ar.png",
+        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-premium-ar.png",
         "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5uM2bnSpKPkPqdAq0ZMqIyJskhUnjaiX5TvpujinSSyrN+wqHTuOVLikm7v3x7fzXsj3g9d58dBps8P0GmsYxL2C8rWpMRVF7LQir+23ZrsgDJB6BgNIfu+8Igbenc+nMw=",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ERbisRvRc+3cGCYSJ7pYMDYLBVghJ7RMtASv3Nu0OwVsy+HI7UdFtveRtISUz8QFV8Vbx8kdkl8ubIawE2Yjvfqx9TOhW5eVMeEwjUnmI3OIvBtW6rcco6y9t5eK07r7xg=="
@@ -2263,25 +2263,18 @@
     "mode": false,
     "lista": [
       {
-        "name": "LOVE NATURE ES",
-        "ico": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png",
-        "uri": "X857L3F1h0U7Or4d3m5yRD9wcVqJWV12hlLTwwZLGIqVyELZILYWExNQ3IGqzjPJaL/qa/5EOFWl4ddlRQFL54FuHBSQsnFwOdiv49wtfgw=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EVwig44rACfBAl+46Bc1qQNJNFCfrv3kQYcNoYtUQZsmRF214gTvM9Vtmn/5ZTihKlPj8uyx4Nb4VuLU2F0c+E0cqnTODxcOEp7nphV1KqkSJa9SwDTLo36sP/TrBlBf1Q=="
-      },
-      {
-        "name": "LOVE NATURE US",
-        "ico": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png",
-        "uri": "JFRpA0t4scng5bNIhmtikHFywA2HKBFr+G0BhLKWKqWU2iWv4ARsJGH6riOBxx91iY+sEt1KTwhkMLApDrlmQCJAueI279KHUvsETcJd+s8=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
         "name": "ANIMALPLANET",
         "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/a/n/animal_planet.png",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0HpLdgbB3pIf0q0YOMdvLG3TYXgkeayXe8aWIDZDeE+WwtZtvOD4dEPGAuW+G6gsb2tPCW3AWyHJ3x2ec8Kflm7",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EUteJFps9lEV51FMJMoJDRBPXk0DnHT+3W8nHFssQqOM1I4vcFU7Fywn9vFOn4/rYWQi4EnZRFGVMhaLugBQFuYwOc9CRhYQ1ybXeBIMRXeGYuErQbEAdyWDwd6WsOG3Wg=="
+      },
+      {
+        "name": "LOVE NATURE ES1",
+        "ico": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png",
+        "uri": "JFRpA0t4scng5bNIhmtikHFywA2HKBFr+G0BhLKWKqWU2iWv4ARsJGH6riOBxx91iY+sEt1KTwhkMLApDrlmQLZox+xuDBI2ky1U7yynNeI=",
+        "drm_scheme": "",
+        "drm_license_url": ""
       },
       {
         "name": "CARAS TV",
@@ -2406,6 +2399,13 @@
         "name": "INTI NETWORK",
         "ico": "https://i.ibb.co/6PXN8Sp/21248241-1334028926726691-1694969298929391644-o.jpg",
         "uri": "ZLktQIbRT1rwj7lEf5IVMIIm9qnOj+Uyn8Dsg+Ju4XKh7VCW39+BR+WiIlXGxYCrPn5WOEKQ4FOqpULg00vXh28RWpc7SYSxWbUJ5c6V5pOn0KfOFXFwkD8BhsYz0Gui",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "LOVE NATURE US",
+        "ico": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png",
+        "uri": "JFRpA0t4scng5bNIhmtikHFywA2HKBFr+G0BhLKWKqWU2iWv4ARsJGH6riOBxx91iY+sEt1KTwhkMLApDrlmQCJAueI279KHUvsETcJd+s8=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -3220,70 +3220,21 @@
       {
         "name": "FUTBOL PY",
         "ico": "https://4.bp.blogspot.com/-6BQv5SOuxn4/XEs537Yz01I/AAAAAAABT-c/aol0uy0p_l8gSbrYVLhz4qu5-GpyGG3lQCLcBGAs/s1600/Copa%2Bde%2BPrimera.png",
-        "uri": "JFRpA0t4scng5bNIhmtikEO3Fl6mNNmuLfPHULrMqXY5joNYugzFS1YgHE085gHMP/AHE+fnhIx/aXvxJU+pNQ==",
+        "uri": "nJH2ezGvFKK48Gh6Fx+euT/gkbqF8xeYEpDMxQVYv9raMyDl+aod/vaxF0Y18kBCVARI+m55oPtpDcDCk03Odg==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "FUTBOL PY 2",
+        "name": "FUTBOL PY2",
         "ico": "https://4.bp.blogspot.com/-6BQv5SOuxn4/XEs537Yz01I/AAAAAAABT-c/aol0uy0p_l8gSbrYVLhz4qu5-GpyGG3lQCLcBGAs/s1600/Copa%2Bde%2BPrimera.png",
-        "uri": "JFRpA0t4scng5bNIhmtikEO3Fl6mNNmuLfPHULrMqXY5joNYugzFS1YgHE085gHMP/AHE+fnhIx/aXvxJU+pNQ==",
+        "uri": "nJH2ezGvFKK48Gh6Fx+euT/gkbqF8xeYEpDMxQVYv9raMyDl+aod/vaxF0Y18kBCQTuZURPeXGGOfVAWVMt/fg==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "FUTBOL PY 3",
+        "name": "FUTBOL PY3",
         "ico": "https://4.bp.blogspot.com/-6BQv5SOuxn4/XEs537Yz01I/AAAAAAABT-c/aol0uy0p_l8gSbrYVLhz4qu5-GpyGG3lQCLcBGAs/s1600/Copa%2Bde%2BPrimera.png",
-        "uri": "JFRpA0t4scng5bNIhmtikEO3Fl6mNNmuLfPHULrMqXY5joNYugzFS1YgHE085gHMcUNVop04jzdyUIBP1Az8zQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "FUTBOL PY 4",
-        "ico": "https://4.bp.blogspot.com/-6BQv5SOuxn4/XEs537Yz01I/AAAAAAABT-c/aol0uy0p_l8gSbrYVLhz4qu5-GpyGG3lQCLcBGAs/s1600/Copa%2Bde%2BPrimera.png",
-        "uri": "JFRpA0t4scng5bNIhmtikEO3Fl6mNNmuLfPHULrMqXY5joNYugzFS1YgHE085gHMtf7E4PHN+i92Z6DNdb4qcw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "FUTBOL PY 5",
-        "ico": "https://4.bp.blogspot.com/-6BQv5SOuxn4/XEs537Yz01I/AAAAAAABT-c/aol0uy0p_l8gSbrYVLhz4qu5-GpyGG3lQCLcBGAs/s1600/Copa%2Bde%2BPrimera.png",
-        "uri": "JFRpA0t4scng5bNIhmtikEO3Fl6mNNmuLfPHULrMqXY5joNYugzFS1YgHE085gHM6k9HH1ADR1MOLnJHIx80xQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "FUTBOL PY 6",
-        "ico": "https://4.bp.blogspot.com/-6BQv5SOuxn4/XEs537Yz01I/AAAAAAABT-c/aol0uy0p_l8gSbrYVLhz4qu5-GpyGG3lQCLcBGAs/s1600/Copa%2Bde%2BPrimera.png",
-        "uri": "K6uXWCttiYM/bGJzfOfzzBqMNqLQZrJEEoX2IO96QrkiIPyUvCOUM6I9txvCLdbWh7zUiLitGSfSckR3jvhzT9EukT3JOH1nuYFUJM05s3s=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "FUTBOL PY 7",
-        "ico": "https://4.bp.blogspot.com/-6BQv5SOuxn4/XEs537Yz01I/AAAAAAABT-c/aol0uy0p_l8gSbrYVLhz4qu5-GpyGG3lQCLcBGAs/s1600/Copa%2Bde%2BPrimera.png",
-        "uri": "K6uXWCttiYM/bGJzfOfzzBqMNqLQZrJEEoX2IO96QrkiIPyUvCOUM6I9txvCLdbWh7zUiLitGSfSckR3jvhzT9EukT3JOH1nuYFUJM05s3s=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "FUTBOL PY8",
-        "ico": "https://4.bp.blogspot.com/-6BQv5SOuxn4/XEs537Yz01I/AAAAAAABT-c/aol0uy0p_l8gSbrYVLhz4qu5-GpyGG3lQCLcBGAs/s1600/Copa%2Bde%2BPrimera.png",
-        "uri": "K6uXWCttiYM/bGJzfOfzzBqMNqLQZrJEEoX2IO96QrkiIPyUvCOUM6I9txvCLdbWTdZKk+HoRZ9Oaox1rKvWH8Ly2hvmC64KyqSj11tBbPw=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "FUTBOL PY 9",
-        "ico": "https://4.bp.blogspot.com/-6BQv5SOuxn4/XEs537Yz01I/AAAAAAABT-c/aol0uy0p_l8gSbrYVLhz4qu5-GpyGG3lQCLcBGAs/s1600/Copa%2Bde%2BPrimera.png",
-        "uri": "K6uXWCttiYM/bGJzfOfzzBqMNqLQZrJEEoX2IO96QrkiIPyUvCOUM6I9txvCLdbWTdZKk+HoRZ9Oaox1rKvWH5dVijtX4YKOUPws4s4L3XA=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "FUTBOL PY 10",
-        "ico": "https://4.bp.blogspot.com/-6BQv5SOuxn4/XEs537Yz01I/AAAAAAABT-c/aol0uy0p_l8gSbrYVLhz4qu5-GpyGG3lQCLcBGAs/s1600/Copa%2Bde%2BPrimera.png",
-        "uri": "K6uXWCttiYM/bGJzfOfzzBqMNqLQZrJEEoX2IO96QrkiIPyUvCOUM6I9txvCLdbWTdZKk+HoRZ9Oaox1rKvWH2lPR0FlTvngF/0GWYU9PC0=",
+        "uri": "nJH2ezGvFKK48Gh6Fx+euT/gkbqF8xeYEpDMxQVYv9raMyDl+aod/vaxF0Y18kBCQTuZURPeXGGOfVAWVMt/fg==",
         "drm_scheme": "",
         "drm_license_url": ""
       }
@@ -3868,6 +3819,27 @@
         "name": "CAMPEONATO URUGUAY 3",
         "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
         "uri": "F9EOH+rrzr5Dp5pFLe3mywq8lPH4Dey4b/u9rBfjr9oj7IdA8WE3Ra15ByopgXTJ4zfzGtpTGsdWHCnfVsK2ig==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CAMPEONATO URUGUAY 4",
+        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
+        "uri": "JFRpA0t4scng5bNIhmtikHFywA2HKBFr+G0BhLKWKqWU2iWv4ARsJGH6riOBxx91iY+sEt1KTwhkMLApDrlmQE8eO/KtOYA3J1gMYmrdJ1g=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CAMPEONATO URUGUAY 5",
+        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
+        "uri": "JFRpA0t4scng5bNIhmtikHFywA2HKBFr+G0BhLKWKqWU2iWv4ARsJGH6riOBxx91iY+sEt1KTwhkMLApDrlmQBBpFyveiIEnbvEyqqWAd4Q=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "MAROÑAS",
+        "ico": "https://seeklogo.com/images/M/maro__as-logo-E873D14D49-seeklogo.com.png",
+        "uri": "JFRpA0t4scng5bNIhmtikHFywA2HKBFr+G0BhLKWKqWU2iWv4ARsJGH6riOBxx91iY+sEt1KTwhkMLApDrlmQE8eO/KtOYA3J1gMYmrdJ1g=",
         "drm_scheme": "",
         "drm_license_url": ""
       }
