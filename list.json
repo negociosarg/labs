@@ -100,6 +100,13 @@
     "name": "🇦🇷 ARGENTINA",
     "mode": false,
     "lista": [
+       {
+    "name": "PARTIDO ARGENTINA",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Argentina.png/800px-Flag_of_Argentina.png",
+    "uri": "MOQPAwU4OAOdUvjMoz0/j+IeYysNm9MJxoeI8PhiJo097DYgrKuJnZETi704c84C1UCTvWL9A12XIZj6QoPZp2HefdsZIJn5UtcCU5of4lvXOk+cgcKy3hP3O8M8IA+dy7S5CiFuQ9R9b0dKtt2JmI7qr9N9hE7CmJHX4FSPIyupkXCxoEGF2biCyITWmW5iXXXV+zeyzi2rRInzxl87SLH6Q+AeFEvfynBkfXamvfprdeunnHWTUHl0rRW0S6eDtlFXzXfujLYoVBuAYJiVJ5CIT7T8KxWhDTJJCeLROazeyq5xSeDSmsS8ph6T9Kaf",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },      
       {
         "name": "A24",
         "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/a24-ar.png",
