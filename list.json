@@ -108,13 +108,6 @@
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EbEA0wfV9qPFLm5CA6pjJ5Uu9iVj742MFckQ2ElNEM6anRDWoqsfofm2e2i3H2ouK70h3P2P04cTzX/B561UkLpOo+dlKeskbX50gaI81XCiNPZd9LBGlJyvW30gcHaMeA=="
       },
       {
-        "name": "PARTIDO ARGENTINA",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Argentina.png/800px-Flag_of_Argentina.png",
-        "uri": "MOQPAwU4OAOdUvjMoz0/j+IeYysNm9MJxoeI8PhiJo097DYgrKuJnZETi704c84C1UCTvWL9A12XIZj6QoPZp2HefdsZIJn5UtcCU5of4lvXOk+cgcKy3hP3O8M8IA+dy7S5CiFuQ9R9b0dKtt2JmI7qr9N9hE7CmJHX4FSPIyupkXCxoEGF2biCyITWmW5iXXXV+zeyzi2rRInzxl87SLH6Q+AeFEvfynBkfXamvfprdeunnHWTUHl0rRW0S6eDtlFXzXfujLYoVBuAYJiVJ5CIT7T8KxWhDTJJCeLROazeyq5xSeDSmsS8ph6T9Kaf",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
         "name": "TELEFE",
         "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/telefe-ar.png",
         "uri": "EGbTdQSc58tHgH0HJaX1f2ULMfYo0o1gmPP720AkXjNOpYjeYbx3AJd7Hxdw6uyhVb6nGrznpLAR5LrA4X6He1XpSVhb0o7R49lut/vbjKJi7eXqpbdBfxt+nQGBTVlr",
@@ -282,23 +275,16 @@
     "mode": false,
     "lista": [
       {
-        "name": "TELEFE",
-        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/telefe-ar.png",
-        "uri": "fQlXZK8sFnbUgAEf0UbEqLvcG79vWkBmdUu5rdFeqsF3YWu+972Rcnnc4toT9wbxPU3IEvci2JNZyKbmX/n5l4zpIFkDF5slliKoJ5PjMzB8fZGYDuqkzyt9vOgvBiu0",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Eb8sPHbQ3A17YnpsnYByg47XK70uzSpsOF5LaH0v/fa7GzJ5IaaCaN3pq11/KxlQukmtlELfjLpYA6JVuCRtbxcfe3CVgxQw3xHN1Q1kkFNS/h7Uifj/Aa0hpFfWZdq7ZA=="
+        "name": "TYC SPORTS*",
+        "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png",
+        "uri": "O4zQaBxapxoofA7Utbs4F156xThsZbzyRsxBexC6TfGOQy7FleZEF0kZnIYag2Nf4OKXyefGV+hDxuMckQRzd8ddfTJuHYjTyj3eLDlgX3Dkq/Ok12vGL+u+COfKUJyS",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
       },
       {
         "name": "TYC SPORT",
         "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png",
         "uri": "fQlXZK8sFnbUgAEf0UbEqLvcG79vWkBmdUu5rdFeqsG4UNDtvK8VEqFLAXtBEfPjESwlgaNy1xWz1W3ZJwKYGUrlqjjussUfZjUir/+zkZlEjQPTTY3X413yaUeOAKJn",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
-      },
-      {
-        "name": "TYC SPORTS",
-        "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png",
-        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ENI4lZaesFHQ6qxMfPX6TLXMjDQWwyoajyt5BjAdHMcBn12TF1BrrDXDsExN16wJ3KnxNi5AfRXaFp3bSOWo4r",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
       },
@@ -447,6 +433,13 @@
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0GeB2w85F8uzUdXZJgqi1DUWceCXuDj8ujEZaB8a8Xl3N/B0vXPEKPa3UsVAzYlDodGJySM/4GehYubV/qMz9Oq",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ETStl0pIkBEniJ9FFk37063ek882wGkgfKTWekfWrEFGKeni49g19G8nYBF1ec4uJsUW8vjbAI4ofNLAC3dYUyi0wRWTFoTOqEM9vxPbdqyWqUuRM8RzjzJ8+z/iveiF9g=="
+      },
+      {
+        "name": "TYC SPORTS*",
+        "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png",
+        "uri": "O4zQaBxapxoofA7Utbs4F156xThsZbzyRsxBexC6TfGOQy7FleZEF0kZnIYag2Nf4OKXyefGV+hDxuMckQRzd8ddfTJuHYjTyj3eLDlgX3Dkq/Ok12vGL+u+COfKUJyS",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
       },
       {
         "name": "TYC SPORT",
@@ -706,6 +699,27 @@
     "mode": false,
     "lista": [
       {
+        "name": "✅EVENTO 1",
+        "ico": "https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true",
+        "uri": "O4zQaBxapxoofA7Utbs4F156xThsZbzyRsxBexC6TfHmMgfot8RkGNkSdfIupQsJfVP4xDnFMRonkMb/g+cPgCyfEw0pjyeeCoauyldH+dOcI7SsgJBIpJqSj5l1gme2JSeLHjQGdng5ynMZeX0YFw==",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EdSYApsAtjEDxF0nufiLy2OXe9IhP0Eclv8XCNMi3GAtN7j10YJJ7kS/7u9xgZCBggiRQax7VFDGzVNBJjNR2euES6NqlN9EGsgQafmq3/mau7k0UUrYknLYhZpszQbNMQ=="
+      },
+      {
+        "name": "✅EVENTO 2",
+        "ico": "https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true",
+        "uri": "O4zQaBxapxoofA7Utbs4F156xThsZbzyRsxBexC6TfEmZI07I7Rsl4zHU0I0jpZnrlj/B5g1UTsnjkCFWarHIRws76+TsE9ae2E6es9Ckm+I+xwyUy7gSfemSxcFXAmX6rScpajPqSf7KcV7w1St1g==",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EZJTE1gLvWj2B5zI3Thj7ECk52paAtsuR2uMGSBzl2ie2JaBTmmNumzL6kdkPSi4UjUe0buRENjPWnF3c960ysNnLEtwZtmbcGRYjle7T6GIG3xSvfy//Sp3hwrsAagiSQ=="
+      },
+      {
+        "name": "✅EVENTO 3",
+        "ico": "https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true",
+        "uri": "O4zQaBxapxoofA7Utbs4F156xThsZbzyRsxBexC6TfEmZI07I7Rsl4zHU0I0jpZnbM/imKak4FvN3Wxb9NqMe4eqcltyGaDy7Av1cRLst9MqeMSt/bcdefvcsA5yr5f/",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EZlKGPkHWOvkGb9GdvvGBoYFl0Gdxsj2124MaRJFBSfrbaNpK2gEAqZ4e3VVI2p4060tpfPePyJPvZz2TT+dxE+3kjdDR4bBJlh3CQKrIx6GF9iVGxTomJRuzcYGxK/YHw=="
+      },
+      {
         "name": "BRASILEIRÃO",
         "ico": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png",
         "uri": "Qkc/rvUBYvW6xqp5pwFaITkxDf0bzhvA33DMqkVqGXi7CsIMu2NBH2qs/QvZ2WF3+T9C7CAXq7kwAzz9nLnHkk01lmwIec+cDcT81rx8EnSBOxOHbtuOEtwmNMwdMAWgN8R99t4qidq7Ta5dW5wZgYoY7lmJtZxs7DNxlGDjsLU=",
@@ -847,7 +861,7 @@
       },
       {
         "name": "EVENTO 1",
-        "ico": "https://i.ibb.co/wh9k5LT/CONMEMBOLPNG.png",
+        "ico": "https://iili.io/298whep.png",
         "uri": "kIuB/TaYEGpaWupBtZIB5ltSYgRwSqpFbQATMSv/6PhlG5nRmf6oocWOaeXIVWOHkpfPekN3n8HiIvBfKsGp/V9MApjxWnb7EjmBCIOF1DVzsG4tuvo/GaiL8WV3cUPxaS/z77NbqWGVNInTjTxOqJefw/uiN4GKtZm9f+0dprS2j9tcCqevOa2b+Csq4bUcobF3xcIlFmloMwIzzdqhmBPmnLVcUX/+vsK3TUhPIJORyUTjMVm9LUkoviCGzrko8qLPbRwX0wPgBapFgIBt8mbd0SpyFk09GrXWHXjnf+U=",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EbeTd5UygQQHfnMlPjsdOCBY4BJ8nmPc7hw3SWVnPjuBI5u/EHqVI39pBAyfhDQjxjovJQ8t9rGhaxrCxSrZPIuLEEzwsbzwjNO70TXCNbOzJm/kOXKg2M2P4AnxKem4hQ=="
@@ -952,7 +966,7 @@
       },
       {
         "name": "PARAGUAY",
-        "ico": "https://4.bp.blogspot.com/-6BQv5SOuxn4/XEs537Yz01I/AAAAAAABT-c/aol0uy0p_l8gSbrYVLhz4qu5-GpyGG3lQCLcBGAs/s1600/Copa%2Bde%2BPrimera.png",
+        "ico": "https://iili.io/298whep.png",
         "uri": "eS0ZOrCl6lVGYy/BZQNUH+QKj5FS6+lyHmLoJLOMZfLYJFW4K8zbiVZhij8lQxdASFEDejh3HogzITpSolCocA==",
         "drm_scheme": "",
         "drm_license_url": ""
@@ -3843,6 +3857,27 @@
     "name": "🇺🇾 DEPORTES URUGUAY",
     "mode": false,
     "lista": [
+      {
+        "name": "✅EVENTO 1",
+        "ico": "https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true",
+        "uri": "O4zQaBxapxoofA7Utbs4F156xThsZbzyRsxBexC6TfHmMgfot8RkGNkSdfIupQsJfVP4xDnFMRonkMb/g+cPgCyfEw0pjyeeCoauyldH+dOcI7SsgJBIpJqSj5l1gme2JSeLHjQGdng5ynMZeX0YFw==",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EdSYApsAtjEDxF0nufiLy2OXe9IhP0Eclv8XCNMi3GAtN7j10YJJ7kS/7u9xgZCBggiRQax7VFDGzVNBJjNR2euES6NqlN9EGsgQafmq3/mau7k0UUrYknLYhZpszQbNMQ=="
+      },
+      {
+        "name": "✅EVENTO 2",
+        "ico": "https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true",
+        "uri": "O4zQaBxapxoofA7Utbs4F156xThsZbzyRsxBexC6TfEmZI07I7Rsl4zHU0I0jpZnrlj/B5g1UTsnjkCFWarHIRws76+TsE9ae2E6es9Ckm+I+xwyUy7gSfemSxcFXAmX6rScpajPqSf7KcV7w1St1g==",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EZJTE1gLvWj2B5zI3Thj7ECk52paAtsuR2uMGSBzl2ie2JaBTmmNumzL6kdkPSi4UjUe0buRENjPWnF3c960ysNnLEtwZtmbcGRYjle7T6GIG3xSvfy//Sp3hwrsAagiSQ=="
+      },
+      {
+        "name": "✅EVENTO 3",
+        "ico": "https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true",
+        "uri": "O4zQaBxapxoofA7Utbs4F156xThsZbzyRsxBexC6TfEmZI07I7Rsl4zHU0I0jpZnbM/imKak4FvN3Wxb9NqMe4eqcltyGaDy7Av1cRLst9MqeMSt/bcdefvcsA5yr5f/",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EZlKGPkHWOvkGb9GdvvGBoYFl0Gdxsj2124MaRJFBSfrbaNpK2gEAqZ4e3VVI2p4060tpfPePyJPvZz2TT+dxE+3kjdDR4bBJlh3CQKrIx6GF9iVGxTomJRuzcYGxK/YHw=="
+      },
       {
         "name": "CAMPEONATO URUGUAY 1 ",
         "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
