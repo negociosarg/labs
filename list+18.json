@@ -101,46 +101,81 @@
     "mode": false,
     "lista": [
       {
-        "name": "TELEFE",
+        "name": "⚽TYC SPORTS*",
         "ico": "https://cdn.conmebol.com/wp-content/uploads/2022/03/Logo-CONMEBOL-Version-Secundaria-1-Color-Plano-Fondo-Oscuro.webp",
-        "uri": "EGbTdQSc58tHgH0HJaX1f2ULMfYo0o1gmPP720AkXjNOpYjeYbx3AJd7Hxdw6uyhVb6nGrznpLAR5LrA4X6He1XpSVhb0o7R49lut/vbjKJi7eXqpbdBfxt+nQGBTVlr",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Eb8sPHbQ3A17YnpsnYByg47XK70uzSpsOF5LaH0v/fa7GzJ5IaaCaN3pq11/KxlQukmtlELfjLpYA6JVuCRtbxcfe3CVgxQw3xHN1Q1kkFNS/h7Uifj/Aa0hpFfWZdq7ZA=="
+        "uri": "O4zQaBxapxoofA7Utbs4F156xThsZbzyRsxBexC6TfGOQy7FleZEF0kZnIYag2Nf4OKXyefGV+hDxuMckQRzd8ddfTJuHYjTyj3eLDlgX3Dkq/Ok12vGL+u+COfKUJyS",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
       },
       {
-        "name": "TELEFE",
+        "name": "⚽TV PUBLICA",
         "ico": "https://cdn.conmebol.com/wp-content/uploads/2022/03/Logo-CONMEBOL-Version-Secundaria-1-Color-Plano-Fondo-Oscuro.webp",
-        "uri": "EGbTdQSc58tHgH0HJaX1f2ULMfYo0o1gmPP720AkXjNOpYjeYbx3AJd7Hxdw6uyhVb6nGrznpLAR5LrA4X6He1XpSVhb0o7R49lut/vbjKJi7eXqpbdBfxt+nQGBTVlr",
+        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0HohaE5tR8x/hdl0/ThqQgjo0SQTjvNuzjooa/+HFBXkqs65caC24bQhLBzEqpvEgA=",
         "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Eb8sPHbQ3A17YnpsnYByg47XK70uzSpsOF5LaH0v/fa7GzJ5IaaCaN3pq11/KxlQukmtlELfjLpYA6JVuCRtbxcfe3CVgxQw3xHN1Q1kkFNS/h7Uifj/Aa0hpFfWZdq7ZA=="
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EQ8Ln4h/MDRjL5Viu1ZDccRxCBr77ds066qDbkJq4brKG/fSKkhFGWH4kedf2cDwgbNCJTfsaWrJ0PKP1v+/P1kRO6w1F8ROnKVAR3fs59sBrrX5Sth+AjZ3w1t6RT03Fg=="
       },
       {
-        "name": "TELEFE INTERNACIONAL",
+        "name": "⚽TV PUBLICA",
+        "ico": "https://cdn.conmebol.com/wp-content/uploads/2022/03/Logo-CONMEBOL-Version-Secundaria-1-Color-Plano-Fondo-Oscuro.webp",
+        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0HohaE5tR8x/hdl0/ThqQgjo0SQTjvNuzjooa/+HFBXkqs65caC24bQhLBzEqpvEgA=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EQ8Ln4h/MDRjL5Viu1ZDccRxCBr77ds066qDbkJq4brKG/fSKkhFGWH4kedf2cDwgbNCJTfsaWrJ0PKP1v+/P1kRO6w1F8ROnKVAR3fs59sBrrX5Sth+AjZ3w1t6RT03Fg=="
+      },
+      {
+        "name": "⚽TELEFE INTERNACIONAL",
         "ico": "https://cdn.conmebol.com/wp-content/uploads/2022/03/Logo-CONMEBOL-Version-Secundaria-1-Color-Plano-Fondo-Oscuro.webp",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0HP0f+UxsDnch2xHBShY/r+7Gx1Kzl/c2CsIDtCzu875czt4/C0jD5qjybIn8T03vKqC3gB0YEA++vMi0qPOJeHU4aVf97Q+iV07dhQUEj8SA==",
         "drm_scheme": "ClearKey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EY9W3QPaZGT++qkXEyolmhrVHCM/o8ckz9+zeY/5RjN4f+BjR3C9AWCKJt56IAM01I/S4ESEI3Aa9UP6amZcF36YtVkHJcay4eajEWSWnzioljxwOK6LUNVn1+eVL2x/qg=="
       },
       {
-        "name": "TV PUBLICA",
+        "name": "⚽TELEFE",
         "ico": "https://cdn.conmebol.com/wp-content/uploads/2022/03/Logo-CONMEBOL-Version-Secundaria-1-Color-Plano-Fondo-Oscuro.webp",
-        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0HohaE5tR8x/hdl0/ThqQgjo0SQTjvNuzjooa/+HFBXkqs65caC24bQhLBzEqpvEgA=",
+        "uri": "EGbTdQSc58tHgH0HJaX1f2ULMfYo0o1gmPP720AkXjNOpYjeYbx3AJd7Hxdw6uyhVb6nGrznpLAR5LrA4X6He1XpSVhb0o7R49lut/vbjKJi7eXqpbdBfxt+nQGBTVlr",
         "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EQ8Ln4h/MDRjL5Viu1ZDccRxCBr77ds066qDbkJq4brKG/fSKkhFGWH4kedf2cDwgbNCJTfsaWrJ0PKP1v+/P1kRO6w1F8ROnKVAR3fs59sBrrX5Sth+AjZ3w1t6RT03Fg=="
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Eb8sPHbQ3A17YnpsnYByg47XK70uzSpsOF5LaH0v/fa7GzJ5IaaCaN3pq11/KxlQukmtlELfjLpYA6JVuCRtbxcfe3CVgxQw3xHN1Q1kkFNS/h7Uifj/Aa0hpFfWZdq7ZA=="
       },
       {
-        "name": "TV PUBLICA",
+        "name": "⚽TELEFE",
         "ico": "https://cdn.conmebol.com/wp-content/uploads/2022/03/Logo-CONMEBOL-Version-Secundaria-1-Color-Plano-Fondo-Oscuro.webp",
-        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0HohaE5tR8x/hdl0/ThqQgjo0SQTjvNuzjooa/+HFBXkqs65caC24bQhLBzEqpvEgA=",
+        "uri": "EGbTdQSc58tHgH0HJaX1f2ULMfYo0o1gmPP720AkXjNOpYjeYbx3AJd7Hxdw6uyhVb6nGrznpLAR5LrA4X6He1XpSVhb0o7R49lut/vbjKJi7eXqpbdBfxt+nQGBTVlr",
         "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EQ8Ln4h/MDRjL5Viu1ZDccRxCBr77ds066qDbkJq4brKG/fSKkhFGWH4kedf2cDwgbNCJTfsaWrJ0PKP1v+/P1kRO6w1F8ROnKVAR3fs59sBrrX5Sth+AjZ3w1t6RT03Fg=="
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Eb8sPHbQ3A17YnpsnYByg47XK70uzSpsOF5LaH0v/fa7GzJ5IaaCaN3pq11/KxlQukmtlELfjLpYA6JVuCRtbxcfe3CVgxQw3xHN1Q1kkFNS/h7Uifj/Aa0hpFfWZdq7ZA=="
       },
       {
-        "name": "TYC SPORTS*",
+        "name": "⚽ELIMINATORIAS 5",
         "ico": "https://cdn.conmebol.com/wp-content/uploads/2022/03/Logo-CONMEBOL-Version-Secundaria-1-Color-Plano-Fondo-Oscuro.webp",
-        "uri": "O4zQaBxapxoofA7Utbs4F156xThsZbzyRsxBexC6TfGOQy7FleZEF0kZnIYag2Nf4OKXyefGV+hDxuMckQRzd8ddfTJuHYjTyj3eLDlgX3Dkq/Ok12vGL+u+COfKUJyS",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
+        "uri": "JFRpA0t4scng5bNIhmtikHFywA2HKBFr+G0BhLKWKqWU2iWv4ARsJGH6riOBxx91iY+sEt1KTwhkMLApDrlmQNEWc9VVknsDQitkT70VrTA=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "⚽ELIMINATORIAS 4",
+        "ico": "https://cdn.conmebol.com/wp-content/uploads/2022/03/Logo-CONMEBOL-Version-Secundaria-1-Color-Plano-Fondo-Oscuro.webp",
+        "uri": "K6uXWCttiYM/bGJzfOfzzJXPbJhfXLa7zOPBHk/yMuOUZhfkW2H08+ltUIBImTiIsS922DvdZ4AXgGPN9GpLkA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "⚽ELIMINATORIAS 3",
+        "ico": "https://cdn.conmebol.com/wp-content/uploads/2022/03/Logo-CONMEBOL-Version-Secundaria-1-Color-Plano-Fondo-Oscuro.webp",
+        "uri": "JFRpA0t4scng5bNIhmtikHFywA2HKBFr+G0BhLKWKqWU2iWv4ARsJGH6riOBxx91iY+sEt1KTwhkMLApDrlmQGxipZA05bI+549gTAFsVeo=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "⚽ELIMINATORIAS 2",
+        "ico": "https://cdn.conmebol.com/wp-content/uploads/2022/03/Logo-CONMEBOL-Version-Secundaria-1-Color-Plano-Fondo-Oscuro.webp",
+        "uri": "K6uXWCttiYM/bGJzfOfzzJXPbJhfXLa7zOPBHk/yMuOUZhfkW2H08+ltUIBImTiIpYUVNv0ulAIFHeKgzXq/0A==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "⚽ELIMINATORIAS 1",
+        "ico": "https://cdn.conmebol.com/wp-content/uploads/2022/03/Logo-CONMEBOL-Version-Secundaria-1-Color-Plano-Fondo-Oscuro.webp",
+        "uri": "K6uXWCttiYM/bGJzfOfzzJXPbJhfXLa7zOPBHk/yMuOUZhfkW2H08+ltUIBImTiIznuhfeOzCFTfXF7WYcHsFQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
       }
     ]
   },
@@ -3885,27 +3920,6 @@
     "mode": false,
     "lista": [
       {
-        "name": "✅EVENTO 1",
-        "ico": "https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true",
-        "uri": "O4zQaBxapxoofA7Utbs4F156xThsZbzyRsxBexC6TfHmMgfot8RkGNkSdfIupQsJfVP4xDnFMRonkMb/g+cPgCyfEw0pjyeeCoauyldH+dOcI7SsgJBIpJqSj5l1gme2JSeLHjQGdng5ynMZeX0YFw==",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EdSYApsAtjEDxF0nufiLy2OXe9IhP0Eclv8XCNMi3GAtN7j10YJJ7kS/7u9xgZCBggiRQax7VFDGzVNBJjNR2euES6NqlN9EGsgQafmq3/mau7k0UUrYknLYhZpszQbNMQ=="
-      },
-      {
-        "name": "✅EVENTO 2",
-        "ico": "https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true",
-        "uri": "O4zQaBxapxoofA7Utbs4F156xThsZbzyRsxBexC6TfEmZI07I7Rsl4zHU0I0jpZnrlj/B5g1UTsnjkCFWarHIRws76+TsE9ae2E6es9Ckm+I+xwyUy7gSfemSxcFXAmX6rScpajPqSf7KcV7w1St1g==",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EZJTE1gLvWj2B5zI3Thj7ECk52paAtsuR2uMGSBzl2ie2JaBTmmNumzL6kdkPSi4UjUe0buRENjPWnF3c960ysNnLEtwZtmbcGRYjle7T6GIG3xSvfy//Sp3hwrsAagiSQ=="
-      },
-      {
-        "name": "✅EVENTO 3",
-        "ico": "https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true",
-        "uri": "O4zQaBxapxoofA7Utbs4F156xThsZbzyRsxBexC6TfEmZI07I7Rsl4zHU0I0jpZnbM/imKak4FvN3Wxb9NqMe4eqcltyGaDy7Av1cRLst9MqeMSt/bcdefvcsA5yr5f/",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EZlKGPkHWOvkGb9GdvvGBoYFl0Gdxsj2124MaRJFBSfrbaNpK2gEAqZ4e3VVI2p4060tpfPePyJPvZz2TT+dxE+3kjdDR4bBJlh3CQKrIx6GF9iVGxTomJRuzcYGxK/YHw=="
-      },
-      {
         "name": "CAMPEONATO URUGUAY 1 ",
         "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
         "uri": "JFRpA0t4scng5bNIhmtikEO3Fl6mNNmuLfPHULrMqXY5joNYugzFS1YgHE085gHMmMb1CUUgJPUSU3Q19tKqwQ==",
@@ -3941,11 +3955,102 @@
         "drm_license_url": ""
       },
       {
+        "name": "CAMPEONATO URUGUAY 10",
+        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
+        "uri": "JFRpA0t4scng5bNIhmtikHFywA2HKBFr+G0BhLKWKqWU2iWv4ARsJGH6riOBxx91iY+sEt1KTwhkMLApDrlmQE8eO/KtOYA3J1gMYmrdJ1g=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CAMPEONATO URUGUAY A ",
+        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
+        "uri": "K6uXWCttiYM/bGJzfOfzzJXPbJhfXLa7zOPBHk/yMuOUZhfkW2H08+ltUIBImTiIHR4C5iqwB53PyfvtEScnGA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CAMPEONATO URUGUAY B",
+        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
+        "uri": "K6uXWCttiYM/bGJzfOfzzJXPbJhfXLa7zOPBHk/yMuOUZhfkW2H08+ltUIBImTiIzNfaEOP3BgxQIqIAMBW91g==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CAMPEONATO URUGUAY C",
+        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
+        "uri": "K6uXWCttiYM/bGJzfOfzzJXPbJhfXLa7zOPBHk/yMuOUZhfkW2H08+ltUIBImTiIgUr+c5a9nigStX+m103vFw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CAMPEONATO URUGUAY D",
+        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
+        "uri": "JFRpA0t4scng5bNIhmtikHFywA2HKBFr+G0BhLKWKqWU2iWv4ARsJGH6riOBxx91iY+sEt1KTwhkMLApDrlmQEjX15PJSVPoKl71D0pfJ9s=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CAMPEONATO URUGUAY E ",
+        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
+        "uri": "JFRpA0t4scng5bNIhmtikHFywA2HKBFr+G0BhLKWKqWU2iWv4ARsJGH6riOBxx91iY+sEt1KTwhkMLApDrlmQKq/HG0of4kQ4crDwG7eCDo=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CAMPEONATO URUGUAY F ",
+        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
+        "uri": "JFRpA0t4scng5bNIhmtikHFywA2HKBFr+G0BhLKWKqWU2iWv4ARsJGH6riOBxx91iY+sEt1KTwhkMLApDrlmQK/OgWV/AV7Kkr0YMBsgAyE=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CAMPEONATO URUGUAY G",
+        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
+        "uri": "JFRpA0t4scng5bNIhmtikHFywA2HKBFr+G0BhLKWKqWU2iWv4ARsJGH6riOBxx91iY+sEt1KTwhkMLApDrlmQEjX15PJSVPoKl71D0pfJ9s=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CAMPEONATO URUGUAY H",
+        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
+        "uri": "JFRpA0t4scng5bNIhmtikHFywA2HKBFr+G0BhLKWKqWU2iWv4ARsJGH6riOBxx91iY+sEt1KTwhkMLApDrlmQN3uzMXUO5i4tLQnhMDi2dY=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CAMPEONATO URUGUAY I",
+        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
+        "uri": "JFRpA0t4scng5bNIhmtikHFywA2HKBFr+G0BhLKWKqWU2iWv4ARsJGH6riOBxx91iY+sEt1KTwhkMLApDrlmQJG1UFzHH7M+1x4dPdOG5w8=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
         "name": "MAROÑAS",
         "ico": "https://seeklogo.com/images/M/maro__as-logo-E873D14D49-seeklogo.com.png",
         "uri": "JFRpA0t4scng5bNIhmtikHFywA2HKBFr+G0BhLKWKqWU2iWv4ARsJGH6riOBxx91iY+sEt1KTwhkMLApDrlmQE8eO/KtOYA3J1gMYmrdJ1g=",
         "drm_scheme": "",
         "drm_license_url": ""
+      },
+      {
+        "name": "✅EVENTO 1",
+        "ico": "https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true",
+        "uri": "O4zQaBxapxoofA7Utbs4F156xThsZbzyRsxBexC6TfHmMgfot8RkGNkSdfIupQsJfVP4xDnFMRonkMb/g+cPgCyfEw0pjyeeCoauyldH+dOcI7SsgJBIpJqSj5l1gme2JSeLHjQGdng5ynMZeX0YFw==",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EdSYApsAtjEDxF0nufiLy2OXe9IhP0Eclv8XCNMi3GAtN7j10YJJ7kS/7u9xgZCBggiRQax7VFDGzVNBJjNR2euES6NqlN9EGsgQafmq3/mau7k0UUrYknLYhZpszQbNMQ=="
+      },
+      {
+        "name": "✅EVENTO 2",
+        "ico": "https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true",
+        "uri": "O4zQaBxapxoofA7Utbs4F156xThsZbzyRsxBexC6TfEmZI07I7Rsl4zHU0I0jpZnrlj/B5g1UTsnjkCFWarHIRws76+TsE9ae2E6es9Ckm+I+xwyUy7gSfemSxcFXAmX6rScpajPqSf7KcV7w1St1g==",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EZJTE1gLvWj2B5zI3Thj7ECk52paAtsuR2uMGSBzl2ie2JaBTmmNumzL6kdkPSi4UjUe0buRENjPWnF3c960ysNnLEtwZtmbcGRYjle7T6GIG3xSvfy//Sp3hwrsAagiSQ=="
+      },
+      {
+        "name": "✅EVENTO 3",
+        "ico": "https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true",
+        "uri": "O4zQaBxapxoofA7Utbs4F156xThsZbzyRsxBexC6TfEmZI07I7Rsl4zHU0I0jpZnbM/imKak4FvN3Wxb9NqMe4eqcltyGaDy7Av1cRLst9MqeMSt/bcdefvcsA5yr5f/",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EZlKGPkHWOvkGb9GdvvGBoYFl0Gdxsj2124MaRJFBSfrbaNpK2gEAqZ4e3VVI2p4060tpfPePyJPvZz2TT+dxE+3kjdDR4bBJlh3CQKrIx6GF9iVGxTomJRuzcYGxK/YHw=="
       }
     ]
   },
