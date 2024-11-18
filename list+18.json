@@ -97,6 +97,54 @@
     ]
   },
   {
+    "name": "🇦🇷⚽ELIMINATORIAS ",
+    "mode": false,
+    "lista": [
+      {
+        "name": "TELEFE",
+        "ico": "https://cdn.conmebol.com/wp-content/uploads/2022/03/Logo-CONMEBOL-Version-Secundaria-1-Color-Plano-Fondo-Oscuro.webp",
+        "uri": "EGbTdQSc58tHgH0HJaX1f2ULMfYo0o1gmPP720AkXjNOpYjeYbx3AJd7Hxdw6uyhVb6nGrznpLAR5LrA4X6He1XpSVhb0o7R49lut/vbjKJi7eXqpbdBfxt+nQGBTVlr",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Eb8sPHbQ3A17YnpsnYByg47XK70uzSpsOF5LaH0v/fa7GzJ5IaaCaN3pq11/KxlQukmtlELfjLpYA6JVuCRtbxcfe3CVgxQw3xHN1Q1kkFNS/h7Uifj/Aa0hpFfWZdq7ZA=="
+      },
+      {
+        "name": "TELEFE",
+        "ico": "https://cdn.conmebol.com/wp-content/uploads/2022/03/Logo-CONMEBOL-Version-Secundaria-1-Color-Plano-Fondo-Oscuro.webp",
+        "uri": "EGbTdQSc58tHgH0HJaX1f2ULMfYo0o1gmPP720AkXjNOpYjeYbx3AJd7Hxdw6uyhVb6nGrznpLAR5LrA4X6He1XpSVhb0o7R49lut/vbjKJi7eXqpbdBfxt+nQGBTVlr",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Eb8sPHbQ3A17YnpsnYByg47XK70uzSpsOF5LaH0v/fa7GzJ5IaaCaN3pq11/KxlQukmtlELfjLpYA6JVuCRtbxcfe3CVgxQw3xHN1Q1kkFNS/h7Uifj/Aa0hpFfWZdq7ZA=="
+      },
+      {
+        "name": "TELEFE INTERNACIONAL",
+        "ico": "https://cdn.conmebol.com/wp-content/uploads/2022/03/Logo-CONMEBOL-Version-Secundaria-1-Color-Plano-Fondo-Oscuro.webp",
+        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0HP0f+UxsDnch2xHBShY/r+7Gx1Kzl/c2CsIDtCzu875czt4/C0jD5qjybIn8T03vKqC3gB0YEA++vMi0qPOJeHU4aVf97Q+iV07dhQUEj8SA==",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EY9W3QPaZGT++qkXEyolmhrVHCM/o8ckz9+zeY/5RjN4f+BjR3C9AWCKJt56IAM01I/S4ESEI3Aa9UP6amZcF36YtVkHJcay4eajEWSWnzioljxwOK6LUNVn1+eVL2x/qg=="
+      },
+      {
+        "name": "TV PUBLICA",
+        "ico": "https://cdn.conmebol.com/wp-content/uploads/2022/03/Logo-CONMEBOL-Version-Secundaria-1-Color-Plano-Fondo-Oscuro.webp",
+        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0HohaE5tR8x/hdl0/ThqQgjo0SQTjvNuzjooa/+HFBXkqs65caC24bQhLBzEqpvEgA=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EQ8Ln4h/MDRjL5Viu1ZDccRxCBr77ds066qDbkJq4brKG/fSKkhFGWH4kedf2cDwgbNCJTfsaWrJ0PKP1v+/P1kRO6w1F8ROnKVAR3fs59sBrrX5Sth+AjZ3w1t6RT03Fg=="
+      },
+      {
+        "name": "TV PUBLICA",
+        "ico": "https://cdn.conmebol.com/wp-content/uploads/2022/03/Logo-CONMEBOL-Version-Secundaria-1-Color-Plano-Fondo-Oscuro.webp",
+        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0HohaE5tR8x/hdl0/ThqQgjo0SQTjvNuzjooa/+HFBXkqs65caC24bQhLBzEqpvEgA=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EQ8Ln4h/MDRjL5Viu1ZDccRxCBr77ds066qDbkJq4brKG/fSKkhFGWH4kedf2cDwgbNCJTfsaWrJ0PKP1v+/P1kRO6w1F8ROnKVAR3fs59sBrrX5Sth+AjZ3w1t6RT03Fg=="
+      },
+      {
+        "name": "TYC SPORTS*",
+        "ico": "https://cdn.conmebol.com/wp-content/uploads/2022/03/Logo-CONMEBOL-Version-Secundaria-1-Color-Plano-Fondo-Oscuro.webp",
+        "uri": "O4zQaBxapxoofA7Utbs4F156xThsZbzyRsxBexC6TfGOQy7FleZEF0kZnIYag2Nf4OKXyefGV+hDxuMckQRzd8ddfTJuHYjTyj3eLDlgX3Dkq/Ok12vGL+u+COfKUJyS",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
+      }
+    ]
+  },
+  {
     "name": "🇦🇷 ARGENTINA",
     "mode": false,
     "lista": [
@@ -275,34 +323,6 @@
     "mode": false,
     "lista": [
       {
-        "name": "TYC SPORTS*",
-        "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png",
-        "uri": "O4zQaBxapxoofA7Utbs4F156xThsZbzyRsxBexC6TfGOQy7FleZEF0kZnIYag2Nf4OKXyefGV+hDxuMckQRzd8ddfTJuHYjTyj3eLDlgX3Dkq/Ok12vGL+u+COfKUJyS",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
-      },
-      {
-        "name": "TYC SPORT",
-        "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png",
-        "uri": "fQlXZK8sFnbUgAEf0UbEqLvcG79vWkBmdUu5rdFeqsG4UNDtvK8VEqFLAXtBEfPjESwlgaNy1xWz1W3ZJwKYGUrlqjjussUfZjUir/+zkZlEjQPTTY3X413yaUeOAKJn",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
-      },
-      {
-        "name": "TYC SPORTS",
-        "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png",
-        "uri": "9tjrwbvDv4zraNQfB4Hs+osPw5x3UBoJ1yiLGcOe841GAzuhmrNGZ5rwq/Jy64I8nZ49MxNBqa/lw4lOX7we4znUAOcrsGmSVd6OcXlIISU=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "TYC SPORTS",
-        "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png",
-        "uri": "jZL/3bMCZlY67dJ3dWwsaYJ+WVDxDRYJXhL7TtvCjigZEFmP4L2wiAR+6CSRosVR",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
         "name": "⚽ESPN PREMIUM Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Superliga_Argentina_Logo.png",
         "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5uM2bnSpKPkPqdAq0ZMqIyJskhUnjaiX5TvpujinSSyrN+wqHTuOVLikm7v3x7fzXsj3g9d58dBps8P0GmsYxL2C8rWpMRVF7LQir+23ZrsgDJB6BgNIfu+8Igbenc+nMw=",
@@ -321,6 +341,13 @@
         "ico": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Superliga_Argentina_Logo.png",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ENI4lZaesFHQ6qxMfPX6TLXMjDQWwyoajyt5BjAdHMcBn12TF1BrrDXDsExN16wJ3KnxNi5AfRXaFp3bSOWo4r",
         "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
+      },
+      {
+        "name": "⚽TYC SPORTS Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ2",
+        "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png",
+        "uri": "O4zQaBxapxoofA7Utbs4F156xThsZbzyRsxBexC6TfGOQy7FleZEF0kZnIYag2Nf4OKXyefGV+hDxuMckQRzd8ddfTJuHYjTyj3eLDlgX3Dkq/Ok12vGL+u+COfKUJyS",
+        "drm_scheme": "ClearKey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
       }
     ]
