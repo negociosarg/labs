@@ -87,12 +87,12 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-{
+  {
     "name": "A24 S",
     "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/a24-ar.png",
-    "uri": "http://cdn.sensa.com.ar/live/eds/A24/live_dash_cld/A24.mpd",
+    "uri": "n2cIc00Wgk+F6+l7zS73MAQdwzCku68R6aUn10JCESPPb5L5b5HzgTHXl6V+cpXLUrK/hGKrIJgRYDkKPdVomQ==",
     "drm_scheme": "clearkey",
-    "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ed936cd5cb59eeee83addafb446662a4&key=dd4b7aeb2bc000468883296e7ae4a09b"
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EdoQeDrYpnB+69tIi/yviNM7cfVpmtDyrOCSBcnErrTFLwIUJZ3M9XzYUmoeUzjSv0erhwgtXtMvyzB1UGxnaE6Il2upZ+bGbASuGuaadUe6/gBQQ+aiifakG/5HAc0BiA=="
   },
       {
         "name": "TOP 40",
