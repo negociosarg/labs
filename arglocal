@@ -1,0 +1,128 @@
+[
+  {
+    "name": "A24",
+    "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/a24-ar.png",
+    "uri": "https://cdn.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc_2A/America24.mpd",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3b1b027dd011af20fd9956c16dc084fb&key=45f75aacf06593c9b693fe427c67e5b8"
+  },
+  {
+    "name": "TELEFE",
+    "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/telefe-ar.png",
+    "uri": "https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3cec1b1ea9799dda5596e64f37e5ed20&key=c69f3afde2085dcaaaddbf55246a0323"
+  },
+  {
+    "name": "AMERICA TV",
+    "ico": "https://i.ibb.co/DD1GRsP/america.webp",
+    "uri": "https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45"
+  },
+  {
+    "name": "C5N",
+    "ico": "https://i.ibb.co/pzRgLkD/c5n.webp",
+    "uri": "https://cdn.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=050df5c6e78c774e78c3e99eef8a1b29&key=0e4141d6ab21a36cbc4da777ab3096d4"
+  },
+  {
+    "name": "CANAL 9",
+    "ico": "https://i.ibb.co/X5PPDJp/nueve.webp",
+    "uri": "https://cdn.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=24f4ff211136ae6512a1b552200db405&key=602122f8426c5c942b8c18d299cc6020"
+  },
+  {
+    "name": "TV PUBLICA",
+    "ico": "https://i.ibb.co/ydbGDzd/tvpublica.webp",
+    "uri": "https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cc8c82ac2ec7e9799527c29db7354e81&key=cc4aae173dd2ef17ae26be3f7ae87662"
+  },
+  {
+    "name": "TN NOTICIAS",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/223px-TN_todo_noticias_logo.svg.png",
+    "uri": "https://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_wl/TodoNoticias.mpd",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7ceb1cd0622cd7e88fcdc99fe3a55de6&key=951637093d41c7388a1ef3f620cfea21"
+  },
+  {
+    "name": "TELEFE INTERNACIONAL",
+    "ico": "https://i.ibb.co/Xk2ZFyC/telefe-internacional.png",
+    "uri": "http://flow-live.dlt.qwilted-cds.cqloud.com/live/c4eds/Telefe_Internacional/SA_Live_dash_enc/Telefe_Internacional.mpd",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cc0abcc84ec380cfc192b96d32abad23&key=9b7825385b89ff82d01909a4ae404877"
+  },
+  {
+    "name": "EL TRECE",
+    "ico": "https://i.ibb.co/HYQbLzj/eltrece.webp",
+    "uri": "https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5179017f49326d14af0a9ceec831aee6&key=09b4a463b029ebc28a288bed2da70a76"
+  },
+  {
+    "name": "CANAL 26",
+    "ico": "https://i.ibb.co/k1Kn2q1/canal26.webp",
+    "uri": "https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_HD.mpd",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e32aaa4b67430b3b51be1efce5a74ac5&key=ad60c5e1d378a97271bf8688f094d092"
+  },
+  {
+    "name": "CANAL DE LA CIUDAD",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/9/91/Logo_Canal_de_la_Ciudad.png",
+    "uri": "https://cdn.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc/Magazine.mpd",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4f1235069d34c22cb73d9b78bae15587&key=55e068ff6b152e34c66dc639b38e8692"
+  },
+  {
+    "name": "CIUDAD MAGAZINE",
+    "ico": "https://i.ibb.co/fqkkQM7/ciudad.webp",
+    "uri": "https://cdn.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc/Magazine.mpd",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4f1235069d34c22cb73d9b78bae15587&key=55e068ff6b152e34c66dc639b38e8692"
+  },
+  {
+    "name": "CRONICA TV",
+    "ico": "https://i.ibb.co/kJbNNwT/cronica.png",
+    "uri": "https://cdn.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc/CronicaTV.mpd",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=745e7abcc90d41ab706b2ac2f4371da3&key=50acd9d19d1361cb4a8a13a867bdc352"
+  },
+  {
+    "name": "ENCUENTRO TV",
+    "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/encuentro-ar.png",
+    "uri": "https://cdn.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc/Encuentro.mpd",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=745e7abcc90d41ab706b2ac2f4371da3&key=50acd9d19d1361cb4a8a13a867bdc352"
+  },
+  {
+    "name": "EL 13 INTERNACIONAL",
+    "ico": "https://i.ibb.co/0qTfhWG/eltrece-internacional.png",
+    "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0FmJXJp5e/WoyWZJj46czVGlxmqQEJjHvpyAen8KtjHxcKcRatWh7sUoPnvAtDMmubP6c8iyKn5nEnsgYJlhgWL51IF9f0CRqcaI00ojIF2uQ==",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=745e7abcc90d41ab706b2ac2f4371da3&key=50acd9d19d1361cb4a8a13a867bdc352"
+  },
+  {
+    "name": "INFORMACION PERIODISTICA",
+    "ico": "https://i.ibb.co/Cmzv3TT/ip.webp",
+    "uri": "https://cdn.cvattv.com.ar/live/c7eds/Investigacion_Periodistica/SA_Live_dash_enc/Investigacion_Periodistica.mpd",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5299f96f873aa0f0e47edc4e15784717&key=9d53176b0969492f2d93f1867be1dce1"
+  },
+  {
+    "name": "LN+ - LA NACION",
+    "ico": "https://i.ibb.co/WKyRKP4/ln.webp",
+    "uri": "https://cdn.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc/La_Nacion.mpd",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f4eade7bbc39b25402acfa301bbad04a&key=a74d1df4235a74878327aa8d53ff283c"
+  },
+  {
+    "name": "VOLVER",
+    "ico": "https://i.ibb.co/18vYDZR/volver.webp",
+    "uri": "https://cdn.cvattv.com.ar/live/c6eds/Volver/SA_Live_dash_enc/Volver.mpd",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=194e53184a424ce6989ad82c5f28fbc5&key=65d60c5cc4de031172be0a6a51edbdfe"
+  }
+]
