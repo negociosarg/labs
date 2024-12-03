@@ -115,13 +115,6 @@
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EbJqAGnFOWDNpOZVhJy2gJJTQGpSilIJHqhpYt2O+nNvC8QYt9nkjhKcwIUKxsTNuHKp97NOEMLQWVSYymvOlrzUNAXzBRuKFh+0HAbD+MVfv9eL7bWjRX1PeK7rwrNktQ=="
       },
       {
-        "name": "ARGENTINISIMA SATELITAL",
-        "ico": "https://i.ibb.co/G0zCDL0/descarga-1.png",
-        "uri": "IrAgZ49mci9Siatieb+UX94WDNsfBB3yeR0Q9CLFLxtlT/UbnqT3PtRomH5nUy9+ev4jfa3c9ecNE5MWNaJCgA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
         "name": "C5N",
         "ico": "https://i.ibb.co/pzRgLkD/c5n.webp",
         "uri": "+u8JOr6SyIr5qvEA/JHNyzZxbMc/FkKR7xs0adneKvdhjME2PvMCJIm/6ZHjBhmbQBjQvhko+de89aDxok5REqUNB6g3amOcFCBsjiPT19g=",
@@ -274,6 +267,13 @@
         "uri": "+u8JOr6SyIr5qvEA/JHNyzZxbMc/FkKR7xs0adneKvdPoj67/O40sg3L9pbZepH0LoUKK5gsaElXlvW3TbAAn9PruDUyCgj0n2mCqY+1gds=",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EZ6Y3BwqyxwrBaIzQRSFEJOg7i724FsnykaNc8VrBuP3NodTMlcLOQV9BSKjTAxJNEXJV2EKiHQEn2DB0PbQagPnBu2LVQcRSw/sjlj2WooajxpF4kFrcX4YHWMqMsNKsw=="
+      },
+      {
+        "name": "ARGENTINISIMA SATELITAL",
+        "ico": "https://i.ibb.co/G0zCDL0/descarga-1.png",
+        "uri": "IrAgZ49mci9Siatieb+UX94WDNsfBB3yeR0Q9CLFLxtlT/UbnqT3PtRomH5nUy9+ev4jfa3c9ecNE5MWNaJCgA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
       }
     ]
   },
