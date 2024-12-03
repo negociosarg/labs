@@ -17,6 +17,13 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+        {
+    "name": "SENSA",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png",
+    "uri": "n2cIc00Wgk+F6+l7zS73MAQdwzCku68R6aUn10JCESMDvsfn7BNfrhEjsdI0YAATjWMfbzjdmy0jxEMLMh0KlsZdtrLlvnHS4ubKZk2+9U8=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ESw75Du2fvFi3/5eNUEPySAxHayo8vqdZyGndDBUznj5ZSmPBOUVx/yIHm1q4I2vk+q0JI3gDDv+RbHJLXr9zdI67gDPuD/H4gR8viCbAnyy+Qoqx6tKrUHxCeHKA28soA=="
+  },
       {
         "name": "RADIO CNN",
         "ico": "https://iili.io/2dEx9yP.png",
