@@ -24,10 +24,9 @@ https://cdn.cvattv.com.ar/live/c6eds/Canal_Rural/SA_Live_dash_enc/Canal_Rural.mp
 https://cdn.cvattv.com.ar/live/c6eds/Diputados_TV/SA_Live_dash_enc/Diputados_TV.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd1767fe3554f1285222b5610105c0e9:839d5b1eec7eb70d68c1e1531fc0d6d4
-#EXTINF:-1 tvg-id="T5Satelital" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/T5SAT.png?raw=true", T5 Satelital
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-https://cdn.sensa.com.ar/bpk-tv/T5Satelital/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=e7ec364ad6854fedad797538cb58780d:57dfb3fca2ca35b37ff81c35595e9be8
+#EXTINF:-1 group-title="Argentina" tvg-id="Telemax.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/08%29Telemax_%282018%29.png", Telemax
+https://cdn.cvattv.com.ar/live/c6eds/Telemax/SA_Live_dash_enc/Telemax.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #EXTINF:-1  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CARAS.png?raw=true" group-title="Argentina", Caras TV
 https://unlimited1-buenosaires.dps.live/carastv/carastv.smil/playlist.m3u8
@@ -38,9 +37,9 @@ https://unlimited1-buenosaires.dps.live/carastv/carastv.smil/playlist.m3u8
 https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=103ce214b4d04c8eb4dd43670e956dad:20e030576b8dc4df0d1c68e16af3bc0f
-#EXTINF:-1 tvg-id="[AR] Telefe Córdoba.ar" tvg-logo="https://git.io/JOTOu" group-title="Córdoba", Telefé Córdoba
-https://cdn.cvattv.com.ar/live/c6eds/Canal_8_CBA/SA_Live_dash_enc/Canal_8_CBA.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+#KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
+#EXTINF:-1 group-title="Argentina"  tvg-id="AmericaTV.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AMER2.png?raw=true" tvg-group="Nacionales", América
+https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=24f4ff211136ae6512a1b552200db405:602122f8426c5c942b8c18d299cc6020
@@ -58,14 +57,32 @@ https://cdn.cvattv.com.ar/live/c4eds/Canal10_CBA_HD/SA_Live_dash_enc/Canal10_CBA
 https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=103ce214b4d04c8eb4dd43670e956dad:20e030576b8dc4df0d1c68e16af3bc0f
+#EXTINF:-1  ch-number="11" tvg-id="Telefe.ar" tvg-logo="https://git.io/JOTOu" group-title="Córdoba", Telefé Córdoba
+https://cdn.cvattv.com.ar/live/c6eds/Canal_8_CBA/SA_Live_dash_enc/Canal_8_CBA.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c61b5ac8e1664bf5b544e92ea2597e1c:938437ac25f0a18e04efc1a083489edc
+#EXTINF:-1 ch-number="11" group-title="Argentina" tvg-id="Telefe.ar", tvg-logo="https://i.ibb.co/Xk2ZFyC/telefe-internacional.png", Telefé Rosario
+https://cdn.cvattv.com.ar/live/c4eds/Canal_5_Rosario/SA_Live_dash_enc/Canal_5_Rosario.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=59ef9057114f44a480b62e36a6b1374f:74ef97bc54df5655c3a1d4f80b16e8d7
+#EXTINF:-1 ch-number="11" group-title="Argentina" tvg-id="Telefe.ar", tvg-logo="https://i.ibb.co/Xk2ZFyC/telefe-internacional.png", Telefé Santa fé
+https://cdn.cvattv.com.ar/live/c6eds/Canal_13_SFE/SA_Live_dash_enc/Canal_13_SFE.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc0abcc84ec380cfc192b96d32abad23:9b7825385b89ff82d01909a4ae404877
-#EXTINF:-1 ch-number="11" group-title="Argentina" tvg-id="Telefe.ar", tvg-logo="https://i.ibb.co/Xk2ZFyC/telefe-internacional.png", Telefé
+#EXTINF:-1 ch-number="11" group-title="Argentina" tvg-id="Telefe.ar", tvg-logo="https://i.ibb.co/Xk2ZFyC/telefe-internacional.png", Telefé Internacional
 https://cdn.cvattv.com.ar/live/c4eds/Telefe_Internacional/SA_Live_dash_enc/Telefe_Internacional.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=90422640d3e846159fa450f83870ed4a:abb3cd94aece1a462df25a8f21085cca
 #EXTINF:-1 ch-number="12" tvg-id="ElDoce.ar" tvg-logo="https://i.imgur.com/HfyKPpD.png" group-title="Córdoba", El Doce Córdoba
+https://cdn.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc/Canal_12_CBA.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #EXTINF:-1 ch-number="12" tvg-id="ElDoce.ar" tvg-logo="https://i.imgur.com/HfyKPpD.png" group-title="Córdoba", El Doce Córdoba
-https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0212
+https://ythls-v3.onrender.com/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5179017f49326d14af0a9ceec831aee6:09b4a463b029ebc28a288bed2da70a76
@@ -78,11 +95,6 @@ https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd?|ref
 https://cdn.cvattv.com.ar/live/c6eds/Artear_Internacional/SA_Live_dash_enc/Artear_Internacional.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
-#EXTINF:-1 group-title="Argentina"  tvg-id="AmericaTV.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AMER2.png?raw=true" tvg-group="Nacionales", América
-https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=89d433166edd31d56df2a59df8ec6704:b2015faded0a456d10aa8db1b4cbac68
 #EXTINF:-1 group-title="Argentina"  tvg-id="NETTV.ar" tvg-logo="https://media.canalnet.tv/2018/08/N-600x720.png" tvg-group="Nacionales", Net TV
 https://cdn.cvattv.com.ar/live/c6eds/Net_TV/SA_Live_dash_enc/Net_TV.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
@@ -91,6 +103,13 @@ https://cdn.cvattv.com.ar/live/c6eds/Net_TV/SA_Live_dash_enc/Net_TV.mpd?|referer
 #KODIPROP:inputstream.adaptive.license_key=ad7fbbec39cea4a5a63ac13d94da48d4:f71087b4dc211db079237c0fb783eb93
 #EXTINF:-1  tvg-id="BravoTV.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/BRAVO.png?raw=true" group-title="Argentina", Bravo TV
 https://cdn.cvattv.com.ar/live/c7eds/BravoTV/SA_Live_dash_enc/BravoTV.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 group-title="" tvg-id="", tvg-logo="https://i.ibb.co/BLpHBq6/extra.png", EXTRA TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ea5121a9e3552ca221b5ad04f7f9631:0a4c2c76e86f11e71f3365b1b54fcaf9
+#EXTVLCOPT:http-origin=https://www.telecentroplay.com.ar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://m.mtd.llc:2082/extratv/index.mpd?|origin=https://www.telecentroplay.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=695d07988114f7fec31f8f27a6d67c32:8e4fbb96cff6a31c88f81565b199a13a
@@ -167,18 +186,6 @@ https://cdn.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc/La_Nacion.mpd?|r
 #KODIPROP:inputstream.adaptive.license_key=7ceb1cd0622cd7e88fcdc99fe3a55de6:951637093d41c7388a1ef3f620cfea21
 #EXTINF:-1 group-title="Argentina"  tvg-id="TN HD.uy" tvg-name="TNNOT" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNARG.png?raw=true" tvg-group="Noticias", TN
 https://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc/TodoNoticias.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e7ec364ad6854fedad797538cb58780d:57dfb3fca2ca35b37ff81c35595e9be8
-#EXTINF:-1 group-title="Argentina" tvg-id="Telemax.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/08%29Telemax_%282018%29.png", Telemax
-https://cdn.cvattv.com.ar/live/c6eds/Telemax/SA_Live_dash_enc/Telemax.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 group-title="" tvg-id="", tvg-logo="https://i.ibb.co/BLpHBq6/extra.png", EXTRA TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ea5121a9e3552ca221b5ad04f7f9631:0a4c2c76e86f11e71f3365b1b54fcaf9
-#EXTVLCOPT:http-origin=https://www.telecentroplay.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-http://m.mtd.llc:2082/extratv/index.mpd?|origin=https://www.telecentroplay.com.ar
 
 #EXTINF:-1 group-title="" tvg-id="", tvg-logo="https://i.ibb.co/yFbrg0L/eldestape.png", EL DESTAPE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -412,6 +419,422 @@ https://cdn.cvattv.com.ar/live/c4eds/Eventos_2_UY/SA_Live_dash_enc_C/Eventos_2_U
 https://cdn.cvattv.com.ar/live/c4eds/Eventos3_UY/SA_Live_dash_enc_C/Eventos3_UY.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 
+#EXTINF:-1 group-logo="https://i.ibb.co/C6vJCdZ/pelota-argentina.png" 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/96/CH_LOGO/160/160/0/0/50191211073985.png" group-title="Argentina Deportes",⚽   ESPN PREMIUM 
+https://cdn.sensa.com.ar/live/eds/FoxSportsPremium/live_dash_cld/FoxSportsPremium.mpd
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/C6vJCdZ/pelota-argentina.png" 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/96/CH_LOGO/160/160/0/0/50191211073985.png" group-title="Argentina Deportes",⚽   ESPN PREMIUM opc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+https://cdn.sensa.com.ar/bpk-tv/ESPNPremium/default/index.mpd
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/C6vJCdZ/pelota-argentina.png" 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="Argentina Deportes",⚽   TNT SPORTS 
+https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/C6vJCdZ/pelota-argentina.png" 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="Argentina Deportes",⚽   TNT SPORTS opc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+https://cdn.sensa.com.ar/bpk-tv/TNTSports/default/index.mpd
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/C6vJCdZ/pelota-argentina.png" 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="Argentina Deportes",⚽  ESPN 
+https://cdn.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/C6vJCdZ/pelota-argentina.png" 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTINF:-1    tvg-logo="https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png" group-title="Argentina Deportes",⚽  ESPN 2 
+https://cdn.sensa.com.ar/live/eds/ESPN2/live_dash_cld/ESPN2.mpd
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/C6vJCdZ/pelota-argentina.png" 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/85/CH_LOGO/160/160/0/0/85904894074972.png" group-title="Argentina Deportes",⚽  ESPN 3 
+https://cdn.sensa.com.ar/live/eds/ESPN3/live_dash_cld/ESPN3.mpd
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/C6vJCdZ/pelota-argentina.png" 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/83/CH_LOGO/160/160/0/0/16514023071132.png" group-title="Argentina Deportes",⚽  ESPN 4 
+https://cdn.sensa.com.ar/live/eds/ESPN4/live_dash_cld/ESPN4.mpd
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/C6vJCdZ/pelota-argentina.png" 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/93/CH_LOGO/160/160/0/0/8962668107979.png" group-title="Argentina Deportes",⚽  FOX SPORTS 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+https://cdn.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/C6vJCdZ/pelota-argentina.png" 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/94/CH_LOGO/160/160/0/0/91777703072785.png" group-title="Argentina Deportes",⚽  FOX SPORTS 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+https://cdn.sensa.com.ar/live/eds/FoxSports2/live_dash_cld/FoxSports2.mpd
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/C6vJCdZ/pelota-argentina.png" 
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/95/CH_LOGO/160/160/0/0/14056054072366.png" group-title="Argentina Deportes",⚽  FOX SPORTS 3 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/FoxSports3/live_dash_cld/FoxSports3.mpd
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/C6vJCdZ/pelota-argentina.png" 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/121/CH_LOGO/160/160/0/0/28233186072861.png" group-title="Argentina Deportes",⚽ TYC SPORTS 
+https://cdn.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/C6vJCdZ/pelota-argentina.png" 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/48/CH_LOGO/160/160/0/0/13868550072195.png" group-title="Argentina Deportes",⚽ DEPORTV 
+https://cdn.sensa.com.ar/live/eds/Deportv/live_dash_cld/Deportv.mpd
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/C6vJCdZ/pelota-argentina.png" 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/224/CH_LOGO/160/160/0/0/7391790707734.png" group-title="Argentina Deportes",⚽ GOLF 
+https://cdn.sensa.com.ar/live/eds/GolfTV/live_dash_cld/GolfTV.mpd
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/C6vJCdZ/pelota-argentina.png" 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/368/CH_LOGO/160/160/0/0/446218910784.png" ggroup-title="Argentina Deportes",⚽ AMERICA SPORTS 
+https://cdn.sensa.com.ar/live/eds/AmericaSports/live_dash_cld/AmericaSports.mpd
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/C6vJCdZ/pelota-argentina.png" 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1481/CH_LOGO/160/160/0/0/3411412507358.png" group-title="Argentina Deportes",⚽ EL GARAGE TV
+https://cdn.sensa.com.ar/live/eds/ElGarage/live_dash_cld/ElGarage.mpd
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/C6vJCdZ/pelota-argentina.png" 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1811/CH_LOGO/160/160/0/0/70671934073582.png" group-title="Argentina Deportes",⚽ PX SPORTS
+https://cdn.sensa.com.ar/live/sta01/PXSports/live_dash_cld/PXSports.mpd
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/C6vJCdZ/pelota-argentina.png" 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3441/CH_LOGO/160/160/0/0/61680399078962.png" group-title="Argentina Deportes",⚽ CLARO SPORTS
+https://cdn.sensa.com.ar/live/eds/ClaroSports/live_dash_cld/ClaroSports.mpd
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/C6vJCdZ/pelota-argentina.png" 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/vod/vod/160/160/0/0/49923.png" group-title="Argentina Deportes",⚽ EVENTOS
+https://cdn.sensa.com.ar/output/ARR3/sensaeventosD/output.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=da8a49a594160cc0059f07b9f71cd39a:37ca91dd799b351a02445151c7f61070
+#EXTINF:-1 tvg-id="VTVPlus.uy.uy" tvg-logo="https://dl.dropbox.com/scl/fi/euk6d7rq2vt77e7ttt6tz/vtvplus.png?rlkey=jubnbfbirssq1hur4kqp44ojd&dl=1" group-title="Uruguay - Deportes", VTV Uruguay
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://flow-live.dlt.qwilted-cds.cqloud.com/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc/VTV_Plus_HD.mpd
+
+
+#EXTINF:-1 tvg-chno="206" tvg-id="SportMax.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true" group-title="Argentina Deportes",  SportMax
+https://streaming-cl.sh1ny.space/memfs/8f9ec7e3-88d4-40c6-8a61-16162780fd33.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png", group-title="Argentina Deportes", D Sports
+http://177.53.155.236:8000/play/a0co/index.m3u8
+
+
+#EXTINF:-1 tvg-id="GOL TV HD.cl" tvg-logo="https://dl.dropbox.com/scl/fi/b5vv58w3mdjkopsb9edhy/goltv.jpg?rlkey=digisjr7amuf7j7xudugbe3m4&dl=1", group-title="Uruguay - Deportes", Gol TV
+http://45.189.108.146:1935/xmp_trans/goltv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="212" tvg-id="DeporTV.ar" tvg-logo="https://git.io/JOTOg" group-title="Argentina Deportes", DeporTV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1904c4d846a99e940903174bdbab74f0:08a4ca972cd037a1fe042515c310bfe1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+http://cdn.sensa.com.ar/live/eds/Deportv/live_dash_cld/Deportv.mpd
+
+#EXTINF:-1 tvg-chno="201" tvg-id="TyCSports.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png" group-title="Argentina Deportes", TyC Sports
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=53d0cf6c1d49c16f5180f86e1870b00f:7eb6743b5f44b52ba27c88229c8c7ae2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+http://cdn.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd
+
+#EXTINF:-1 tvg-chno="221" tvg-id="ClaroSports.mx.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CLASP.png?raw=true" group-title="Argentina Deportes", Claro Sports
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+http://cdn.sensa.com.ar/live/eds/ClaroSports/live_dash_cld/ClaroSports.mpd
+
+#EXTINF:-1 tvg-chno="201" tvg-id="TyCSports.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png" group-title="Argentina Deportes", TyC Sports
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=53d0cf6c1d49c16f5180f86e1870b00f:7eb6743b5f44b52ba27c88229c8c7ae2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+http://cdn.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd
+
+#EXTINF:-1 tvg-id="TyCSports2.ar" tvg-logo="https://i.ibb.co/ZJMgxxp/tyc-sports2.png" group-title="Argentina Deportes", TYC SPORTS 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ae7b0708be4edf3453c1ab9d6976974:8b31a9788f6dc12640ba69560fcb4b39
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+https://cdn.sensa.com.ar/output/ARR3/sensaeventosD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dyj5xbfy/tycsports.png" group-title="Argentina Deportes", TYC SPORT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
+https://cdn.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gJ9z814/o-h-1-895-bein-sports-xtra-1.png" group-title="Argentina Deportes", BEIN SPORTS EXTRA
+https://dbrb49pjoymg4.cloudfront.net/10001/99991785/hls/playlist.m3u8?ads.xumo_channelId=99991785
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/FhOQWiELN6RRFwFbxKWWWEBLgGhXifnJfWT8SWtHZUdSH6fT3Jc_IC88xtebGFXTbQ" group-title="Argentina Deportes", TYC SPORT (PLAY 1)
+https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/FhOQWiELN6RRFwFbxKWWWEBLgGhXifnJfWT8SWtHZUdSH6fT3Jc_IC88xtebGFXTbQ" group-title="Argentina Deportes", TYC SPORT (PLAY 2)
+https://dj8bzwveg7go9.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index_9.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/FhOQWiELN6RRFwFbxKWWWEBLgGhXifnJfWT8SWtHZUdSH6fT3Jc_IC88xtebGFXTbQ" group-title="Argentina Deportes", TYC SPORT (PLAY 3)
+https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/FhOQWiELN6RRFwFbxKWWWEBLgGhXifnJfWT8SWtHZUdSH6fT3Jc_IC88xtebGFXTbQ" group-title="Argentina Deportes", TYC SPORT (PLAY 4)
+https://dj8bzwveg7go9.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_15.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/FhOQWiELN6RRFwFbxKWWWEBLgGhXifnJfWT8SWtHZUdSH6fT3Jc_IC88xtebGFXTbQ" group-title="Argentina Deportes", TYC SPORT (PLAY 5)
+https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index_9.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/FhOQWiELN6RRFwFbxKWWWEBLgGhXifnJfWT8SWtHZUdSH6fT3Jc_IC88xtebGFXTbQ" group-title="Argentina Deportes", TYC SPORTS (PLAY 6)
+https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/FhOQWiELN6RRFwFbxKWWWEBLgGhXifnJfWT8SWtHZUdSH6fT3Jc_IC88xtebGFXTbQ" group-title="Argentina Deportes", TYC SPORTS (PLAY 7)
+https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/FhOQWiELN6RRFwFbxKWWWEBLgGhXifnJfWT8SWtHZUdSH6fT3Jc_IC88xtebGFXTbQ" group-title="Argentina Deportes", TYC SPORTS (PLAY 8)
+https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/FhOQWiELN6RRFwFbxKWWWEBLgGhXifnJfWT8SWtHZUdSH6fT3Jc_IC88xtebGFXTbQ" group-title="Argentina Deportes", TYC SPORTS (PLAY 9)
+https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/FhOQWiELN6RRFwFbxKWWWEBLgGhXifnJfWT8SWtHZUdSH6fT3Jc_IC88xtebGFXTbQ" group-title="Argentina Deportes", TYC SPORTS (PLAY 10)
+https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8
+
+
+
+
+PACK FUTBOL ARGENTINO
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/MCTWvWt/SAF.png" 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/96/CH_LOGO/160/160/0/0/50191211073985.png" group-title="⚽Pack Futbol",⚽   ESPN PREMIUM 
+https://cdn.sensa.com.ar/live/eds/FoxSportsPremium/live_dash_cld/FoxSportsPremium.mpd
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/MCTWvWt/SAF.png" 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/96/CH_LOGO/160/160/0/0/50191211073985.png" group-title="⚽Pack Futbol",⚽   ESPN PREMIUM opc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+https://cdn.sensa.com.ar/bpk-tv/ESPNPremium/default/index.mpd
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/MCTWvWt/SAF.png" 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="⚽Pack Futbol",⚽   TNT SPORTS 
+https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/MCTWvWt/SAF.png" 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/96/CH_LOGO/160/160/0/0/50191211073985.png" group-title="⚽Pack Futbol",⚽   TNT SPORTS opc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+https://cdn.sensa.com.ar/bpk-tv/TNTSports/default/index.mpd
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/MCTWvWt/SAF.png" 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/121/CH_LOGO/160/160/0/0/28233186072861.png" #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/96/CH_LOGO/160/160/0/0/50191211073985.png" group-title="⚽Pack Futbol",⚽ TYC SPORTS 
+https://cdn.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/MCTWvWt/SAF.png" 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/74/CH_LOGO/60/40/0/0/78711436072355.png" #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/96/CH_LOGO/160/160/0/0/50191211073985.png" group-title="⚽Pack Futbol" ,⚽  TyC Sports
+https://chromecast.cvattv.com.ar/live/c5eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/MCTWvWt/SAF.png" 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=58e1ebe75d944f6a98ea67b1c7c0a572:1c311b069dbce31ce8e62a6e7e2433eb
+#EXTINF:-1   tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/TYC95.png/revision/latest?cb=20200711033805" #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/96/CH_LOGO/160/160/0/0/50191211073985.png" group-title="⚽Pack Futbol",⚽ TyC Sports Internacional
+https://chromecast.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc/TyC_Internacional.mpd
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/MCTWvWt/SAF.png" 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
+#EXTINF:-1 ch-number="123" tvg-id="ESPN PREMIUM HD.ar" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/96/CH_LOGO/160/160/0/0/50191211073985.png" group-title="⚽Pack Futbol",⚽ESPN Premium
+https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/MCTWvWt/SAF.png" 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
+#EXTINF:-1 ch-number="124" tvg-id="TNT SPORTS HD.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true" #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/96/CH_LOGO/160/160/0/0/50191211073985.png" group-title="⚽Pack Futbol", ⚽TNT Sports
+https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/MCTWvWt/SAF.png" 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
+#EXTINF:-1 ch-number="108" tvg-id="TyCSports.ar" tvg-name="TyCSports" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png" #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/96/CH_LOGO/160/160/0/0/50191211073985.png" group-title="⚽Pack Futbol", ⚽TyC Sports
+https://cdn.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/MCTWvWt/SAF.png" 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=58e1ebe75d944f6a98ea67b1c7c0a572:1c311b069dbce31ce8e62a6e7e2433eb
+#EXTINF:-1 ch-number="108" tvg-id="TyCSports.ar" tvg-id="TyCSports" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png" #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/96/CH_LOGO/160/160/0/0/50191211073985.png" group-title="⚽Pack Futbol", ⚽TyC Sports
+#EXTVLCOPT:http-referrer=https://web.app.flow.com.ar/
+https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc/TyC_Internacional.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/MCTWvWt/SAF.png" 
+#EXTINF:-1 ch-number="108" tvg-id="TyCSports.ar" tvg-name="TyCSports" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png" #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/96/CH_LOGO/160/160/0/0/50191211073985.png" group-title="⚽Pack Futbol", ⚽TyC Sports
+http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/288
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/MCTWvWt/SAF.png" 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ae7b0708be4edf3453c1ab9d6976974:8b31a9788f6dc12640ba69560fcb4b39
+#EXTINF:-1 ch-number="109" tvg-id="TyCSports2.ar" tvg-logo="https://i.ibb.co/ZJMgxxp/tyc-sports2.png" #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/96/CH_LOGO/160/160/0/0/50191211073985.png" group-title="⚽Pack Futbol", ⚽TYC SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+https://cdn.sensa.com.ar/output/ARR3/sensaeventosD/output.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
 
 
 
@@ -607,6 +1030,7 @@ https://cdn.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_enc/FXHD.mpd?|referer=htt
 #EXTINF:-1 group-title="Cine, Novelas y Series" ch-number="317" tvg-id="GoldenPanregional.mx" tvg-logo="https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png", Golden
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://cdn.cvattv.com.ar/live/c6eds/Golden/SA_Live_dash_enc/Golden.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=202c8579c94df506c1a1c54ef49a0c60:871f84901f3580cfa7273293482a66c5
@@ -948,13 +1372,20 @@ https://cdn.cvattv.com.ar/live/c6eds/Sun_Channel/SA_Live_dash_enc/Sun_Channel.mp
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://cdn.cvattv.com.ar/live/c6eds/WOBI/SA_Live_dash_enc/WOBI.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
-#EXTINF:-1 ch-number="423" tvg-id="alacocina" tvg-name="" tvg-country="" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDY3X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png" group-title="Culturales", ALaCocina TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"N_69vQp0V9iMCsBpqnZ9og","k":"Tm_qrTFspFY07MWRC7UJvw"},{"kty":"oct","kid":"rNyTNwKSVu2Nbkmh-sj-sg","k":"TndZABR2oCrBr6DSFAMlXg"},{"kty":"oct","kid":"FxWed5giX_WFxSniN97mIg","k":"nBo7Fl9fV40ORfd3ok097g"},{"kty":"oct","kid":"2cg8nMqLVYy7aUfKhVF6wQ","k":"DAnQQ22DqecWIFa6Z04fuA"}],"type":"temporary"}
+#EXTINF:-1 ch-number="423" tvg-id="alacocina" tvg-name="" tvg-country="" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDY3X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png" group-title="Culturales", ALaCocina TV
 #EXTVLCOPT:http-origin=android_mobile.directvgo.com
 #EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
 http://m.mtd.llc:8880/CH0100000000067/index.mpd?|Origin="android_mobile.directvgo.com"
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=64e744367e16508f98ba279b3357ed28:d302a34e6d29eda20b0b0ba315b261ea
+#EXTINF:-1 ch-number="424" tvg-id="" tvg-logo=, On Directv
+#EXTVLCOPT:http-origin=android_mobile.directvgo.com
+#EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
+http://m.mtd.llc:8880/CH0100000000230/index.mpd?|origin=android_mobile.directvgo.com
 
 
 
@@ -1540,7 +1971,7 @@ https://cdn.cvattv.com.ar/live/c3eds/Canal9_Bahia_Blanca/SA_Live_dash_enc/Canal9
 chaco
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dde29700ee0423e1afe3828c6f251295&key=1928b62bc191bd26c357137d7d909868
-#EXTINF:-1 ch-number="811" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Canal9resistencia.png/231px-Canal9resistencia.png" group-title="Chaco", 9 NORDESTE
+#EXTINF:-1 ch-number="810" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Canal9resistencia.png/231px-Canal9resistencia.png" group-title="Chaco", 9 NORDESTE
 https://cdn.cvattv.com.ar/live/c4eds/CH_9_Resistencia/SA_Live_dash_enc/CH_9_Resistencia.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 
@@ -1556,7 +1987,7 @@ entre ríos
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dd573858f3414066b9292ef6397a5c3c&key=593eb5f7facce4240ff7a5f26afd47e0
-#EXTINF:-1 ch-number="829" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Canal_9_Litoral_2021.png" group-title="Entre Ríos", Canal 9 Litoral
+#EXTINF:-1 ch-number="819" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Canal_9_Litoral_2021.png" group-title="Entre Ríos", Canal 9 Litoral
 https://cdn.cvattv.com.ar/live/c6eds/Canal_9_Parana/SA_Live_dash_enc/Canal_9_Parana.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 
@@ -1564,7 +1995,7 @@ neuquén
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=55828b728b8affe6d1d57d050025645d&key=8ac11ed6d0ccaeac3f8218419f65bb94
-#EXTINF:-1 ch-number="837" tvg-logo="https://3.bp.blogspot.com/-NSUeAruWY9g/WHvPTwTJjSI/AAAAAAAABZU/8JNdfvDLjlIabo6CyqiujRkpt8h9B3-wgCLcB/s1600/canal7-neuquen.png" group-title="Neuquén", CANAL 7 NEUQUÉN
+#EXTINF:-1 ch-number="827" tvg-logo="https://3.bp.blogspot.com/-NSUeAruWY9g/WHvPTwTJjSI/AAAAAAAABZU/8JNdfvDLjlIabo6CyqiujRkpt8h9B3-wgCLcB/s1600/canal7-neuquen.png" group-title="Neuquén", CANAL 7 NEUQUÉN
 https://cdn.cvattv.com.ar/live/c4eds/Telefe_Neuquen/SA_Live_dash_enc/Telefe_Neuquen.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 
@@ -1576,7 +2007,7 @@ misiones
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9c996a1465acddc9c3f7a2dd9b86aa88&key=a2b63e48c99bebb52bfcdb1830efdd3e
-#EXTINF:-1 ch-number="842" tvg-logo="http://canal12misiones.com/wp-content/uploads/2020/01/logo_horiz_1200x720px.png" group-title="Misiones", CANAL 12 MISIONES
+#EXTINF:-1 ch-number="832" tvg-logo="http://canal12misiones.com/wp-content/uploads/2020/01/logo_horiz_1200x720px.png" group-title="Misiones", CANAL 12 MISIONES
 https://cdn.cvattv.com.ar/live/c4eds/CH_12_Posadas/SA_Live_dash_enc/CH_12_Posadas.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 Río negro
@@ -1586,7 +2017,7 @@ salta
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6c7a5de392f874308e4dd8f2837f1115&key=9ccf9ec6922c403d67d0df7952547581
-#EXTINF:-1 ch-number="850" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Elonce_TV_Salta.png/439px-Elonce_TV_Salta.png" group-title="Salta", EL ONCE TV SALTA
+#EXTINF:-1 ch-number="840" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Elonce_TV_Salta.png/439px-Elonce_TV_Salta.png" group-title="Salta", EL ONCE TV SALTA
 https://cdn.cvattv.com.ar/live/c4eds/Telefe_Salta/SA_Live_dash_enc/Telefe_Salta.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 
@@ -1598,7 +2029,7 @@ santa fe
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=662447df521fb590b72b1a11671c2afd&key=81c204c443987d7b176587d626a124a0
-#EXTINF:-1 ch-number="863" tvg-logo="https://i.ibb.co/jvJwYdR/eltrestv.png" group-title="Santa Fe", EL TRES TV ROSARIO
+#EXTINF:-1 ch-number="843" tvg-logo="https://i.ibb.co/jvJwYdR/eltrestv.png" group-title="Santa Fe", EL TRES TV ROSARIO
 https://cdn.cvattv.com.ar/live/c3eds/Canal_3_Rosario/SA_Live_dash_enc/Canal_3_Rosario.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1617,17 +2048,17 @@ tucumán
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ed542fdaa4598671e26aca3e160afed7&key=cdb880c60523b9ebc61b9003c41f8048
-#EXTINF:-1 ch-number="880" tvg-logo="https://i.ibb.co/B6ZHDXy/america-tucuman.png" group-title="Tucumán", AMERICA TUCUMÁN
+#EXTINF:-1 ch-number="8640" tvg-logo="https://i.ibb.co/B6ZHDXy/america-tucuman.png" group-title="Tucumán", AMERICA TUCUMÁN
 https://cdn.cvattv.com.ar/live/c7eds/America_Tucuman/SA_Live_dash_enc/America_Tucuman.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7760caa058b51b7cce151c0539fa4a8f&key=edd086c1011ed2c54cbe869d0e8d9289
-#EXTINF:-1 ch-number="888" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Elocho_TV_nuevo_logo.png/456px-Elocho_TV_nuevo_logo.png" group-title="Tucumán", EL OCHO TV TUCUMÁN
+#EXTINF:-1 ch-number="845" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Elocho_TV_nuevo_logo.png/456px-Elocho_TV_nuevo_logo.png" group-title="Tucumán", EL OCHO TV TUCUMÁN
 https://cdn.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc/Canal_8_Tucuman.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7a53740aa52d8b50ccb218aab5e9d50e&key=e772fa4a4997b50a0ff04e2ef286a864
-#EXTINF:-1 ch-number="889" tvg-logo="https://i.ibb.co/vvknBFv/canal10-tucuman.png" group-title="Tucumán", CANAL 10 TUCUMÁN
+#EXTINF:-1 ch-number="866" tvg-logo="https://i.ibb.co/vvknBFv/canal10-tucuman.png" group-title="Tucumán", CANAL 10 TUCUMÁN
 https://cdn.cvattv.com.ar/live/c7eds/Ch10_Tucuman/SA_Live_dash_enc/Ch10_Tucuman.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 
@@ -1639,9 +2070,9 @@ https://cdn.cvattv.com.ar/live/c7eds/Ch10_Tucuman/SA_Live_dash_enc/Ch10_Tucuman.
 
 
 
-radios (1100xx)
+radios (900xx)
 
-#EXTINF:-1 group-title="Radios" ch-number="90000" ,LA 100
+#EXTINF:-1 group-title="Radios" ch-number="9000" ,LA 100
 https://musicsrc.cvattv.com.ar/L100
 
 #EXTINF:-1 group-title="Radios" ch-number="901" ,RIVADAVIA
@@ -1667,33 +2098,528 @@ https://musicsrc.cvattv.com.ar/RNAC
 
 
 
+DAZN
 
-adultos
+#EXTM3U
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8577d81eaf33436d9f1e482360685a7c:f608a0ac703cfaaf9442574d9a2b87fb
-#EXTINF:-1 group-title="Adultos" adult=1 ch-number="1000" tvg-id="PlayboyTVLatinAmerica.us.uy" tvg-logo="https://dl.dropbox.com/scl/fi/7feu1a3ikd6r8r77pgses/playboy.jpg?rlkey=02u5uorraf4qldh8dxqc43vyh&dl=1", Playboy TV (18+)
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://cdn.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=95bd64227acf458daf7886f803d0298e:79e28ee0ec58958bb666f9e53a0cd434
-#EXTINF:-1 group-title="Adultos" adult=1 ch-number="1001" tvg-id="Sextreme.br.uy" tvg-logo="https://www.totalmedios.com/img/noticias/2011/05/Noticia11837__236x150.jpg", Sextreme (18+)
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc/Sextreme.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=34237d2ae6684ee7a011f5b9c7c43e6d:05d973d987915120e567880f50a422af
-#EXTINF:-1 group-title="Adultos" adult=1 ch-number="1002" tvg-id="Venus.ar.uy" tvg-logo="https://dl.dropbox.com/scl/fi/ccb7fp8758t7obaa9037c/venus.jpg?rlkey=tyvcaenu68rwe1ir2hj9amtc9&dl=1", Venus (18+)
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://cdn.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDIxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png" group-title="Deportes", DSports (Uruguay)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png" 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/569wj9v/DAZN1.png" group-title="DAZN - F1- La Liga",, DAZN  1  ES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"c90a67ecf6b94d7083a214b9adc7ad4f":"45c7042cbed34e601e52df2869b0ca2d","3421faf8ff3d3a17b13940333d748c8f":"110bb3f5779f1e7fbcba0a60f5a253de"}
-#EXTVLCOPT:http-origin=android_mobile.directvgo.com
-#EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
+#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png" 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WW7tyZc/DAZN2.png" group-title="DAZN - F1- La Liga",, DAZN  2  ES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png" 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b1QN1NQ/DAZN3.png" group-title="DAZN - F1- La Liga",, DAZN  3  ES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bad8efff688c0dbb3711e4a7114c22a3:6ba800673b20776c0c850130d45e1920
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png" 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j5P724k/DAZN4.png" group-title="DAZN - F1- La Liga", DAZN  4  ES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d27104d427e4f87e75b19395a9f8796b:723593c70e2d4c4862754398e80168f8
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png" 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png" group-title="DAZN - F1- La Liga",, DAZN  F1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png" 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TY7vtjy/dazn-laliga.png" group-title="DAZN - F1- La Liga",, LALIGA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hmjw88r/La-Liga-Hypermotion.png" group-title="DAZN - F1- La Liga",, LA LIGA HYPERMOTION
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d08b265a6639e32da7c880d5491e3d2:0c92556ca14b95f367993710e7cfbc94
+https://dr.jellyfin.es/live/fra-nitro/live/clients/dash/enc/sjnpvfucqg/out/v1/3934680f71e04ed28dbf64fc52c3a6e7/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6BPTcTx/La-Liga-Hypermotion.png" group-title="DAZN - F1- La Liga",, LALIGA HYPERMOTION
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d08b265a6639e32da7c880d5491e3d2:0c92556ca14b95f367993710e7cfbc94
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TYFT189/La-Liga-Hypermotion2.png" group-title="DAZN - F1- La Liga",, LALIGA HYPERMOTION 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1m0wtv7/Hypermotion3.png" group-title="DAZN - F1- La Liga", LALIGA HYPERMOTION 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64b02bbd7d93410008fdae60/thumbnail.jpg" group-title="DAZN - F1- La Liga",DAZN WOMENS FOOTBALL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+http://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-503/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nDMFJqQ/dazn-rise.png" group-title="DAZN - F1- La Liga",, DAZN RISE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+http://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-501/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CWZ3nv4/dazn-fast-plus.png" group-title="DAZN - F1- La Liga",, DAZN FAST+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+http://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0tB57qV/dazn-combat.png" group-title="DAZN - F1- La Liga",, DAZN COMBAT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+http://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-502/stream.mpd
+
+PACK HBO + UNIVERSAL
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/100/CH_LOGO/160/160/0/0/228799490721.png" group-title="HBO+ Universal",🎥  HBO 
+https://cdn.sensa.com.ar/live/eds/HBO/live_dash_cld/HBO.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/101/CH_LOGO/160/160/0/0/93371734072127.png" group-title="HBO+ Universal",🎥  HBO 2 
+https://cdn.sensa.com.ar/live/eds/HBO2/live_dash_cld/HBO2.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/102/CH_LOGO/160/160/0/0/7354519807335.png" group-title="HBO+ Universal",🎥  HBO FAMILY 
+https://cdn.sensa.com.ar/live/eds/HBOFamily/live_dash_cld/HBOFamily.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/124/CH_LOGO/160/160/0/0/10237380072165.png" group-title="HBO+ Universal",🎥  HBO PLUS 
+https://cdn.sensa.com.ar/live/eds/HBOPlus/live_dash_cld/HBOPlus.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/108/CH_LOGO/160/160/0/0/6041444607334.png" group-title="HBO+ Universal",🎥  HBO XTREME 
+https://cdn.sensa.com.ar/live/eds/MAXPrime/live_dash_cld/MAXPrime.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/49/CH_LOGO/160/160/0/0/3657655307500.png" group-title="HBO+ Universal",🎥  HBO SIGNATURE 
+https://cdn.sensa.com.ar/live/eds/HBOSignature/live_dash_cld/HBOSignature.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/107/CH_LOGO/160/160/0/0/61157416071448.png" group-title="HBO+ Universal",🎥  HBO MUNDI 
+https://cdn.sensa.com.ar/live/eds/MAX/live_dash_cld/MAX.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/109/CH_LOGO/160/160/0/0/68908128073927.png" group-title="HBO+ Universal",🎥  HBO POP 
+https://cdn.sensa.com.ar/live/eds/MAXUP/live_dash_cld/MAXUP.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/42/CH_LOGO/160/160/0/0/6901418607879.png" group-title="HBO+ Universal",🎥 STAR CHANELL 
+https://cdn.sensa.com.ar//live/eds/FoxChannel/live_dash_cld/FoxChannel.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/41/CH_LOGO/160/160/0/0/9929073907327.png" group-title="HBO+ Universal",🎥  UNIVERSAL 
+https://cdn.sensa.com.ar/live/eds/Universal/live_dash_cld/Universal.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1284/CH_LOGO/160/160/0/0/34307524076949.png" group-title="HBO+ Universal",🎥  UNIVERSAL CRIME
+https://cdn.sensa.com.ar/live/eds/UniCri/live_dash_cld/UniCri.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1283/CH_LOGO/160/160/0/0/94843453076948.png" group-title="HBO+ Universal",🎥  UNIVERSAL COMEDY
+https://cdn.sensa.com.ar/live/eds/UniCom/live_dash_cld/UniCom.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1282/CH_LOGO/160/160/0/0/21817888076947.png" group-title="HBO+ Universal",🎥  UNIVERSAL CINEMA
+https://cdn.sensa.com.ar/live/eds/UniCin/live_dash_cld/UniCin.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1285/CH_LOGO/160/160/0/0/62685863076950.png" group-title="HBO+ Universal",🎥  UNIVERSAL PREMIERE
+https://cdn.sensa.com.ar/live/eds/UniPre/live_dash_cld/UniPre.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1281/CH_LOGO/160/160/0/0/24764893076951.png" group-title="HBO+ Universal",🎥  UNIVERSAL REALITY
+https://cdn.sensa.com.ar/live/eds/UniRea/live_dash_cld/UniRea.mpd
+
+
+DEPORTES URUGUAY
+
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png" 
+#EXTINF:-1BRASIL="2505" tvg-name="VTV (OP2)" tvg-id="vtv.uy" 
+tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWut4H7YcTxkVmlspnABM0ExJ6PltnX6AJ4_BZBL2S7U_8CaOV6ZbbC4RrkLab2xdU.png" group-title="Uruguay",VTV (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1071731.m3u8
+
+#EXTINF:-1 group-logo="https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png" 
+#EXTINF:-1 tvg-id="GOL TV HD.cl" tvg-logo="https://dl.dropbox.com/scl/fi/b5vv58w3mdjkopsb9edhy/goltv.jpg?rlkey=digisjr7amuf7j7xudugbe3m4&dl=1", group-title="Uruguay - Deportes", Gol TV
+http://45.189.108.146:1935/xmp_trans/goltv.stream/playlist.m3u8
+
+#EXTINF:-1 group-logo="https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png" 
+#EXTINF:-1BRASIL="2482" tvg-name="Campeonato Urugay (OP2)" tvg-id="vtvplus.uy" tvg-logo="https://i.ibb.co/w02x3Gg/Logo-Campeonato-Uruguayo-Primera-Divisi-n.png" group-title="Uruguay - Deportes",Campeonato Urugay 1
+http://tvplanet.online/live/Logitech25/Logitech25/1071706.m3u8
+
+#EXTINF:-1 group-logo="https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png" 
+#EXTINF:-1BRASIL="2482" tvg-name="Campeonato Urugay (OP2)" tvg-id="vtvplus.uy" tvg-logo="https://i.ibb.co/w02x3Gg/Logo-Campeonato-Uruguayo-Primera-Divisi-n.png" group-title="Uruguay - Deportes",Campeonato Urugay 2
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/86091.m3u8
+
+#EXTINF:-1 group-logo="https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png" 
+#EXTINF:-1BRASIL="2482" tvg-name="Campeonato Urugay (OP2)" tvg-id="vtvplus.uy" tvg-logo="https://i.ibb.co/w02x3Gg/Logo-Campeonato-Uruguayo-Primera-Divisi-n.png" group-title="Uruguay - Deportes",Campeonato Urugay 3
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/86092.m3u8
+
+#EXTINF:-1 group-logo="https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png" 
+#EXTINF:-1BRASIL="2482" tvg-name="Campeonato Urugay (OP2)" tvg-id="vtvplus.uy" tvg-logo="https://i.ibb.co/w02x3Gg/Logo-Campeonato-Uruguayo-Primera-Divisi-n.png" group-title="Uruguay - Deportes",Campeonato Urugay 4
+http://tvplanet.online/live/Logitech25/Logitech25/1069635.m3u8
+
+#EXTINF:-1 group-logo="https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png" 
+#EXTINF:-1BRASIL="2482" tvg-name="Campeonato Urugay (OP2)" tvg-id="vtvplus.uy" tvg-logo="https://i.ibb.co/w02x3Gg/Logo-Campeonato-Uruguayo-Primera-Divisi-n.png" group-title="Uruguay - Deportes",Campeonato Urugay 5
+http://tvplanet.online/live/Logitech25/Logitech25/1069635.m3u8
+
+#EXTINF:-1 group-logo="https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png" 
+#EXTINF:-1BRASIL="2482" tvg-name="Campeonato Urugay (OP2)" tvg-id="vtvplus.uy" tvg-logo="https://i.ibb.co/w02x3Gg/Logo-Campeonato-Uruguayo-Primera-Divisi-n.png" group-title="Uruguay - Deportes",Campeonato Urugay 6
+https://dnslivetv.online/live/Gold2525/Gold2525/1070325.m3u8
+
+#EXTINF:-1 group-logo="https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png" 
+#EXTINF:-1BRASIL="2482" tvg-name="Campeonato Urugay (OP2)" tvg-id="vtvplus.uy" tvg-logo="https://i.ibb.co/w02x3Gg/Logo-Campeonato-Uruguayo-Primera-Divisi-n.png" group-title="Uruguay - Deportes",Campeonato Urugay 7
+https://dnslivetv.online/live/Gold2525/Gold2525/1071706.m3u8
+
+#EXTINF:-1 group-logo="https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png" 
+#EXTINF:-1BRASIL="2482" tvg-name="Campeonato Urugay (OP2)" tvg-id="vtvplus.uy" tvg-logo="https://i.ibb.co/w02x3Gg/Logo-Campeonato-Uruguayo-Primera-Divisi-n.png" group-title="Uruguay - Deportes",Campeonato Urugay 8
+https://dnslivetv.online/live/Gold2525/Gold2525/1069635.m3u8
+
+
+
+#EXTM3U
+#EXTINF:0 CUID="1" tvg-name="No hables con extraños (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdGpSGWNnpHuouEJjXOkzbTyRJk.jpg" group-title="Estrenos FHD",No hables con extraños (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1171683.mp4
+#EXTINF:0 CUID="4" tvg-name="Fighter (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fy7cDkhCAER6a1i3SAiVvyLx5oO.jpg" group-title="Estrenos FHD",Fighter (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154699.mkv
+#EXTINF:0 CUID="5" tvg-name="El precio de la novia (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QusyGRq3X8zmbrqGM1ynGuPFB5.jpg" group-title="Estrenos FHD",El precio de la novia (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154698.mkv
+#EXTINF:0 CUID="6" tvg-name="Winnie The Pooh: A Christmas Movie (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQqrBmyyG6e2wscMnw8d0rM5mWw.jpg" group-title="Estrenos FHD",Winnie The Pooh: A Christmas Movie (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154697.mkv
+#EXTINF:0 CUID="7" tvg-name="Sector 7 (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Xq6vOiNqURWhZXfRRlIUL8Qjdo.jpg" group-title="Estrenos FHD",Sector 7 (2011)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154696.mkv
+#EXTINF:0 CUID="8" tvg-name="La noche que volvieron a casa" group-title="Estrenos FHD",La noche que volvieron a casa
+http://tvplanet.online/movie/Logitech25/Logitech25/1154695.mkv
+#EXTINF:0 CUID="9" tvg-name="Harta (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Estrenos FHD",Harta (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154694.mkv
+#EXTINF:0 CUID="10" tvg-name="Dos chicas a la fuga (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJVGU3aNDLdhAy7yYa2G1XtdYOx.jpg" group-title="Estrenos FHD",Dos chicas a la fuga (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154693.mkv
+#EXTINF:0 CUID="11" tvg-name="Un deseo irlandés (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzdsIX1nQZAIcAzIvSuSzKyWI9u.jpg" group-title="Estrenos FHD",Un deseo irlandés (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154692.mkv
+#EXTINF:0 CUID="12" tvg-name="Jackpot! (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jExWD6GuvfSgOMMG49CF9Z5C6ZN.jpg" group-title="Estrenos FHD",Jackpot! (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154691.mkv
+#EXTINF:0 CUID="13" tvg-name="Romper el círculo (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hvpQDMkfAbkiz8kxJOybcNSAq1j.jpg" group-title="Estrenos FHD",Romper el círculo (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154690.mkv
+#EXTINF:0 CUID="14" tvg-name="Tarot (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Adh7xmtgSIUGZBaMj9VLTmq2G8z.jpg" group-title="Estrenos FHD",Tarot (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154689.mkv
+#EXTINF:0 CUID="25" tvg-name="Sayen: La cazadora (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/btmngK5iXaxyAEl0ScIWCQG2ITr.jpg" group-title="Estrenos FHD",Sayen: La cazadora (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154678.mkv
+#EXTINF:0 CUID="26" tvg-name="Niebla sin fronteras (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4MgRn1YPf3EkjfxbkWCMgeXY21I.jpg" group-title="Estrenos FHD",Niebla sin fronteras (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154677.mkv
+#EXTINF:0 CUID="27" tvg-name="Creating a Universe - The Making of Rebel Moon (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ztmAcRfeRzvZaVi8wGUsvGm7ub3.jpg" group-title="Estrenos FHD",Creating a Universe - The Making of Rebel Moon (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154676.mkv
+#EXTINF:0 CUID="28" tvg-name="Los iniciados: El diario de las sombras (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6340ZG3qHfS7q8ES5rwf4AQ0U1w.jpg" group-title="Estrenos FHD",Los iniciados: El diario de las sombras (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154675.mkv
+#EXTINF:0 CUID="29" tvg-name="Deadpool y Lobezno (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9TFSqghEHrlBMRR63yTx80Orxva.jpg" group-title="Estrenos FHD",Deadpool y Lobezno (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154674.mkv
+#EXTINF:0 CUID="30" tvg-name="Yolo (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3JJSLb9nQutbMRY9lwpMVoKEBhm.jpg" group-title="Estrenos FHD",Yolo (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154673.mkv
+#EXTINF:0 CUID="31" tvg-name="The Killer (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PCnxKZZIVRanWb710pNpYVkCSw.jpg" group-title="Estrenos FHD",The Killer (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154672.mkv
+#EXTINF:0 CUID="32" tvg-name="Rebel Ridge (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lH3uawGaDUEV6oJNc5No4n8IQPA.jpg" group-title="Estrenos FHD",Rebel Ridge (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154671.mkv
+#EXTINF:0 CUID="33" tvg-name="V de Víctor" group-title="Estrenos FHD",V de Víctor
+http://tvplanet.online/movie/Logitech25/Logitech25/1154670.mkv
+#EXTINF:0 CUID="34" tvg-name="Biónicos (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h0jzQ569fSJZj3jJSd4mHm6dg8e.jpg" group-title="Estrenos FHD",Biónicos (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154669.mkv
+#EXTINF:0 CUID="35" tvg-name="Dìdi (弟弟) (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3UCTNaZgxW6BbeHMMTe6uL07MpV.jpg" group-title="Estrenos FHD",Dìdi (弟弟) (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154668.mkv
+#EXTINF:0 CUID="36" tvg-name="Maharaj (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lsuUGtUzrzEnlIUjVRSqFNUMZEz.jpg" group-title="Estrenos FHD",Maharaj (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154667.mkv
+#EXTINF:0 CUID="37" tvg-name="Sin edulcorar (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lycWsFLOYhdZDOwFgjVv5Z39Ubr.jpg" group-title="Estrenos FHD",Sin edulcorar (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154666.mkv
+#EXTINF:0 CUID="38" tvg-name="10 vidas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qGLnbmNnOAI1IgjtWdfVWnJkGku.jpg" group-title="Estrenos FHD",10 vidas (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154665.mkv
+#EXTINF:0 CUID="39" tvg-name="Borderlands (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jtEZi4eZxDjxcDIeMbkQ8HmvRs1.jpg" group-title="Estrenos FHD",Borderlands (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154664.mkv
+#EXTINF:0 CUID="40" tvg-name="El Cuervo (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uUUx4kN6uCvXnjGWOv79gUBxdYE.jpg" group-title="Estrenos FHD",El Cuervo (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154663.mkv
+#EXTINF:0 CUID="41" tvg-name="Madame Web (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/blq050GHBt0Fzx1j9FvohaEuknJ.jpg" group-title="Estrenos FHD",Madame Web (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154662.mkv
+#EXTINF:0 CUID="42" tvg-name="La sustancia (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w1PiIqM89r4AM7CiMEP4VLCEFUn.jpg" group-title="Estrenos FHD",La sustancia (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154661.mkv
+#EXTINF:0 CUID="43" tvg-name="The Hunted: Cacería Humana (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iAbufkVeB2pE1XqsvXBiV4oWk3K.jpg" group-title="Estrenos FHD",The Hunted: Cacería Humana (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154660.mkv
+#EXTINF:0 CUID="44" tvg-name="Contagio de miedo (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uE8sz63PFf3exD9WvmW26lONVqA.jpg" group-title="Estrenos FHD",Contagio de miedo (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154659.mkv
+#EXTINF:0 CUID="45" tvg-name="La herencia del tío (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hblBwcjAAgPIVN4db8dWcGcSuOf.jpg" group-title="Estrenos FHD",La herencia del tío (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154658.mkv
+#EXTINF:0 CUID="46" tvg-name="El gato galactico y el hechizo del tiempo (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3avzAHJk4wLsUtlVTLE7GLoGokV.jpg" group-title="Estrenos FHD",El gato galactico y el hechizo del tiempo (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154657.mkv
+#EXTINF:0 CUID="47" tvg-name="कन्ट्रोल (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eCaaJkJqRA6unsVe5hvtgJq301H.jpg" group-title="Estrenos FHD",कन्ट्रोल (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154656.mkv
+#EXTINF:0 CUID="48" tvg-name="Sabuesos dormidos" group-title="Estrenos FHD",Sabuesos dormidos
+http://tvplanet.online/movie/Logitech25/Logitech25/1154655.mkv
+#EXTINF:0 CUID="49" tvg-name="Superdetective en Hollywood: Axel F. (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3f28IXwRBEZjR75Pm4jCiBw3HZc.jpg" group-title="Estrenos FHD",Superdetective en Hollywood: Axel F. (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154654.mkv
+#EXTINF:0 CUID="50" tvg-name="Los instigadores (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDWHsjfdsvZZkMWo1u1Ep7Y77FQ.jpg" group-title="Estrenos FHD",Los instigadores (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154653.mkv
+#EXTINF:0 CUID="51" tvg-name="Demasiado mayor para cuentos de hadas 2 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ndTzO9h8WoRTzwl4gu3isEJtONZ.jpg" group-title="Estrenos FHD",Demasiado mayor para cuentos de hadas 2 (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154652.mkv
+#EXTINF:0 CUID="52" tvg-name="Agente cinturón negro (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/inEhHhxWx9uPb4jFtstDy3Gpu0o.jpg" group-title="Estrenos FHD",Agente cinturón negro (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154651.mkv
+#EXTINF:0 CUID="53" tvg-name="Fiesta en la Madriguera (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s38XHjbFXd7Wv2zJKwWnq5Qyl5l.jpg" group-title="Estrenos FHD",Fiesta en la Madriguera (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154650.mkv
+#EXTINF:0 CUID="54" tvg-name="Furiosa: De la saga Mad Max (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGHUlykWn9V2IIQ4ZaATIAq9VLB.jpg" group-title="Estrenos FHD",Furiosa: De la saga Mad Max (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154649.mkv
+#EXTINF:0 CUID="55" tvg-name="Monkey Man (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJhQfICVsZGeYGGRudgcqiD1zQY.jpg" group-title="Estrenos FHD",Monkey Man (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154648.mkv
+#EXTINF:0 CUID="56" tvg-name="Lo que hay dentro (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d58FW4YuWNj6V64flFxj12rOVvr.jpg" group-title="Estrenos FHD",Lo que hay dentro (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154647.mkv
+#EXTINF:0 CUID="57" tvg-name="Civil War (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hxzHKNtkRbH5EVIVJmKc50aEfIV.jpg" group-title="Estrenos FHD",Civil War (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154646.mkv
+#EXTINF:0 CUID="58" tvg-name="Crew (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXLxwq481XBFMY3pEDoNePKgcUd.jpg" group-title="Estrenos FHD",Crew (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154645.mkv
+#EXTINF:0 CUID="59" tvg-name="Hellboy: The Crooked Man (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ExFaxmvlGxBmUBVKv9ey94fNyy.jpg" group-title="Estrenos FHD",Hellboy: The Crooked Man (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154644.mkv
+#EXTINF:0 CUID="60" tvg-name="Un desastre es para siempre (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ihQ1xJE0niC6y72VMmcxbZE5EGe.jpg" group-title="Estrenos FHD",Un desastre es para siempre (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154643.mkv
+#EXTINF:0 CUID="61" tvg-name="Misiones cruzadas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eM0dIjnUmv4UFdy6vxTantBbXTW.jpg" group-title="Estrenos FHD",Misiones cruzadas (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154642.mkv
+#EXTINF:0 CUID="62" tvg-name="Al rescate de Fondo de Bikini: La película de Arenita Mejillas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8LdEq7DyeeHRWjhy8USd1CmesU.jpg" group-title="Estrenos FHD",Al rescate de Fondo de Bikini: La película de Arenita Mejillas (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154641.mkv
+#EXTINF:0 CUID="63" tvg-name="Vidas perfectas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6W3LWbOZTbmv0SKe4OizWR0rEtW.jpg" group-title="Estrenos FHD",Vidas perfectas (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154640.mkv
+#EXTINF:0 CUID="64" tvg-name="Amar Singh Chamkila (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lipzcJAVfRJsvXteDgvrjqjEL8D.jpg" group-title="Estrenos FHD",Amar Singh Chamkila (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154639.mkv
+#EXTINF:0 CUID="65" tvg-name="El diario (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/plqa8Eyd4r3aWH5xk7vMPC3IUvr.jpg" group-title="Estrenos FHD",El diario (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154638.mkv
+#EXTINF:0 CUID="66" tvg-name="Road House (De profesión: duro) (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmnVOIaTsGcRpZ9rLv2msbtqi3C.jpg" group-title="Estrenos FHD",Road House (De profesión: duro) (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154637.mkv
+#EXTINF:0 CUID="67" tvg-name="Ángeles inesperados (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x1jkzJGnerhMrweZsoCVgefPQ0L.jpg" group-title="Estrenos FHD",Ángeles inesperados (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154636.mkv
+#EXTINF:0 CUID="68" tvg-name="No entres (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pi2pkIUeVk0z3iy67YKTxDjeAGr.jpg" group-title="Estrenos FHD",No entres (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154635.mkv
+#EXTINF:0 CUID="69" tvg-name="Divorciados (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r0ZdpHIvojr6k9KMizU2e47bxDM.jpg" group-title="Estrenos FHD",Divorciados (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154634.mkv
+#EXTINF:0 CUID="70" tvg-name="Música (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kUX5ourGUJDG0yvEeS3uooZS0dS.jpg" group-title="Estrenos FHD",Música (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154633.mkv
+#EXTINF:0 CUID="71" tvg-name="Wonderland (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/69gNdlgkGvFZvamyvet5xcc2XdN.jpg" group-title="Estrenos FHD",Wonderland (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154632.mkv
+#EXTINF:0 CUID="72" tvg-name="Problemista (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uNMGqWEBWvdoWzbffTvlsdyCti.jpg" group-title="Estrenos FHD",Problemista (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154631.mkv
+#EXTINF:0 CUID="73" tvg-name="One Rogue Reporter (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePQt6sXTlv0awy0CnFDZ1wfBJqd.jpg" group-title="Estrenos FHD",One Rogue Reporter (2014)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154630.mkv
+#EXTINF:0 CUID="74" tvg-name="No Le Digas A Mamá Que La Niñera Ha Muerto (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aMLrX8qaagRUESyPSJCARNlT8Xd.jpg" group-title="Estrenos FHD",No Le Digas A Mamá Que La Niñera Ha Muerto (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154629.mkv
+#EXTINF:0 CUID="75" tvg-name="El hoyo 2 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cnfdskwEmS1HZhenEVYt9P0IYa.jpg" group-title="Estrenos FHD",El hoyo 2 (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154628.mkv
+#EXTINF:0 CUID="76" tvg-name="Los colores del mal: Rojo (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1OQAW3dtFEnQkrwrVsioTLatMuO.jpg" group-title="Estrenos FHD",Los colores del mal: Rojo (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154627.mkv
+#EXTINF:0 CUID="77" tvg-name="City Hunter (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjQzJ9xFdaN9KAwu7HUImIgbc2Y.jpg" group-title="Estrenos FHD",City Hunter (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154626.mkv
+#EXTINF:0 CUID="78" tvg-name="Race for Glory: Audi vs Lancia (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwu27eJfUbuHa8zubVXMRWptiZ8.jpg" group-title="Estrenos FHD",Race for Glory: Audi vs Lancia (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154625.mkv
+#EXTINF:0 CUID="79" tvg-name="A Family Affair (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwQU9Ud2djI3Wst0rA5fBjDaL4B.jpg" group-title="Estrenos FHD",A Family Affair (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154624.mkv
+#EXTINF:0 CUID="80" tvg-name="Firma Aquí (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qBT4nnXe4ncyHCP8LhKvTqLFCp3.jpg" group-title="Estrenos FHD",Firma Aquí (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154623.mkv
+#EXTINF:0 CUID="81" tvg-name="No hay tiempo para espiarme" group-title="Estrenos FHD",No hay tiempo para espiarme
+http://tvplanet.online/movie/Logitech25/Logitech25/1154622.mp4
+#EXTINF:0 CUID="82" tvg-name="Las hermanas fantásticas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEUBskXY35Vs3Nv50N8uKyPtIEq.jpg" group-title="Estrenos FHD",Las hermanas fantásticas (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154621.mkv
+#EXTINF:0 CUID="83" tvg-name="Jack en la caja maldita 3 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHfddXNm1pOZDn4D8ttsZi1jcgT.jpg" group-title="Estrenos FHD",Jack en la caja maldita 3 (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154620.mkv
+#EXTINF:0 CUID="84" tvg-name="Solo una noche de juegos (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d6mQAufyjfqGhRcvqTKAmUV6QRo.jpg" group-title="Estrenos FHD",Solo una noche de juegos (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154619.mkv
+#EXTINF:0 CUID="85" tvg-name="Bocah nakal yang sedang jatuh cinta (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ruoWmDo1p2dKmhyQma9HV9WlafT.jpg" group-title="Estrenos FHD",Bocah nakal yang sedang jatuh cinta (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154618.mkv
+#EXTINF:0 CUID="86" tvg-name="La Trampa (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/utOClhVjHeLkcPZmRD0H7WmY75p.jpg" group-title="Estrenos FHD",La Trampa (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154617.mkv
+#EXTINF:0 CUID="87" tvg-name="Kali: Ángel Vengador (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6G2asNhF8v9htu53JkmtHge23f.jpg" group-title="Estrenos FHD",Kali: Ángel Vengador (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154616.mkv
+#EXTINF:0 CUID="88" tvg-name="Fabricante de lágrimas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i91SgC0uQa3fb68foFS3zgaMUuD.jpg" group-title="Estrenos FHD",Fabricante de lágrimas (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154615.mkv
+#EXTINF:0 CUID="89" tvg-name="El Duelo (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bMK3MWGMjOGshlBjZAWv6Ivqmdm.jpg" group-title="Estrenos FHD",El Duelo (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154614.mkv
+#EXTINF:0 CUID="90" tvg-name="Half Baked (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Estrenos FHD",Half Baked (2007)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154613.mkv
+#EXTINF:0 CUID="91" tvg-name="Miller's Girl (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bqxgqG4C4kOOUiJQwQc6xZOu3A3.jpg" group-title="Estrenos FHD",Miller's Girl (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154612.mkv
+#EXTINF:0 CUID="92" tvg-name="Shirley (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ooo4D4kyZyFee5aiNfwZ43oKOkc.jpg" group-title="Estrenos FHD",Shirley (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154611.mkv
+#EXTINF:0 CUID="93" tvg-name="Apartment 7A (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wtaO2t1CDWkCJPwTgt2XErTVTeW.jpg" group-title="Estrenos FHD",Apartment 7A (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154610.mkv
+#EXTINF:0 CUID="94" tvg-name="Bikeriders. La ley del asfalto (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/huPpcGEVt8GFJI9Xj4nf6cPMFqM.jpg" group-title="Estrenos FHD",Bikeriders. La ley del asfalto (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154609.mkv
+#EXTINF:0 CUID="95" tvg-name="Descansar en paz (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xdbXo63wcUZ3TLwrjwg35m1TEm.jpg" group-title="Estrenos FHD",Descansar en paz (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154608.mkv
+#EXTINF:0 CUID="96" tvg-name="Alerta Amber (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7rvfugoxG5Omr0QQJk9BdSu1g3Y.jpg" group-title="Estrenos FHD",Alerta Amber (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154607.mkv
+#EXTINF:0 CUID="97" tvg-name="Cómo conquistar a Billy Walsh (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vm1oNqOZycJvW1GindPX45nIpuG.jpg" group-title="Estrenos FHD",Cómo conquistar a Billy Walsh (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154606.mkv
+#EXTINF:0 CUID="98" tvg-name="Los descendientes: Corazón rebelde (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHqSU6Rw58hV84wQ5SR3lUmuqVL.jpg" group-title="Estrenos FHD",Los descendientes: Corazón rebelde (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154605.mkv
+#EXTINF:0 CUID="99" tvg-name="Las chicas de Niza (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AkxCTNZZmcirQ1kYP2dKFx04nV5.jpg" group-title="Estrenos FHD",Las chicas de Niza (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154604.mkv
+#EXTINF:0 CUID="100" tvg-name="Príncipes salvajes (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fqUakfM8wH4IWULIkhRyZqNZveD.jpg" group-title="Estrenos FHD",Príncipes salvajes (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154603.mkv
+#EXTINF:0 CUID="101" tvg-name="Los feos (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/abNsPyjwSYwOVsx2m0mWrq22xGk.jpg" group-title="Estrenos FHD",Los feos (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154602.mkv
+#EXTINF:0 CUID="102" tvg-name="Disco, Ibiza, Locomía (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/beLbZExOZ64LzbqJbbbjhlqbezi.jpg" group-title="Estrenos FHD",Disco, Ibiza, Locomía (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154601.mkv
+#EXTINF:0 CUID="103" tvg-name="Los vigilantes (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8UgIqUyDhxRsMEGcZ3V9WortIp1.jpg" group-title="Estrenos FHD",Los vigilantes (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154600.mkv
+#EXTINF:0 CUID="104" tvg-name="Infiltrada en la NASA (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYx9AVIrZaVZ2PezSZvOOjtB75a.jpg" group-title="Estrenos FHD",Infiltrada en la NASA (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154599.mkv
+#EXTINF:0 CUID="105" tvg-name="Misión hostil (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cawaXqf12YFiThhngc1wbt5MfBs.jpg" group-title="Estrenos FHD",Misión hostil (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154598.mkv
+#EXTINF:0 CUID="106" tvg-name="Goyo (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fCjC1RRbEJUpDjM55RNUMXQen0b.jpg" group-title="Estrenos FHD",Goyo (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154597.mkv
+#EXTINF:0 CUID="107" tvg-name="Rivales (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aiqfn4XtXUPr7QNsDsAKNQ1aOKV.jpg" group-title="Estrenos FHD",Rivales (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154596.mkv
+#EXTINF:0 CUID="108" tvg-name="La liberación (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zFnDISBzIDg4JlKaCCdMELpkWKz.jpg" group-title="Estrenos FHD",La liberación (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154595.mkv
+#EXTINF:0 CUID="109" tvg-name="Exhuma (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2Fkw6AMX7f0USFk2IuaRNIIp0p.jpg" group-title="Estrenos FHD",Exhuma (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154594.mkv
+#EXTINF:0 CUID="110" tvg-name="Sangre en los labios (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yEQKiZOVzVZquN7R6BRyY4n6JET.jpg" group-title="Estrenos FHD",Sangre en los labios (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154593.mkv
+#EXTINF:0 CUID="111" tvg-name="Pinceladas de amor (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ciuW95pdPaiReudofHwyv6qYi12.jpg" group-title="Estrenos FHD",Pinceladas de amor (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154592.mkv
+#EXTINF:0 CUID="112" tvg-name="Gru 4. Mi villano favorito (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b6JX0fBne5yPFNBtdp4Imi3CpiE.jpg" group-title="Estrenos FHD",Gru 4. Mi villano favorito (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154591.mkv
+#EXTINF:0 CUID="113" tvg-name="Sight (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vICC15G7L5WIqW3lVFxeae4kvKp.jpg" group-title="Estrenos FHD",Sight (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154590.mkv
+#EXTINF:0 CUID="114" tvg-name="El libro de Clarence (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iGGxia9ocfbwJywmeqBXkZb3n2m.jpg" group-title="Estrenos FHD",El libro de Clarence (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154589.mkv
+#EXTINF:0 CUID="115" tvg-name="Evidências do Amor (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gXg0cuvdri0u9yZPKOHmRPgGpR0.jpg" group-title="Estrenos FHD",Evidências do Amor (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154588.mkv
+#EXTINF:0 CUID="116" tvg-name="Una mujer italiana (Cabrini) (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQziV6stVMBsi6snbyrlRa0WWue.jpg" group-title="Estrenos FHD",Una mujer italiana (Cabrini) (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154587.mkv
+#EXTINF:0 CUID="117" tvg-name="Los horrores de Caddo Lake (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQSLDy6H3Wyhf7Z7TNM87y4giez.jpg" group-title="Estrenos FHD",Los horrores de Caddo Lake (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154586.mkv
+#EXTINF:0 CUID="118" tvg-name="Los infalibles (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nDrUZE24mSB54cuHEjslMLvfFRQ.jpg" group-title="Estrenos FHD",Los infalibles (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154585.mkv
+#EXTINF:0 CUID="119" tvg-name="Baki Hanma vs. Kengan Ashura (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/npqKtCydaOCrPBKVsSNoGfLVD14.jpg" group-title="Estrenos FHD",Baki Hanma vs. Kengan Ashura (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154584.mkv
+#EXTINF:0 CUID="120" tvg-name="Detonantes (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mOXgCNK2PKf7xlpsZzybMscFsqm.jpg" group-title="Estrenos FHD",Detonantes (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154583.mkv
+#EXTINF:0 CUID="121" tvg-name="La idea de tenerte (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/heci4aAOBfN5I2BQ1QpVFE2o5qi.jpg" group-title="Estrenos FHD",La idea de tenerte (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154582.mkv
+#EXTINF:0 CUID="122" tvg-name="El reino del planeta de los simios (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kkFn3KM47Qq4Wjhd8GuFfe3LX27.jpg" group-title="Estrenos FHD",El reino del planeta de los simios (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154581.mkv
+#EXTINF:0 CUID="123" tvg-name="Tòkunbọ̀ (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yV7YWPKH2OWboyAlkZ46gp75Y4j.jpg" group-title="Estrenos FHD",Tòkunbọ̀ (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154580.mkv
+#EXTINF:0 CUID="124" tvg-name="Rez Ball (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MKpjuiCTk8nYnsUf5QegiPKEDh.jpg" group-title="Estrenos FHD",Rez Ball (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154579.mkv
+#EXTINF:0 CUID="125" tvg-name="Kung Fu Panda 4 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zS8BSQdbOesql0EWbs17kPvLoAT.jpg" group-title="Estrenos FHD",Kung Fu Panda 4 (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154578.mkv
+#EXTINF:0 CUID="126" tvg-name="Basma (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/21xIsw0Gk7cUV1xiZdlUn32FKpo.jpg" group-title="Estrenos FHD",Basma (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154577.mkv
+#EXTINF:0 CUID="127" tvg-name="Dune: Parte dos (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCHmhHeO7aOCMlzcNukGH6Q7EiD.jpg" group-title="Estrenos FHD",Dune: Parte dos (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154576.mkv
+#EXTINF:0 CUID="128" tvg-name="This Is Me…Now: Una historia de amor (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEMSjYpT0B7uxNwu1kEU8fTycs4.jpg" group-title="Estrenos FHD",This Is Me…Now: Una historia de amor (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154575.mkv
+#EXTINF:0 CUID="129" tvg-name="Parpadea dos veces (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtvvyUXTLVDWWYlHBaBlA4CeTLg.jpg" group-title="Estrenos FHD",Parpadea dos veces (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154574.mkv
+#EXTINF:0 CUID="130" tvg-name="Invasión, insurrección (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u7BbfoOND2qtKUslMbPhgHVuVFK.jpg" group-title="Estrenos FHD",Invasión, insurrección (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154573.mkv
+#EXTINF:0 CUID="131" tvg-name="Bandida: La número uno (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eVF4hqkBD1maZueHDEhhe02kNhj.jpg" group-title="Estrenos FHD",Bandida: La número uno (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154572.mkv
+#EXTINF:0 CUID="132" tvg-name="Longlegs (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e4686PPqj8AOdTUnGZpjApT1cDi.jpg" group-title="Estrenos FHD",Longlegs (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154571.mkv
+#EXTINF:0 CUID="133" tvg-name="Back to Black (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jvyh8wjpFNiv5Jg3axoHz7jpJYU.jpg" group-title="Estrenos FHD",Back to Black (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154570.mkv
+#EXTINF:0 CUID="134" tvg-name="El sindicato (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UHp2QEBPnTrcx0i6aYw6jWtDbI.jpg" group-title="Estrenos FHD",El sindicato (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154569.mkv
+#EXTINF:0 CUID="135" tvg-name="Pared con pared (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgWPRttsBx1q5SZ72HCVHRUyDqO.jpg" group-title="Estrenos FHD",Pared con pared (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154568.mkv
+#EXTINF:0 CUID="136" tvg-name="Jade (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rfHimsMYceQPDKXZBLPHsKK6xXe.jpg" group-title="Estrenos FHD",Jade (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154567.mkv
+#EXTINF:0 CUID="137" tvg-name="Scooped (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dkaO44nUG9F7krxXmJMS1oMq1h6.jpg" group-title="Estrenos FHD",Scooped (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154566.mkv
+#EXTINF:0 CUID="138" tvg-name="Al borde del abismo (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjQX2r8PLbGNFvBUa8kVHvLRkAG.jpg" group-title="Estrenos FHD",Al borde del abismo (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154565.mkv
+#EXTINF:0 CUID="139" tvg-name="Harold y el lápiz mágico (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6bx3BaI3Lhj86nRaGFNAcjisBbY.jpg" group-title="Estrenos FHD",Harold y el lápiz mágico (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154564.mkv
+#EXTINF:0 CUID="140" tvg-name="Capitán Avispa (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zmthz3CuFljmBQcfuaz4hBNwbQ0.jpg" group-title="Estrenos FHD",Capitán Avispa (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154563.mkv
+#EXTINF:0 CUID="141" tvg-name="Culpa cero (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3f93YAzZRc2vtOQyRqrakD0YS3O.jpg" group-title="Estrenos FHD",Culpa cero (2024)
+http://tvplanet.online/movie/Logitech25/Logitech25/1154562.mkv
