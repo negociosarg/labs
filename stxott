@@ -1,119 +1,4 @@
-DAZN
-
 #EXTM3U
-
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png" 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/569wj9v/DAZN1.png" group-title="DAZN - F1- La Liga",, DAZN  1  ES
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
-
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png" 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WW7tyZc/DAZN2.png" group-title="DAZN - F1- La Liga",, DAZN  2  ES
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
-
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png" 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/b1QN1NQ/DAZN3.png" group-title="DAZN - F1- La Liga",, DAZN  3  ES
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bad8efff688c0dbb3711e4a7114c22a3:6ba800673b20776c0c850130d45e1920
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
-
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png" 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/j5P724k/DAZN4.png" group-title="DAZN - F1- La Liga", DAZN  4  ES
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d27104d427e4f87e75b19395a9f8796b:723593c70e2d4c4862754398e80168f8
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd
-
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png" 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png" group-title="DAZN - F1- La Liga",, DAZN  F1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
-
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png" 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TY7vtjy/dazn-laliga.png" group-title="DAZN - F1- La Liga",, LALIGA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hmjw88r/La-Liga-Hypermotion.png" group-title="DAZN - F1- La Liga",, LA LIGA HYPERMOTION
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d08b265a6639e32da7c880d5491e3d2:0c92556ca14b95f367993710e7cfbc94
-https://dr.jellyfin.es/live/fra-nitro/live/clients/dash/enc/sjnpvfucqg/out/v1/3934680f71e04ed28dbf64fc52c3a6e7/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6BPTcTx/La-Liga-Hypermotion.png" group-title="DAZN - F1- La Liga",, LALIGA HYPERMOTION
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d08b265a6639e32da7c880d5491e3d2:0c92556ca14b95f367993710e7cfbc94
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TYFT189/La-Liga-Hypermotion2.png" group-title="DAZN - F1- La Liga",, LALIGA HYPERMOTION 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1m0wtv7/Hypermotion3.png" group-title="DAZN - F1- La Liga", LALIGA HYPERMOTION 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64b02bbd7d93410008fdae60/thumbnail.jpg" group-title="DAZN - F1- La Liga",DAZN WOMENS FOOTBALL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-http://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-503/stream.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nDMFJqQ/dazn-rise.png" group-title="DAZN - F1- La Liga",, DAZN RISE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-http://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-501/stream.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CWZ3nv4/dazn-fast-plus.png" group-title="DAZN - F1- La Liga",, DAZN FAST+
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-http://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0tB57qV/dazn-combat.png" group-title="DAZN - F1- La Liga",, DAZN COMBAT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-http://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-502/stream.mpd
-
-
-
-
-
-
-
-
-radios (900xx)
-
-#EXTINF:-1 group-title="Radios" ch-number="9000" ,LA 100
-https://musicsrc.cvattv.com.ar/L100
-
-#EXTINF:-1 group-title="Radios" ch-number="901" ,RIVADAVIA
-https://musicsrc.cvattv.com.ar/RRIV
-
-#EXTINF:-1 group-title="Radios" ch-number="902" ,MITRE
-https://musicsrc.cvattv.com.ar/RMIT
-
-#EXTINF:-1 group-title="Radios" ch-number="903" ,d sports radio
-http://playerservices.streamtheworld.com/api/livestream-redirect/DSPORTSRADIO
-
-#EXTINF:-1 group-title="Radios" ch-number="904" ,CONTINENTAL
-http://playerservices.streamtheworld.com/api/livestream-redirect/CONTINENTAL
-
-#EXTINF:-1 group-title="Radios" ch-number="905" ,LA RED
-http://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910
-
-#EXTINF:-1 group-title="Radios" ch-number="906" ,CNN RADIO
-https://musicsrc.cvattv.com.ar/RCNN
-
-#EXTINF:-1 group-title="Radios" ch-number="907" ,NACIONAL
-https://musicsrc.cvattv.com.ar/RNAC
-
-
-
-
 
 nacionales, aire y noticias
 
@@ -2080,6 +1965,41 @@ https://cdn.cvattv.com.ar/live/c3eds/Canal7_Bahia_Blanca/SA_Live_dash_enc/Canal7
 https://cdn.cvattv.com.ar/live/c3eds/Canal9_Bahia_Blanca/SA_Live_dash_enc/Canal9_Bahia_Blanca.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 
+San Juan
+
+#EXTINF:-1 group-logo="https://i.ibb.co/02kBv8P/Flag-of-Argentina.png" 
+#EXTINF:-1 tvg-id="Canal8SanJuan.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Canal_Ocho_San_Juan_%28Logo_2018%29.png/411px-Canal_Ocho_San_Juan_%28Logo_2018%29.png" group-title="San Juan", Canal 8 San Juan
+https://ythls.armelin.one/channel/UC5UKMEIoqvNDMSDz2_6Sn9g.m3u8
+
+#EXTINF:-1 group-logo="https://i.ibb.co/02kBv8P/Flag-of-Argentina.png" 
+#EXTINF:-1 tvg-id="Canal8SanJuan.ar" tvg-logo="https://www.diarioelzondasj.com.ar/_rv20241104-01/web/assets/imgs/logos/zonda_color.svg" group-title="San Juan", Canal Zonda San Juan
+https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
+
+#EXTINF:-1 group-logo="https://i.ibb.co/02kBv8P/Flag-of-Argentina.png" 
+#EXTINF:-1 tvg-id="Canal8SanJuan.ar" tvg-logo="https://www.telesoldiario.com/_rv20241101-01/web/assets/imgs/logos/telesol_w.png" group-title="San Juan", Telesol Diario
+https://cnnsanjuan.com:9999/live/telesol/chunks.m3u8?nimblesessionid=70109200
+
+#EXTINF:-1 group-logo="https://i.ibb.co/02kBv8P/Flag-of-Argentina.png" 
+#EXTINF:-1 tvg-id="Canal8SanJuan.ar" tvg-logo="http://premiersc.xyz:80/images/zFQ-vcbX0BYjnVh0ZKETvQTbqZJYWQCcDCM_d0kAAUyoKwf1le9Nw9ZebZKuI7l0LDybikxVsMeZTF1DwwwPxA.png" group-title="Argentina Regionales", Telesol Diario
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/654571.m3u8
+
+#EXTINF:-1 group-logo="https://i.ibb.co/02kBv8P/Flag-of-Argentina.png" 
+#EXTINF:-1 tvg-id="Canal4SanJuan.ar" tvg-logo="https://lh3.googleusercontent.com/-d0xwvrhf7JA/XjtInR7RIZI/AAAAAAAAvqw/68cv4FGDFB8BJwWGdo-31-vPYVqkw2OmgCK8BGAsYHg/s0/2020-02-05.png" group-title="San Juan", Canal 4 San Juan
+https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal13SanJuan.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Logo_13_3d.jpg/220px-Logo_13_3d.jpg" group-title="San Juan", Canal 13 San Juan
+https://ythls.armelin.one/channel/UCuJvDPQIaUhvdHiH275WjNA.m3u8
+
+#EXTINF:-1 group-logo="https://i.ibb.co/02kBv8P/Flag-of-Argentina.png" 
+#EXTINF:-1 tvg-logo="https://static.tvar.io/imagenes/canal4sanjuan.png" group-title="San Juan", Canal 4 San Juan
+https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.tvar.io/imagenes/canal30sanjuan.png" group-title="San Juan", Canal 30 San juan
+https://y.tvar.io/iptv-query.m3u8?streaming-ip=https://www.youtube.com/@canal30sanjuantv
+
+#EXTINF:-1 tvg-logo="https://static.tvar.io/imagenes/34sanjuan.png" group-title="San Juan", Canal 34 San juan
+http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 
 
 
@@ -2175,6 +2095,42 @@ https://cdn.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc/Canal_8_Tu
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7a53740aa52d8b50ccb218aab5e9d50e&key=e772fa4a4997b50a0ff04e2ef286a864
 #EXTINF:-1 ch-number="866" tvg-logo="https://i.ibb.co/vvknBFv/canal10-tucuman.png" group-title="Tucumán", CANAL 10 TUCUMÁN
 https://cdn.cvattv.com.ar/live/c7eds/Ch10_Tucuman/SA_Live_dash_enc/Ch10_Tucuman.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+
+
+
+
+
+
+
+
+
+radios (900xx)
+
+#EXTINF:-1 group-title="Radios" ch-number="9000" ,LA 100
+https://musicsrc.cvattv.com.ar/L100
+
+#EXTINF:-1 group-title="Radios" ch-number="901" ,RIVADAVIA
+https://musicsrc.cvattv.com.ar/RRIV
+
+#EXTINF:-1 group-title="Radios" ch-number="902" ,MITRE
+https://musicsrc.cvattv.com.ar/RMIT
+
+#EXTINF:-1 group-title="Radios" ch-number="903" ,d sports radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/DSPORTSRADIO
+
+#EXTINF:-1 group-title="Radios" ch-number="904" ,CONTINENTAL
+http://playerservices.streamtheworld.com/api/livestream-redirect/CONTINENTAL
+
+#EXTINF:-1 group-title="Radios" ch-number="905" ,LA RED
+http://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910
+
+#EXTINF:-1 group-title="Radios" ch-number="906" ,CNN RADIO
+https://musicsrc.cvattv.com.ar/RCNN
+
+#EXTINF:-1 group-title="Radios" ch-number="907" ,NACIONAL
+https://musicsrc.cvattv.com.ar/RNAC
+
 
 
 DAZN
@@ -2438,267 +2394,5 @@ https://dnslivetv.online/live/Gold2525/Gold2525/1070325.m3u8
 https://dnslivetv.online/live/Gold2525/Gold2525/1071706.m3u8
 
 #EXTINF:-1 group-logo="https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png" 
-#EXTINF:-1BRASIL="2482" tvg-name="Campeonato Urugay (OP2)" tvg-id="vtvplus.uy" tvg-logo="https://i.ibb.co/w02x3Gg/Logo-Campeonato-Uruguayo-Primera-Divisi-n.png" group-title="Uruguay - Deportes",Campeonato Urugay 8
-https://dnslivetv.online/live/Gold2525/Gold2525/1069635.m3u8
+#EXTINF:-1BRASIL="2482" tvg-name="Campeonato Urugay (OP2)" tvg-id="vtvplus.uy" tvg-logo="https://i.ibb.co/w02x3Gg/Logo-Campeonato-Uruguayo-Primera-Divisi-n.png" group-title="Uruguay - 
 
-
-
-#EXTM3U
-#EXTINF:0 CUID="1" tvg-name="No hables con extraños (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdGpSGWNnpHuouEJjXOkzbTyRJk.jpg" group-title="Estrenos FHD",No hables con extraños (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1171683.mp4
-#EXTINF:0 CUID="4" tvg-name="Fighter (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fy7cDkhCAER6a1i3SAiVvyLx5oO.jpg" group-title="Estrenos FHD",Fighter (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154699.m3u8
-#EXTINF:0 CUID="5" tvg-name="El precio de la novia (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QusyGRq3X8zmbrqGM1ynGuPFB5.jpg" group-title="Estrenos FHD",El precio de la novia (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154698.m3u8
-#EXTINF:0 CUID="6" tvg-name="Winnie The Pooh: A Christmas Movie (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQqrBmyyG6e2wscMnw8d0rM5mWw.jpg" group-title="Estrenos FHD",Winnie The Pooh: A Christmas Movie (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154697.m3u8
-#EXTINF:0 CUID="7" tvg-name="Sector 7 (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Xq6vOiNqURWhZXfRRlIUL8Qjdo.jpg" group-title="Estrenos FHD",Sector 7 (2011)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154696.m3u8
-#EXTINF:0 CUID="8" tvg-name="La noche que volvieron a casa" group-title="Estrenos FHD",La noche que volvieron a casa
-http://tvplanet.online/movie/Logitech25/Logitech25/1154695.m3u8
-#EXTINF:0 CUID="9" tvg-name="Harta (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Estrenos FHD",Harta (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154694.m3u8
-#EXTINF:0 CUID="10" tvg-name="Dos chicas a la fuga (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJVGU3aNDLdhAy7yYa2G1XtdYOx.jpg" group-title="Estrenos FHD",Dos chicas a la fuga (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154693.m3u8
-#EXTINF:0 CUID="11" tvg-name="Un deseo irlandés (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzdsIX1nQZAIcAzIvSuSzKyWI9u.jpg" group-title="Estrenos FHD",Un deseo irlandés (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154692.m3u8
-#EXTINF:0 CUID="12" tvg-name="Jackpot! (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jExWD6GuvfSgOMMG49CF9Z5C6ZN.jpg" group-title="Estrenos FHD",Jackpot! (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154691.m3u8
-#EXTINF:0 CUID="13" tvg-name="Romper el círculo (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hvpQDMkfAbkiz8kxJOybcNSAq1j.jpg" group-title="Estrenos FHD",Romper el círculo (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154690.m3u8
-#EXTINF:0 CUID="14" tvg-name="Tarot (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Adh7xmtgSIUGZBaMj9VLTmq2G8z.jpg" group-title="Estrenos FHD",Tarot (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154689.m3u8
-#EXTINF:0 CUID="25" tvg-name="Sayen: La cazadora (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/btmngK5iXaxyAEl0ScIWCQG2ITr.jpg" group-title="Estrenos FHD",Sayen: La cazadora (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154678.m3u8
-#EXTINF:0 CUID="26" tvg-name="Niebla sin fronteras (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4MgRn1YPf3EkjfxbkWCMgeXY21I.jpg" group-title="Estrenos FHD",Niebla sin fronteras (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154677.m3u8
-#EXTINF:0 CUID="27" tvg-name="Creating a Universe - The Making of Rebel Moon (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ztmAcRfeRzvZaVi8wGUsvGm7ub3.jpg" group-title="Estrenos FHD",Creating a Universe - The Making of Rebel Moon (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154676.m3u8
-#EXTINF:0 CUID="28" tvg-name="Los iniciados: El diario de las sombras (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6340ZG3qHfS7q8ES5rwf4AQ0U1w.jpg" group-title="Estrenos FHD",Los iniciados: El diario de las sombras (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154675.m3u8
-#EXTINF:0 CUID="29" tvg-name="Deadpool y Lobezno (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9TFSqghEHrlBMRR63yTx80Orxva.jpg" group-title="Estrenos FHD",Deadpool y Lobezno (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154674.m3u8
-#EXTINF:0 CUID="30" tvg-name="Yolo (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3JJSLb9nQutbMRY9lwpMVoKEBhm.jpg" group-title="Estrenos FHD",Yolo (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154673.m3u8
-#EXTINF:0 CUID="31" tvg-name="The Killer (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PCnxKZZIVRanWb710pNpYVkCSw.jpg" group-title="Estrenos FHD",The Killer (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154672.m3u8
-#EXTINF:0 CUID="32" tvg-name="Rebel Ridge (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lH3uawGaDUEV6oJNc5No4n8IQPA.jpg" group-title="Estrenos FHD",Rebel Ridge (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154671.m3u8
-#EXTINF:0 CUID="33" tvg-name="V de Víctor" group-title="Estrenos FHD",V de Víctor
-http://tvplanet.online/movie/Logitech25/Logitech25/1154670.m3u8
-#EXTINF:0 CUID="34" tvg-name="Biónicos (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h0jzQ569fSJZj3jJSd4mHm6dg8e.jpg" group-title="Estrenos FHD",Biónicos (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154669.m3u8
-#EXTINF:0 CUID="35" tvg-name="Dìdi (弟弟) (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3UCTNaZgxW6BbeHMMTe6uL07MpV.jpg" group-title="Estrenos FHD",Dìdi (弟弟) (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154668.m3u8
-#EXTINF:0 CUID="36" tvg-name="Maharaj (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lsuUGtUzrzEnlIUjVRSqFNUMZEz.jpg" group-title="Estrenos FHD",Maharaj (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154667.m3u8
-#EXTINF:0 CUID="37" tvg-name="Sin edulcorar (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lycWsFLOYhdZDOwFgjVv5Z39Ubr.jpg" group-title="Estrenos FHD",Sin edulcorar (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154666.m3u8
-#EXTINF:0 CUID="38" tvg-name="10 vidas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qGLnbmNnOAI1IgjtWdfVWnJkGku.jpg" group-title="Estrenos FHD",10 vidas (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154665.m3u8
-#EXTINF:0 CUID="39" tvg-name="Borderlands (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jtEZi4eZxDjxcDIeMbkQ8HmvRs1.jpg" group-title="Estrenos FHD",Borderlands (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154664.m3u8
-#EXTINF:0 CUID="40" tvg-name="El Cuervo (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uUUx4kN6uCvXnjGWOv79gUBxdYE.jpg" group-title="Estrenos FHD",El Cuervo (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154663.m3u8
-#EXTINF:0 CUID="41" tvg-name="Madame Web (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/blq050GHBt0Fzx1j9FvohaEuknJ.jpg" group-title="Estrenos FHD",Madame Web (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154662.m3u8
-#EXTINF:0 CUID="42" tvg-name="La sustancia (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w1PiIqM89r4AM7CiMEP4VLCEFUn.jpg" group-title="Estrenos FHD",La sustancia (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154661.m3u8
-#EXTINF:0 CUID="43" tvg-name="The Hunted: Cacería Humana (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iAbufkVeB2pE1XqsvXBiV4oWk3K.jpg" group-title="Estrenos FHD",The Hunted: Cacería Humana (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154660.m3u8
-#EXTINF:0 CUID="44" tvg-name="Contagio de miedo (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uE8sz63PFf3exD9WvmW26lONVqA.jpg" group-title="Estrenos FHD",Contagio de miedo (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154659.m3u8
-#EXTINF:0 CUID="45" tvg-name="La herencia del tío (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hblBwcjAAgPIVN4db8dWcGcSuOf.jpg" group-title="Estrenos FHD",La herencia del tío (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154658.m3u8
-#EXTINF:0 CUID="46" tvg-name="El gato galactico y el hechizo del tiempo (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3avzAHJk4wLsUtlVTLE7GLoGokV.jpg" group-title="Estrenos FHD",El gato galactico y el hechizo del tiempo (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154657.m3u8
-#EXTINF:0 CUID="47" tvg-name="कन्ट्रोल (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eCaaJkJqRA6unsVe5hvtgJq301H.jpg" group-title="Estrenos FHD",कन्ट्रोल (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154656.m3u8
-#EXTINF:0 CUID="48" tvg-name="Sabuesos dormidos" group-title="Estrenos FHD",Sabuesos dormidos
-http://tvplanet.online/movie/Logitech25/Logitech25/1154655.m3u8
-#EXTINF:0 CUID="49" tvg-name="Superdetective en Hollywood: Axel F. (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3f28IXwRBEZjR75Pm4jCiBw3HZc.jpg" group-title="Estrenos FHD",Superdetective en Hollywood: Axel F. (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154654.m3u8
-#EXTINF:0 CUID="50" tvg-name="Los instigadores (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDWHsjfdsvZZkMWo1u1Ep7Y77FQ.jpg" group-title="Estrenos FHD",Los instigadores (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154653.m3u8
-#EXTINF:0 CUID="51" tvg-name="Demasiado mayor para cuentos de hadas 2 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ndTzO9h8WoRTzwl4gu3isEJtONZ.jpg" group-title="Estrenos FHD",Demasiado mayor para cuentos de hadas 2 (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154652.m3u8
-#EXTINF:0 CUID="52" tvg-name="Agente cinturón negro (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/inEhHhxWx9uPb4jFtstDy3Gpu0o.jpg" group-title="Estrenos FHD",Agente cinturón negro (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154651.m3u8
-#EXTINF:0 CUID="53" tvg-name="Fiesta en la Madriguera (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s38XHjbFXd7Wv2zJKwWnq5Qyl5l.jpg" group-title="Estrenos FHD",Fiesta en la Madriguera (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154650.m3u8
-#EXTINF:0 CUID="54" tvg-name="Furiosa: De la saga Mad Max (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGHUlykWn9V2IIQ4ZaATIAq9VLB.jpg" group-title="Estrenos FHD",Furiosa: De la saga Mad Max (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154649.m3u8
-#EXTINF:0 CUID="55" tvg-name="Monkey Man (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJhQfICVsZGeYGGRudgcqiD1zQY.jpg" group-title="Estrenos FHD",Monkey Man (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154648.m3u8
-#EXTINF:0 CUID="56" tvg-name="Lo que hay dentro (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d58FW4YuWNj6V64flFxj12rOVvr.jpg" group-title="Estrenos FHD",Lo que hay dentro (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154647.m3u8
-#EXTINF:0 CUID="57" tvg-name="Civil War (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hxzHKNtkRbH5EVIVJmKc50aEfIV.jpg" group-title="Estrenos FHD",Civil War (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154646.m3u8
-#EXTINF:0 CUID="58" tvg-name="Crew (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXLxwq481XBFMY3pEDoNePKgcUd.jpg" group-title="Estrenos FHD",Crew (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154645.m3u8
-#EXTINF:0 CUID="59" tvg-name="Hellboy: The Crooked Man (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ExFaxmvlGxBmUBVKv9ey94fNyy.jpg" group-title="Estrenos FHD",Hellboy: The Crooked Man (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154644.m3u8
-#EXTINF:0 CUID="60" tvg-name="Un desastre es para siempre (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ihQ1xJE0niC6y72VMmcxbZE5EGe.jpg" group-title="Estrenos FHD",Un desastre es para siempre (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154643.m3u8
-#EXTINF:0 CUID="61" tvg-name="Misiones cruzadas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eM0dIjnUmv4UFdy6vxTantBbXTW.jpg" group-title="Estrenos FHD",Misiones cruzadas (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154642.m3u8
-#EXTINF:0 CUID="62" tvg-name="Al rescate de Fondo de Bikini: La película de Arenita Mejillas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8LdEq7DyeeHRWjhy8USd1CmesU.jpg" group-title="Estrenos FHD",Al rescate de Fondo de Bikini: La película de Arenita Mejillas (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154641.m3u8
-#EXTINF:0 CUID="63" tvg-name="Vidas perfectas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6W3LWbOZTbmv0SKe4OizWR0rEtW.jpg" group-title="Estrenos FHD",Vidas perfectas (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154640.m3u8
-#EXTINF:0 CUID="64" tvg-name="Amar Singh Chamkila (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lipzcJAVfRJsvXteDgvrjqjEL8D.jpg" group-title="Estrenos FHD",Amar Singh Chamkila (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154639.m3u8
-#EXTINF:0 CUID="65" tvg-name="El diario (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/plqa8Eyd4r3aWH5xk7vMPC3IUvr.jpg" group-title="Estrenos FHD",El diario (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154638.m3u8
-#EXTINF:0 CUID="66" tvg-name="Road House (De profesión: duro) (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmnVOIaTsGcRpZ9rLv2msbtqi3C.jpg" group-title="Estrenos FHD",Road House (De profesión: duro) (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154637.m3u8
-#EXTINF:0 CUID="67" tvg-name="Ángeles inesperados (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x1jkzJGnerhMrweZsoCVgefPQ0L.jpg" group-title="Estrenos FHD",Ángeles inesperados (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154636.m3u8
-#EXTINF:0 CUID="68" tvg-name="No entres (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pi2pkIUeVk0z3iy67YKTxDjeAGr.jpg" group-title="Estrenos FHD",No entres (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154635.m3u8
-#EXTINF:0 CUID="69" tvg-name="Divorciados (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r0ZdpHIvojr6k9KMizU2e47bxDM.jpg" group-title="Estrenos FHD",Divorciados (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154634.m3u8
-#EXTINF:0 CUID="70" tvg-name="Música (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kUX5ourGUJDG0yvEeS3uooZS0dS.jpg" group-title="Estrenos FHD",Música (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154633.m3u8
-#EXTINF:0 CUID="71" tvg-name="Wonderland (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/69gNdlgkGvFZvamyvet5xcc2XdN.jpg" group-title="Estrenos FHD",Wonderland (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154632.m3u8
-#EXTINF:0 CUID="72" tvg-name="Problemista (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uNMGqWEBWvdoWzbffTvlsdyCti.jpg" group-title="Estrenos FHD",Problemista (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154631.m3u8
-#EXTINF:0 CUID="73" tvg-name="One Rogue Reporter (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePQt6sXTlv0awy0CnFDZ1wfBJqd.jpg" group-title="Estrenos FHD",One Rogue Reporter (2014)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154630.m3u8
-#EXTINF:0 CUID="74" tvg-name="No Le Digas A Mamá Que La Niñera Ha Muerto (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aMLrX8qaagRUESyPSJCARNlT8Xd.jpg" group-title="Estrenos FHD",No Le Digas A Mamá Que La Niñera Ha Muerto (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154629.m3u8
-#EXTINF:0 CUID="75" tvg-name="El hoyo 2 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cnfdskwEmS1HZhenEVYt9P0IYa.jpg" group-title="Estrenos FHD",El hoyo 2 (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154628.m3u8
-#EXTINF:0 CUID="76" tvg-name="Los colores del mal: Rojo (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1OQAW3dtFEnQkrwrVsioTLatMuO.jpg" group-title="Estrenos FHD",Los colores del mal: Rojo (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154627.m3u8
-#EXTINF:0 CUID="77" tvg-name="City Hunter (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjQzJ9xFdaN9KAwu7HUImIgbc2Y.jpg" group-title="Estrenos FHD",City Hunter (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154626.m3u8
-#EXTINF:0 CUID="78" tvg-name="Race for Glory: Audi vs Lancia (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwu27eJfUbuHa8zubVXMRWptiZ8.jpg" group-title="Estrenos FHD",Race for Glory: Audi vs Lancia (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154625.m3u8
-#EXTINF:0 CUID="79" tvg-name="A Family Affair (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwQU9Ud2djI3Wst0rA5fBjDaL4B.jpg" group-title="Estrenos FHD",A Family Affair (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154624.m3u8
-#EXTINF:0 CUID="80" tvg-name="Firma Aquí (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qBT4nnXe4ncyHCP8LhKvTqLFCp3.jpg" group-title="Estrenos FHD",Firma Aquí (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154623.m3u8
-#EXTINF:0 CUID="81" tvg-name="No hay tiempo para espiarme" group-title="Estrenos FHD",No hay tiempo para espiarme
-http://tvplanet.online/movie/Logitech25/Logitech25/1154622.mp4
-#EXTINF:0 CUID="82" tvg-name="Las hermanas fantásticas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEUBskXY35Vs3Nv50N8uKyPtIEq.jpg" group-title="Estrenos FHD",Las hermanas fantásticas (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154621.m3u8
-#EXTINF:0 CUID="83" tvg-name="Jack en la caja maldita 3 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHfddXNm1pOZDn4D8ttsZi1jcgT.jpg" group-title="Estrenos FHD",Jack en la caja maldita 3 (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154620.m3u8
-#EXTINF:0 CUID="84" tvg-name="Solo una noche de juegos (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d6mQAufyjfqGhRcvqTKAmUV6QRo.jpg" group-title="Estrenos FHD",Solo una noche de juegos (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154619.m3u8
-#EXTINF:0 CUID="85" tvg-name="Bocah nakal yang sedang jatuh cinta (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ruoWmDo1p2dKmhyQma9HV9WlafT.jpg" group-title="Estrenos FHD",Bocah nakal yang sedang jatuh cinta (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154618.m3u8
-#EXTINF:0 CUID="86" tvg-name="La Trampa (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/utOClhVjHeLkcPZmRD0H7WmY75p.jpg" group-title="Estrenos FHD",La Trampa (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154617.m3u8
-#EXTINF:0 CUID="87" tvg-name="Kali: Ángel Vengador (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6G2asNhF8v9htu53JkmtHge23f.jpg" group-title="Estrenos FHD",Kali: Ángel Vengador (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154616.m3u8
-#EXTINF:0 CUID="88" tvg-name="Fabricante de lágrimas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i91SgC0uQa3fb68foFS3zgaMUuD.jpg" group-title="Estrenos FHD",Fabricante de lágrimas (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154615.m3u8
-#EXTINF:0 CUID="89" tvg-name="El Duelo (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bMK3MWGMjOGshlBjZAWv6Ivqmdm.jpg" group-title="Estrenos FHD",El Duelo (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154614.m3u8
-#EXTINF:0 CUID="90" tvg-name="Half Baked (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Estrenos FHD",Half Baked (2007)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154613.m3u8
-#EXTINF:0 CUID="91" tvg-name="Miller's Girl (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bqxgqG4C4kOOUiJQwQc6xZOu3A3.jpg" group-title="Estrenos FHD",Miller's Girl (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154612.m3u8
-#EXTINF:0 CUID="92" tvg-name="Shirley (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ooo4D4kyZyFee5aiNfwZ43oKOkc.jpg" group-title="Estrenos FHD",Shirley (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154611.m3u8
-#EXTINF:0 CUID="93" tvg-name="Apartment 7A (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wtaO2t1CDWkCJPwTgt2XErTVTeW.jpg" group-title="Estrenos FHD",Apartment 7A (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154610.m3u8
-#EXTINF:0 CUID="94" tvg-name="Bikeriders. La ley del asfalto (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/huPpcGEVt8GFJI9Xj4nf6cPMFqM.jpg" group-title="Estrenos FHD",Bikeriders. La ley del asfalto (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154609.m3u8
-#EXTINF:0 CUID="95" tvg-name="Descansar en paz (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xdbXo63wcUZ3TLwrjwg35m1TEm.jpg" group-title="Estrenos FHD",Descansar en paz (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154608.m3u8
-#EXTINF:0 CUID="96" tvg-name="Alerta Amber (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7rvfugoxG5Omr0QQJk9BdSu1g3Y.jpg" group-title="Estrenos FHD",Alerta Amber (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154607.m3u8
-#EXTINF:0 CUID="97" tvg-name="Cómo conquistar a Billy Walsh (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vm1oNqOZycJvW1GindPX45nIpuG.jpg" group-title="Estrenos FHD",Cómo conquistar a Billy Walsh (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154606.m3u8
-#EXTINF:0 CUID="98" tvg-name="Los descendientes: Corazón rebelde (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHqSU6Rw58hV84wQ5SR3lUmuqVL.jpg" group-title="Estrenos FHD",Los descendientes: Corazón rebelde (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154605.m3u8
-#EXTINF:0 CUID="99" tvg-name="Las chicas de Niza (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AkxCTNZZmcirQ1kYP2dKFx04nV5.jpg" group-title="Estrenos FHD",Las chicas de Niza (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154604.m3u8
-#EXTINF:0 CUID="100" tvg-name="Príncipes salvajes (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fqUakfM8wH4IWULIkhRyZqNZveD.jpg" group-title="Estrenos FHD",Príncipes salvajes (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154603.m3u8
-#EXTINF:0 CUID="101" tvg-name="Los feos (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/abNsPyjwSYwOVsx2m0mWrq22xGk.jpg" group-title="Estrenos FHD",Los feos (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154602.m3u8
-#EXTINF:0 CUID="102" tvg-name="Disco, Ibiza, Locomía (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/beLbZExOZ64LzbqJbbbjhlqbezi.jpg" group-title="Estrenos FHD",Disco, Ibiza, Locomía (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154601.m3u8
-#EXTINF:0 CUID="103" tvg-name="Los vigilantes (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8UgIqUyDhxRsMEGcZ3V9WortIp1.jpg" group-title="Estrenos FHD",Los vigilantes (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154600.m3u8
-#EXTINF:0 CUID="104" tvg-name="Infiltrada en la NASA (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYx9AVIrZaVZ2PezSZvOOjtB75a.jpg" group-title="Estrenos FHD",Infiltrada en la NASA (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154599.m3u8
-#EXTINF:0 CUID="105" tvg-name="Misión hostil (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cawaXqf12YFiThhngc1wbt5MfBs.jpg" group-title="Estrenos FHD",Misión hostil (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154598.m3u8
-#EXTINF:0 CUID="106" tvg-name="Goyo (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fCjC1RRbEJUpDjM55RNUMXQen0b.jpg" group-title="Estrenos FHD",Goyo (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154597.m3u8
-#EXTINF:0 CUID="107" tvg-name="Rivales (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aiqfn4XtXUPr7QNsDsAKNQ1aOKV.jpg" group-title="Estrenos FHD",Rivales (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154596.m3u8
-#EXTINF:0 CUID="108" tvg-name="La liberación (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zFnDISBzIDg4JlKaCCdMELpkWKz.jpg" group-title="Estrenos FHD",La liberación (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154595.m3u8
-#EXTINF:0 CUID="109" tvg-name="Exhuma (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2Fkw6AMX7f0USFk2IuaRNIIp0p.jpg" group-title="Estrenos FHD",Exhuma (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154594.m3u8
-#EXTINF:0 CUID="110" tvg-name="Sangre en los labios (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yEQKiZOVzVZquN7R6BRyY4n6JET.jpg" group-title="Estrenos FHD",Sangre en los labios (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154593.m3u8
-#EXTINF:0 CUID="111" tvg-name="Pinceladas de amor (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ciuW95pdPaiReudofHwyv6qYi12.jpg" group-title="Estrenos FHD",Pinceladas de amor (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154592.m3u8
-#EXTINF:0 CUID="112" tvg-name="Gru 4. Mi villano favorito (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b6JX0fBne5yPFNBtdp4Imi3CpiE.jpg" group-title="Estrenos FHD",Gru 4. Mi villano favorito (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154591.m3u8
-#EXTINF:0 CUID="113" tvg-name="Sight (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vICC15G7L5WIqW3lVFxeae4kvKp.jpg" group-title="Estrenos FHD",Sight (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154590.m3u8
-#EXTINF:0 CUID="114" tvg-name="El libro de Clarence (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iGGxia9ocfbwJywmeqBXkZb3n2m.jpg" group-title="Estrenos FHD",El libro de Clarence (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154589.m3u8
-#EXTINF:0 CUID="115" tvg-name="Evidências do Amor (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gXg0cuvdri0u9yZPKOHmRPgGpR0.jpg" group-title="Estrenos FHD",Evidências do Amor (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154588.m3u8
-#EXTINF:0 CUID="116" tvg-name="Una mujer italiana (Cabrini) (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQziV6stVMBsi6snbyrlRa0WWue.jpg" group-title="Estrenos FHD",Una mujer italiana (Cabrini) (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154587.m3u8
-#EXTINF:0 CUID="117" tvg-name="Los horrores de Caddo Lake (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQSLDy6H3Wyhf7Z7TNM87y4giez.jpg" group-title="Estrenos FHD",Los horrores de Caddo Lake (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154586.m3u8
-#EXTINF:0 CUID="118" tvg-name="Los infalibles (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nDrUZE24mSB54cuHEjslMLvfFRQ.jpg" group-title="Estrenos FHD",Los infalibles (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154585.m3u8
-#EXTINF:0 CUID="119" tvg-name="Baki Hanma vs. Kengan Ashura (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/npqKtCydaOCrPBKVsSNoGfLVD14.jpg" group-title="Estrenos FHD",Baki Hanma vs. Kengan Ashura (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154584.m3u8
-#EXTINF:0 CUID="120" tvg-name="Detonantes (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mOXgCNK2PKf7xlpsZzybMscFsqm.jpg" group-title="Estrenos FHD",Detonantes (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154583.m3u8
-#EXTINF:0 CUID="121" tvg-name="La idea de tenerte (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/heci4aAOBfN5I2BQ1QpVFE2o5qi.jpg" group-title="Estrenos FHD",La idea de tenerte (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154582.m3u8
-#EXTINF:0 CUID="122" tvg-name="El reino del planeta de los simios (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kkFn3KM47Qq4Wjhd8GuFfe3LX27.jpg" group-title="Estrenos FHD",El reino del planeta de los simios (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154581.m3u8
-#EXTINF:0 CUID="123" tvg-name="Tòkunbọ̀ (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yV7YWPKH2OWboyAlkZ46gp75Y4j.jpg" group-title="Estrenos FHD",Tòkunbọ̀ (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154580.m3u8
-#EXTINF:0 CUID="124" tvg-name="Rez Ball (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MKpjuiCTk8nYnsUf5QegiPKEDh.jpg" group-title="Estrenos FHD",Rez Ball (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154579.m3u8
-#EXTINF:0 CUID="125" tvg-name="Kung Fu Panda 4 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zS8BSQdbOesql0EWbs17kPvLoAT.jpg" group-title="Estrenos FHD",Kung Fu Panda 4 (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154578.m3u8
-#EXTINF:0 CUID="126" tvg-name="Basma (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/21xIsw0Gk7cUV1xiZdlUn32FKpo.jpg" group-title="Estrenos FHD",Basma (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154577.m3u8
-#EXTINF:0 CUID="127" tvg-name="Dune: Parte dos (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCHmhHeO7aOCMlzcNukGH6Q7EiD.jpg" group-title="Estrenos FHD",Dune: Parte dos (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154576.m3u8
-#EXTINF:0 CUID="128" tvg-name="This Is Me…Now: Una historia de amor (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEMSjYpT0B7uxNwu1kEU8fTycs4.jpg" group-title="Estrenos FHD",This Is Me…Now: Una historia de amor (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154575.m3u8
-#EXTINF:0 CUID="129" tvg-name="Parpadea dos veces (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtvvyUXTLVDWWYlHBaBlA4CeTLg.jpg" group-title="Estrenos FHD",Parpadea dos veces (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154574.m3u8
-#EXTINF:0 CUID="130" tvg-name="Invasión, insurrección (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u7BbfoOND2qtKUslMbPhgHVuVFK.jpg" group-title="Estrenos FHD",Invasión, insurrección (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154573.m3u8
-#EXTINF:0 CUID="131" tvg-name="Bandida: La número uno (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eVF4hqkBD1maZueHDEhhe02kNhj.jpg" group-title="Estrenos FHD",Bandida: La número uno (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154572.m3u8
-#EXTINF:0 CUID="132" tvg-name="Longlegs (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e4686PPqj8AOdTUnGZpjApT1cDi.jpg" group-title="Estrenos FHD",Longlegs (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154571.m3u8
-#EXTINF:0 CUID="133" tvg-name="Back to Black (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jvyh8wjpFNiv5Jg3axoHz7jpJYU.jpg" group-title="Estrenos FHD",Back to Black (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154570.m3u8
-#EXTINF:0 CUID="134" tvg-name="El sindicato (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UHp2QEBPnTrcx0i6aYw6jWtDbI.jpg" group-title="Estrenos FHD",El sindicato (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154569.m3u8
-#EXTINF:0 CUID="135" tvg-name="Pared con pared (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgWPRttsBx1q5SZ72HCVHRUyDqO.jpg" group-title="Estrenos FHD",Pared con pared (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154568.m3u8
-#EXTINF:0 CUID="136" tvg-name="Jade (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rfHimsMYceQPDKXZBLPHsKK6xXe.jpg" group-title="Estrenos FHD",Jade (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154567.m3u8
-#EXTINF:0 CUID="137" tvg-name="Scooped (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dkaO44nUG9F7krxXmJMS1oMq1h6.jpg" group-title="Estrenos FHD",Scooped (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154566.m3u8
-#EXTINF:0 CUID="138" tvg-name="Al borde del abismo (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjQX2r8PLbGNFvBUa8kVHvLRkAG.jpg" group-title="Estrenos FHD",Al borde del abismo (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154565.m3u8
-#EXTINF:0 CUID="139" tvg-name="Harold y el lápiz mágico (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6bx3BaI3Lhj86nRaGFNAcjisBbY.jpg" group-title="Estrenos FHD",Harold y el lápiz mágico (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154564.m3u8
-#EXTINF:0 CUID="140" tvg-name="Capitán Avispa (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zmthz3CuFljmBQcfuaz4hBNwbQ0.jpg" group-title="Estrenos FHD",Capitán Avispa (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154563.m3u8
-#EXTINF:0 CUID="141" tvg-name="Culpa cero (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3f93YAzZRc2vtOQyRqrakD0YS3O.jpg" group-title="Estrenos FHD",Culpa cero (2024)
-http://tvplanet.online/movie/Logitech25/Logitech25/1154562.m3u8
