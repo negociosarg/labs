@@ -1954,9 +1954,6 @@ http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/654571.m3u8
 #EXTINF:-1 tvg-id="Canal4SanJuan.ar" tvg-logo="https://lh3.googleusercontent.com/-d0xwvrhf7JA/XjtInR7RIZI/AAAAAAAAvqw/68cv4FGDFB8BJwWGdo-31-vPYVqkw2OmgCK8BGAsYHg/s0/2020-02-05.png" group-title="San Juan", Canal 4 San Juan
 https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal13SanJuan.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Logo_13_3d.jpg/220px-Logo_13_3d.jpg" group-title="San Juan", Canal 13 San Juan
-https://ythls.armelin.one/channel/UCuJvDPQIaUhvdHiH275WjNA.m3u8
-
 #EXTINF:-1 group-logo="https://i.ibb.co/02kBv8P/Flag-of-Argentina.png" 
 #EXTINF:-1 tvg-logo="https://static.tvar.io/imagenes/canal4sanjuan.png" group-title="San Juan", Canal 4 San Juan
 https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
