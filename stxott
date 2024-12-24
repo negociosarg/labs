@@ -1944,10 +1944,10 @@ https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
 
 #EXTINF:-1 group-logo="https://i.ibb.co/02kBv8P/Flag-of-Argentina.png" 
 #EXTINF:-1 tvg-id="Canal8SanJuan.ar" tvg-logo="https://www.telesoldiario.com/_rv20241101-01/web/assets/imgs/logos/telesol_w.png" group-title="San Juan", Telesol Diario
-https://cnnsanjuan.com:9999/live/telesol/chunks.m3u8?nimblesessionid=70109200
+https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 
 #EXTINF:-1 group-logo="https://i.ibb.co/02kBv8P/Flag-of-Argentina.png" 
-#EXTINF:-1 tvg-id="Canal8SanJuan.ar" tvg-logo="http://premiersc.xyz:80/images/zFQ-vcbX0BYjnVh0ZKETvQTbqZJYWQCcDCM_d0kAAUyoKwf1le9Nw9ZebZKuI7l0LDybikxVsMeZTF1DwwwPxA.png" group-title="Argentina Regionales", Telesol Diario
+#EXTINF:-1 tvg-id="Canal8SanJuan.ar" tvg-logo="http://premiersc.xyz:80/images/zFQ-vcbX0BYjnVh0ZKETvQTbqZJYWQCcDCM_d0kAAUyoKwf1le9Nw9ZebZKuI7l0LDybikxVsMeZTF1DwwwPxA.png" group-title="San Juan", Telesol Diario
 http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/654571.m3u8
 
 #EXTINF:-1 group-logo="https://i.ibb.co/02kBv8P/Flag-of-Argentina.png" 
