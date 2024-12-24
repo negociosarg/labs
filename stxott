@@ -2008,40 +2008,6 @@ https://cdn.cvattv.com.ar/live/c7eds/Ch10_Tucuman/SA_Live_dash_enc/Ch10_Tucuman.
 
 
 
-
-
-
-
-
-
-radios (900xx)
-
-#EXTINF:-1 group-title="Radios" ch-number="9000" ,LA 100
-https://musicsrc.cvattv.com.ar/L100
-
-#EXTINF:-1 group-title="Radios" ch-number="901" ,RIVADAVIA
-https://musicsrc.cvattv.com.ar/RRIV
-
-#EXTINF:-1 group-title="Radios" ch-number="902" ,MITRE
-https://musicsrc.cvattv.com.ar/RMIT
-
-#EXTINF:-1 group-title="Radios" ch-number="903" ,d sports radio
-http://playerservices.streamtheworld.com/api/livestream-redirect/DSPORTSRADIO
-
-#EXTINF:-1 group-title="Radios" ch-number="904" ,CONTINENTAL
-http://playerservices.streamtheworld.com/api/livestream-redirect/CONTINENTAL
-
-#EXTINF:-1 group-title="Radios" ch-number="905" ,LA RED
-http://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910
-
-#EXTINF:-1 group-title="Radios" ch-number="906" ,CNN RADIO
-https://musicsrc.cvattv.com.ar/RCNN
-
-#EXTINF:-1 group-title="Radios" ch-number="907" ,NACIONAL
-https://musicsrc.cvattv.com.ar/RNAC
-
-
-
 DAZN
 
 #EXTM3U
@@ -2121,6 +2087,7 @@ http://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 http://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-502/stream.mpd
+
 
 PACK HBO + UNIVERSAL
 
