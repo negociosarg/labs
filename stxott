@@ -1878,21 +1878,6 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/KanalD/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1716322485.jpg?w=1119&h=1019" group-title="Novelas",💞  PASIONES
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/pasiones.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/RCN_Novelas_logo_2019.png" group-title="Novelas" ,💞 RCN Novelas
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT--http-reconnect=true
-http://181.78.27.128:8000/play/a040/index.m3u8
-
-#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://static.wikia.nocookie.net/rarter/images/2/23/TNT_Novelas_%282007%29.png/revision/latest/scale-to-width-down/246?cb=20231127013129" group-title="Novelas" ,💞 TNT Novelas
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT--http-reconnect=true
-http://181.78.27.128:8000/play/a044/index.m3u8
-
-#EXTINF:-1 group-title="MAGIS TV" tvg-logo="https://static.flow.com.ar/images/9737/CH_LOGO/60/40/0/0/3871340007170.png" group-title="Novelas",💞 Telenovelas
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT--http-reconnect=true
-http://179.189.222.226:8000/play/ch45
-
 #EXTINF:-1   tvg-logo="https://telepack.net/wp-content/uploads/2021/05/novela-channel-telepack.jpeg" group-title="Novelas",💞 NOVELAS DRAMA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84dbf4a838b60007ffbba1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=942&terminate=false&userId=
 
