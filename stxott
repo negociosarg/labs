@@ -2315,6 +2315,33 @@ https://cdn.sensa.com.ar/live/eds/UniPre/live_dash_cld/UniPre.mpd
 https://cdn.sensa.com.ar/live/eds/UniRea/live_dash_cld/UniRea.mpd
 
 
+GRAN HERMANO
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/Pmc16RC/Gran-Hermano-CL-jpg.webp" 
+#EXTINF:-1 tvg-id="Granhermano" tvg-logo="https://i.ibb.co/tq4M9Pk/granhermano.png", group-title="Argentina Gran Hermano", Gran Hermano 1
+https://dnslivetv.online/live/Gold2525/Gold2525/1187198.m3u8
+
+#EXTINF:-1 group-logo="https://i.ibb.co/Pmc16RC/Gran-Hermano-CL-jpg.webp" 
+#EXTINF:-1 tvg-id="Granhermano" tvg-logo="https://i.ibb.co/tq4M9Pk/granhermano.png", group-title="Argentina Gran Hermano", Gran Hermano 2
+https://dnslivetv.online/live/Gold2525/Gold2525/1187198.m3u8
+
+#EXTINF:-1 group-logo="https://i.ibb.co/Pmc16RC/Gran-Hermano-CL-jpg.webp" 
+#EXTINF:-1 tvg-id="Granhermano" tvg-logo="https://i.ibb.co/tq4M9Pk/granhermano.png", group-title="Argentina Gran Hermano", Gran Hermano 3
+https://dnslivetv.online/live/Gold2525/Gold2525/1187200.m3u8
+
+#EXTINF:-1 group-logo="https://i.ibb.co/Pmc16RC/Gran-Hermano-CL-jpg.webp" 
+#EXTINF:-1 tvg-id="Granhermano" tvg-logo="https://i.ibb.co/tq4M9Pk/granhermano.png", group-title="Argentina Gran Hermano", Gran Hermano 24hs
+https://dnslivetv.online/live/Gold2525/Gold2525/1187202.m3u8
+
+#EXTINF:-1 group-logo="https://i.ibb.co/Pmc16RC/Gran-Hermano-CL-jpg.webp" 
+#EXTINF:-1 tvg-id="Granhermano" tvg-logo="https://i.ibb.co/tq4M9Pk/granhermano.png", group-title="Argentina Gran Hermano", Gran Hermano 24hs Opc2
+https://dnslivetv.online/live/Gold2525/Gold2525/1187201.m3u8
+
+
+
+
+
 DEPORTES URUGUAY
 
 
