@@ -1767,6 +1767,21 @@ https://cdn.cvattv.com.ar/live/c4eds/Canal12URU/SA_Live_dash_enc/Canal12URU.mpd?
 
 paraguay
 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bQxPJ4D/ead-QN2-W9-400x400.jpg" group-title="Paraguay Deportes", ⚽Tigo Sports
+http://tvplanet.online/live/Logitech25/Logitech25/1072691.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bQxPJ4D/ead-QN2-W9-400x400.jpg" group-title="Paraguay Deportes", ⚽Tigo Sports 2
+http://tvplanet.online/live/Logitech25/Logitech25/1102737.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bQxPJ4D/ead-QN2-W9-400x400.jpg" group-title="Paraguay Deportes", ⚽Tigo Sports 3
+http://tvplanet.online/live/Logitech25/Logitech25/1102738.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bQxPJ4D/ead-QN2-W9-400x400.jpg" group-title="Paraguay Deportes", ⚽Tigo Sports 4
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/77150.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bQxPJ4D/ead-QN2-W9-400x400.jpg" group-title="Paraguay Deportes", ⚽Tigo Sports 5
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/77150.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=746091c502edcf1e9d003535ce01f3e4:29081b5f92d1a37c88fbbd0ece55c839
 #EXTINF:-1 group-title="Paraguay" ch-number="716" tvg-id="5dias.py" tvg-logo="https://i.ibb.co/k48NKrR/5diaspy.png", 5 Días Paraguay
